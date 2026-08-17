@@ -1,25 +1,322 @@
 {
   "metadata": {
-    "version": "1.0",
+    "version": "1.1",
     "lastUpdated": "2026-08-17",
     "language": "de",
-    "notes": "Erste Beispieldatensätze für die Werke in events.json."
+    "notes": "Komponist:innen der in events.json erfassten Aufführungen."
   },
   "composers": [
     {
       "id": "ludwig-van-beethoven",
       "name": "Ludwig van Beethoven",
-      "life": { "from": 1770, "to": 1827 }
+      "life": {
+        "from": 1770,
+        "to": 1827
+      }
     },
     {
       "id": "gustav-mahler",
       "name": "Gustav Mahler",
-      "life": { "from": 1860, "to": 1911 }
+      "life": {
+        "from": 1860,
+        "to": 1911
+      }
     },
     {
       "id": "anton-bruckner",
       "name": "Anton Bruckner",
-      "life": { "from": 1824, "to": 1896 }
+      "life": {
+        "from": 1824,
+        "to": 1896
+      }
+    },
+    {
+      "id": "richard-wagner",
+      "name": "Richard Wagner",
+      "life": {
+        "from": 1813,
+        "to": 1883
+      }
+    },
+    {
+      "id": "frederic-chopin",
+      "name": "Frédéric Chopin",
+      "life": {
+        "from": 1810,
+        "to": 1849
+      }
+    },
+    {
+      "id": "augusta-holmes",
+      "name": "Augusta Holmès",
+      "life": {
+        "from": 1847,
+        "to": 1903
+      }
+    },
+    {
+      "id": "alexander-skrjabin",
+      "name": "Alexander Skrjabin",
+      "life": {
+        "from": 1872,
+        "to": 1915
+      }
+    },
+    {
+      "id": "thierry-escaich",
+      "name": "Thierry Escaich",
+      "life": {
+        "from": 1965,
+        "to": null
+      }
+    },
+    {
+      "id": "camille-saint-saens",
+      "name": "Camille Saint-Saëns",
+      "life": {
+        "from": 1835,
+        "to": 1921
+      }
+    },
+    {
+      "id": "sergej-prokofjew",
+      "name": "Sergej Prokofjew",
+      "life": {
+        "from": 1891,
+        "to": 1953
+      }
+    },
+    {
+      "id": "georg-friedrich-haendel",
+      "name": "Georg Friedrich Händel",
+      "life": {
+        "from": 1685,
+        "to": 1759
+      }
+    },
+    {
+      "id": "richard-strauss",
+      "name": "Richard Strauss",
+      "life": {
+        "from": 1864,
+        "to": 1949
+      }
+    },
+    {
+      "id": "anton-webern",
+      "name": "Anton Webern",
+      "life": {
+        "from": 1883,
+        "to": 1945
+      }
+    },
+    {
+      "id": "erich-wolfgang-korngold",
+      "name": "Erich Wolfgang Korngold",
+      "life": {
+        "from": 1897,
+        "to": 1957
+      }
+    },
+    {
+      "id": "reinhold-gliere",
+      "name": "Reinhold Glière",
+      "life": {
+        "from": 1875,
+        "to": 1956
+      }
+    },
+    {
+      "id": "peter-iljitsch-tschaikowsky",
+      "name": "Peter Iljitsch Tschaikowsky",
+      "life": {
+        "from": 1840,
+        "to": 1893
+      }
+    },
+    {
+      "id": "zoltan-kodaly",
+      "name": "Zoltán Kodály",
+      "life": {
+        "from": 1882,
+        "to": 1967
+      }
+    },
+    {
+      "id": "antonin-dvorak",
+      "name": "Antonín Dvořák",
+      "life": {
+        "from": 1841,
+        "to": 1904
+      }
+    },
+    {
+      "id": "sergej-rachmaninow",
+      "name": "Sergej Rachmaninow",
+      "life": {
+        "from": 1873,
+        "to": 1943
+      }
+    },
+    {
+      "id": "edward-elgar",
+      "name": "Edward Elgar",
+      "life": {
+        "from": 1857,
+        "to": 1934
+      }
+    },
+    {
+      "id": "joseph-haydn",
+      "name": "Joseph Haydn",
+      "life": {
+        "from": 1732,
+        "to": 1809
+      }
+    },
+    {
+      "id": "bela-bartok",
+      "name": "Béla Bartók",
+      "life": {
+        "from": 1881,
+        "to": 1945
+      }
+    },
+    {
+      "id": "carl-maria-von-weber",
+      "name": "Carl Maria von Weber",
+      "life": {
+        "from": 1786,
+        "to": 1826
+      }
+    },
+    {
+      "id": "magnus-lindberg",
+      "name": "Magnus Lindberg",
+      "life": {
+        "from": 1958,
+        "to": null
+      }
+    },
+    {
+      "id": "keith-jarrett",
+      "name": "Keith Jarrett",
+      "life": {
+        "from": 1945,
+        "to": null
+      }
+    },
+    {
+      "id": "ernest-bloch",
+      "name": "Ernest Bloch",
+      "life": {
+        "from": 1880,
+        "to": 1959
+      }
+    },
+    {
+      "id": "aaron-copland",
+      "name": "Aaron Copland",
+      "life": {
+        "from": 1900,
+        "to": 1990
+      }
+    },
+    {
+      "id": "claudio-monteverdi",
+      "name": "Claudio Monteverdi",
+      "life": {
+        "from": 1567,
+        "to": 1643
+      }
+    },
+    {
+      "id": "johannes-maria-staud",
+      "name": "Johannes Maria Staud",
+      "life": {
+        "from": 1974,
+        "to": null
+      }
+    },
+    {
+      "id": "franz-schubert",
+      "name": "Franz Schubert",
+      "life": {
+        "from": 1797,
+        "to": 1828
+      }
+    },
+    {
+      "id": "thomas-ades",
+      "name": "Thomas Adès",
+      "life": {
+        "from": 1971,
+        "to": null
+      }
+    },
+    {
+      "id": "thomas-daniel-schlee",
+      "name": "Thomas Daniel Schlee",
+      "life": {
+        "from": 1957,
+        "to": null
+      }
+    },
+    {
+      "id": "charles-ives",
+      "name": "Charles Ives",
+      "life": {
+        "from": 1874,
+        "to": 1954
+      }
+    },
+    {
+      "id": "franz-schreker",
+      "name": "Franz Schreker",
+      "life": {
+        "from": 1878,
+        "to": 1934
+      }
+    },
+    {
+      "id": "leonard-bernstein",
+      "name": "Leonard Bernstein",
+      "life": {
+        "from": 1918,
+        "to": 1990
+      }
+    },
+    {
+      "id": "caroline-shaw",
+      "name": "Caroline Shaw",
+      "life": {
+        "from": 1982,
+        "to": null
+      }
+    },
+    {
+      "id": "riccardo-broschi",
+      "name": "Riccardo Broschi",
+      "life": {
+        "from": 1698,
+        "to": 1756
+      }
+    },
+    {
+      "id": "francis-poulenc",
+      "name": "Francis Poulenc",
+      "life": {
+        "from": 1899,
+        "to": 1963
+      }
+    },
+    {
+      "id": "maurice-ravel",
+      "name": "Maurice Ravel",
+      "life": {
+        "from": 1875,
+        "to": 1937
+      }
     }
   ]
 }

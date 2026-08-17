@@ -11,9 +11,15 @@
       "composerId": "ludwig-van-beethoven",
       "title": "Sinfonie Nr. 5 c-Moll",
       "catalogue": [
-        { "system": "Opus", "number": "67" }
+        {
+          "system": "Opus",
+          "number": "67"
+        }
       ],
-      "yearComposed": { "from": 1804, "to": 1808 },
+      "yearComposed": {
+        "from": 1804,
+        "to": 1808
+      },
       "genre": "symphony",
       "durationMinutes": 35,
       "version": null,
@@ -25,7 +31,10 @@
       "composerId": "gustav-mahler",
       "title": "Sinfonie Nr. 3 d-Moll",
       "catalogue": [],
-      "yearComposed": { "from": 1893, "to": 1896 },
+      "yearComposed": {
+        "from": 1893,
+        "to": 1896
+      },
       "genre": "symphony",
       "durationMinutes": 95,
       "version": null,
@@ -37,11 +46,1163 @@
       "composerId": "anton-bruckner",
       "title": "Sinfonie Nr. 7 E-Dur",
       "catalogue": [
-        { "system": "WAB", "number": "107" }
+        {
+          "system": "WAB",
+          "number": "107"
+        }
       ],
-      "yearComposed": { "from": 1881, "to": 1883 },
+      "yearComposed": {
+        "from": 1881,
+        "to": 1883
+      },
       "genre": "symphony",
       "durationMinutes": 65,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-lohengrin-vorspiel-1-akt",
+      "composerId": "richard-wagner",
+      "title": "Vorspiel zum 1. Akt aus »Lohengrin«",
+      "catalogue": [
+        {
+          "system": "WWV",
+          "number": "75"
+        }
+      ],
+      "yearComposed": {
+        "from": 1848,
+        "to": 1848
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "chopin-klavierkonzert-2",
+      "composerId": "frederic-chopin",
+      "title": "Konzert für Klavier und Orchester Nr. 2 f-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "21"
+        }
+      ],
+      "yearComposed": {
+        "from": 1829,
+        "to": 1830
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "holmes-andromede",
+      "composerId": "augusta-holmes",
+      "title": "Andromède – Sinfonische Dichtung",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "skrjabin-poeme-de-lextase",
+      "composerId": "alexander-skrjabin",
+      "title": "Le poème de l'extase (Le Poème de l'extase) für großes Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "54"
+        }
+      ],
+      "yearComposed": {
+        "from": 1905,
+        "to": 1908
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-tannhaeuser-ouvertuere",
+      "composerId": "richard-wagner",
+      "title": "Ouvertüre zur Oper »Tannhäuser«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1845,
+        "to": 1845
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "escaich-la-nuit-des-chants",
+      "composerId": "thierry-escaich",
+      "title": "La nuit des chants – Konzert für Viola und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "saint-saens-sinfonie-3-orgel",
+      "composerId": "camille-saint-saens",
+      "title": "Sinfonie Nr. 3 c-Moll »Orgelsinfonie«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "78"
+        }
+      ],
+      "yearComposed": {
+        "from": 1886,
+        "to": 1886
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "skrjabin-sinfonie-3",
+      "composerId": "alexander-skrjabin",
+      "title": "Sinfonie Nr. 3 c-Moll »Le divin poème«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "43"
+        }
+      ],
+      "yearComposed": {
+        "from": 1902,
+        "to": 1904
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prokofjew-klavierkonzert-2",
+      "composerId": "sergej-prokofjew",
+      "title": "Konzert für Klavier und Orchester Nr. 2 g-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "16"
+        }
+      ],
+      "yearComposed": {
+        "from": 1913,
+        "to": 1913
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-siegfried-idyll",
+      "composerId": "richard-wagner",
+      "title": "Siegfried-Idyll E-Dur",
+      "catalogue": [
+        {
+          "system": "WWV",
+          "number": "103"
+        }
+      ],
+      "yearComposed": {
+        "from": 1870,
+        "to": 1870
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruckner-sinfonie-9",
+      "composerId": "anton-bruckner",
+      "title": "Sinfonie Nr. 9 d-Moll",
+      "catalogue": [
+        {
+          "system": "WAB",
+          "number": "109"
+        }
+      ],
+      "yearComposed": {
+        "from": 1887,
+        "to": 1896
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haendel-messiah",
+      "composerId": "georg-friedrich-haendel",
+      "title": "Messiah – Oratorium für Soli, Chor und Orchester",
+      "catalogue": [
+        {
+          "system": "HWV",
+          "number": "56"
+        }
+      ],
+      "yearComposed": {
+        "from": 1741,
+        "to": 1741
+      },
+      "genre": "oratorio",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-don-quixote",
+      "composerId": "richard-strauss",
+      "title": "Don Quixote – Fantastische Variationen über ein Thema ritterlichen Charakters",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "35"
+        },
+        {
+          "system": "TrV",
+          "number": "184"
+        }
+      ],
+      "yearComposed": {
+        "from": 1897,
+        "to": 1897
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "webern-passacaglia",
+      "composerId": "anton-webern",
+      "title": "Passacaglia für Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "1"
+        }
+      ],
+      "yearComposed": {
+        "from": 1908,
+        "to": 1908
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-tristan-vorspiel",
+      "composerId": "richard-wagner",
+      "title": "Vorspiel aus »Tristan und Isolde«",
+      "catalogue": [
+        {
+          "system": "WWV",
+          "number": "90"
+        }
+      ],
+      "yearComposed": {
+        "from": 1857,
+        "to": 1859
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-tristan-liebestod",
+      "composerId": "richard-wagner",
+      "title": "Isoldes Liebestod aus »Tristan und Isolde«",
+      "catalogue": [
+        {
+          "system": "WWV",
+          "number": "90"
+        }
+      ],
+      "yearComposed": {
+        "from": 1857,
+        "to": 1859
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "korngold-der-schneemann",
+      "composerId": "erich-wolfgang-korngold",
+      "title": "»Der Schneemann« – Ballettpantomime (Orchesterfassung)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1908,
+        "to": 1910
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-rosenkavalier-suite",
+      "composerId": "richard-strauss",
+      "title": "Suite aus der Oper »Der Rosenkavalier«",
+      "catalogue": [
+        {
+          "system": "TrV",
+          "number": "227d"
+        }
+      ],
+      "yearComposed": {
+        "from": 1945,
+        "to": 1945
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "gliere-koloratursopran-konzert",
+      "composerId": "reinhold-gliere",
+      "title": "Konzert für Koloratursopran und Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "82"
+        }
+      ],
+      "yearComposed": {
+        "from": 1943,
+        "to": 1943
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-nussknacker-suite",
+      "composerId": "peter-iljitsch-tschaikowsky",
+      "title": "Der Nussknacker – Suite für Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "71a"
+        }
+      ],
+      "yearComposed": {
+        "from": 1892,
+        "to": 1892
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kodaly-galantai-tancok",
+      "composerId": "zoltan-kodaly",
+      "title": "Galántai táncok (Tänze aus Galánta)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1933,
+        "to": 1933
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-violinkonzert",
+      "composerId": "antonin-dvorak",
+      "title": "Konzert für Violine und Orchester a-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "53"
+        },
+        {
+          "system": "B",
+          "number": "108"
+        }
+      ],
+      "yearComposed": {
+        "from": 1879,
+        "to": 1880
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prokofjew-sinfonie-7",
+      "composerId": "sergej-prokofjew",
+      "title": "Sinfonie Nr. 7 cis-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "131"
+        }
+      ],
+      "yearComposed": {
+        "from": 1951,
+        "to": 1952
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-aleko-tanz-maenner",
+      "composerId": "sergej-rachmaninow",
+      "title": "Tanz der Männer (1. Akt) aus der Oper »Aleko«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1892,
+        "to": 1892
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-sinfonie-3",
+      "composerId": "sergej-rachmaninow",
+      "title": "Sinfonie Nr. 3 a-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "44"
+        }
+      ],
+      "yearComposed": {
+        "from": 1935,
+        "to": 1936
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "elgar-cellokonzert",
+      "composerId": "edward-elgar",
+      "title": "Konzert für Violoncello und Orchester e-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "85"
+        }
+      ],
+      "yearComposed": {
+        "from": 1919,
+        "to": 1919
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruckner-sinfonie-6",
+      "composerId": "anton-bruckner",
+      "title": "Sinfonie Nr. 6 A-Dur",
+      "catalogue": [
+        {
+          "system": "WAB",
+          "number": "106"
+        }
+      ],
+      "yearComposed": {
+        "from": 1879,
+        "to": 1881
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mahler-sinfonie-2",
+      "composerId": "gustav-mahler",
+      "title": "Sinfonie Nr. 2 c-Moll »Auferstehung«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1888,
+        "to": 1894
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-sinfonie-103",
+      "composerId": "joseph-haydn",
+      "title": "Sinfonie Es-Dur »Mit dem Paukenwirbel«",
+      "catalogue": [
+        {
+          "system": "Hob.",
+          "number": "I:103"
+        }
+      ],
+      "yearComposed": {
+        "from": 1795,
+        "to": 1795
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartok-blaubarts-burg",
+      "composerId": "bela-bartok",
+      "title": "A kékszakállú herceg vára (Herzog Blaubarts Burg) – Oper in einem Akt",
+      "catalogue": [
+        {
+          "system": "Sz",
+          "number": "48"
+        },
+        {
+          "system": "Opus",
+          "number": "11"
+        }
+      ],
+      "yearComposed": {
+        "from": 1911,
+        "to": 1911
+      },
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "weber-oberon-ouvertuere",
+      "composerId": "carl-maria-von-weber",
+      "title": "Ouvertüre aus »Oberon«",
+      "catalogue": [
+        {
+          "system": "JV",
+          "number": "306"
+        }
+      ],
+      "yearComposed": {
+        "from": 1826,
+        "to": 1826
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "lindberg-konzert-zwei-klaviere",
+      "composerId": "magnus-lindberg",
+      "title": "Konzert für zwei Klaviere und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prokofjew-cinderella",
+      "composerId": "sergej-prokofjew",
+      "title": "Cinderella (Aschenputtel) – Ausschnitte aus der Ballettmusik",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "87"
+        }
+      ],
+      "yearComposed": {
+        "from": 1940,
+        "to": 1944
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "jarrett-elegy",
+      "composerId": "keith-jarrett",
+      "title": "Elegy für Violine und Streichorchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bloch-hiver-printemps",
+      "composerId": "ernest-bloch",
+      "title": "Hiver – Printemps. Zwei sinfonische Dichtungen für Orchester",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1904,
+        "to": 1905
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "copland-appalachian-spring",
+      "composerId": "aaron-copland",
+      "title": "Appalachian Spring – Suite für großes Orchester",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1943,
+        "to": 1945
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-sinfonia-isola-disabitata",
+      "composerId": "joseph-haydn",
+      "title": "Sinfonia (Ouvertüre) aus »L'isola disabitata«",
+      "catalogue": [
+        {
+          "system": "Hob.",
+          "number": "XXVIII:9"
+        }
+      ],
+      "yearComposed": {
+        "from": 1779,
+        "to": 1779
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "monteverdi-hor-che-il-ciel",
+      "composerId": "claudio-monteverdi",
+      "title": "»Hor che'l ciel e la terra e'l vento tace«",
+      "catalogue": [
+        {
+          "system": "SV",
+          "number": "147"
+        }
+      ],
+      "yearComposed": {
+        "from": 1638,
+        "to": 1638
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "staud-neues-werk-2027",
+      "composerId": "johannes-maria-staud",
+      "title": "Neues Werk für Vokalensemble und Orchester (Uraufführung)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 2027,
+        "to": 2027
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-sinfonie-3",
+      "composerId": "franz-schubert",
+      "title": "Sinfonie Nr. 3 D-Dur",
+      "catalogue": [
+        {
+          "system": "D",
+          "number": "200"
+        }
+      ],
+      "yearComposed": {
+        "from": 1815,
+        "to": 1815
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ades-concentric-paths",
+      "composerId": "thomas-ades",
+      "title": "Concentric Paths – Konzert für Violine und Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "24"
+        }
+      ],
+      "yearComposed": {
+        "from": 2005,
+        "to": 2005
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mahler-sinfonie-9",
+      "composerId": "gustav-mahler",
+      "title": "Sinfonie Nr. 9 D-Dur",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1908,
+        "to": 1909
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schlee-sinfonie-3",
+      "composerId": "thomas-daniel-schlee",
+      "title": "Sinfonie Nr. 3 »Fragmente«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-paganini-rhapsodie",
+      "composerId": "sergej-rachmaninow",
+      "title": "Rhapsodie über ein Thema von Paganini für Klavier und Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "43"
+        }
+      ],
+      "yearComposed": {
+        "from": 1934,
+        "to": 1934
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-sinfonie-6",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Sinfonie Nr. 6 F-Dur »Pastorale«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "68"
+        }
+      ],
+      "yearComposed": {
+        "from": 1808,
+        "to": 1808
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ives-three-places",
+      "composerId": "charles-ives",
+      "title": "Three Places in New England (Orchestral Set Nr. 1)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1911,
+        "to": 1914
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-sinfonie-4",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Sinfonie Nr. 4 B-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "60"
+        }
+      ],
+      "yearComposed": {
+        "from": 1806,
+        "to": 1806
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schreker-vorspiel-zu-einem-drama",
+      "composerId": "franz-schreker",
+      "title": "Vorspiel zu einem Drama (aus »Die Gezeichneten«)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1913,
+        "to": 1914
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-burleske",
+      "composerId": "richard-strauss",
+      "title": "Burleske d-Moll für Klavier und Orchester",
+      "catalogue": [
+        {
+          "system": "TrV",
+          "number": "145"
+        }
+      ],
+      "yearComposed": {
+        "from": 1885,
+        "to": 1886
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-alpensinfonie",
+      "composerId": "richard-strauss",
+      "title": "Eine Alpensinfonie für großes Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "64"
+        },
+        {
+          "system": "TrV",
+          "number": "233"
+        }
+      ],
+      "yearComposed": {
+        "from": 1911,
+        "to": 1915
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bernstein-candide-ouvertuere",
+      "composerId": "leonard-bernstein",
+      "title": "Ouvertüre aus »Candide«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1956,
+        "to": 1956
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "saint-saens-klavierkonzert-5",
+      "composerId": "camille-saint-saens",
+      "title": "Konzert für Klavier und Orchester Nr. 5 F-Dur »Ägyptisches«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "103"
+        }
+      ],
+      "yearComposed": {
+        "from": 1896,
+        "to": 1896
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haendel-il-trionfo-un-pensiero",
+      "composerId": "georg-friedrich-haendel",
+      "title": "»Un pensiero nemico di pace« aus »Il trionfo del Tempo e del Disinganno«",
+      "catalogue": [
+        {
+          "system": "HWV",
+          "number": "46a"
+        }
+      ],
+      "yearComposed": {
+        "from": 1707,
+        "to": 1707
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "shaw-is-a-rose-red-red-rose",
+      "composerId": "caroline-shaw",
+      "title": "Red, Red Rose (III.) aus »Is A Rose«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "broschi-son-qual-nave",
+      "composerId": "riccardo-broschi",
+      "title": "»Son qual nave ch'agitata« aus »Artaserse«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1734,
+        "to": 1734
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-heimliche-aufforderung",
+      "composerId": "richard-strauss",
+      "title": "Heimliche Aufforderung (Orchesterfassung) aus »Vier Lieder«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "27/3"
+        },
+        {
+          "system": "TrV",
+          "number": "170"
+        }
+      ],
+      "yearComposed": {
+        "from": 1894,
+        "to": 1897
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-morgen",
+      "composerId": "richard-strauss",
+      "title": "Morgen! (Orchesterfassung) aus »Vier Lieder«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "27/4"
+        },
+        {
+          "system": "TrV",
+          "number": "170"
+        }
+      ],
+      "yearComposed": {
+        "from": 1894,
+        "to": 1897
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-romeo-et-juliette",
+      "composerId": "peter-iljitsch-tschaikowsky",
+      "title": "Roméo et Juliette – Fantasieouvertüre nach Shakespeare",
+      "catalogue": [
+        {
+          "system": "ČW",
+          "number": "39"
+        }
+      ],
+      "yearComposed": {
+        "from": 1880,
+        "to": 1880
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prokofjew-ouvertuere-hebraeische-themen",
+      "composerId": "sergej-prokofjew",
+      "title": "Ouvertüre über hebräische Themen c-Moll (Fassung für kleines Orchester)",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "34a"
+        }
+      ],
+      "yearComposed": {
+        "from": 1934,
+        "to": 1934
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "poulenc-gloria",
+      "composerId": "francis-poulenc",
+      "title": "Gloria für Sopran, gemischten Chor und Orchester",
+      "catalogue": [
+        {
+          "system": "FP",
+          "number": "177"
+        }
+      ],
+      "yearComposed": {
+        "from": 1959,
+        "to": 1960
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prokofjew-violinkonzert-2",
+      "composerId": "sergej-prokofjew",
+      "title": "Konzert für Violine und Orchester Nr. 2 g-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "63"
+        }
+      ],
+      "yearComposed": {
+        "from": 1935,
+        "to": 1935
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-daphnis-et-chloe-suite-2",
+      "composerId": "maurice-ravel",
+      "title": "Daphnis et Chloé – 2. Suite für Orchester",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1912,
+        "to": 1913
+      },
+      "genre": "other",
+      "durationMinutes": null,
       "version": null,
       "scoring": null,
       "description": null

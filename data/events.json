@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "version": "1.0",
+    "version": "1.1",
     "lastUpdated": "2026-08-17",
     "season": "2026/27",
     "language": "de",
-    "notes": "Beispieldatensätze zur Erprobung des Event-Modells. Die Quellen sind Platzhalter und keine recherchierten Konzerttermine."
+    "notes": "Enthält recherchierte Konzerte des WDR Sinfonieorchesters in der Kölner Philharmonie (Spielzeit 2026/27, Quelle: koelner-philharmonie.de) sowie einige frühere Beispieldatensätze (Quellen mit example.org)."
   },
   "events": [
     {
@@ -15,10 +15,14 @@
       "startTime": "19:30",
       "endTime": null,
       "status": "scheduled",
-      "ensembleIds": ["duesseldorfer-symphoniker"],
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
       "venueId": "tonhalle-duesseldorf",
       "cityId": "duesseldorf",
-      "conductorPersonIds": ["vitali-alekseenok"],
+      "conductorPersonIds": [
+        "vitali-alekseenok"
+      ],
       "soloistPersonIds": [],
       "program": [
         {
@@ -43,10 +47,14 @@
       "startTime": "19:30",
       "endTime": null,
       "status": "scheduled",
-      "ensembleIds": ["duesseldorfer-symphoniker"],
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
       "venueId": "tonhalle-duesseldorf",
       "cityId": "duesseldorf",
-      "conductorPersonIds": ["vitali-alekseenok"],
+      "conductorPersonIds": [
+        "vitali-alekseenok"
+      ],
       "soloistPersonIds": [],
       "program": [
         {
@@ -72,10 +80,14 @@
       "startTime": "20:00",
       "endTime": null,
       "status": "scheduled",
-      "ensembleIds": ["wdr-sinfonieorchester"],
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
       "venueId": "koelner-philharmonie",
       "cityId": "koeln",
-      "conductorPersonIds": ["marie-jacquot"],
+      "conductorPersonIds": [
+        "marie-jacquot"
+      ],
       "soloistPersonIds": [],
       "program": [
         {
@@ -88,6 +100,1334 @@
       "source": {
         "url": "https://example.org/klangland/demo/koeln-klangraeume-2026-11-14",
         "name": "Klangland-Demodaten",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-18-koeln-aufbruch",
+      "title": "Aufbruch – Marie Jacquot & Yulianna Avdeeva",
+      "eventType": "concert",
+      "date": "2026-09-18",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "marie-jacquot"
+      ],
+      "soloistPersonIds": [
+        "yulianna-avdeeva"
+      ],
+      "program": [
+        {
+          "workId": "wagner-lohengrin-vorspiel-1-akt"
+        },
+        {
+          "workId": "chopin-klavierkonzert-2"
+        },
+        {
+          "workId": "holmes-andromede"
+        },
+        {
+          "workId": "skrjabin-poeme-de-lextase"
+        }
+      ],
+      "seriesId": null,
+      "description": "Antrittskonzert der neuen Chefdirigentin Marie Jacquot.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/aufbruch-marie-jacquot-yulianna-avdeeva/9250",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-25-koeln-maus-schulkonzert-0900",
+      "title": "Das Konzert mit der Maus (Schulkonzert)",
+      "eventType": "concert",
+      "date": "2026-09-25",
+      "startTime": "09:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "jesko-sirvend"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Schulkonzert »Das Konzert mit der Maus«; Moderation: Jana Forkel und Johannes Büchs. Kein klassisches Werkprogramm ausgewiesen.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/konzert-mit-der-maus-schulkonzert/9253",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-25-koeln-maus-schulkonzert-1130",
+      "title": "Das Konzert mit der Maus (Schulkonzert)",
+      "eventType": "concert",
+      "date": "2026-09-25",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "jesko-sirvend"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Zweites Schulkonzert »Das Konzert mit der Maus«; Moderation: Jana Forkel und Johannes Büchs.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/konzert-mit-der-maus-schulkonzert/9253",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-26-koeln-maus-familienkonzert-1100",
+      "title": "Das Konzert mit der Maus (Familienkonzert)",
+      "eventType": "concert",
+      "date": "2026-09-26",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "jesko-sirvend"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert »Das Konzert mit der Maus«; Moderation: Jana Forkel und Johannes Büchs.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/das-konzert-mit-der-maus-familienkonzert/9255",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-26-koeln-maus-familienkonzert-1400",
+      "title": "Das Konzert mit der Maus (Familienkonzert)",
+      "eventType": "concert",
+      "date": "2026-09-26",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "jesko-sirvend"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Zweites Familienkonzert »Das Konzert mit der Maus«; Moderation: Jana Forkel und Johannes Büchs.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/das-konzert-mit-der-maus-familienkonzert/9255",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-16-koeln-majestaetisch",
+      "title": "Majestätisch – Marie Jacquot & Iveta Apkalna",
+      "eventType": "concert",
+      "date": "2026-10-16",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "marie-jacquot"
+      ],
+      "soloistPersonIds": [
+        "iveta-apkalna",
+        "antoine-tamestit"
+      ],
+      "program": [
+        {
+          "workId": "wagner-tannhaeuser-ouvertuere",
+          "version": "Dresdner Fassung"
+        },
+        {
+          "workId": "escaich-la-nuit-des-chants"
+        },
+        {
+          "workId": "saint-saens-sinfonie-3-orgel"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/majestaetisch-marie-jacquot-iveta-apkalna/9259",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-17-koeln-majestaetisch",
+      "title": "Majestätisch – Marie Jacquot & Iveta Apkalna",
+      "eventType": "concert",
+      "date": "2026-10-17",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "marie-jacquot"
+      ],
+      "soloistPersonIds": [
+        "iveta-apkalna",
+        "antoine-tamestit"
+      ],
+      "program": [
+        {
+          "workId": "wagner-tannhaeuser-ouvertuere",
+          "version": "Dresdner Fassung"
+        },
+        {
+          "workId": "escaich-la-nuit-des-chants"
+        },
+        {
+          "workId": "saint-saens-sinfonie-3-orgel"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/majestaetisch-marie-jacquot-iveta-apkalna/9260",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-12-koeln-happy-hour-goettliches-spiel",
+      "title": "WDR Happy Hour – Göttliches Spiel",
+      "eventType": "concert",
+      "date": "2026-11-12",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andris-poga"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "skrjabin-sinfonie-3"
+        }
+      ],
+      "seriesId": null,
+      "description": "Moderiertes Happy-Hour-Format (Moderation: Marlis Schaum).",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/wdr-happy-hour-goettliches-spiel/9262",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-14-koeln-grenzgaenge",
+      "title": "Grenzgänge – Poga & Prokofjew",
+      "eventType": "concert",
+      "date": "2026-11-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andris-poga"
+      ],
+      "soloistPersonIds": [
+        "boris-giltburg"
+      ],
+      "program": [
+        {
+          "workId": "prokofjew-klavierkonzert-2"
+        },
+        {
+          "workId": "skrjabin-sinfonie-3"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/grenzgaenge-poga-prokofjew/9261",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-27-koeln-monumental",
+      "title": "Monumental – Wagner & Bruckner",
+      "eventType": "concert",
+      "date": "2026-11-27",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "marek-janowski"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "wagner-siegfried-idyll"
+        },
+        {
+          "workId": "bruckner-sinfonie-9"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/monumental-wagner-bruckner/9264",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-28-koeln-monumental",
+      "title": "Monumental – Wagner & Bruckner",
+      "eventType": "concert",
+      "date": "2026-11-28",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "marek-janowski"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "wagner-siegfried-idyll"
+        },
+        {
+          "workId": "bruckner-sinfonie-9"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/monumental-wagner-bruckner/9265",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-05-koeln-messias",
+      "title": "Halleluja – Händels Messias",
+      "eventType": "concert",
+      "date": "2026-12-05",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "jonathan-cohen"
+      ],
+      "soloistPersonIds": [
+        "louise-alder",
+        "hugh-cutting",
+        "hugo-hymas",
+        "konstantin-krimmel"
+      ],
+      "program": [
+        {
+          "workId": "haendel-messiah"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit dem WDR Rundfunkchor.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/halleluja-haendels-messias/9266",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-11-koeln-abenteurer",
+      "title": "Abenteurer – Măcelaru & Strauss",
+      "eventType": "concert",
+      "date": "2026-12-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "cristian-macelaru"
+      ],
+      "soloistPersonIds": [
+        "maximilian-hornung",
+        "tomasz-neugebauer"
+      ],
+      "program": [
+        {
+          "workId": "strauss-don-quixote"
+        },
+        {
+          "workId": "webern-passacaglia"
+        },
+        {
+          "workId": "wagner-tristan-vorspiel"
+        },
+        {
+          "workId": "wagner-tristan-liebestod"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/abenteurer-macelaru-strauss/9267",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-12-koeln-abenteurer",
+      "title": "Abenteurer – Măcelaru & Strauss",
+      "eventType": "concert",
+      "date": "2026-12-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "cristian-macelaru"
+      ],
+      "soloistPersonIds": [
+        "maximilian-hornung",
+        "tomasz-neugebauer"
+      ],
+      "program": [
+        {
+          "workId": "strauss-don-quixote"
+        },
+        {
+          "workId": "webern-passacaglia"
+        },
+        {
+          "workId": "wagner-tristan-vorspiel"
+        },
+        {
+          "workId": "wagner-tristan-liebestod"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/abenteurer-macelaru-strauss/9268",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-31-koeln-silvesterkonzert",
+      "title": "Silvesterkonzert",
+      "eventType": "concert",
+      "date": "2026-12-31",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "stanislav-kochanovsky"
+      ],
+      "soloistPersonIds": [
+        "katrina-galka"
+      ],
+      "program": [
+        {
+          "workId": "korngold-der-schneemann"
+        },
+        {
+          "workId": "strauss-rosenkavalier-suite"
+        },
+        {
+          "workId": "gliere-koloratursopran-konzert"
+        },
+        {
+          "workId": "tschaikowsky-nussknacker-suite"
+        }
+      ],
+      "seriesId": null,
+      "description": "Silvesterkonzert; Veranstaltung der KölnMusik in Kooperation mit dem WDR.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/silvesterkonzert/9336",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-15-koeln-taenzerisch",
+      "title": "Tänzerisch – Dvořák & Prokofjew",
+      "eventType": "concert",
+      "date": "2027-01-15",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "juraj-valcuha"
+      ],
+      "soloistPersonIds": [
+        "james-ehnes"
+      ],
+      "program": [
+        {
+          "workId": "kodaly-galantai-tancok"
+        },
+        {
+          "workId": "dvorak-violinkonzert"
+        },
+        {
+          "workId": "prokofjew-sinfonie-7"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/taenzerisch-dvorak-prokofjew/9296",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-16-koeln-happy-hour-prokofjew",
+      "title": "WDR Happy Hour – Prokofjew",
+      "eventType": "concert",
+      "date": "2027-01-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "juraj-valcuha"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "kodaly-galantai-tancok"
+        },
+        {
+          "workId": "prokofjew-sinfonie-7"
+        }
+      ],
+      "seriesId": null,
+      "description": "Moderiertes Happy-Hour-Format (Moderation: Jan Malte Andresen).",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/wdr-happy-hour-prokofjew/9269",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-21-koeln-inside-rachmaninow",
+      "title": "Klassik mal anders: Inside Rachmaninow",
+      "eventType": "concert",
+      "date": "2027-01-21",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "delyana-lazarova"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "rachmaninow-aleko-tanz-maenner"
+        },
+        {
+          "workId": "rachmaninow-sinfonie-3"
+        }
+      ],
+      "seriesId": null,
+      "description": "Konzertformat »Klassik mal anders«; Moderation: Johannes Büchs.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/klassik-mal-anders-inside-rachmaninow/9271",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-29-koeln-bruckners-sechste",
+      "title": "Marie Jacquot – Bruckners Sechste",
+      "eventType": "concert",
+      "date": "2027-01-29",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "marie-jacquot"
+      ],
+      "soloistPersonIds": [
+        "gautier-capucon"
+      ],
+      "program": [
+        {
+          "workId": "elgar-cellokonzert"
+        },
+        {
+          "workId": "bruckner-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/marie-jacquot-bruckners-sechste/9272",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-30-koeln-bruckners-sechste",
+      "title": "Marie Jacquot – Bruckners Sechste",
+      "eventType": "concert",
+      "date": "2027-01-30",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "marie-jacquot"
+      ],
+      "soloistPersonIds": [
+        "gautier-capucon"
+      ],
+      "program": [
+        {
+          "workId": "elgar-cellokonzert"
+        },
+        {
+          "workId": "bruckner-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/marie-jacquot-bruckners-sechste/9273",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-26-koeln-auferstehung",
+      "title": "Auferstehung – Mahlers Zweite",
+      "eventType": "concert",
+      "date": "2027-02-26",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "robin-ticciati"
+      ],
+      "soloistPersonIds": [
+        "nikola-hillebrand",
+        "alice-coote"
+      ],
+      "program": [
+        {
+          "workId": "mahler-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit dem Rundfunkchor Berlin und dem WDR Rundfunkchor.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/auferstehung-mahlers-zweite/9274",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-27-koeln-auferstehung",
+      "title": "Auferstehung – Mahlers Zweite",
+      "eventType": "concert",
+      "date": "2027-02-27",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "robin-ticciati"
+      ],
+      "soloistPersonIds": [
+        "nikola-hillebrand",
+        "alice-coote"
+      ],
+      "program": [
+        {
+          "workId": "mahler-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit dem Rundfunkchor Berlin und dem WDR Rundfunkchor.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/auferstehung-mahlers-zweite/9275",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-12-koeln-leidenschaft",
+      "title": "Leidenschaft – Adam Fischer & Haydn",
+      "eventType": "concert",
+      "date": "2027-03-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [
+        "dorottya-lang",
+        "gabor-bretz"
+      ],
+      "program": [
+        {
+          "workId": "haydn-sinfonie-103"
+        },
+        {
+          "workId": "bartok-blaubarts-burg"
+        }
+      ],
+      "seriesId": null,
+      "description": "Bartóks »Herzog Blaubarts Burg« in konzertanter Aufführung.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/leidenschaft-adam-fischer-haydn/9277",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-13-koeln-leidenschaft",
+      "title": "Leidenschaft – Adam Fischer & Haydn",
+      "eventType": "concert",
+      "date": "2027-03-13",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [
+        "dorottya-lang",
+        "gabor-bretz"
+      ],
+      "program": [
+        {
+          "workId": "haydn-sinfonie-103"
+        },
+        {
+          "workId": "bartok-blaubarts-burg"
+        }
+      ],
+      "seriesId": null,
+      "description": "Bartóks »Herzog Blaubarts Burg« in konzertanter Aufführung.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/leidenschaft-adam-fischer-haydn/9278",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-16-koeln-grosse-liebe",
+      "title": "Große Liebe – Marie Jacquot & die Jussen-Brüder",
+      "eventType": "concert",
+      "date": "2027-04-16",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "marie-jacquot"
+      ],
+      "soloistPersonIds": [
+        "lucas-jussen",
+        "arthur-jussen"
+      ],
+      "program": [
+        {
+          "workId": "weber-oberon-ouvertuere"
+        },
+        {
+          "workId": "lindberg-konzert-zwei-klaviere"
+        },
+        {
+          "workId": "prokofjew-cinderella"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/grosse-liebe-marie-jacquot-die-jussen-brueder/9252",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-29-koeln-happy-hour-pioniere",
+      "title": "WDR Happy Hour – Pioniere",
+      "eventType": "concert",
+      "date": "2027-04-29",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "john-storgards"
+      ],
+      "soloistPersonIds": [
+        "john-storgards"
+      ],
+      "program": [
+        {
+          "workId": "jarrett-elegy"
+        },
+        {
+          "workId": "bloch-hiver-printemps"
+        },
+        {
+          "workId": "copland-appalachian-spring"
+        }
+      ],
+      "seriesId": null,
+      "description": "John Storgårds leitet vom Pult und als Violinsolist; Moderation: Marlis Schaum.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/wdr-happy-hour-pioniere/9412",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-08-koeln-wege-zum-licht",
+      "title": "Musik der Zeit – Wege zum Licht",
+      "eventType": "concert",
+      "date": "2027-05-08",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "marie-jacquot"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "haydn-sinfonia-isola-disabitata"
+        },
+        {
+          "workId": "monteverdi-hor-che-il-ciel"
+        },
+        {
+          "workId": "staud-neues-werk-2027"
+        },
+        {
+          "workId": "schubert-sinfonie-3"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit dem Vokalensemble Cantando Admont; Uraufführung eines WDR-Kompositionsauftrags von Johannes Maria Staud.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/musik-der-zeit-wege-zum-licht/9282",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-14-koeln-heimkehr",
+      "title": "Heimkehr – Saraste & Mahler",
+      "eventType": "concert",
+      "date": "2027-05-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "jukka-pekka-saraste"
+      ],
+      "soloistPersonIds": [
+        "kristine-balanas"
+      ],
+      "program": [
+        {
+          "workId": "ades-concentric-paths"
+        },
+        {
+          "workId": "mahler-sinfonie-9"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/heimkehr-saraste-mahler/9283",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-15-koeln-heimkehr",
+      "title": "Heimkehr – Saraste & Mahler",
+      "eventType": "concert",
+      "date": "2027-05-15",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "jukka-pekka-saraste"
+      ],
+      "soloistPersonIds": [
+        "kristine-balanas"
+      ],
+      "program": [
+        {
+          "workId": "ades-concentric-paths"
+        },
+        {
+          "workId": "mahler-sinfonie-9"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/heimkehr-saraste-mahler/9284",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-28-koeln-meisterwerke",
+      "title": "Meisterwerke – Seong-Jin Cho & Manfred Honeck",
+      "eventType": "concert",
+      "date": "2027-05-28",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "manfred-honeck"
+      ],
+      "soloistPersonIds": [
+        "seong-jin-cho"
+      ],
+      "program": [
+        {
+          "workId": "schlee-sinfonie-3"
+        },
+        {
+          "workId": "rachmaninow-paganini-rhapsodie"
+        },
+        {
+          "workId": "beethoven-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/meisterwerke-seong-jin-cho-manfred-honeck/9285",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-03-koeln-happy-hour-beethovens-vierte",
+      "title": "WDR Happy Hour – Beethovens Vierte",
+      "eventType": "concert",
+      "date": "2027-06-03",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "jakob-lehmann"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ives-three-places"
+        },
+        {
+          "workId": "beethoven-sinfonie-4"
+        }
+      ],
+      "seriesId": null,
+      "description": "Moderiertes Happy-Hour-Format (Moderation: Jan Malte Andresen).",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/wdr-happy-hour-beethovens-vierte/9286",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-11-koeln-gipfelsturm",
+      "title": "Gipfelsturm – Eine Alpensinfonie",
+      "eventType": "concert",
+      "date": "2027-06-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "edward-gardner"
+      ],
+      "soloistPersonIds": [
+        "tom-borrow"
+      ],
+      "program": [
+        {
+          "workId": "schreker-vorspiel-zu-einem-drama"
+        },
+        {
+          "workId": "strauss-burleske"
+        },
+        {
+          "workId": "strauss-alpensinfonie"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/gipfelsturm-eine-alpensinfonie/9288",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-12-koeln-gipfelsturm",
+      "title": "Gipfelsturm – Eine Alpensinfonie",
+      "eventType": "concert",
+      "date": "2027-06-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "edward-gardner"
+      ],
+      "soloistPersonIds": [
+        "tom-borrow"
+      ],
+      "program": [
+        {
+          "workId": "schreker-vorspiel-zu-einem-drama"
+        },
+        {
+          "workId": "strauss-burleske"
+        },
+        {
+          "workId": "strauss-alpensinfonie"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/gipfelsturm-eine-alpensinfonie/9289",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-26-koeln-classical-pride",
+      "title": "Classical Pride",
+      "eventType": "concert",
+      "date": "2027-06-26",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "oliver-zeffman"
+      ],
+      "soloistPersonIds": [
+        "eleanor-lyons",
+        "mayaan-licht",
+        "jean-yves-thibaudet"
+      ],
+      "program": [
+        {
+          "workId": "bernstein-candide-ouvertuere"
+        },
+        {
+          "workId": "saint-saens-klavierkonzert-5"
+        },
+        {
+          "workId": "haendel-il-trionfo-un-pensiero"
+        },
+        {
+          "workId": "shaw-is-a-rose-red-red-rose"
+        },
+        {
+          "workId": "broschi-son-qual-nave"
+        },
+        {
+          "workId": "strauss-heimliche-aufforderung"
+        },
+        {
+          "workId": "strauss-morgen"
+        },
+        {
+          "workId": "tschaikowsky-romeo-et-juliette"
+        }
+      ],
+      "seriesId": null,
+      "description": "Gala »Classical Pride« mit Sasha Velour (Moderation/Performance).",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/classical-pride/9292",
+        "name": "Kölner Philharmonie",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-07-02-koeln-gloria",
+      "title": "Gloria – Marie Jacquot & Augustin Hadelich",
+      "eventType": "concert",
+      "date": "2027-07-02",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "wdr-sinfonieorchester"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "marie-jacquot"
+      ],
+      "soloistPersonIds": [
+        "augustin-hadelich",
+        "magdalena-lucjan"
+      ],
+      "program": [
+        {
+          "workId": "prokofjew-ouvertuere-hebraeische-themen"
+        },
+        {
+          "workId": "poulenc-gloria"
+        },
+        {
+          "workId": "prokofjew-violinkonzert-2"
+        },
+        {
+          "workId": "ravel-daphnis-et-chloe-suite-2"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit dem NDR Vokalensemble und dem WDR Rundfunkchor.",
+      "source": {
+        "url": "https://www.koelner-philharmonie.de/de/konzerte/gloria-marie-jacquot-augustin-hadelich/9293",
+        "name": "Kölner Philharmonie",
         "retrievedAt": "2026-08-17"
       },
       "ticketUrl": null,
