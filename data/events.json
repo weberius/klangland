@@ -4,7 +4,7 @@
     "lastUpdated": "2026-08-17",
     "season": "2026/27",
     "language": "de",
-    "notes": "Enthält recherchierte Konzerte des WDR Sinfonieorchesters in der Kölner Philharmonie (Spielzeit 2026/27, Quelle: koelner-philharmonie.de) sowie einige frühere Beispieldatensätze (Quellen mit example.org)."
+    "notes": "Enthält recherchierte Konzerte des WDR Sinfonieorchesters (Kölner Philharmonie) und der Bergischen Symphoniker (Spielzeit 2026/27, Quelle: bergischesymphoniker.de) sowie einige frühere Beispieldatensätze (Quellen mit example.org)."
   },
   "events": [
     {
@@ -1431,6 +1431,2934 @@
         "retrievedAt": "2026-08-17"
       },
       "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-07-11-solingen-stadtteilkonzerte",
+      "title": "Stadtteilkonzerte",
+      "eventType": "concert",
+      "date": "2026-07-11",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "suedpark-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "samira-nasser"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "faure-masques-et-bergamasques-ouvertuere"
+        },
+        {
+          "workId": "smyth-serenade-d-dur-scherzo"
+        },
+        {
+          "workId": "bartok-rumaenische-volkstaenze"
+        },
+        {
+          "workId": "saint-saens-danse-bacchanale"
+        },
+        {
+          "workId": "jandali-symphonic-dances"
+        },
+        {
+          "workId": "irshed-al-mutanabbi"
+        },
+        {
+          "workId": "irshed-on-the-way-from-granada"
+        },
+        {
+          "workId": "menken-aladdin"
+        },
+        {
+          "workId": "rimski-korsakow-hummelflug"
+        },
+        {
+          "workId": "chatschaturjan-saebeltanz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/stadtteilkonzerte-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-07-15-remscheid-stadtteilkonzerte",
+      "title": "Stadtteilkonzerte",
+      "eventType": "concert",
+      "date": "2026-07-15",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "stadtpark-konzertmuschel-remscheid",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "samira-nasser"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "faure-masques-et-bergamasques-ouvertuere"
+        },
+        {
+          "workId": "smyth-serenade-d-dur-scherzo"
+        },
+        {
+          "workId": "bartok-rumaenische-volkstaenze"
+        },
+        {
+          "workId": "saint-saens-danse-bacchanale"
+        },
+        {
+          "workId": "jandali-symphonic-dances"
+        },
+        {
+          "workId": "irshed-al-mutanabbi"
+        },
+        {
+          "workId": "irshed-on-the-way-from-granada"
+        },
+        {
+          "workId": "menken-aladdin"
+        },
+        {
+          "workId": "rimski-korsakow-hummelflug"
+        },
+        {
+          "workId": "chatschaturjan-saebeltanz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/stadtteilkonzerte-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-07-16-solingen-stadtteilkonzerte",
+      "title": "Stadtteilkonzerte",
+      "eventType": "concert",
+      "date": "2026-07-16",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "brueckenpark-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "samira-nasser"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "faure-masques-et-bergamasques-ouvertuere"
+        },
+        {
+          "workId": "smyth-serenade-d-dur-scherzo"
+        },
+        {
+          "workId": "bartok-rumaenische-volkstaenze"
+        },
+        {
+          "workId": "saint-saens-danse-bacchanale"
+        },
+        {
+          "workId": "jandali-symphonic-dances"
+        },
+        {
+          "workId": "irshed-al-mutanabbi"
+        },
+        {
+          "workId": "irshed-on-the-way-from-granada"
+        },
+        {
+          "workId": "menken-aladdin"
+        },
+        {
+          "workId": "rimski-korsakow-hummelflug"
+        },
+        {
+          "workId": "chatschaturjan-saebeltanz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/stadtteilkonzerte-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-07-17-solingen-stadtteilkonzerte",
+      "title": "Stadtteilkonzerte",
+      "eventType": "concert",
+      "date": "2026-07-17",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "marktplatz-graefrath-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "samira-nasser"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "faure-masques-et-bergamasques-ouvertuere"
+        },
+        {
+          "workId": "smyth-serenade-d-dur-scherzo"
+        },
+        {
+          "workId": "bartok-rumaenische-volkstaenze"
+        },
+        {
+          "workId": "saint-saens-danse-bacchanale"
+        },
+        {
+          "workId": "jandali-symphonic-dances"
+        },
+        {
+          "workId": "irshed-al-mutanabbi"
+        },
+        {
+          "workId": "irshed-on-the-way-from-granada"
+        },
+        {
+          "workId": "menken-aladdin"
+        },
+        {
+          "workId": "rimski-korsakow-hummelflug"
+        },
+        {
+          "workId": "chatschaturjan-saebeltanz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/stadtteilkonzerte-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-07-18-remscheid-stadtteilkonzerte",
+      "title": "Stadtteilkonzerte",
+      "eventType": "concert",
+      "date": "2026-07-18",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "munsterplatz-lennep-remscheid",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "samira-nasser"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "faure-masques-et-bergamasques-ouvertuere"
+        },
+        {
+          "workId": "smyth-serenade-d-dur-scherzo"
+        },
+        {
+          "workId": "bartok-rumaenische-volkstaenze"
+        },
+        {
+          "workId": "saint-saens-danse-bacchanale"
+        },
+        {
+          "workId": "jandali-symphonic-dances"
+        },
+        {
+          "workId": "irshed-al-mutanabbi"
+        },
+        {
+          "workId": "irshed-on-the-way-from-granada"
+        },
+        {
+          "workId": "menken-aladdin"
+        },
+        {
+          "workId": "rimski-korsakow-hummelflug"
+        },
+        {
+          "workId": "chatschaturjan-saebeltanz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/stadtteilkonzerte-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-07-19-remscheid-stadtteilkonzerte",
+      "title": "Stadtteilkonzerte",
+      "eventType": "concert",
+      "date": "2026-07-19",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "heimatbuehne-luettringhausen-remscheid",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "samira-nasser"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "faure-masques-et-bergamasques-ouvertuere"
+        },
+        {
+          "workId": "smyth-serenade-d-dur-scherzo"
+        },
+        {
+          "workId": "bartok-rumaenische-volkstaenze"
+        },
+        {
+          "workId": "saint-saens-danse-bacchanale"
+        },
+        {
+          "workId": "jandali-symphonic-dances"
+        },
+        {
+          "workId": "irshed-al-mutanabbi"
+        },
+        {
+          "workId": "irshed-on-the-way-from-granada"
+        },
+        {
+          "workId": "menken-aladdin"
+        },
+        {
+          "workId": "rimski-korsakow-hummelflug"
+        },
+        {
+          "workId": "chatschaturjan-saebeltanz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/stadtteilkonzerte-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-01-solingen-1-philharmonisches-konzert",
+      "title": "1. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2026-09-01",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "frank-peter-zimmermann"
+      ],
+      "program": [
+        {
+          "workId": "magrane-partita-pastime"
+        },
+        {
+          "workId": "walton-violinkonzert"
+        },
+        {
+          "workId": "brahms-sinfonie-1"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/erstes-philharmonisches-konzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5702",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-02-remscheid-1-philharmonisches-konzert",
+      "title": "1. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2026-09-02",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "frank-peter-zimmermann"
+      ],
+      "program": [
+        {
+          "workId": "magrane-partita-pastime"
+        },
+        {
+          "workId": "walton-violinkonzert"
+        },
+        {
+          "workId": "brahms-sinfonie-1"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/erstes-philharmonisches-konzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3064&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-05-remscheid-spielzeiteroeffnungsgala",
+      "title": "Spielzeiteröffnungsgala",
+      "eventType": "concert",
+      "date": "2026-09-05",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/spielzeiteroeffnungsgala-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-06-solingen-spielzeiteroeffnung",
+      "title": "Spielzeiteröffnung – Theater und Konzerthaus Solingen",
+      "eventType": "concert",
+      "date": "2026-09-06",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-und-konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Theater und Konzerthaus Solingen.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/saisoneroeffnung-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-13-solingen-1-familienkonzert",
+      "title": "1. Familienkonzert – Peter und der Wolf",
+      "eventType": "concert",
+      "date": "2026-09-13",
+      "startTime": "09:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "ralph-erdenberger"
+      ],
+      "program": [
+        {
+          "workId": "prokofjew-peter-und-der-wolf"
+        }
+      ],
+      "seriesId": null,
+      "description": "Peter und der Wolf.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/familienkonzerte-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5700",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-18-solingen-operngala",
+      "title": "Operngala",
+      "eventType": "concert",
+      "date": "2026-09-18",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "anne-elizabeth-sorbara",
+        "gabriele-mangione",
+        "modestas-sedlevicius"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/operngala-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5701",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-19-remscheid-operngala",
+      "title": "Operngala",
+      "eventType": "concert",
+      "date": "2026-09-19",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "anne-elizabeth-sorbara",
+        "gabriele-mangione",
+        "modestas-sedlevicius"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/operngala-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3141&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-23-remscheid-erstes-meisterkonzert",
+      "title": "Erstes Meisterkonzert",
+      "eventType": "concert",
+      "date": "2026-09-23",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "vsevolod-zavidov"
+      ],
+      "program": [
+        {
+          "workId": "rachmaninow-bach-partita-transkription"
+        },
+        {
+          "workId": "schubert-impromptus-d899"
+        },
+        {
+          "workId": "rachmaninow-etudes-tableaux-op33"
+        },
+        {
+          "workId": "rachmaninow-corelli-variationen"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/erstes-meisterkonzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/bestseatselect?eventId=3074&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-27-remscheid-1-familienkonzert",
+      "title": "1. Familienkonzert – Peter und der Wolf",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "09:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "ralph-erdenberger"
+      ],
+      "program": [
+        {
+          "workId": "prokofjew-peter-und-der-wolf"
+        }
+      ],
+      "seriesId": null,
+      "description": "Peter und der Wolf.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/familienkonzerte-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3134&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-29-solingen-2-philharmonisches-konzert",
+      "title": "2. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2026-09-29",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "anthony-bramall"
+      ],
+      "soloistPersonIds": [
+        "lyuta-kobayashi"
+      ],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-32"
+        },
+        {
+          "workId": "weber-klarinettenkonzert-2"
+        },
+        {
+          "workId": "sibelius-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/2-philharmonisches-konzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5703",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-30-remscheid-2-philharmonisches-konzert",
+      "title": "2. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2026-09-30",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "anthony-bramall"
+      ],
+      "soloistPersonIds": [
+        "lyuta-kobayashi"
+      ],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-32"
+        },
+        {
+          "workId": "weber-klarinettenkonzert-2"
+        },
+        {
+          "workId": "sibelius-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/2-philharmonisches-konzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3065&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-03-remscheid-festakt-zum-tag-der-deutschen-einheit",
+      "title": "Festakt zum Tag der Deutschen Einheit",
+      "eventType": "concert",
+      "date": "2026-10-03",
+      "startTime": "09:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/festakt-zum-tag-der-deutschen-einheit-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-03-solingen-festakt-zum-tag-der-deutschen-einheit",
+      "title": "Festakt zum Tag der Deutschen Einheit",
+      "eventType": "concert",
+      "date": "2026-10-03",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/festakt-zum-tag-der-deutschen-einheit-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5708",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-16-solingen-on-fire-27",
+      "title": "ON FIRE! #27 – Samy Deluxe",
+      "eventType": "concert",
+      "date": "2026-10-16",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "miki-kekenj"
+      ],
+      "soloistPersonIds": [
+        "samy-deluxe"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Samy Deluxe.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/on-fire-27-samy-deluxe",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5715",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-17-remscheid-on-fire-27",
+      "title": "ON FIRE! #27 – Samy Deluxe",
+      "eventType": "concert",
+      "date": "2026-10-17",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "miki-kekenj"
+      ],
+      "soloistPersonIds": [
+        "samy-deluxe"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Samy Deluxe.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/on-fire-27-samy-deluxe",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3131&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-24-remscheid-nacht-der-kultur-remscheid",
+      "title": "Nacht der Kultur Remscheid",
+      "eventType": "concert",
+      "date": "2026-10-24",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/nacht-der-kultur-remscheid-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-03-solingen-3-philharmonisches-konzert",
+      "title": "3. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2026-11-03",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "moussa-elysium"
+        },
+        {
+          "workId": "bruckner-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/3-philharmonisches-konzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5718",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-04-remscheid-3-philharmonisches-konzert",
+      "title": "3. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2026-11-04",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "moussa-elysium"
+        },
+        {
+          "workId": "bruckner-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/3-philharmonisches-konzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3066&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-08-solingen-erstes-kammerkonzert",
+      "title": "Erstes Kammerkonzert",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "zentrum-fuer-verfolgte-kuenste",
+      "cityId": "solingen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "elgun-aghazada",
+        "shino-nakai",
+        "johanna-seffen",
+        "christian-kircher",
+        "marlies-klumpenaar"
+      ],
+      "program": [
+        {
+          "workId": "mendelssohn-streichquartett-op44-2"
+        },
+        {
+          "workId": "brahms-klarinettenquintett"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/erstes-kammerkonzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theater-solingen.de/veranstaltung/1-kammerkonzert-3/",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-13-remscheid-la-boheme",
+      "title": "La bohème",
+      "eventType": "opera",
+      "date": "2026-11-13",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "per-otto-johansson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/la-boh-me-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3142&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-14-solingen-la-boheme",
+      "title": "La bohème",
+      "eventType": "opera",
+      "date": "2026-11-14",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "per-otto-johansson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/la-boh-me-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5719",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-21-remscheid-orchester-unterwegs",
+      "title": "Orchester unterwegs",
+      "eventType": "concert",
+      "date": "2026-11-21",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "lutherkirche-remscheid",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke von Debussy, Ravel und Fauré.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/orchester-unterwegs-lutherkirche2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-29-remscheid-erstes-kammerkonzert",
+      "title": "Erstes Kammerkonzert",
+      "eventType": "concert",
+      "date": "2026-11-29",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "elgun-aghazada",
+        "shino-nakai",
+        "johanna-seffen",
+        "christian-kircher",
+        "marlies-klumpenaar"
+      ],
+      "program": [
+        {
+          "workId": "mendelssohn-streichquartett-op44-2"
+        },
+        {
+          "workId": "brahms-klarinettenquintett"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/erstes-kammerkonzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/bestseatselect?eventId=3078&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-01-solingen-4-philharmonisches-konzert",
+      "title": "4. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2026-12-01",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "lauma-skride"
+      ],
+      "program": [
+        {
+          "workId": "shaw-entracte"
+        },
+        {
+          "workId": "schumann-klavierkonzert"
+        },
+        {
+          "workId": "zemlinsky-sinfonie-1"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/4-philharmonisches-konzert-2026-27",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5722",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-02-remscheid-4-philharmonisches-konzert",
+      "title": "4. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2026-12-02",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "lauma-skride"
+      ],
+      "program": [
+        {
+          "workId": "shaw-entracte"
+        },
+        {
+          "workId": "schumann-klavierkonzert"
+        },
+        {
+          "workId": "zemlinsky-sinfonie-1"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/4-philharmonisches-konzert-2026-27",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3067&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-06-solingen-orchester-unterwegs",
+      "title": "Orchester unterwegs",
+      "eventType": "concert",
+      "date": "2026-12-06",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "dorper-kirche-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bach-weihnachtsoratorium"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/orchester-unterwegs-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-13-essen-orchester-unterwegs",
+      "title": "Orchester unterwegs",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtskonzert des Polizeichors Essen.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/orchester-unterwegs-essenphilharmonie2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-13-essen-orchester-unterwegs-1830",
+      "title": "Orchester unterwegs",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtskonzert des Polizeichors Essen.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/orchester-unterwegs-essenphilharmonie2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-15-solingen-kirchenkonzert",
+      "title": "Kirchenkonzert",
+      "eventType": "concert",
+      "date": "2026-12-15",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "stadtkirche-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "witolf-werner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/kirchenkonzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/bestseatselect?eventId=5825",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-16-remscheid-kirchenkonzert",
+      "title": "Kirchenkonzert",
+      "eventType": "concert",
+      "date": "2026-12-16",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "lutherkirche-remscheid",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "witolf-werner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/kirchenkonzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/bestseatselect?eventId=3154&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-26-solingen-weihnachtskonzert",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-26",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "vilmantas-kaliunas"
+      ],
+      "soloistPersonIds": [
+        "sabine-schneider"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/weihnachtskonzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5726",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-26-remscheid-weihnachtskonzert",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-26",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "vilmantas-kaliunas"
+      ],
+      "soloistPersonIds": [
+        "sabine-schneider"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/weihnachtskonzert-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3155&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-01-solingen-neujahrskonzert",
+      "title": "Neujahrskonzert",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "mariam-batsashvili"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/neujahrskonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5905",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-02-remscheid-neujahrskonzert",
+      "title": "Neujahrskonzert",
+      "eventType": "concert",
+      "date": "2027-01-02",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "mariam-batsashvili"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/neujahrskonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3158&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-03-coesfeld-orchester-unterwegs",
+      "title": "Orchester unterwegs",
+      "eventType": "concert",
+      "date": "2027-01-03",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzert-theater-coesfeld",
+      "cityId": "coesfeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Neujahrskonzert mit Mariam Batsashvili (Klavier).",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/orchester-unterwegs-coesfeld2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-30-remscheid-2-familienkonzert",
+      "title": "2. Familienkonzert – Karnevalskonzert »Weltraum«",
+      "eventType": "concert",
+      "date": "2027-01-30",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "godeleine-catalan"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Karnevalskonzert »Weltraum«.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/zweites-familienkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3135&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-06-solingen-2-familienkonzert",
+      "title": "2. Familienkonzert – Karnevalskonzert »Weltraum«",
+      "eventType": "concert",
+      "date": "2027-02-06",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "godeleine-catalan"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Karnevalskonzert »Weltraum«.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/zweites-familienkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5736",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-10-remscheid-zweites-meisterkonzert",
+      "title": "Zweites Meisterkonzert",
+      "eventType": "concert",
+      "date": "2027-02-10",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "stefan-temmingh"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/zweites-meisterkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/bestseatselect?eventId=3075&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-16-solingen-5-philharmonisches-konzert",
+      "title": "5. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-02-16",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "andrei-ionita"
+      ],
+      "program": [
+        {
+          "workId": "paert-fratres"
+        },
+        {
+          "workId": "clyne-dance"
+        },
+        {
+          "workId": "tschaikowsky-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/5-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5737",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-17-remscheid-5-philharmonisches-konzert",
+      "title": "5. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-02-17",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "andrei-ionita"
+      ],
+      "program": [
+        {
+          "workId": "paert-fratres"
+        },
+        {
+          "workId": "clyne-dance"
+        },
+        {
+          "workId": "tschaikowsky-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/5-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3068&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-19-muelheim-an-der-ruhr-orchester-unterwegs",
+      "title": "Orchester unterwegs",
+      "eventType": "concert",
+      "date": "2027-02-19",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "stadthalle-muelheim",
+      "cityId": "muelheim-an-der-ruhr",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "andrei-ionita"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/orchester-unterwegs-muelheim-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-24-essen-orchester-unterwegs",
+      "title": "Orchester unterwegs",
+      "eventType": "concert",
+      "date": "2027-02-24",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mit »Nur der RWE« – Sounds of Hafenstraße.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/orchester-unterwegs-essen2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-24-essen-orchester-unterwegs-2000",
+      "title": "Orchester unterwegs",
+      "eventType": "concert",
+      "date": "2027-02-24",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mit »Nur der RWE« – Sounds of Hafenstraße.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/orchester-unterwegs-essen2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-26-remscheid-on-fire-28",
+      "title": "ON FIRE! #28 – Filmmusikkonzert »Und, Action!«",
+      "eventType": "concert",
+      "date": "2027-02-26",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "miki-kekenj"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusikkonzert »Und, Action!«.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/on-fire-28-filmmusikkonzert-und-action-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3132&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-27-solingen-on-fire-28",
+      "title": "ON FIRE! #28 – Filmmusikkonzert »Und, Action!«",
+      "eventType": "concert",
+      "date": "2027-02-27",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "miki-kekenj"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusikkonzert »Und, Action!«.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/on-fire-28-filmmusikkonzert-und-action-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5741",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-05-solingen-der-vogelhaendler",
+      "title": "Der Vogelhändler",
+      "eventType": "opera",
+      "date": "2027-03-05",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "per-otto-johansson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/der-vogelhaendler-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5743",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-07-remscheid-der-vogelhaendler",
+      "title": "Der Vogelhändler",
+      "eventType": "opera",
+      "date": "2027-03-07",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "per-otto-johansson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/der-vogelhaendler-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3143&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-14-solingen-zweites-kammerkonzert",
+      "title": "Zweites Kammerkonzert – »Zwischen Nacht und Licht«",
+      "eventType": "concert",
+      "date": "2027-03-14",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "zentrum-fuer-verfolgte-kuenste",
+      "cityId": "solingen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "elgun-aghazada",
+        "david-schmitz",
+        "peter-schneider"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-streichtrio-op9-3"
+        },
+        {
+          "workId": "webern-streichtrio"
+        },
+        {
+          "workId": "schubert-streichtrio-d581"
+        }
+      ],
+      "seriesId": null,
+      "description": "»Zwischen Nacht und Licht«.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/zweites-kammerkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theater-solingen.de/veranstaltung/2-kammerkonzert-3/",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-16-solingen-6-philharmonisches-konzert",
+      "title": "6. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-03-16",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-spaw"
+      ],
+      "soloistPersonIds": [
+        "dominik-wagner"
+      ],
+      "program": [
+        {
+          "workId": "adams-the-chairman-dances"
+        },
+        {
+          "workId": "rota-divertimento-concertante"
+        },
+        {
+          "workId": "poulenc-sinfonietta"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/6-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5750&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-17-remscheid-6-philharmonisches-konzert",
+      "title": "6. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-03-17",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-spaw"
+      ],
+      "soloistPersonIds": [
+        "dominik-wagner"
+      ],
+      "program": [
+        {
+          "workId": "adams-the-chairman-dances"
+        },
+        {
+          "workId": "rota-divertimento-concertante"
+        },
+        {
+          "workId": "poulenc-sinfonietta"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/6-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3069&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-21-remscheid-zweites-kammerkonzert",
+      "title": "Zweites Kammerkonzert – »Zwischen Nacht und Licht«",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "elgun-aghazada",
+        "david-schmitz",
+        "peter-schneider"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-streichtrio-op9-3"
+        },
+        {
+          "workId": "webern-streichtrio"
+        },
+        {
+          "workId": "schubert-streichtrio-d581"
+        }
+      ],
+      "seriesId": null,
+      "description": "»Zwischen Nacht und Licht«.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/zweites-kammerkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/bestseatselect?eventId=3079&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-13-solingen-7-philharmonisches-konzert",
+      "title": "7. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-04-13",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "christian-schmitt"
+      ],
+      "program": [
+        {
+          "workId": "michael-haydn-sinfonia-25"
+        },
+        {
+          "workId": "franck-grande-piece-symphonique"
+        },
+        {
+          "workId": "strauss-also-sprach-zarathustra"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/7-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5760",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-14-remscheid-7-philharmonisches-konzert",
+      "title": "7. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-04-14",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "christian-schmitt"
+      ],
+      "program": [
+        {
+          "workId": "michael-haydn-sinfonia-25"
+        },
+        {
+          "workId": "franck-grande-piece-symphonique"
+        },
+        {
+          "workId": "strauss-also-sprach-zarathustra"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/7-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3070&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-17-solingen-kaffeekraenzchen-mit-den-bergischen-symphonikern",
+      "title": "Kaffeekränzchen mit den Bergischen Symphonikern",
+      "eventType": "concert",
+      "date": "2027-04-17",
+      "startTime": "13:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/kaffeekraenzchen-mit-den-bergischen-symphonikern-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theater-solingen.de/veranstaltung/kaffeekraenzchen-mit-den-bergischen-symphonikern/",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-24-solingen-burgserenade",
+      "title": "Burgserenade",
+      "eventType": "concert",
+      "date": "2027-04-24",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "schloss-burg",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/burgserenade-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-25-solingen-burgserenade",
+      "title": "Burgserenade",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "schloss-burg",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/burgserenade-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-28-remscheid-drittes-meisterkonzert",
+      "title": "Drittes Meisterkonzert",
+      "eventType": "concert",
+      "date": "2027-04-28",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "lauma-skride",
+        "dominik-wagner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/drittes-meisterkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/bestseatselect?eventId=3076&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-05-solingen-goethe",
+      "title": "Goethe! – Das Musical",
+      "eventType": "concert",
+      "date": "2027-05-05",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "stephan-kanyar"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Das Musical.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/goethe-das-musical-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5769",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-08-solingen-goethe",
+      "title": "Goethe! – Das Musical",
+      "eventType": "concert",
+      "date": "2027-05-08",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "stephan-kanyar"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Das Musical.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/goethe-das-musical-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5770",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-09-remscheid-drittes-kammerkonzert",
+      "title": "Drittes Kammerkonzert – »Schatzsuche«",
+      "eventType": "concert",
+      "date": "2027-05-09",
+      "startTime": "09:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "marlies-klumpenaar",
+        "christian-leschowski",
+        "giovanni-epasto"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "»Schatzsuche«.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/drittes-kammerkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/bestseatselect?eventId=3080&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-09-solingen-goethe",
+      "title": "Goethe! – Das Musical",
+      "eventType": "concert",
+      "date": "2027-05-09",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "stephan-kanyar"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Das Musical.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/goethe-das-musical-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5771",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-13-leverkusen-orchester-unterwegs",
+      "title": "Orchester unterwegs",
+      "eventType": "concert",
+      "date": "2027-05-13",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "forum-leverkusen",
+      "cityId": "leverkusen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/orchester-unterwegs-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "siehe Veranstalter",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-16-solingen-drittes-kammerkonzert",
+      "title": "Drittes Kammerkonzert – »Schatzsuche«",
+      "eventType": "concert",
+      "date": "2027-05-16",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "zentrum-fuer-verfolgte-kuenste",
+      "cityId": "solingen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "marlies-klumpenaar",
+        "christian-leschowski",
+        "giovanni-epasto"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "»Schatzsuche«.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/drittes-kammerkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theater-solingen.de/veranstaltung/3-kammerkonzert-3/",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-18-solingen-8-philharmonisches-konzert",
+      "title": "8. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-05-18",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "maryna-zubko",
+        "evelyn-krahe",
+        "eduardo-aladren",
+        "young-kwon"
+      ],
+      "program": [
+        {
+          "workId": "ives-the-unanswered-question"
+        },
+        {
+          "workId": "hindemith-mathis-der-maler-sinfonie"
+        },
+        {
+          "workId": "bruckner-te-deum"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/8-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5772",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-19-remscheid-8-philharmonisches-konzert",
+      "title": "8. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-05-19",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "maryna-zubko",
+        "evelyn-krahe",
+        "eduardo-aladren",
+        "young-kwon"
+      ],
+      "program": [
+        {
+          "workId": "ives-the-unanswered-question"
+        },
+        {
+          "workId": "hindemith-mathis-der-maler-sinfonie"
+        },
+        {
+          "workId": "bruckner-te-deum"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/8-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3071&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-22-remscheid-goethe",
+      "title": "Goethe! – Das Musical",
+      "eventType": "concert",
+      "date": "2027-05-22",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "stephan-kanyar"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Das Musical.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/goethe-das-musical-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3112&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-26-remscheid-viertes-meisterkonzert",
+      "title": "Viertes Meisterkonzert",
+      "eventType": "concert",
+      "date": "2027-05-26",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "eugenia-ottaviano",
+        "guglielmo-dandolo-marchesi",
+        "gregor-hrabar",
+        "bartolomeo-dandolo-marchesi"
+      ],
+      "program": [
+        {
+          "workId": "schubert-ouvertuere-c-moll-d8a"
+        },
+        {
+          "workId": "de-migno-mein-traum"
+        },
+        {
+          "workId": "schubert-streichquartett-5-d68"
+        },
+        {
+          "workId": "schubert-streichquartett-15-d887"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/viertes-meisterkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/bestseatselect?eventId=3077&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-30-remscheid-3-familienkonzert",
+      "title": "3. Familienkonzert – 20.000 Meilen unter dem Meer",
+      "eventType": "concert",
+      "date": "2027-05-30",
+      "startTime": "09:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "ralph-erdenberger",
+        "dominik-freiberger"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "20.000 Meilen unter dem Meer.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/drittes-familienkonzert-20-000-meilen-unter-dem-meer-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3136&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-04-remscheid-carmen",
+      "title": "Carmen – Ein Ballett über Freiheit, Leidenschaft und Schicksal",
+      "eventType": "concert",
+      "date": "2027-06-04",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Ein Ballett über Freiheit, Leidenschaft und Schicksal.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/carmen-ein-ballett-ueberfreiheit-leidenschaft-und-schicksal-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3146&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-05-solingen-carmen",
+      "title": "Carmen – Ein Ballett über Freiheit, Leidenschaft und Schicksal",
+      "eventType": "concert",
+      "date": "2027-06-05",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Ein Ballett über Freiheit, Leidenschaft und Schicksal.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/carmen-ein-ballett-ueberfreiheit-leidenschaft-und-schicksal-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5777",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-13-solingen-3-familienkonzert",
+      "title": "3. Familienkonzert – 20.000 Meilen unter dem Meer",
+      "eventType": "concert",
+      "date": "2027-06-13",
+      "startTime": "09:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "theater-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "ralph-erdenberger",
+        "dominik-freiberger"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "20.000 Meilen unter dem Meer.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/drittes-familienkonzert-20-000-meilen-unter-dem-meer-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5779",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-15-solingen-9-philharmonisches-konzert",
+      "title": "9. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-06-15",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "gabor-hontvari"
+      ],
+      "soloistPersonIds": [
+        "laura-lootens"
+      ],
+      "program": [
+        {
+          "workId": "schumann-ouvertuere-scherzo-finale"
+        },
+        {
+          "workId": "ponce-concierto-del-sur"
+        },
+        {
+          "workId": "beethoven-sinfonie-4"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/9-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5780",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-16-remscheid-9-philharmonisches-konzert",
+      "title": "9. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-06-16",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "gabor-hontvari"
+      ],
+      "soloistPersonIds": [
+        "laura-lootens"
+      ],
+      "program": [
+        {
+          "workId": "schumann-ouvertuere-scherzo-finale"
+        },
+        {
+          "workId": "ponce-concierto-del-sur"
+        },
+        {
+          "workId": "beethoven-sinfonie-4"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/9-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3072&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-20-remscheid-viertes-kammerkonzert",
+      "title": "Viertes Kammerkonzert",
+      "eventType": "concert",
+      "date": "2027-06-20",
+      "startTime": "09:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "elgun-aghazada",
+        "matthias-wehmer",
+        "elena-migliore"
+      ],
+      "program": [
+        {
+          "workId": "bloch-three-nocturnes"
+        },
+        {
+          "workId": "schostakowitsch-klaviertrio-1"
+        },
+        {
+          "workId": "brahms-klaviertrio-1"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/viertes-kammerkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/bestseatselect?eventId=3081&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-25-solingen-on-fire-29",
+      "title": "ON FIRE! #29 – »ABBA Symphonic Experience«",
+      "eventType": "concert",
+      "date": "2027-06-25",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "miki-kekenj"
+      ],
+      "soloistPersonIds": [
+        "leslie-jost",
+        "velina-nenchev"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "»ABBA Symphonic Experience«.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/on-fire-29-abba-symphonic-experience-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5785",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-26-remscheid-on-fire-29",
+      "title": "ON FIRE! #29 – »ABBA Symphonic Experience«",
+      "eventType": "concert",
+      "date": "2027-06-26",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "miki-kekenj"
+      ],
+      "soloistPersonIds": [
+        "leslie-jost",
+        "velina-nenchev"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "»ABBA Symphonic Experience«.",
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/on-fire-29-abba-symphonic-experience-2026",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3133&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-27-solingen-viertes-kammerkonzert",
+      "title": "Viertes Kammerkonzert",
+      "eventType": "concert",
+      "date": "2027-06-27",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "zentrum-fuer-verfolgte-kuenste",
+      "cityId": "solingen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "elgun-aghazada",
+        "matthias-wehmer",
+        "elena-migliore"
+      ],
+      "program": [
+        {
+          "workId": "bloch-three-nocturnes"
+        },
+        {
+          "workId": "schostakowitsch-klaviertrio-1"
+        },
+        {
+          "workId": "brahms-klaviertrio-1"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/viertes-kammerkonzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theater-solingen.de/veranstaltung/4-kammerkonzert-3/",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-07-06-solingen-10-philharmonisches-konzert",
+      "title": "10. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-07-06",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "konzerthaus-solingen",
+      "cityId": "solingen",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "vsevolod-zavidov"
+      ],
+      "program": [
+        {
+          "workId": "kabalewski-die-komoedianten"
+        },
+        {
+          "workId": "strawinsky-feuervogel-suite"
+        },
+        {
+          "workId": "rachmaninow-klavierkonzert-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/10-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://stk.eventim-inhouse.de/webshop/webticket/seatmap?eventId=5788",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-07-07-remscheid-10-philharmonisches-konzert",
+      "title": "10. Philharmonisches Konzert",
+      "eventType": "concert",
+      "date": "2027-07-07",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bergische-symphoniker"
+      ],
+      "venueId": "teo-otto-theater",
+      "cityId": "remscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [
+        "vsevolod-zavidov"
+      ],
+      "program": [
+        {
+          "workId": "kabalewski-die-komoedianten"
+        },
+        {
+          "workId": "strawinsky-feuervogel-suite"
+        },
+        {
+          "workId": "rachmaninow-klavierkonzert-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://bergischesymphoniker.de/konzerte/10-philharmonisches-konzert-2027",
+        "name": "Bergische Symphoniker",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3073&el=true",
       "lastVerified": "2026-08-17"
     }
   ]

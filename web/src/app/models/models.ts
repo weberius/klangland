@@ -79,7 +79,7 @@ export interface Venue {
   coordinates: Coordinates | null;
   website: string | null;
   type: VenueType;
-  institutionId: string;
+  institutionId: string | null;
 }
 
 export interface Composer {

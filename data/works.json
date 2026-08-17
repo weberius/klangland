@@ -1206,6 +1206,984 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "faure-masques-et-bergamasques-ouvertuere",
+      "composerId": "gabriel-faure",
+      "title": "Ouvertüre aus »Masques et Bergamasques«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "112"
+        }
+      ],
+      "yearComposed": {
+        "from": 1919,
+        "to": 1919
+      },
+      "genre": "overture",
+      "durationMinutes": 7,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "smyth-serenade-d-dur-scherzo",
+      "composerId": "ethel-mary-smyth",
+      "title": "Scherzo aus der Serenade D-Dur",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1889,
+        "to": 1890
+      },
+      "genre": "other",
+      "durationMinutes": 6,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartok-rumaenische-volkstaenze",
+      "composerId": "bela-bartok",
+      "title": "Rumänische Volkstänze",
+      "catalogue": [
+        {
+          "system": "Sz",
+          "number": "68"
+        },
+        {
+          "system": "BB",
+          "number": "76"
+        }
+      ],
+      "yearComposed": {
+        "from": 1915,
+        "to": 1917
+      },
+      "genre": "other",
+      "durationMinutes": 6,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "saint-saens-danse-bacchanale",
+      "composerId": "camille-saint-saens",
+      "title": "Danse Bacchanale aus »Samson et Dalila«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "47"
+        }
+      ],
+      "yearComposed": {
+        "from": 1877,
+        "to": 1877
+      },
+      "genre": "other",
+      "durationMinutes": 7,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "jandali-symphonic-dances",
+      "composerId": "malek-jandali",
+      "title": "Symphonic Dances",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "irshed-al-mutanabbi",
+      "composerId": "bilal-irshed",
+      "title": "Al Mutanabbi",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "irshed-on-the-way-from-granada",
+      "composerId": "bilal-irshed",
+      "title": "On the Way from Granada",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "menken-aladdin",
+      "composerId": "alan-menken",
+      "title": "Aladdin (Auszüge)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1992,
+        "to": 1992
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rimski-korsakow-hummelflug",
+      "composerId": "nikolai-rimski-korsakow",
+      "title": "Der Hummelflug aus »Das Märchen vom Zaren Saltan«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1899,
+        "to": 1900
+      },
+      "genre": "other",
+      "durationMinutes": 3,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "chatschaturjan-saebeltanz",
+      "composerId": "aram-chatschaturjan",
+      "title": "Säbeltanz aus »Gayaneh«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1942,
+        "to": 1942
+      },
+      "genre": "other",
+      "durationMinutes": 3,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "magrane-partita-pastime",
+      "composerId": "david-magrane",
+      "title": "Partita on Henry VIII’s »Pastime with Good Company«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "walton-violinkonzert",
+      "composerId": "william-walton",
+      "title": "Konzert für Violine und Orchester h-Moll",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1938,
+        "to": 1939
+      },
+      "genre": "concerto",
+      "durationMinutes": 30,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-sinfonie-1",
+      "composerId": "johannes-brahms",
+      "title": "Sinfonie Nr. 1 c-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "68"
+        }
+      ],
+      "yearComposed": {
+        "from": 1855,
+        "to": 1876
+      },
+      "genre": "symphony",
+      "durationMinutes": 47,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prokofjew-peter-und-der-wolf",
+      "composerId": "sergej-prokofjew",
+      "title": "Peter und der Wolf",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "67"
+        }
+      ],
+      "yearComposed": {
+        "from": 1936,
+        "to": 1936
+      },
+      "genre": "other",
+      "durationMinutes": 25,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-bach-partita-transkription",
+      "composerId": "sergej-rachmaninow",
+      "title": "Prélude, Gavotte und Gigue (nach J. S. Bachs Partita E-Dur)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1933,
+        "to": 1933
+      },
+      "genre": "other",
+      "durationMinutes": 12,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-impromptus-d899",
+      "composerId": "franz-schubert",
+      "title": "4 Impromptus für Klavier",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "90"
+        },
+        {
+          "system": "D",
+          "number": "899"
+        }
+      ],
+      "yearComposed": {
+        "from": 1827,
+        "to": 1827
+      },
+      "genre": "other",
+      "durationMinutes": 28,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-etudes-tableaux-op33",
+      "composerId": "sergej-rachmaninow",
+      "title": "Études-tableaux",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "33"
+        }
+      ],
+      "yearComposed": {
+        "from": 1911,
+        "to": 1911
+      },
+      "genre": "other",
+      "durationMinutes": 20,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-corelli-variationen",
+      "composerId": "sergej-rachmaninow",
+      "title": "Variationen über ein Thema von Corelli d-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "42"
+        }
+      ],
+      "yearComposed": {
+        "from": 1931,
+        "to": 1931
+      },
+      "genre": "other",
+      "durationMinutes": 20,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sinfonie-32",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Sinfonie Nr. 32 G-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "318"
+        }
+      ],
+      "yearComposed": {
+        "from": 1779,
+        "to": 1779
+      },
+      "genre": "symphony",
+      "durationMinutes": 8,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "weber-klarinettenkonzert-2",
+      "composerId": "carl-maria-von-weber",
+      "title": "Konzert für Klarinette und Orchester Nr. 2 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "74"
+        }
+      ],
+      "yearComposed": {
+        "from": 1811,
+        "to": 1811
+      },
+      "genre": "concerto",
+      "durationMinutes": 23,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sibelius-sinfonie-2",
+      "composerId": "jean-sibelius",
+      "title": "Sinfonie Nr. 2 D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "43"
+        }
+      ],
+      "yearComposed": {
+        "from": 1901,
+        "to": 1902
+      },
+      "genre": "symphony",
+      "durationMinutes": 43,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "moussa-elysium",
+      "composerId": "samy-moussa",
+      "title": "Elysium",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 2022,
+        "to": 2022
+      },
+      "genre": "other",
+      "durationMinutes": 12,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mendelssohn-streichquartett-op44-2",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Streichquartett Nr. 4 e-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "44/2"
+        }
+      ],
+      "yearComposed": {
+        "from": 1837,
+        "to": 1837
+      },
+      "genre": "chamber_music",
+      "durationMinutes": 28,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-klarinettenquintett",
+      "composerId": "johannes-brahms",
+      "title": "Klarinettenquintett h-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "115"
+        }
+      ],
+      "yearComposed": {
+        "from": 1891,
+        "to": 1891
+      },
+      "genre": "chamber_music",
+      "durationMinutes": 38,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "shaw-entracte",
+      "composerId": "caroline-shaw",
+      "title": "Entr’acte",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 2011,
+        "to": 2011
+      },
+      "genre": "other",
+      "durationMinutes": 12,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-klavierkonzert",
+      "composerId": "robert-schumann",
+      "title": "Klavierkonzert a-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "54"
+        }
+      ],
+      "yearComposed": {
+        "from": 1841,
+        "to": 1845
+      },
+      "genre": "concerto",
+      "durationMinutes": 31,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "zemlinsky-sinfonie-1",
+      "composerId": "alexander-zemlinsky",
+      "title": "Sinfonie Nr. 1 d-Moll",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1892,
+        "to": 1892
+      },
+      "genre": "symphony",
+      "durationMinutes": 40,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-weihnachtsoratorium",
+      "composerId": "johann-sebastian-bach",
+      "title": "Weihnachtsoratorium",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "248"
+        }
+      ],
+      "yearComposed": {
+        "from": 1734,
+        "to": 1734
+      },
+      "genre": "oratorio",
+      "durationMinutes": 150,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "paert-fratres",
+      "composerId": "arvo-paert",
+      "title": "Fratres",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1977,
+        "to": 1977
+      },
+      "genre": "other",
+      "durationMinutes": 11,
+      "version": "Fassung für Streichorchester und Schlagzeug",
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "clyne-dance",
+      "composerId": "anna-clyne",
+      "title": "Dance (für Violoncello und Orchester)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 2019,
+        "to": 2019
+      },
+      "genre": "concerto",
+      "durationMinutes": 25,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-sinfonie-6",
+      "composerId": "peter-iljitsch-tschaikowsky",
+      "title": "Sinfonie Nr. 6 h-Moll »Pathétique«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "74"
+        }
+      ],
+      "yearComposed": {
+        "from": 1893,
+        "to": 1893
+      },
+      "genre": "symphony",
+      "durationMinutes": 47,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-streichtrio-op9-3",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Streichtrio Nr. 3 c-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "9/3"
+        }
+      ],
+      "yearComposed": {
+        "from": 1797,
+        "to": 1798
+      },
+      "genre": "chamber_music",
+      "durationMinutes": 26,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "webern-streichtrio",
+      "composerId": "anton-webern",
+      "title": "Streichtrio",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "20"
+        }
+      ],
+      "yearComposed": {
+        "from": 1927,
+        "to": 1927
+      },
+      "genre": "chamber_music",
+      "durationMinutes": 9,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-streichtrio-d581",
+      "composerId": "franz-schubert",
+      "title": "Streichtrio B-Dur",
+      "catalogue": [
+        {
+          "system": "D",
+          "number": "581"
+        }
+      ],
+      "yearComposed": {
+        "from": 1817,
+        "to": 1817
+      },
+      "genre": "chamber_music",
+      "durationMinutes": 22,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "adams-the-chairman-dances",
+      "composerId": "john-adams",
+      "title": "The Chairman Dances (Foxtrott für Orchester)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1985,
+        "to": 1985
+      },
+      "genre": "other",
+      "durationMinutes": 13,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rota-divertimento-concertante",
+      "composerId": "nino-rota",
+      "title": "Divertimento Concertante für Kontrabass und Orchester",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1968,
+        "to": 1973
+      },
+      "genre": "concerto",
+      "durationMinutes": 25,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "poulenc-sinfonietta",
+      "composerId": "francis-poulenc",
+      "title": "Sinfonietta",
+      "catalogue": [
+        {
+          "system": "FP",
+          "number": "141"
+        }
+      ],
+      "yearComposed": {
+        "from": 1947,
+        "to": 1948
+      },
+      "genre": "other",
+      "durationMinutes": 28,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "michael-haydn-sinfonia-25",
+      "composerId": "michael-haydn",
+      "title": "Sinfonia Nr. 25 G-Dur",
+      "catalogue": [
+        {
+          "system": "MH",
+          "number": "334"
+        }
+      ],
+      "yearComposed": {
+        "from": 1783,
+        "to": 1783
+      },
+      "genre": "symphony",
+      "durationMinutes": 18,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "franck-grande-piece-symphonique",
+      "composerId": "cesar-franck",
+      "title": "Grande Pièce Symphonique",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "17"
+        }
+      ],
+      "yearComposed": {
+        "from": 1863,
+        "to": 1863
+      },
+      "genre": "other",
+      "durationMinutes": 27,
+      "version": "Bearbeitung für Orgel und Orchester von Zsigmond Szathmáry",
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-also-sprach-zarathustra",
+      "composerId": "richard-strauss",
+      "title": "Also sprach Zarathustra",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "30"
+        }
+      ],
+      "yearComposed": {
+        "from": 1896,
+        "to": 1896
+      },
+      "genre": "other",
+      "durationMinutes": 33,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ives-the-unanswered-question",
+      "composerId": "charles-ives",
+      "title": "The Unanswered Question",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1908,
+        "to": 1908
+      },
+      "genre": "other",
+      "durationMinutes": 6,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hindemith-mathis-der-maler-sinfonie",
+      "composerId": "paul-hindemith",
+      "title": "Sinfonie »Mathis der Maler«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1933,
+        "to": 1934
+      },
+      "genre": "symphony",
+      "durationMinutes": 27,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruckner-te-deum",
+      "composerId": "anton-bruckner",
+      "title": "Te Deum C-Dur",
+      "catalogue": [
+        {
+          "system": "WAB",
+          "number": "45"
+        }
+      ],
+      "yearComposed": {
+        "from": 1881,
+        "to": 1884
+      },
+      "genre": "other",
+      "durationMinutes": 24,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-ouvertuere-c-moll-d8a",
+      "composerId": "franz-schubert",
+      "title": "Ouvertüre c-Moll",
+      "catalogue": [
+        {
+          "system": "D",
+          "number": "8a"
+        }
+      ],
+      "yearComposed": {
+        "from": 1811,
+        "to": 1811
+      },
+      "genre": "overture",
+      "durationMinutes": 8,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "de-migno-mein-traum",
+      "composerId": "lidia-de-migno",
+      "title": "Mein Traum (für Streichquartett)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-streichquartett-5-d68",
+      "composerId": "franz-schubert",
+      "title": "Streichquartett Nr. 5 B-Dur",
+      "catalogue": [
+        {
+          "system": "D",
+          "number": "68"
+        }
+      ],
+      "yearComposed": {
+        "from": 1813,
+        "to": 1813
+      },
+      "genre": "chamber_music",
+      "durationMinutes": 20,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-streichquartett-15-d887",
+      "composerId": "franz-schubert",
+      "title": "Streichquartett Nr. 15 G-Dur",
+      "catalogue": [
+        {
+          "system": "D",
+          "number": "887"
+        }
+      ],
+      "yearComposed": {
+        "from": 1826,
+        "to": 1826
+      },
+      "genre": "chamber_music",
+      "durationMinutes": 45,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-ouvertuere-scherzo-finale",
+      "composerId": "robert-schumann",
+      "title": "Ouvertüre, Scherzo und Finale",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "52"
+        }
+      ],
+      "yearComposed": {
+        "from": 1841,
+        "to": 1841
+      },
+      "genre": "other",
+      "durationMinutes": 18,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ponce-concierto-del-sur",
+      "composerId": "manuel-ponce",
+      "title": "Concierto del Sur (für Gitarre und Orchester)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1941,
+        "to": 1941
+      },
+      "genre": "concerto",
+      "durationMinutes": 25,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bloch-three-nocturnes",
+      "composerId": "ernest-bloch",
+      "title": "Three Nocturnes (für Klaviertrio)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1924,
+        "to": 1924
+      },
+      "genre": "chamber_music",
+      "durationMinutes": 12,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-klaviertrio-1",
+      "composerId": "dmitri-schostakowitsch",
+      "title": "Klaviertrio Nr. 1 c-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "8"
+        }
+      ],
+      "yearComposed": {
+        "from": 1923,
+        "to": 1923
+      },
+      "genre": "chamber_music",
+      "durationMinutes": 13,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-klaviertrio-1",
+      "composerId": "johannes-brahms",
+      "title": "Klaviertrio Nr. 1 H-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "8"
+        }
+      ],
+      "yearComposed": {
+        "from": 1854,
+        "to": 1854
+      },
+      "genre": "chamber_music",
+      "durationMinutes": 35,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kabalewski-die-komoedianten",
+      "composerId": "dmitri-kabalewski",
+      "title": "»Die Komödianten«, Suite",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "26"
+        }
+      ],
+      "yearComposed": {
+        "from": 1940,
+        "to": 1940
+      },
+      "genre": "other",
+      "durationMinutes": 16,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strawinsky-feuervogel-suite",
+      "composerId": "igor-strawinsky",
+      "title": "»Der Feuervogel«, Suite für Orchester",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1919,
+        "to": 1919
+      },
+      "genre": "other",
+      "durationMinutes": 22,
+      "version": "Suite 1919",
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-klavierkonzert-2",
+      "composerId": "sergej-rachmaninow",
+      "title": "Klavierkonzert Nr. 2 c-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "18"
+        }
+      ],
+      "yearComposed": {
+        "from": 1900,
+        "to": 1901
+      },
+      "genre": "concerto",
+      "durationMinutes": 33,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

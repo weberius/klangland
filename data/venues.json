@@ -1,21 +1,438 @@
 {
-  "metadata": { "version": "1.1", "lastUpdated": "2026-08-17", "language": "de", "notes": "Adressen und Koordinaten sind noch nicht recherchiert und daher null." },
+  "metadata": {
+    "version": "1.1",
+    "lastUpdated": "2026-08-17",
+    "language": "de",
+    "notes": "Adressen und Koordinaten sind noch nicht recherchiert und daher null."
+  },
   "venues": [
-    { "id": "theater-aachen", "name": "Theater Aachen", "cityIds": ["aachen"], "region": null, "address": null, "coordinates": null, "website": null, "type": "theatre", "institutionId": "theater-aachen" },
-    { "id": "stadthalle-bielefeld", "name": "Stadthalle Bielefeld", "cityIds": ["bielefeld"], "region": null, "address": null, "coordinates": null, "website": null, "type": "concert_hall", "institutionId": "stadttheater-bielefeld" },
-    { "id": "zeughauskultur-bochum", "name": "Anneliese Brost Musikforum Ruhr", "cityIds": ["bochum"], "region": null, "address": null, "coordinates": null, "website": null, "type": "concert_hall", "institutionId": "bochum-kultur" },
-    { "id": "world-conference-center-bonn", "name": "World Conference Center Bonn", "cityIds": ["bonn"], "region": null, "address": null, "coordinates": null, "website": null, "type": "concert_hall", "institutionId": "beethoven-orchester-bonn-institution" },
-    { "id": "konzerthaus-dortmund", "name": "Konzerthaus Dortmund", "cityIds": ["dortmund"], "region": null, "address": null, "coordinates": null, "website": null, "type": "concert_hall", "institutionId": "theater-dortmund" },
-    { "id": "theater-duisburg", "name": "Theater Duisburg", "cityIds": ["duisburg"], "region": null, "address": null, "coordinates": null, "website": "https://www.operamrhein.de/", "type": "opera_house", "institutionId": "deutsche-oper-am-rhein" },
-    { "id": "tonhalle-duesseldorf", "name": "Tonhalle Düsseldorf", "cityIds": ["duesseldorf"], "region": null, "address": null, "coordinates": null, "website": "https://www.tonhalle.de/", "type": "philharmonic_hall", "institutionId": "deutsche-oper-am-rhein" },
-    { "id": "philharmonie-essen", "name": "Philharmonie Essen", "cityIds": ["essen"], "region": null, "address": null, "coordinates": null, "website": "https://www.philharmonie-essen.de/", "type": "philharmonic_hall", "institutionId": "theater-und-philharmonie-essen" },
-    { "id": "theater-hagen", "name": "Theater Hagen", "cityIds": ["hagen"], "region": null, "address": null, "coordinates": null, "website": null, "type": "theatre", "institutionId": "theater-hagen-institution" },
-    { "id": "koelner-philharmonie", "name": "Kölner Philharmonie", "cityIds": ["koeln"], "region": null, "address": null, "coordinates": null, "website": "https://www.koelner-philharmonie.de/", "type": "philharmonic_hall", "institutionId": "oper-koeln" },
-    { "id": "theater-krefeld-moenchengladbach", "name": "Theater Krefeld und Mönchengladbach", "cityIds": ["krefeld", "moenchengladbach"], "region": null, "address": null, "coordinates": null, "website": null, "type": "theatre", "institutionId": "theater-krefeld-moenchengladbach-institution" },
-    { "id": "theater-muenster", "name": "Theater Münster", "cityIds": ["muenster"], "region": null, "address": null, "coordinates": null, "website": null, "type": "theatre", "institutionId": "theater-muenster-institution" },
-    { "id": "wechselnde-spielstaetten-ruhrgebiet", "name": "Wechselnde Spielstätten im Ruhrgebiet", "cityIds": [], "region": "Ruhrgebiet", "address": null, "coordinates": null, "website": null, "type": "other", "institutionId": "neue-philharmonie-westfalen-institution" },
-    { "id": "siegener-stadthalle", "name": "Siegerlandhalle", "cityIds": ["siegen"], "region": null, "address": null, "coordinates": null, "website": null, "type": "concert_hall", "institutionId": "philharmonie-suedwestfalen-institution" },
-    { "id": "theater-und-konzerthaus-solingen", "name": "Theater und Konzerthaus Solingen", "cityIds": ["solingen"], "region": null, "address": null, "coordinates": null, "website": null, "type": "concert_hall", "institutionId": "bergische-symphoniker-institution" },
-    { "id": "historische-stadthalle-wuppertal", "name": "Historische Stadthalle Wuppertal", "cityIds": ["wuppertal"], "region": null, "address": null, "coordinates": null, "website": null, "type": "concert_hall", "institutionId": "wuppertaler-buehnen" }
+    {
+      "id": "theater-aachen",
+      "name": "Theater Aachen",
+      "cityIds": [
+        "aachen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-aachen"
+    },
+    {
+      "id": "stadthalle-bielefeld",
+      "name": "Stadthalle Bielefeld",
+      "cityIds": [
+        "bielefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": "stadttheater-bielefeld"
+    },
+    {
+      "id": "zeughauskultur-bochum",
+      "name": "Anneliese Brost Musikforum Ruhr",
+      "cityIds": [
+        "bochum"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": "bochum-kultur"
+    },
+    {
+      "id": "world-conference-center-bonn",
+      "name": "World Conference Center Bonn",
+      "cityIds": [
+        "bonn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": "beethoven-orchester-bonn-institution"
+    },
+    {
+      "id": "konzerthaus-dortmund",
+      "name": "Konzerthaus Dortmund",
+      "cityIds": [
+        "dortmund"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": "theater-dortmund"
+    },
+    {
+      "id": "theater-duisburg",
+      "name": "Theater Duisburg",
+      "cityIds": [
+        "duisburg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": "https://www.operamrhein.de/",
+      "type": "opera_house",
+      "institutionId": "deutsche-oper-am-rhein"
+    },
+    {
+      "id": "tonhalle-duesseldorf",
+      "name": "Tonhalle Düsseldorf",
+      "cityIds": [
+        "duesseldorf"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": "https://www.tonhalle.de/",
+      "type": "philharmonic_hall",
+      "institutionId": "deutsche-oper-am-rhein"
+    },
+    {
+      "id": "philharmonie-essen",
+      "name": "Philharmonie Essen",
+      "cityIds": [
+        "essen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": "https://www.philharmonie-essen.de/",
+      "type": "philharmonic_hall",
+      "institutionId": "theater-und-philharmonie-essen"
+    },
+    {
+      "id": "theater-hagen",
+      "name": "Theater Hagen",
+      "cityIds": [
+        "hagen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-hagen-institution"
+    },
+    {
+      "id": "koelner-philharmonie",
+      "name": "Kölner Philharmonie",
+      "cityIds": [
+        "koeln"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": "https://www.koelner-philharmonie.de/",
+      "type": "philharmonic_hall",
+      "institutionId": "oper-koeln"
+    },
+    {
+      "id": "theater-krefeld-moenchengladbach",
+      "name": "Theater Krefeld und Mönchengladbach",
+      "cityIds": [
+        "krefeld",
+        "moenchengladbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-krefeld-moenchengladbach-institution"
+    },
+    {
+      "id": "theater-muenster",
+      "name": "Theater Münster",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-muenster-institution"
+    },
+    {
+      "id": "wechselnde-spielstaetten-ruhrgebiet",
+      "name": "Wechselnde Spielstätten im Ruhrgebiet",
+      "cityIds": [],
+      "region": "Ruhrgebiet",
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": "neue-philharmonie-westfalen-institution"
+    },
+    {
+      "id": "siegener-stadthalle",
+      "name": "Siegerlandhalle",
+      "cityIds": [
+        "siegen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": "philharmonie-suedwestfalen-institution"
+    },
+    {
+      "id": "theater-und-konzerthaus-solingen",
+      "name": "Theater und Konzerthaus Solingen",
+      "cityIds": [
+        "solingen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": "bergische-symphoniker-institution"
+    },
+    {
+      "id": "historische-stadthalle-wuppertal",
+      "name": "Historische Stadthalle Wuppertal",
+      "cityIds": [
+        "wuppertal"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": "wuppertaler-buehnen"
+    },
+    {
+      "id": "konzerthaus-solingen",
+      "name": "Konzerthaus Solingen",
+      "cityIds": [
+        "solingen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": "bergische-symphoniker-institution"
+    },
+    {
+      "id": "theater-solingen",
+      "name": "Theater Solingen",
+      "cityIds": [
+        "solingen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "bergische-symphoniker-institution"
+    },
+    {
+      "id": "teo-otto-theater",
+      "name": "Teo Otto Theater",
+      "cityIds": [
+        "remscheid"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "bergische-symphoniker-institution"
+    },
+    {
+      "id": "zentrum-fuer-verfolgte-kuenste",
+      "name": "Zentrum für verfolgte Künste",
+      "cityIds": [
+        "solingen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "schloss-burg",
+      "name": "Schloss Burg",
+      "cityIds": [
+        "solingen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "forum-leverkusen",
+      "name": "Forum Leverkusen",
+      "cityIds": [
+        "leverkusen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "stadthalle-muelheim",
+      "name": "Stadthalle Mülheim an der Ruhr",
+      "cityIds": [
+        "muelheim-an-der-ruhr"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "konzert-theater-coesfeld",
+      "name": "Konzert Theater Coesfeld",
+      "cityIds": [
+        "coesfeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "lutherkirche-remscheid",
+      "name": "Lutherkirche Remscheid",
+      "cityIds": [
+        "remscheid"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "dorper-kirche-solingen",
+      "name": "Dorper Kirche",
+      "cityIds": [
+        "solingen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "stadtkirche-solingen",
+      "name": "Stadtkirche Solingen",
+      "cityIds": [
+        "solingen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "suedpark-solingen",
+      "name": "Südpark Solingen",
+      "cityIds": [
+        "solingen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "stadtpark-konzertmuschel-remscheid",
+      "name": "Stadtpark Konzertmuschel Remscheid",
+      "cityIds": [
+        "remscheid"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "brueckenpark-solingen",
+      "name": "Brückenpark Müngsten",
+      "cityIds": [
+        "solingen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "marktplatz-graefrath-solingen",
+      "name": "Marktplatz Gräfrath",
+      "cityIds": [
+        "solingen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "munsterplatz-lennep-remscheid",
+      "name": "Munsterplatz Lennep",
+      "cityIds": [
+        "remscheid"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "heimatbuehne-luettringhausen-remscheid",
+      "name": "Heimatbühne Lüttringhausen",
+      "cityIds": [
+        "remscheid"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    }
   ]
 }

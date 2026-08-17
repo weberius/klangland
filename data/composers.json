@@ -317,6 +317,238 @@
         "from": 1875,
         "to": 1937
       }
+    },
+    {
+      "id": "alan-menken",
+      "name": "Alan Menken",
+      "life": {
+        "from": 1949,
+        "to": null
+      }
+    },
+    {
+      "id": "alexander-zemlinsky",
+      "name": "Alexander Zemlinsky",
+      "life": {
+        "from": 1871,
+        "to": 1942
+      }
+    },
+    {
+      "id": "anna-clyne",
+      "name": "Anna Clyne",
+      "life": {
+        "from": 1980,
+        "to": null
+      }
+    },
+    {
+      "id": "aram-chatschaturjan",
+      "name": "Aram Chatschaturjan",
+      "life": {
+        "from": 1903,
+        "to": 1978
+      }
+    },
+    {
+      "id": "arvo-paert",
+      "name": "Arvo Pärt",
+      "life": {
+        "from": 1935,
+        "to": null
+      }
+    },
+    {
+      "id": "bilal-irshed",
+      "name": "Bilal Irshed",
+      "life": {
+        "from": null,
+        "to": null
+      }
+    },
+    {
+      "id": "cesar-franck",
+      "name": "César Franck",
+      "life": {
+        "from": 1822,
+        "to": 1890
+      }
+    },
+    {
+      "id": "david-magrane",
+      "name": "David Magrané",
+      "life": {
+        "from": null,
+        "to": null
+      }
+    },
+    {
+      "id": "dmitri-kabalewski",
+      "name": "Dmitri Kabalewski",
+      "life": {
+        "from": 1904,
+        "to": 1987
+      }
+    },
+    {
+      "id": "dmitri-schostakowitsch",
+      "name": "Dmitri Schostakowitsch",
+      "life": {
+        "from": 1906,
+        "to": 1975
+      }
+    },
+    {
+      "id": "ethel-mary-smyth",
+      "name": "Ethel Mary Smyth",
+      "life": {
+        "from": 1858,
+        "to": 1944
+      }
+    },
+    {
+      "id": "felix-mendelssohn-bartholdy",
+      "name": "Felix Mendelssohn Bartholdy",
+      "life": {
+        "from": 1809,
+        "to": 1847
+      }
+    },
+    {
+      "id": "gabriel-faure",
+      "name": "Gabriel Fauré",
+      "life": {
+        "from": 1845,
+        "to": 1924
+      }
+    },
+    {
+      "id": "igor-strawinsky",
+      "name": "Igor Strawinsky",
+      "life": {
+        "from": 1882,
+        "to": 1971
+      }
+    },
+    {
+      "id": "jean-sibelius",
+      "name": "Jean Sibelius",
+      "life": {
+        "from": 1865,
+        "to": 1957
+      }
+    },
+    {
+      "id": "johann-sebastian-bach",
+      "name": "Johann Sebastian Bach",
+      "life": {
+        "from": 1685,
+        "to": 1750
+      }
+    },
+    {
+      "id": "johannes-brahms",
+      "name": "Johannes Brahms",
+      "life": {
+        "from": 1833,
+        "to": 1897
+      }
+    },
+    {
+      "id": "john-adams",
+      "name": "John Adams",
+      "life": {
+        "from": 1947,
+        "to": null
+      }
+    },
+    {
+      "id": "lidia-de-migno",
+      "name": "Lidia De Migno",
+      "life": {
+        "from": null,
+        "to": null
+      }
+    },
+    {
+      "id": "malek-jandali",
+      "name": "Malek Jandali",
+      "life": {
+        "from": 1972,
+        "to": null
+      }
+    },
+    {
+      "id": "manuel-ponce",
+      "name": "Manuel Ponce",
+      "life": {
+        "from": 1882,
+        "to": 1948
+      }
+    },
+    {
+      "id": "michael-haydn",
+      "name": "Michael Haydn",
+      "life": {
+        "from": 1737,
+        "to": 1806
+      }
+    },
+    {
+      "id": "nikolai-rimski-korsakow",
+      "name": "Nikolai Rimski-Korsakow",
+      "life": {
+        "from": 1844,
+        "to": 1908
+      }
+    },
+    {
+      "id": "nino-rota",
+      "name": "Nino Rota",
+      "life": {
+        "from": 1911,
+        "to": 1979
+      }
+    },
+    {
+      "id": "paul-hindemith",
+      "name": "Paul Hindemith",
+      "life": {
+        "from": 1895,
+        "to": 1963
+      }
+    },
+    {
+      "id": "robert-schumann",
+      "name": "Robert Schumann",
+      "life": {
+        "from": 1810,
+        "to": 1856
+      }
+    },
+    {
+      "id": "samy-moussa",
+      "name": "Samy Moussa",
+      "life": {
+        "from": 1984,
+        "to": null
+      }
+    },
+    {
+      "id": "william-walton",
+      "name": "William Walton",
+      "life": {
+        "from": 1902,
+        "to": 1983
+      }
+    },
+    {
+      "id": "wolfgang-amadeus-mozart",
+      "name": "Wolfgang Amadeus Mozart",
+      "life": {
+        "from": 1756,
+        "to": 1791
+      }
     }
   ]
 }
