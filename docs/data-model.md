@@ -68,6 +68,9 @@ Entität benannt ist (`institutions`, `ensembles`, `venues`, …).
 | `data/works.json` | `works` | Werkstammdaten | [entities/composers-and-works.md](entities/composers-and-works.md) |
 | `data/events.json` | `events` | Aufführungen/Veranstaltungen | [events-and-relations.md](events-and-relations.md) |
 
+Wie Spielpläne recherchiert und in diese Dateien übernommen werden, ist im
+[Daten-Tooling](data-tooling/README.md) dokumentiert (Ingest-Skripte je Quelle).
+
 ## Beziehungen
 
 ```text

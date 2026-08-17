@@ -41,7 +41,7 @@ sind derzeit noch nicht recherchiert und daher `null`.
 | `coordinates` | ja | object \| null | Geokoordinaten für die spätere Kartenansicht, erwartet `{ "lat": number, "lng": number }`; noch `null`. |
 | `website` | ja | string \| null | Offizielle Website der Spielstätte. |
 | `type` | ja | enum | Art der Spielstätte. |
-| `institutionId` | ja | string | Betreibende/verantwortliche Institution; Referenz auf [`institutions.id`](institutions.md). |
+| `institutionId` | ja | string \| null | Betreibende/verantwortliche Institution; Referenz auf [`institutions.id`](institutions.md). `null` bei Gast-/Fremdspielstätten ohne bekannten Träger (z. B. Kirchen, Parks, auswärtige Häuser). |
 
 ## Kontrollierte Werte: `type`
 
