@@ -433,6 +433,58 @@
       "website": null,
       "type": "other",
       "institutionId": null
+    },
+    {
+      "id": "kammermusiksaal-kartaeuserwall-koeln",
+      "name": "Kammermusiksaal am Kartäuserwall",
+      "cityIds": [
+        "koeln"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "rheinische-musikschule-koeln",
+      "name": "Rheinische Musikschule Köln",
+      "cityIds": [
+        "koeln"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "buergerzentrum-engelshof-koeln",
+      "name": "Bürgerzentrum Engelshof",
+      "cityIds": [
+        "koeln"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "belgisches-haus-koeln",
+      "name": "Belgisches Haus",
+      "cityIds": [
+        "koeln"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
     }
   ]
 }

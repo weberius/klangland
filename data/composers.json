@@ -549,6 +549,214 @@
         "from": 1756,
         "to": 1791
       }
+    },
+    {
+      "id": "alban-berg",
+      "name": "Alban Berg",
+      "life": {
+        "from": 1885,
+        "to": 1935
+      }
+    },
+    {
+      "id": "anton-arensky",
+      "name": "Anton Arensky",
+      "life": {
+        "from": 1861,
+        "to": 1906
+      }
+    },
+    {
+      "id": "carl-nielsen",
+      "name": "Carl Nielsen",
+      "life": {
+        "from": 1865,
+        "to": 1931
+      }
+    },
+    {
+      "id": "claude-debussy",
+      "name": "Claude Debussy",
+      "life": {
+        "from": 1862,
+        "to": 1918
+      }
+    },
+    {
+      "id": "edvard-grieg",
+      "name": "Edvard Grieg",
+      "life": {
+        "from": 1843,
+        "to": 1907
+      }
+    },
+    {
+      "id": "eivind-groven",
+      "name": "Eivind Groven",
+      "life": {
+        "from": 1901,
+        "to": 1977
+      }
+    },
+    {
+      "id": "ernst-von-dohnanyi",
+      "name": "Ernst von Dohnányi",
+      "life": {
+        "from": 1877,
+        "to": 1960
+      }
+    },
+    {
+      "id": "george-gershwin",
+      "name": "George Gershwin",
+      "life": {
+        "from": 1898,
+        "to": 1937
+      }
+    },
+    {
+      "id": "gideon-klein",
+      "name": "Gideon Klein",
+      "life": {
+        "from": 1919,
+        "to": 1945
+      }
+    },
+    {
+      "id": "hans-werner-henze",
+      "name": "Hans Werner Henze",
+      "life": {
+        "from": 1926,
+        "to": 2012
+      }
+    },
+    {
+      "id": "hector-berlioz",
+      "name": "Hector Berlioz",
+      "life": {
+        "from": 1803,
+        "to": 1869
+      }
+    },
+    {
+      "id": "henry-purcell",
+      "name": "Henry Purcell",
+      "life": {
+        "from": 1659,
+        "to": 1695
+      }
+    },
+    {
+      "id": "ian-clarke",
+      "name": "Ian Clarke",
+      "life": {
+        "from": 1964,
+        "to": null
+      }
+    },
+    {
+      "id": "jacques-ibert",
+      "name": "Jacques Ibert",
+      "life": {
+        "from": 1890,
+        "to": 1962
+      }
+    },
+    {
+      "id": "joerg-widmann",
+      "name": "Jörg Widmann",
+      "life": {
+        "from": 1973,
+        "to": null
+      }
+    },
+    {
+      "id": "luigi-boccherini",
+      "name": "Luigi Boccherini",
+      "life": {
+        "from": 1743,
+        "to": 1805
+      }
+    },
+    {
+      "id": "mario-castelnuovo-tedesco",
+      "name": "Mario Castelnuovo-Tedesco",
+      "life": {
+        "from": 1895,
+        "to": 1968
+      }
+    },
+    {
+      "id": "matthias-pintscher",
+      "name": "Matthias Pintscher",
+      "life": {
+        "from": 1971,
+        "to": null
+      }
+    },
+    {
+      "id": "niccolo-paganini",
+      "name": "Niccolò Paganini",
+      "life": {
+        "from": 1782,
+        "to": 1840
+      }
+    },
+    {
+      "id": "niels-wilhelm-gade",
+      "name": "Niels Wilhelm Gade",
+      "life": {
+        "from": 1817,
+        "to": 1890
+      }
+    },
+    {
+      "id": "nikolai-kapustin",
+      "name": "Nikolai Kapustin",
+      "life": {
+        "from": 1937,
+        "to": 2020
+      }
+    },
+    {
+      "id": "oskar-jockel",
+      "name": "Oskar Jockel",
+      "life": {
+        "from": 1995,
+        "to": null
+      }
+    },
+    {
+      "id": "ralph-vaughan-williams",
+      "name": "Ralph Vaughan Williams",
+      "life": {
+        "from": 1872,
+        "to": 1958
+      }
+    },
+    {
+      "id": "roger-quilter",
+      "name": "Roger Quilter",
+      "life": {
+        "from": 1877,
+        "to": 1953
+      }
+    },
+    {
+      "id": "thomas-dunhill",
+      "name": "Thomas Dunhill",
+      "life": {
+        "from": 1877,
+        "to": 1946
+      }
+    },
+    {
+      "id": "vassos-nicolaou",
+      "name": "Vassos Nicolaou",
+      "life": {
+        "from": 1971,
+        "to": null
+      }
     }
   ]
 }

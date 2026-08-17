@@ -4,107 +4,9 @@
     "lastUpdated": "2026-08-17",
     "season": "2026/27",
     "language": "de",
-    "notes": "Enthält recherchierte Konzerte des WDR Sinfonieorchesters (Kölner Philharmonie) und der Bergischen Symphoniker (Spielzeit 2026/27, Quelle: bergischesymphoniker.de) sowie einige frühere Beispieldatensätze (Quellen mit example.org)."
+    "notes": "Enthält recherchierte Konzerte des WDR Sinfonieorchesters (Kölner Philharmonie), der Bergischen Symphoniker (bergischesymphoniker.de) und des Gürzenich-Orchesters Köln (guerzenich-orchester.de), Spielzeit 2026/27, sowie einige frühere Beispieldatensätze (Quellen mit example.org)."
   },
   "events": [
-    {
-      "id": "event-2026-10-02-duesseldorf-mahler3",
-      "title": "Mahler 3",
-      "eventType": "concert",
-      "date": "2026-10-02",
-      "startTime": "19:30",
-      "endTime": null,
-      "status": "scheduled",
-      "ensembleIds": [
-        "duesseldorfer-symphoniker"
-      ],
-      "venueId": "tonhalle-duesseldorf",
-      "cityId": "duesseldorf",
-      "conductorPersonIds": [
-        "vitali-alekseenok"
-      ],
-      "soloistPersonIds": [],
-      "program": [
-        {
-          "workId": "mahler-sinfonie-3"
-        }
-      ],
-      "seriesId": null,
-      "description": "Beispiel für ein eigenständiges Konzert-Event.",
-      "source": {
-        "url": "https://example.org/klangland/demo/duesseldorf-mahler-3-2026-10-02",
-        "name": "Klangland-Demodaten",
-        "retrievedAt": "2026-08-17"
-      },
-      "ticketUrl": null,
-      "lastVerified": "2026-08-17"
-    },
-    {
-      "id": "event-2026-10-03-duesseldorf-mahler3",
-      "title": "Mahler 3",
-      "eventType": "concert",
-      "date": "2026-10-03",
-      "startTime": "19:30",
-      "endTime": null,
-      "status": "scheduled",
-      "ensembleIds": [
-        "duesseldorfer-symphoniker"
-      ],
-      "venueId": "tonhalle-duesseldorf",
-      "cityId": "duesseldorf",
-      "conductorPersonIds": [
-        "vitali-alekseenok"
-      ],
-      "soloistPersonIds": [],
-      "program": [
-        {
-          "workId": "mahler-sinfonie-3",
-          "movement": null
-        }
-      ],
-      "seriesId": null,
-      "description": "Zweiter Aufführungstermin mit eigener Event-ID.",
-      "source": {
-        "url": "https://example.org/klangland/demo/duesseldorf-mahler-3-2026-10-03",
-        "name": "Klangland-Demodaten",
-        "retrievedAt": "2026-08-17"
-      },
-      "ticketUrl": null,
-      "lastVerified": "2026-08-17"
-    },
-    {
-      "id": "event-2026-11-14-koeln-neue-musik",
-      "title": "Klangräume",
-      "eventType": "concert",
-      "date": "2026-11-14",
-      "startTime": "20:00",
-      "endTime": null,
-      "status": "scheduled",
-      "ensembleIds": [
-        "wdr-sinfonieorchester"
-      ],
-      "venueId": "koelner-philharmonie",
-      "cityId": "koeln",
-      "conductorPersonIds": [
-        "marie-jacquot"
-      ],
-      "soloistPersonIds": [],
-      "program": [
-        {
-          "workId": "bruckner-sinfonie-7",
-          "version": null
-        }
-      ],
-      "seriesId": null,
-      "description": "Beispiel für ein Event des WDR Sinfonieorchesters mit eigener Programmreihenbezeichnung.",
-      "source": {
-        "url": "https://example.org/klangland/demo/koeln-klangraeume-2026-11-14",
-        "name": "Klangland-Demodaten",
-        "retrievedAt": "2026-08-17"
-      },
-      "ticketUrl": null,
-      "lastVerified": "2026-08-17"
-    },
     {
       "id": "event-2026-09-18-koeln-aufbruch",
       "title": "Aufbruch – Marie Jacquot & Yulianna Avdeeva",
@@ -4359,6 +4261,2922 @@
         "retrievedAt": "2026-08-17"
       },
       "ticketUrl": "https://theaterticket.remscheid.de/eventim.webshop/webticket/seatmap?eventId=3073&el=true",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-10-koeln-philharmonieprobe",
+      "title": "PhilharmonieProbe",
+      "eventType": "concert",
+      "date": "2026-09-10",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Probenbesuch. Öffentliche Probe zum jeweiligen Konzertprogramm.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/philharmonieprobe",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://www.koelner-philharmonie.de/de/konzerte/philharmonieprobe/9498?_gl=1%2a1o02fjo%2a_up%2aMQ..%2a_gs%2aMQ..&gclid=EAIaIQobChMI98Wnp9e1kwMVV5aDBx0z2RdYEAAYASAAEgJvCvD_BwE&gbraid=0AAAAABVeiXrXW5OziS3m7mDO939Pt6mNF",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-11-koeln-summertime",
+      "title": "Summertime",
+      "eventType": "concert",
+      "date": "2026-09-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [
+        "masabane-cecilia-rangwanasha",
+        "kevin-short"
+      ],
+      "program": [
+        {
+          "workId": "gershwin-amerikaner-in-paris"
+        },
+        {
+          "workId": "gershwin-porgy-and-bess-concert-of-songs"
+        }
+      ],
+      "seriesId": null,
+      "description": "Festkonzert zur Saisoneröffnung.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/summertime",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26297&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-13-koeln-summertime",
+      "title": "Summertime",
+      "eventType": "concert",
+      "date": "2026-09-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [
+        "masabane-cecilia-rangwanasha",
+        "kevin-short"
+      ],
+      "program": [
+        {
+          "workId": "gershwin-amerikaner-in-paris"
+        },
+        {
+          "workId": "gershwin-porgy-and-bess-concert-of-songs"
+        }
+      ],
+      "seriesId": null,
+      "description": "Festkonzert zur Saisoneröffnung.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/summertime",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26298&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-14-koeln-jubilaeumskonzert-koelner-philharmonie",
+      "title": "Jubiläumskonzert Kölner Philharmonie",
+      "eventType": "concert",
+      "date": "2026-09-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "joerg-widmann",
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [
+        "sergei-nakariakov",
+        "pierre-charial"
+      ],
+      "program": [
+        {
+          "workId": "mendelssohn-sinfonie-5-reformation"
+        },
+        {
+          "workId": "widmann-ad-absurdum"
+        },
+        {
+          "workId": "brahms-gesang-aus-fingal"
+        },
+        {
+          "workId": "strauss-also-sprach-zarathustra"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/jubilaeumskonzert-koelner-philharmonie",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://www.koelner-philharmonie.de/de/konzerte/jubilaumskonzert-40-jahre-kolner-philharmonie/9333",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-26-koeln-female-voices-of-resilience",
+      "title": "Female Voices of Resilience",
+      "eventType": "concert",
+      "date": "2026-09-26",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "juya-shin"
+      ],
+      "soloistPersonIds": [
+        "hani-mojtahedy",
+        "sanam-maroufkhani",
+        "maliheh-moradi",
+        "mina-deris",
+        "ghazaal-ansarirad",
+        "samin-ghorbani",
+        "foroogh-fazil",
+        "mahya-hamedi",
+        "hura-mirshekari",
+        "avin-ahmadi",
+        "mehrnoosh-zolfaghari",
+        "sara-hasti"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Iranian Women Singing for Freedom. Programm wird noch bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/female-voices-of-resilience",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=341&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-05-koeln-happy-birthday",
+      "title": "Happy birthday!",
+      "eventType": "concert",
+      "date": "2026-10-05",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "jockel-auftragswerk-2026"
+        },
+        {
+          "workId": "strawinsky-pulcinella-suite"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/happy-birthday",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26342&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-11-koeln-zum-licht",
+      "title": "Zum Licht",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "brahms-schicksalslied"
+        },
+        {
+          "workId": "bernstein-chichester-psalms"
+        },
+        {
+          "workId": "brahms-sinfonie-1"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/zum-licht",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26300&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-12-koeln-zum-licht",
+      "title": "Zum Licht",
+      "eventType": "concert",
+      "date": "2026-10-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "brahms-schicksalslied"
+        },
+        {
+          "workId": "bernstein-chichester-psalms"
+        },
+        {
+          "workId": "brahms-sinfonie-1"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/zum-licht",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26310&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-13-koeln-zum-licht",
+      "title": "Zum Licht",
+      "eventType": "concert",
+      "date": "2026-10-13",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "brahms-schicksalslied"
+        },
+        {
+          "workId": "bernstein-chichester-psalms"
+        },
+        {
+          "workId": "brahms-sinfonie-1"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/zum-licht",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26320&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-18-koeln-entfernte-verwandte",
+      "title": "Entfernte Verwandte",
+      "eventType": "concert",
+      "date": "2026-10-18",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "kammermusiksaal-kartaeuserwall-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "ayane-okabe",
+        "marina-hermida-rodriguez",
+        "felix-weischedel",
+        "rica-schliermann",
+        "maialen-eguiazabal-arruabarrena",
+        "daniel-lopez"
+      ],
+      "program": [
+        {
+          "workId": "gade-streichsextett"
+        },
+        {
+          "workId": "dohnanyi-streichsextett"
+        }
+      ],
+      "seriesId": null,
+      "description": "Kammerkonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/entfernte-verwandte",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=368&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-19-koeln-ein-haydn-spass",
+      "title": "Ein Haydn-Spaß",
+      "eventType": "concert",
+      "date": "2026-10-19",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "haydn-le-matin"
+        }
+      ],
+      "seriesId": null,
+      "description": "Gesprächskonzert zur Mittagszeit.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/ein-haydn-spass",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26358&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-24-koeln-bock-auf-klassik",
+      "title": "Bock auf Klassik?!",
+      "eventType": "concert",
+      "date": "2026-10-24",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "thomas-sondergard"
+      ],
+      "soloistPersonIds": [
+        "benjamin-grosvenor"
+      ],
+      "program": [
+        {
+          "workId": "rachmaninow-klavierkonzert-2"
+        },
+        {
+          "workId": "prokofjew-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert für junge Erwachsene.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/bock-auf-klassik-oktober",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26334&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-25-koeln-auf-neuen-wegen",
+      "title": "Auf neuen Wegen",
+      "eventType": "concert",
+      "date": "2026-10-25",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "thomas-sondergard"
+      ],
+      "soloistPersonIds": [
+        "benjamin-grosvenor"
+      ],
+      "program": [
+        {
+          "workId": "rachmaninow-klavierkonzert-2"
+        },
+        {
+          "workId": "prokofjew-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/auf-neuen-wegen",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26330&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-05-koeln-philharmonieprobe",
+      "title": "PhilharmonieProbe",
+      "eventType": "concert",
+      "date": "2026-11-05",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Probenbesuch. Öffentliche Probe zum jeweiligen Konzertprogramm.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/philharmonieprobe",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-08-koeln-delirium",
+      "title": "Delirium",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "riccardo-minasi"
+      ],
+      "soloistPersonIds": [
+        "anastasia-kobekina"
+      ],
+      "program": [
+        {
+          "workId": "schumann-manfred-ouvertuere"
+        },
+        {
+          "workId": "schumann-cellokonzert"
+        },
+        {
+          "workId": "schumann-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/delirium",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26301&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-09-koeln-delirium",
+      "title": "Delirium",
+      "eventType": "concert",
+      "date": "2026-11-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "riccardo-minasi"
+      ],
+      "soloistPersonIds": [
+        "anastasia-kobekina"
+      ],
+      "program": [
+        {
+          "workId": "schumann-manfred-ouvertuere"
+        },
+        {
+          "workId": "schumann-cellokonzert"
+        },
+        {
+          "workId": "schumann-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/delirium",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26311&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-10-koeln-delirium",
+      "title": "Delirium",
+      "eventType": "concert",
+      "date": "2026-11-10",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "riccardo-minasi"
+      ],
+      "soloistPersonIds": [
+        "anastasia-kobekina"
+      ],
+      "program": [
+        {
+          "workId": "schumann-manfred-ouvertuere"
+        },
+        {
+          "workId": "schumann-cellokonzert"
+        },
+        {
+          "workId": "schumann-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/delirium",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26321&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-15-koeln-rueckblenden",
+      "title": "Rückblenden",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "kammermusiksaal-kartaeuserwall-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "sanghee-ji",
+        "anna-van-der-merwe",
+        "nathan-braude",
+        "jee-hye-bae",
+        "michael-bosch"
+      ],
+      "program": [
+        {
+          "workId": "arensky-streichquartett-2"
+        },
+        {
+          "workId": "schubert-streichquintett-d956"
+        }
+      ],
+      "seriesId": null,
+      "description": "Kammerkonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/rueckblenden",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=369&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-20-koeln-kronberg-academy",
+      "title": "Kronberg Academy",
+      "eventType": "concert",
+      "date": "2026-11-20",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [
+        "julian-rhee",
+        "sao-soulez-larivere",
+        "luka-coetzee"
+      ],
+      "program": [
+        {
+          "workId": "bartok-violakonzert"
+        },
+        {
+          "workId": "haydn-cellokonzert-2"
+        },
+        {
+          "workId": "saint-saens-violinkonzert-3"
+        },
+        {
+          "workId": "strauss-rosenkavalier-suite"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/kronberg-academy-26-27",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26331&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-29-koeln-musikalischer-fruehschoppen",
+      "title": "Musikalischer Frühschoppen",
+      "eventType": "concert",
+      "date": "2026-11-29",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "belgisches-haus-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Gemeinschaft. Matinee mit Musiker:innen des Gürzenich-Orchesters; Programm wird kurzfristig bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/musikalischer-fruehschoppen-26-27",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=365&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-06-koeln-schicksalsschlaege",
+      "title": "Schicksalsschläge",
+      "eventType": "concert",
+      "date": "2026-12-06",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mahler-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/schicksalsschlaege",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26302&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-07-koeln-ein-haydn-spass",
+      "title": "Ein Haydn-Spaß",
+      "eventType": "concert",
+      "date": "2026-12-07",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "haydn-le-matin"
+        }
+      ],
+      "seriesId": null,
+      "description": "Gesprächskonzert zur Mittagszeit.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/ein-haydn-spass",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26359&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-07-koeln-schicksalsschlaege",
+      "title": "Schicksalsschläge",
+      "eventType": "concert",
+      "date": "2026-12-07",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mahler-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/schicksalsschlaege",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26312&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-08-koeln-schicksalsschlaege",
+      "title": "Schicksalsschläge",
+      "eventType": "concert",
+      "date": "2026-12-08",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mahler-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/schicksalsschlaege",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26322&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-13-koeln-das-geheimnis-der-weihnachtswichtel",
+      "title": "Das Geheimnis der Weihnachtswichtel",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "vilmantas-kaliunas"
+      ],
+      "soloistPersonIds": [
+        "nico-alexander-wilhelm"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Mit Musik von Peter I. Tschaikowsky, Nikolaj Rimskij-Korsakow, Edvard Grieg, Camille Saint-Saëns und Armas Järnefelt.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/das-geheimnis-der-weihnachtswichtel",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26343&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-13-koeln-das-geheimnis-der-weihnachtswichtel-1400",
+      "title": "Das Geheimnis der Weihnachtswichtel",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "vilmantas-kaliunas"
+      ],
+      "soloistPersonIds": [
+        "nico-alexander-wilhelm"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Mit Musik von Peter I. Tschaikowsky, Nikolaj Rimskij-Korsakow, Edvard Grieg, Camille Saint-Saëns und Armas Järnefelt.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/das-geheimnis-der-weihnachtswichtel",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26350&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-14-koeln-das-geheimnis-der-weihnachtswichtel",
+      "title": "Das Geheimnis der Weihnachtswichtel",
+      "eventType": "concert",
+      "date": "2026-12-14",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Schulkonzert. Mit Musik von Peter I. Tschaikowsky, Nikolaj Rimskij-Korsakow, Edvard Grieg, Camille Saint-Saëns und Armas Järnefelt.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/das-geheimnis-der-weihnachtswichtel-schulkonzerte",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26351&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-14-koeln-das-geheimnis-der-weihnachtswichtel-1130",
+      "title": "Das Geheimnis der Weihnachtswichtel",
+      "eventType": "concert",
+      "date": "2026-12-14",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Schulkonzert. Mit Musik von Peter I. Tschaikowsky, Nikolaj Rimskij-Korsakow, Edvard Grieg, Camille Saint-Saëns und Armas Järnefelt.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/das-geheimnis-der-weihnachtswichtel-schulkonzerte",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26352&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-15-koeln-das-geheimnis-der-weihnachtswichtel",
+      "title": "Das Geheimnis der Weihnachtswichtel",
+      "eventType": "concert",
+      "date": "2026-12-15",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Schulkonzert. Mit Musik von Peter I. Tschaikowsky, Nikolaj Rimskij-Korsakow, Edvard Grieg, Camille Saint-Saëns und Armas Järnefelt.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/das-geheimnis-der-weihnachtswichtel-schulkonzerte",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26353&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-15-koeln-das-geheimnis-der-weihnachtswichtel-1130",
+      "title": "Das Geheimnis der Weihnachtswichtel",
+      "eventType": "concert",
+      "date": "2026-12-15",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Schulkonzert. Mit Musik von Peter I. Tschaikowsky, Nikolaj Rimskij-Korsakow, Edvard Grieg, Camille Saint-Saëns und Armas Järnefelt.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/das-geheimnis-der-weihnachtswichtel-schulkonzerte",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26354&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-12-20-koeln-lichterglanz",
+      "title": "Lichterglanz",
+      "eventType": "concert",
+      "date": "2026-12-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "francois-leleux"
+      ],
+      "soloistPersonIds": [
+        "francois-leleux"
+      ],
+      "program": [
+        {
+          "workId": "bach-orchestersuite-1"
+        },
+        {
+          "workId": "mozart-oboenkonzert-c-dur"
+        },
+        {
+          "workId": "schubert-sinfonie-7-unvollendete"
+        },
+        {
+          "workId": "berlioz-carnaval-romain"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/lichterglanz",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26332&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-09-koeln-bock-auf-klassik",
+      "title": "Bock auf Klassik?!",
+      "eventType": "concert",
+      "date": "2027-01-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "ton-koopman"
+      ],
+      "soloistPersonIds": [
+        "christina-landshamer",
+        "lara-morger",
+        "sebastian-kohlhepp",
+        "kresimir-strazanac"
+      ],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-40"
+        },
+        {
+          "workId": "mozart-requiem"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert für junge Erwachsene.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/bock-auf-klassik-januar",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26336&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-10-koeln-mysterium",
+      "title": "Mysterium",
+      "eventType": "concert",
+      "date": "2027-01-10",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "ton-koopmann"
+      ],
+      "soloistPersonIds": [
+        "christina-landshamer",
+        "lara-morger",
+        "sebastian-kohlhepp",
+        "kresimir-strazanac"
+      ],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-40"
+        },
+        {
+          "workId": "mozart-requiem"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/mysterium",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26337&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-17-koeln-erloesung",
+      "title": "Erlösung",
+      "eventType": "concert",
+      "date": "2027-01-17",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [
+        "sebastian-kohlhepp",
+        "jordan-shanahan",
+        "georg-zeppenfeld"
+      ],
+      "program": [
+        {
+          "workId": "bartok-wunderbarer-mandarin"
+        },
+        {
+          "workId": "wagner-parsifal-3-aufzug"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/erloesung",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26303&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-18-koeln-erloesung",
+      "title": "Erlösung",
+      "eventType": "concert",
+      "date": "2027-01-18",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [
+        "sebastian-kohlhepp",
+        "jordan-shanahan",
+        "georg-zeppenfeld"
+      ],
+      "program": [
+        {
+          "workId": "bartok-wunderbarer-mandarin"
+        },
+        {
+          "workId": "wagner-parsifal-3-aufzug"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/erloesung",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26313&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-19-koeln-erloesung",
+      "title": "Erlösung",
+      "eventType": "concert",
+      "date": "2027-01-19",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [
+        "sebastian-kohlhepp",
+        "jordan-shanahan",
+        "georg-zeppenfeld"
+      ],
+      "program": [
+        {
+          "workId": "bartok-wunderbarer-mandarin"
+        },
+        {
+          "workId": "wagner-parsifal-3-aufzug"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/erloesung",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26323&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-01-24-koeln-love-loss",
+      "title": "Love & Loss",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "kammermusiksaal-kartaeuserwall-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "john-heuzenroeder",
+        "petra-hiemeyer",
+        "nathalie-streichardt",
+        "eva-maria-wilms",
+        "jonathan-drissner",
+        "rainer-muehlbach"
+      ],
+      "program": [
+        {
+          "workId": "vaughan-williams-on-wenlock-edge"
+        },
+        {
+          "workId": "dunhill-klavierquartett"
+        },
+        {
+          "workId": "quilter-to-julia"
+        }
+      ],
+      "seriesId": null,
+      "description": "Kammerkonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/love-and-loss",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=370&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-14-koeln-musikalischer-fruehschoppen",
+      "title": "Musikalischer Frühschoppen",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "belgisches-haus-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Gemeinschaft. Matinee mit Musiker:innen des Gürzenich-Orchesters; Programm wird kurzfristig bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/musikalischer-fruehschoppen-26-27",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=366&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-18-koeln-philharmonieprobe",
+      "title": "PhilharmonieProbe",
+      "eventType": "concert",
+      "date": "2027-02-18",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Probenbesuch. Öffentliche Probe zum jeweiligen Konzertprogramm.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/philharmonieprobe",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-21-koeln-feuer-und-eis",
+      "title": "Feuer und Eis",
+      "eventType": "concert",
+      "date": "2027-02-21",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "sakari-oramo"
+      ],
+      "soloistPersonIds": [
+        "senja-rummukainen"
+      ],
+      "program": [
+        {
+          "workId": "sibelius-finlandia"
+        },
+        {
+          "workId": "dvorak-cellokonzert"
+        },
+        {
+          "workId": "nielsen-sinfonie-5"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/feuer-und-eis",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26304&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-22-koeln-feuer-und-eis",
+      "title": "Feuer und Eis",
+      "eventType": "concert",
+      "date": "2027-02-22",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "sakari-oramo"
+      ],
+      "soloistPersonIds": [
+        "senja-rummukainen"
+      ],
+      "program": [
+        {
+          "workId": "sibelius-finlandia"
+        },
+        {
+          "workId": "dvorak-cellokonzert"
+        },
+        {
+          "workId": "nielsen-sinfonie-5"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/feuer-und-eis",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26314&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-23-koeln-feuer-und-eis",
+      "title": "Feuer und Eis",
+      "eventType": "concert",
+      "date": "2027-02-23",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "sakari-oramo"
+      ],
+      "soloistPersonIds": [
+        "senja-rummukainen"
+      ],
+      "program": [
+        {
+          "workId": "sibelius-finlandia"
+        },
+        {
+          "workId": "dvorak-cellokonzert"
+        },
+        {
+          "workId": "nielsen-sinfonie-5"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/feuer-und-eis",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26324&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-02-28-koeln-heldinnen",
+      "title": "Heldinnen!",
+      "eventType": "concert",
+      "date": "2027-02-28",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "juya-shin"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Programm wird zu einem späteren Zeitpunkt bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/heldinnen",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26355&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-02-koeln-heldinnen",
+      "title": "Heldinnen!",
+      "eventType": "concert",
+      "date": "2027-03-02",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "juya-shin"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Schulkonzert. Programm sowie weitere Mitwirkende werden zu einem späteren Zeitpunkt bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/heldinnen-schulkonzerte",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26356&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-02-koeln-heldinnen-1130",
+      "title": "Heldinnen!",
+      "eventType": "concert",
+      "date": "2027-03-02",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "juya-shin"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Schulkonzert. Programm sowie weitere Mitwirkende werden zu einem späteren Zeitpunkt bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/heldinnen-schulkonzerte",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26357&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-07-koeln-verfuehrerisch",
+      "title": "Verführerisch",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "kammermusiksaal-kartaeuserwall-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "paolo-ferraris",
+        "rossana-de-jesus-valente",
+        "anna-heygster",
+        "antonia-schreiber",
+        "saskia-kwast",
+        "rainer-muehlbach",
+        "bernhard-bauer"
+      ],
+      "program": [
+        {
+          "workId": "berlioz-trio-jeunes-ismaelites"
+        },
+        {
+          "workId": "ibert-deux-interludes"
+        },
+        {
+          "workId": "saint-saens-fantaisie-violine-harfe"
+        },
+        {
+          "workId": "clarke-maya"
+        },
+        {
+          "workId": "debussy-chansons-de-bilitis"
+        }
+      ],
+      "seriesId": null,
+      "description": "Kammerkonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/verfuehrerisch",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=371&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-07-koeln-schwippschwapp-wasser-marsch",
+      "title": "Schwippschwapp – Wasser marsch!",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "rheinische-musikschule-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Programm und Besetzung werden zu einem späteren Zeitpunkt bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/schwippschwapp-wasser-marsch",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=361&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-07-koeln-schwippschwapp-wasser-marsch-1600",
+      "title": "Schwippschwapp – Wasser marsch!",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "rheinische-musikschule-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Programm und Besetzung werden zu einem späteren Zeitpunkt bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/schwippschwapp-wasser-marsch",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=362&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-14-koeln-femme-fatale",
+      "title": "Femme fatale",
+      "eventType": "concert",
+      "date": "2027-03-14",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "sakari-oramo"
+      ],
+      "soloistPersonIds": [
+        "anu-komsi",
+        "paula-murrihy",
+        "susan-zarrabi",
+        "toby-spence",
+        "mark-omvlee",
+        "hubert-kowalczyk",
+        "lars-fosser"
+      ],
+      "program": [
+        {
+          "workId": "berg-lulu"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/femme-fatale",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26305&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-15-koeln-femme-fatale",
+      "title": "Femme fatale",
+      "eventType": "concert",
+      "date": "2027-03-15",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "sakari-oramo"
+      ],
+      "soloistPersonIds": [
+        "anu-komsi",
+        "paula-murrihy",
+        "susan-zarrabi",
+        "toby-spence",
+        "mark-omvlee",
+        "hubert-kowalczyk",
+        "lars-fosser"
+      ],
+      "program": [
+        {
+          "workId": "berg-lulu"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/femme-fatale",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26315&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-16-koeln-femme-fatale",
+      "title": "Femme fatale",
+      "eventType": "concert",
+      "date": "2027-03-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "sakari-oramo"
+      ],
+      "soloistPersonIds": [
+        "anu-komsi",
+        "paula-murrihy",
+        "susan-zarrabi",
+        "toby-spence",
+        "mark-omvlee",
+        "hubert-kowalczyk",
+        "lars-fosser"
+      ],
+      "program": [
+        {
+          "workId": "berg-lulu"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/femme-fatale",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26325&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-21-koeln-schwippschwapp-wasser-marsch",
+      "title": "Schwippschwapp – Wasser marsch!",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "rheinische-musikschule-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Programm und Besetzung werden zu einem späteren Zeitpunkt bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/schwippschwapp-wasser-marsch",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=363&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-21-koeln-schwippschwapp-wasser-marsch-1600",
+      "title": "Schwippschwapp – Wasser marsch!",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "rheinische-musikschule-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Programm und Besetzung werden zu einem späteren Zeitpunkt bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/schwippschwapp-wasser-marsch",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=364&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-03-26-koeln-passion",
+      "title": "Passion",
+      "eventType": "concert",
+      "date": "2027-03-26",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "ruben-dubrovsky"
+      ],
+      "soloistPersonIds": [
+        "miriam-kutrowatz",
+        "sonja-runje",
+        "maximilian-schmitt",
+        "hugo-brady",
+        "lukas-enoch-lemcke",
+        "lisandro-abadie"
+      ],
+      "program": [
+        {
+          "workId": "bach-matthaeus-passion"
+        }
+      ],
+      "seriesId": null,
+      "description": "Passionskonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/passion",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26338&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-11-koeln-suchtgefahr",
+      "title": "Suchtgefahr",
+      "eventType": "concert",
+      "date": "2027-04-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "susanna-maelkki"
+      ],
+      "soloistPersonIds": [
+        "rinat-shaham"
+      ],
+      "program": [
+        {
+          "workId": "wagner-wesendonck-ring-ohne-worte"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/suchtgefahr",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26306&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-12-koeln-suchtgefahr",
+      "title": "Suchtgefahr",
+      "eventType": "concert",
+      "date": "2027-04-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "susanna-maelkki"
+      ],
+      "soloistPersonIds": [
+        "rinat-shaham"
+      ],
+      "program": [
+        {
+          "workId": "wagner-wesendonck-ring-ohne-worte"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/suchtgefahr",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26316&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-13-koeln-suchtgefahr",
+      "title": "Suchtgefahr",
+      "eventType": "concert",
+      "date": "2027-04-13",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "susanna-maelkki"
+      ],
+      "soloistPersonIds": [
+        "rinat-shaham"
+      ],
+      "program": [
+        {
+          "workId": "wagner-wesendonck-ring-ohne-worte"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/suchtgefahr",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26326&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-18-koeln-pocket-symphonies",
+      "title": "Pocket Symphonies",
+      "eventType": "concert",
+      "date": "2027-04-18",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "kammermusiksaal-kartaeuserwall-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "alvaro-palmen",
+        "sanghee-ji",
+        "mingwan-kim",
+        "michael-bosch"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-streichquartett-2"
+        },
+        {
+          "workId": "brahms-streichquartett-op51-2"
+        }
+      ],
+      "seriesId": null,
+      "description": "Kammerkonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/pocket-symphonies",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=372&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-22-koeln-saite-an-saite",
+      "title": "Saite an Saite",
+      "eventType": "concert",
+      "date": "2027-04-22",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "joanna-becker",
+        "anna-van-der-merwe",
+        "vincent-royer",
+        "daniel-raabe",
+        "thomas-jedamzik",
+        "anne-haasch"
+      ],
+      "program": [
+        {
+          "workId": "boccherini-fandango"
+        },
+        {
+          "workId": "paganini-gitarrenquintett-2"
+        },
+        {
+          "workId": "castelnuovo-tedesco-gitarrenquintett"
+        },
+        {
+          "workId": "henze-neue-volkslieder-hirtengesaenge"
+        }
+      ],
+      "seriesId": null,
+      "description": "Kammerkonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/saite-an-saite",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26375&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-04-25-koeln-aus-tiefster-seele",
+      "title": "Aus tiefster Seele",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "julie-rossland"
+      ],
+      "soloistPersonIds": [
+        "eric-lu"
+      ],
+      "program": [
+        {
+          "workId": "groven-hjalar-ljod"
+        },
+        {
+          "workId": "grieg-klavierkonzert"
+        },
+        {
+          "workId": "tschaikowsky-sinfonie-5"
+        }
+      ],
+      "seriesId": null,
+      "description": "Benefizkonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/aus-tiefster-seele",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26340&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-02-koeln-musikalischer-fruehschoppen",
+      "title": "Musikalischer Frühschoppen",
+      "eventType": "concert",
+      "date": "2027-05-02",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "belgisches-haus-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Gemeinschaft. Matinee mit Musiker:innen des Gürzenich-Orchesters; Programm wird kurzfristig bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/musikalischer-fruehschoppen-26-27",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=367&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-02-koeln-ab-ins-all",
+      "title": "Ab ins All",
+      "eventType": "concert",
+      "date": "2027-05-02",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "buergerzentrum-engelshof-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "dylan-naylor",
+        "toshiko-tamayo",
+        "felix-weischedel",
+        "georg-heimbach"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Ein musikalisches Weltraum-Abenteuer mit Werken von Jules Massenet, Jean Françaix, Béla Bartók, Johannes Brahms, Philip Glass, Franz Schubert und Maddalena Lombardini Sirmen.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/ab-ins-all",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26346&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-02-koeln-ab-ins-all-1600",
+      "title": "Ab ins All",
+      "eventType": "concert",
+      "date": "2027-05-02",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "buergerzentrum-engelshof-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "dylan-naylor",
+        "toshiko-tamayo",
+        "felix-weischedel",
+        "georg-heimbach"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Ein musikalisches Weltraum-Abenteuer mit Werken von Jules Massenet, Jean Françaix, Béla Bartók, Johannes Brahms, Philip Glass, Franz Schubert und Maddalena Lombardini Sirmen.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/ab-ins-all",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26347&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-08-koeln-ab-ins-all",
+      "title": "Ab ins All",
+      "eventType": "concert",
+      "date": "2027-05-08",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "buergerzentrum-engelshof-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "dylan-naylor",
+        "toshiko-tamayo",
+        "felix-weischedel",
+        "georg-heimbach"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Ein musikalisches Weltraum-Abenteuer mit Werken von Jules Massenet, Jean Françaix, Béla Bartók, Johannes Brahms, Philip Glass, Franz Schubert und Maddalena Lombardini Sirmen.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/ab-ins-all",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26348&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-08-koeln-ab-ins-all-1600",
+      "title": "Ab ins All",
+      "eventType": "concert",
+      "date": "2027-05-08",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "buergerzentrum-engelshof-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "dylan-naylor",
+        "toshiko-tamayo",
+        "felix-weischedel",
+        "georg-heimbach"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert. Ein musikalisches Weltraum-Abenteuer mit Werken von Jules Massenet, Jean Françaix, Béla Bartók, Johannes Brahms, Philip Glass, Franz Schubert und Maddalena Lombardini Sirmen.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/ab-ins-all",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26349&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-23-koeln-buergerschreck",
+      "title": "Bürgerschreck",
+      "eventType": "concert",
+      "date": "2027-05-23",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [
+        "frank-peter-zimmermann"
+      ],
+      "program": [
+        {
+          "workId": "pintscher-neues-werk-2027"
+        },
+        {
+          "workId": "hindemith-violinkonzert"
+        },
+        {
+          "workId": "bartok-konzert-fuer-orchester"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/buergerschreck",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26307&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-23-koeln-koelner-buergerorchester",
+      "title": "Kölner Bürgerorchester",
+      "eventType": "concert",
+      "date": "2027-05-23",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Sinfoniekonzert. Programm wird zu einem späteren Zeitpunkt bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/koelner-buergerorchester-2",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26344&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-24-koeln-ein-haydn-spass",
+      "title": "Ein Haydn-Spaß",
+      "eventType": "concert",
+      "date": "2027-05-24",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "haydn-le-matin"
+        }
+      ],
+      "seriesId": null,
+      "description": "Gesprächskonzert zur Mittagszeit.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/ein-haydn-spass",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26360&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-24-koeln-buergerschreck",
+      "title": "Bürgerschreck",
+      "eventType": "concert",
+      "date": "2027-05-24",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [
+        "frank-peter-zimmermann"
+      ],
+      "program": [
+        {
+          "workId": "pintscher-neues-werk-2027"
+        },
+        {
+          "workId": "hindemith-violinkonzert"
+        },
+        {
+          "workId": "bartok-konzert-fuer-orchester"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/buergerschreck",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26317&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-25-koeln-buergerschreck",
+      "title": "Bürgerschreck",
+      "eventType": "concert",
+      "date": "2027-05-25",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "andres-orozco-estrada"
+      ],
+      "soloistPersonIds": [
+        "frank-peter-zimmermann"
+      ],
+      "program": [
+        {
+          "workId": "pintscher-neues-werk-2027"
+        },
+        {
+          "workId": "hindemith-violinkonzert"
+        },
+        {
+          "workId": "bartok-konzert-fuer-orchester"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/buergerschreck",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26327&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-05-30-koeln-zeitspruenge",
+      "title": "Zeitsprünge",
+      "eventType": "concert",
+      "date": "2027-05-30",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "kammermusiksaal-kartaeuserwall-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "dylan-naylor",
+        "annegret-klingel",
+        "sylvia-borg-bujanowski",
+        "uwe-mattes",
+        "lukas-schrod"
+      ],
+      "program": [
+        {
+          "workId": "purcell-drei-fantasien"
+        },
+        {
+          "workId": "klein-streichtrio"
+        },
+        {
+          "workId": "nicolaou-ueberblendungen"
+        },
+        {
+          "workId": "schubert-streichtrio-d581"
+        }
+      ],
+      "seriesId": null,
+      "description": "Kammerkonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/zeitspruenge",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=373&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-05-koeln-bock-auf-klassik",
+      "title": "Bock auf Klassik?!",
+      "eventType": "concert",
+      "date": "2027-06-05",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "emmanuel-tjeknavorian"
+      ],
+      "soloistPersonIds": [
+        "cameron-carpenter"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-romeo-et-juliette"
+        },
+        {
+          "workId": "rachmaninow-paganini-rhapsodie-orgel"
+        },
+        {
+          "workId": "saint-saens-sinfonie-3-orgel"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert für junge Erwachsene.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/bock-auf-klassik-juni",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26339&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-06-koeln-alle-register",
+      "title": "Alle Register",
+      "eventType": "concert",
+      "date": "2027-06-06",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "emmanuel-tjeknavorian"
+      ],
+      "soloistPersonIds": [
+        "cameron-carpenter"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-romeo-et-juliette"
+        },
+        {
+          "workId": "rachmaninow-paganini-rhapsodie-orgel"
+        },
+        {
+          "workId": "saint-saens-sinfonie-3-orgel"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/alle-register",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26333&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-20-koeln-leuchtfeuer",
+      "title": "Leuchtfeuer",
+      "eventType": "concert",
+      "date": "2027-06-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "antonello-manacorda"
+      ],
+      "soloistPersonIds": [
+        "paul-lewis"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-coriolan-ouvertuere"
+        },
+        {
+          "workId": "beethoven-klavierkonzert-3"
+        },
+        {
+          "workId": "schumann-sinfonie-1-fruehling"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/leuchtfeuer",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26308&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-21-koeln-leuchtfeuer",
+      "title": "Leuchtfeuer",
+      "eventType": "concert",
+      "date": "2027-06-21",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "antonello-manacorda"
+      ],
+      "soloistPersonIds": [
+        "paul-lewis"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-coriolan-ouvertuere"
+        },
+        {
+          "workId": "beethoven-klavierkonzert-3"
+        },
+        {
+          "workId": "schumann-sinfonie-1-fruehling"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/leuchtfeuer",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26318&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-22-koeln-leuchtfeuer",
+      "title": "Leuchtfeuer",
+      "eventType": "concert",
+      "date": "2027-06-22",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "antonello-manacorda"
+      ],
+      "soloistPersonIds": [
+        "paul-lewis"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-coriolan-ouvertuere"
+        },
+        {
+          "workId": "beethoven-klavierkonzert-3"
+        },
+        {
+          "workId": "schumann-sinfonie-1-fruehling"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/leuchtfeuer",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26328&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-06-27-koeln-spielversprechend",
+      "title": "Spielversprechend",
+      "eventType": "concert",
+      "date": "2027-06-27",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "kammermusiksaal-kartaeuserwall-koeln",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "alja-velkaverh-roskams",
+        "bonian-tian",
+        "yuhao-guo"
+      ],
+      "program": [
+        {
+          "workId": "weber-trio-floete-cello-klavier"
+        },
+        {
+          "workId": "brahms-cellosonate-1"
+        },
+        {
+          "workId": "prokofjew-floetensonate"
+        },
+        {
+          "workId": "kapustin-trio-op86"
+        }
+      ],
+      "seriesId": null,
+      "description": "Kammerkonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/spielversprechend",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=374&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-07-04-koeln-ellen-oder-es-wird-gut",
+      "title": "ELLEN oder ES WIRD GUT",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Singen mit Klasse!. Chorprojekt »Singen mit Klasse!« mit Kölner Grundschulklassen.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/ellen-oder-es-wird-gut",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-07-04-koeln-jso-meets-go",
+      "title": "JSO meets GO",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Sinfoniekonzert. Programm und Mitwirkende werden zu einem späteren Zeitpunkt bekannt gegeben.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/jso-meets-go",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26345&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-07-08-koeln-philharmonieprobe",
+      "title": "PhilharmonieProbe",
+      "eventType": "concert",
+      "date": "2027-07-08",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Probenbesuch. Öffentliche Probe zum jeweiligen Konzertprogramm.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/philharmonieprobe",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-07-11-koeln-bahnbrechend",
+      "title": "Bahnbrechend",
+      "eventType": "concert",
+      "date": "2027-07-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "michael-sanderling"
+      ],
+      "soloistPersonIds": [
+        "pierre-laurent-aimard"
+      ],
+      "program": [
+        {
+          "workId": "mozart-klavierkonzert-15"
+        },
+        {
+          "workId": "bruckner-sinfonie-7"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/bahnbrechend",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26309&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-07-12-koeln-bahnbrechend",
+      "title": "Bahnbrechend",
+      "eventType": "concert",
+      "date": "2027-07-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "michael-sanderling"
+      ],
+      "soloistPersonIds": [
+        "pierre-laurent-aimard"
+      ],
+      "program": [
+        {
+          "workId": "mozart-klavierkonzert-15"
+        },
+        {
+          "workId": "bruckner-sinfonie-7"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/bahnbrechend",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26319&language=de",
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2027-07-13-koeln-bahnbrechend",
+      "title": "Bahnbrechend",
+      "eventType": "concert",
+      "date": "2027-07-13",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "guerzenich-orchester-koeln"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "michael-sanderling"
+      ],
+      "soloistPersonIds": [
+        "pierre-laurent-aimard"
+      ],
+      "program": [
+        {
+          "workId": "mozart-klavierkonzert-15"
+        },
+        {
+          "workId": "bruckner-sinfonie-7"
+        }
+      ],
+      "seriesId": null,
+      "description": "Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.guerzenich-orchester.de/de/event-detail/bahnbrechend",
+        "name": "Gürzenich-Orchester Köln",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26329&language=de",
       "lastVerified": "2026-08-17"
     }
   ]

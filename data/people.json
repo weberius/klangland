@@ -437,6 +437,410 @@
     {
       "id": "velina-nenchev",
       "name": "Velina Nenchev"
+    },
+    {
+      "id": "masabane-cecilia-rangwanasha",
+      "name": "Masabane Cecilia Rangwanasha"
+    },
+    {
+      "id": "kevin-short",
+      "name": "Kevin Short"
+    },
+    {
+      "id": "sergei-nakariakov",
+      "name": "Sergei Nakariakov"
+    },
+    {
+      "id": "pierre-charial",
+      "name": "Pierre Charial"
+    },
+    {
+      "id": "joerg-widmann",
+      "name": "Jörg Widmann"
+    },
+    {
+      "id": "hani-mojtahedy",
+      "name": "Hani Mojtahedy"
+    },
+    {
+      "id": "sanam-maroufkhani",
+      "name": "Sanam Maroufkhani"
+    },
+    {
+      "id": "maliheh-moradi",
+      "name": "Maliheh Moradi"
+    },
+    {
+      "id": "mina-deris",
+      "name": "Mina Deris"
+    },
+    {
+      "id": "ghazaal-ansarirad",
+      "name": "Ghazaal Ansarirad"
+    },
+    {
+      "id": "samin-ghorbani",
+      "name": "Samin Ghorbani"
+    },
+    {
+      "id": "foroogh-fazil",
+      "name": "Foroogh Fazil"
+    },
+    {
+      "id": "mahya-hamedi",
+      "name": "Mahya Hamedi"
+    },
+    {
+      "id": "hura-mirshekari",
+      "name": "Hura Mirshekari"
+    },
+    {
+      "id": "avin-ahmadi",
+      "name": "Avin Ahmadi"
+    },
+    {
+      "id": "mehrnoosh-zolfaghari",
+      "name": "Mehrnoosh Zolfaghari"
+    },
+    {
+      "id": "sara-hasti",
+      "name": "Sara Hasti"
+    },
+    {
+      "id": "juya-shin",
+      "name": "Juya Shin"
+    },
+    {
+      "id": "ayane-okabe",
+      "name": "Ayane Okabe"
+    },
+    {
+      "id": "marina-hermida-rodriguez",
+      "name": "Marina Hermida Rodriguez"
+    },
+    {
+      "id": "felix-weischedel",
+      "name": "Felix Weischedel"
+    },
+    {
+      "id": "rica-schliermann",
+      "name": "Rica Schliermann"
+    },
+    {
+      "id": "maialen-eguiazabal-arruabarrena",
+      "name": "Maialen Eguiazabal Arruabarrena"
+    },
+    {
+      "id": "daniel-lopez",
+      "name": "Daniel López"
+    },
+    {
+      "id": "benjamin-grosvenor",
+      "name": "Benjamin Grosvenor"
+    },
+    {
+      "id": "thomas-sondergard",
+      "name": "Thomas Søndergård"
+    },
+    {
+      "id": "anastasia-kobekina",
+      "name": "Anastasia Kobekina"
+    },
+    {
+      "id": "riccardo-minasi",
+      "name": "Riccardo Minasi"
+    },
+    {
+      "id": "sanghee-ji",
+      "name": "Sanghee Ji"
+    },
+    {
+      "id": "anna-van-der-merwe",
+      "name": "Anna van der Merwe"
+    },
+    {
+      "id": "nathan-braude",
+      "name": "Nathan Braude"
+    },
+    {
+      "id": "jee-hye-bae",
+      "name": "Jee-hye Bae"
+    },
+    {
+      "id": "michael-bosch",
+      "name": "Michael Bosch"
+    },
+    {
+      "id": "julian-rhee",
+      "name": "Julian Rhee"
+    },
+    {
+      "id": "sao-soulez-larivere",
+      "name": "Saò Soulez Larivère"
+    },
+    {
+      "id": "luka-coetzee",
+      "name": "Luka Coetzee"
+    },
+    {
+      "id": "nico-alexander-wilhelm",
+      "name": "Nico-Alexander Wilhelm"
+    },
+    {
+      "id": "francois-leleux",
+      "name": "François Leleux"
+    },
+    {
+      "id": "christina-landshamer",
+      "name": "Christina Landshamer"
+    },
+    {
+      "id": "lara-morger",
+      "name": "Lara Morger"
+    },
+    {
+      "id": "sebastian-kohlhepp",
+      "name": "Sebastian Kohlhepp"
+    },
+    {
+      "id": "kresimir-strazanac",
+      "name": "Krešimir Stražanac"
+    },
+    {
+      "id": "ton-koopman",
+      "name": "Ton Koopman"
+    },
+    {
+      "id": "ton-koopmann",
+      "name": "Ton Koopmann"
+    },
+    {
+      "id": "jordan-shanahan",
+      "name": "Jordan Shanahan"
+    },
+    {
+      "id": "georg-zeppenfeld",
+      "name": "Georg Zeppenfeld"
+    },
+    {
+      "id": "john-heuzenroeder",
+      "name": "John Heuzenroeder"
+    },
+    {
+      "id": "petra-hiemeyer",
+      "name": "Petra Hiemeyer"
+    },
+    {
+      "id": "nathalie-streichardt",
+      "name": "Nathalie Streichardt"
+    },
+    {
+      "id": "eva-maria-wilms",
+      "name": "Eva-Maria Wilms"
+    },
+    {
+      "id": "jonathan-drissner",
+      "name": "Jonathan Drißner"
+    },
+    {
+      "id": "rainer-muehlbach",
+      "name": "Rainer Mühlbach"
+    },
+    {
+      "id": "senja-rummukainen",
+      "name": "Senja Rummukainen"
+    },
+    {
+      "id": "sakari-oramo",
+      "name": "Sakari Oramo"
+    },
+    {
+      "id": "paolo-ferraris",
+      "name": "Paolo Ferraris"
+    },
+    {
+      "id": "rossana-de-jesus-valente",
+      "name": "Rossana De Jesus Valente"
+    },
+    {
+      "id": "anna-heygster",
+      "name": "Anna Heygster"
+    },
+    {
+      "id": "antonia-schreiber",
+      "name": "Antonia Schreiber"
+    },
+    {
+      "id": "saskia-kwast",
+      "name": "Saskia Kwast"
+    },
+    {
+      "id": "bernhard-bauer",
+      "name": "Bernhard Bauer"
+    },
+    {
+      "id": "anu-komsi",
+      "name": "Anu Komsi"
+    },
+    {
+      "id": "paula-murrihy",
+      "name": "Paula Murrihy"
+    },
+    {
+      "id": "susan-zarrabi",
+      "name": "Susan Zarrabi"
+    },
+    {
+      "id": "toby-spence",
+      "name": "Toby Spence"
+    },
+    {
+      "id": "mark-omvlee",
+      "name": "Mark Omvlee"
+    },
+    {
+      "id": "hubert-kowalczyk",
+      "name": "Hubert Kowalczyk"
+    },
+    {
+      "id": "lars-fosser",
+      "name": "Lars Fosser"
+    },
+    {
+      "id": "miriam-kutrowatz",
+      "name": "Miriam Kutrowatz"
+    },
+    {
+      "id": "sonja-runje",
+      "name": "Sonja Runje"
+    },
+    {
+      "id": "maximilian-schmitt",
+      "name": "Maximilian Schmitt"
+    },
+    {
+      "id": "hugo-brady",
+      "name": "Hugo Brady"
+    },
+    {
+      "id": "lukas-enoch-lemcke",
+      "name": "Lukas Enoch Lemcke"
+    },
+    {
+      "id": "lisandro-abadie",
+      "name": "Lisandro Abadie"
+    },
+    {
+      "id": "ruben-dubrovsky",
+      "name": "Rubén Dubrovsky"
+    },
+    {
+      "id": "rinat-shaham",
+      "name": "Rinat Shaham"
+    },
+    {
+      "id": "susanna-maelkki",
+      "name": "Susanna Mälkki"
+    },
+    {
+      "id": "alvaro-palmen",
+      "name": "Alvaro Palmen"
+    },
+    {
+      "id": "mingwan-kim",
+      "name": "MinGwan Kim"
+    },
+    {
+      "id": "joanna-becker",
+      "name": "Joanna Becker"
+    },
+    {
+      "id": "vincent-royer",
+      "name": "Vincent Royer"
+    },
+    {
+      "id": "daniel-raabe",
+      "name": "Daniel Raabe"
+    },
+    {
+      "id": "thomas-jedamzik",
+      "name": "Thomas Jedamzik"
+    },
+    {
+      "id": "anne-haasch",
+      "name": "Anne Haasch"
+    },
+    {
+      "id": "eric-lu",
+      "name": "Eric Lu"
+    },
+    {
+      "id": "julie-rossland",
+      "name": "Julie Røssland"
+    },
+    {
+      "id": "dylan-naylor",
+      "name": "Dylan Naylor"
+    },
+    {
+      "id": "toshiko-tamayo",
+      "name": "Toshiko Tamayo"
+    },
+    {
+      "id": "georg-heimbach",
+      "name": "Georg Heimbach"
+    },
+    {
+      "id": "annegret-klingel",
+      "name": "Annegret Klingel"
+    },
+    {
+      "id": "sylvia-borg-bujanowski",
+      "name": "Sylvia Borg-Bujanowski"
+    },
+    {
+      "id": "uwe-mattes",
+      "name": "Uwe Mattes"
+    },
+    {
+      "id": "lukas-schrod",
+      "name": "Lukas Schrod"
+    },
+    {
+      "id": "cameron-carpenter",
+      "name": "Cameron Carpenter"
+    },
+    {
+      "id": "emmanuel-tjeknavorian",
+      "name": "Emmanuel Tjeknavorian"
+    },
+    {
+      "id": "paul-lewis",
+      "name": "Paul Lewis"
+    },
+    {
+      "id": "antonello-manacorda",
+      "name": "Antonello Manacorda"
+    },
+    {
+      "id": "alja-velkaverh-roskams",
+      "name": "Alja Velkaverh-Roskams"
+    },
+    {
+      "id": "bonian-tian",
+      "name": "Bonian Tian"
+    },
+    {
+      "id": "yuhao-guo",
+      "name": "Yuhao Guo"
+    },
+    {
+      "id": "pierre-laurent-aimard",
+      "name": "Pierre-Laurent Aimard"
+    },
+    {
+      "id": "michael-sanderling",
+      "name": "Michael Sanderling"
     }
   ]
 }
