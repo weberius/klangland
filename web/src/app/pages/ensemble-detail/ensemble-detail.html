@@ -1,0 +1,54 @@
+@if (!ensemble()) {
+  <a class="back-link" routerLink="/ensembles">‹ Alle Ensembles</a>
+  <p class="empty">Dieses Ensemble wurde nicht gefunden.</p>
+} @else {
+  <a class="back-link" routerLink="/ensembles">‹ Alle Ensembles</a>
+
+  <article>
+    <header class="profile-head">
+      <h1>{{ ensemble()!.name }}</h1>
+      <p class="muted">{{ cityName() }} · {{ typeLabel() }}</p>
+    </header>
+
+    <div class="profile-grid">
+      <div class="profile-main">
+        @if (ensemble()!.description) {
+          <p class="lead">{{ ensemble()!.description }}</p>
+        }
+        @if (ensemble()!.artisticProfile.length) {
+          <p class="tags">
+            @for (p of ensemble()!.artisticProfile; track p) { <span class="tag">{{ p }}</span> }
+          </p>
+        }
+      </div>
+
+      <aside class="card profile-facts">
+        <dl>
+          @if (conductorName()) {
+            <dt>Chefdirigent:in</dt>
+            <dd>{{ conductorName() }}</dd>
+          }
+          <dt>Sitz</dt>
+          <dd>{{ cityName() }}</dd>
+          @if (homeVenue(); as v) {
+            <dt>Stammsaal</dt>
+            <dd><a [routerLink]="['/venues', v.id]">{{ v.name }}</a></dd>
+          }
+          @if (institution(); as inst) {
+            <dt>Träger</dt>
+            <dd>{{ inst.name }} <span class="muted">({{ institutionType() }})</span></dd>
+          }
+          @if (ensemble()!.website) {
+            <dt>Website</dt>
+            <dd><a [href]="ensemble()!.website" target="_blank" rel="noopener">Offizielle Seite</a></dd>
+          }
+        </dl>
+      </aside>
+    </div>
+
+    <section class="events-section">
+      <h2>Veranstaltungen ({{ events().length }})</h2>
+      <app-event-list [events]="events()" [showEnsemble]="false" />
+    </section>
+  </article>
+}

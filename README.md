@@ -131,7 +131,13 @@ Offizielle Websites der Orchester und Veranstalter sind bevorzugte Quellen. Änd
 
 ## Entwicklungsstatus
 
-Das Repository enthält das Produktanforderungsdokument und die erste normalisierte JSON-Datenbasis. Die Angular-Webapp, das JSON-Schema und das Python-Datenpflegewerkzeug sind als nächste Umsetzungsschritte vorgesehen.
+Das Repository enthält das Produktanforderungsdokument, die dokumentierte und normalisierte JSON-Datenbasis sowie die erste Version der **Angular-Webapp** unter [`web/`](web/). Die App zeigt Kalender, Ensemble- und Spielstättenprofile sowie Veranstaltungsdetails aus den JSON-Daten an (siehe [`web/README.md`](web/README.md)).
+
+```bash
+cd web && npm install && npm start   # Dev-Server auf http://localhost:4200
+```
+
+Das JSON-Schema und das Python-Datenpflegewerkzeug sind als nächste Umsetzungsschritte vorgesehen.
 
 ## Anforderungen aus dem MVP
 
@@ -146,4 +152,4 @@ Das MVP soll:
 
 Der vollständige Anforderungskatalog steht in [`docs/product/prd.md`](docs/product/prd.md).
 
-Die Regeln für Event-IDs, Aufführungstermine, Beziehungen und die schrittweise Normalisierung des Programms sind in [`docs/events-and-relations.md`](docs/events-and-relations.md) dokumentiert.
+Das vollständige Datenmodell mit allen Datenobjekten, gemeinsamen Konventionen und Beziehungen ist in [`docs/data-model.md`](docs/data-model.md) dokumentiert. Je Entität gibt es eine Detaildoku unter [`docs/entities/`](docs/entities/); die Event-spezifischen Regeln stehen in [`docs/events-and-relations.md`](docs/events-and-relations.md).

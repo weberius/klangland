@@ -1,0 +1,32 @@
+<a class="skip-link" href="#main">Zum Inhalt springen</a>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" routerLink="/" aria-label="Klangland Startseite">
+      <span class="brand-mark" aria-hidden="true">♪</span>
+      <span class="brand-text">Klangland</span>
+    </a>
+    <nav class="main-nav" aria-label="Hauptnavigation">
+      <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Kalender</a>
+      <a routerLink="/ensembles" routerLinkActive="active">Ensembles</a>
+      <a routerLink="/venues" routerLinkActive="active">Spielstätten</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main" class="container" tabindex="-1">
+  @if (data.hasError()) {
+    <div class="notice notice-error" role="alert">
+      <p><strong>Die Veranstaltungsdaten konnten nicht geladen werden.</strong></p>
+      <p>Bitte versuche es später erneut.</p>
+    </div>
+  } @else {
+    <router-outlet />
+  }
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>Klangland – Konzertkalender für Nordrhein-Westfalen. Statische App, Daten aus versionierten JSON-Dateien.</p>
+  </div>
+</footer>

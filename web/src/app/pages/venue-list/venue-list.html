@@ -1,0 +1,20 @@
+<section class="page-header">
+  <h1>Spielstätten</h1>
+  <p class="muted">Konzerthäuser, Philharmonien und Theater in Nordrhein-Westfalen.</p>
+</section>
+
+@if (venues().length === 0) {
+  <p class="empty">Keine Spielstätten erfasst.</p>
+} @else {
+  <div class="card-grid">
+    @for (v of venues(); track v.id) {
+      <a class="card venue-card" [routerLink]="['/venues', v.id]">
+        <h2 class="venue-name">{{ v.name }}</h2>
+        <p class="muted venue-meta">{{ cityName(v) }} · {{ typeLabel(v) }}</p>
+        <p class="muted count">
+          {{ eventCount(v) }} {{ eventCount(v) === 1 ? 'Veranstaltung' : 'Veranstaltungen' }}
+        </p>
+      </a>
+    }
+  </div>
+}

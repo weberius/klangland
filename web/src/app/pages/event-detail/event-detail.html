@@ -1,0 +1,109 @@
+@if (!event()) {
+  <a class="back-link" routerLink="/">‹ Zum Kalender</a>
+  <p class="empty">Diese Veranstaltung wurde nicht gefunden.</p>
+} @else {
+  <a class="back-link" routerLink="/">‹ Zum Kalender</a>
+
+  <article class="event-detail">
+    <header class="event-head">
+      <p class="muted eyebrow">{{ typeLabel() }}</p>
+      <h1>{{ event()!.title }}</h1>
+      <p class="event-when">
+        <strong>{{ fullDate() }}</strong>
+        @if (event()!.startTime) { · {{ event()!.startTime }} Uhr }
+        @if (event()!.endTime) { – {{ event()!.endTime }} Uhr }
+      </p>
+      @if (statusLabel()) {
+        <p class="status-{{ event()!.status }}">{{ statusLabel() }}</p>
+      }
+      @if (event()!.description) { <p class="muted">{{ event()!.description }}</p> }
+      @if (event()!.ticketUrl) {
+        <p><a class="btn btn-primary" [href]="event()!.ticketUrl" target="_blank" rel="noopener">Tickets</a></p>
+      }
+    </header>
+
+    <div class="detail-grid">
+      <section class="card detail-block">
+        <h2>Mitwirkende</h2>
+        @if (ensembles().length) {
+          <h3>{{ ensembles().length === 1 ? 'Ensemble' : 'Ensembles' }}</h3>
+          <ul class="plain">
+            @for (ens of ensembles(); track ens.id) {
+              <li>
+                <a [routerLink]="['/ensembles', ens.id]">{{ ens.name }}</a>
+                <span class="muted"> · {{ ensembleTypeLabel(ens) }}</span>
+              </li>
+            }
+          </ul>
+        }
+        @if (conductors().length) {
+          <h3>{{ conductors().length === 1 ? 'Dirigent:in' : 'Dirigent:innen' }}</h3>
+          <ul class="plain">
+            @for (c of conductors(); track c) { <li>{{ c }}</li> }
+          </ul>
+        }
+        @if (soloists().length) {
+          <h3>{{ soloists().length === 1 ? 'Solist:in' : 'Solist:innen' }}</h3>
+          <ul class="plain">
+            @for (s of soloists(); track s) { <li>{{ s }}</li> }
+          </ul>
+        }
+      </section>
+
+      <section class="card detail-block">
+        <h2>Veranstaltungsort</h2>
+        @if (venue(); as v) {
+          <p>
+            <a [routerLink]="['/venues', v.id]"><strong>{{ v.name }}</strong></a><br />
+            {{ cityName() }}
+            @if (v.address) { <br />{{ v.address }} }
+          </p>
+          @if (v.website) {
+            <p><a [href]="v.website" target="_blank" rel="noopener">Website der Spielstätte</a></p>
+          }
+        } @else {
+          <p class="muted">{{ cityName() }}</p>
+        }
+      </section>
+    </div>
+
+    <section class="card detail-block">
+      <h2>Programm</h2>
+      @if (program().length === 0) {
+        <p class="muted">Kein Programm erfasst.</p>
+      } @else {
+        <ol class="program">
+          @for (p of program(); track $index) {
+            <li>
+              @if (p.composer) { <span class="composer">{{ p.composer.name }}</span> }
+              <span class="work-title">
+                {{ p.work?.title || 'Unbekanntes Werk' }}
+                @if (p.catalogue) { <span class="muted">{{ p.catalogue }}</span> }
+              </span>
+              <span class="work-meta muted">
+                @if (genreLabel(p.work)) { {{ genreLabel(p.work) }} }
+                @if (p.years) { · {{ p.years }} }
+                @if (p.version) { · Fassung: {{ p.version }} }
+                @if (p.movement) { · Satz: {{ p.movement }} }
+                @if (p.movements?.length) { · Sätze: {{ p.movements!.join(', ') }} }
+              </span>
+            </li>
+          }
+        </ol>
+      }
+    </section>
+
+    @if (event()!.source) {
+      <section class="detail-block source">
+        <h2>Quelle</h2>
+        <p>
+          <a [href]="event()!.source!.url" target="_blank" rel="noopener">{{ event()!.source!.name }}</a>
+          <span class="muted"> (abgerufen am {{ event()!.source!.retrievedAt }})</span>
+        </p>
+        @if (event()!.lastVerified) {
+          <p class="muted">Zuletzt geprüft: {{ event()!.lastVerified }}</p>
+        }
+      </section>
+    }
+  </article>
+}

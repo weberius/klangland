@@ -1,0 +1,196 @@
+.month-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+.month-title {
+  margin: 0;
+  flex: 1;
+  min-width: 12rem;
+  text-align: center;
+  font-size: 1.4rem;
+}
+.btn-today {
+  margin-left: auto;
+}
+.month-summary {
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Monatsraster */
+.calendar-grid-wrap {
+  overflow-x: auto;
+}
+.calendar-grid {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.calendar-grid th {
+  padding: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-surface-alt);
+}
+.day-cell {
+  vertical-align: top;
+  width: 14.28%;
+  height: 7.5rem;
+  border: 1px solid var(--color-border);
+  padding: 0.35rem;
+}
+.day-cell.outside {
+  background: var(--color-surface-alt);
+  color: var(--color-text-muted);
+}
+.day-cell.outside .day-number {
+  opacity: 0.5;
+}
+.day-cell.today {
+  outline: 2px solid var(--color-highlight);
+  outline-offset: -2px;
+}
+.day-number {
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+.day-cell.today .day-number span {
+  background: var(--color-highlight);
+  color: #fff;
+  border-radius: 999px;
+  padding: 0.05rem 0.45rem;
+}
+.day-events {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.event-chip {
+  display: block;
+  text-decoration: none;
+  background: var(--color-accent-soft);
+  border-left: 3px solid var(--color-accent);
+  border-radius: var(--radius-sm);
+  padding: 0.2rem 0.4rem;
+  font-size: 0.75rem;
+  color: var(--color-text);
+  line-height: 1.25;
+}
+.event-chip:hover {
+  background: #e8dac9;
+}
+.event-chip.cancelled {
+  border-left-color: var(--color-danger);
+  text-decoration: line-through;
+}
+.chip-time {
+  font-weight: 600;
+  color: var(--color-accent-strong);
+  margin-right: 0.25rem;
+}
+.chip-title {
+  font-weight: 600;
+  display: block;
+}
+.chip-sub {
+  display: block;
+  color: var(--color-text-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.more {
+  font-size: 0.72rem;
+  color: var(--color-text-muted);
+}
+
+/* Agenda (mobil) */
+.agenda {
+  display: none;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.agenda-day {
+  display: flex;
+  gap: 0.75rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 0.75rem;
+}
+.agenda-date {
+  flex: 0 0 3rem;
+  text-align: center;
+  border-right: 1px solid var(--color-border);
+  padding-right: 0.5rem;
+}
+.agenda-weekday {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+}
+.agenda-num {
+  display: block;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+.agenda-events {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 1;
+}
+.agenda-event {
+  display: block;
+  text-decoration: none;
+  color: var(--color-text);
+}
+.agenda-event:hover .agenda-title {
+  text-decoration: underline;
+}
+.agenda-event-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.agenda-title {
+  font-weight: 600;
+}
+
+@media (max-width: 720px) {
+  .calendar-grid-wrap {
+    display: none;
+  }
+  .agenda {
+    display: flex;
+  }
+  .btn-today {
+    margin-left: 0;
+  }
+}

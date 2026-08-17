@@ -1,0 +1,27 @@
+@if (events().length === 0) {
+  <p class="empty">Keine Veranstaltungen erfasst.</p>
+} @else {
+  <ul class="event-list">
+    @for (e of events(); track e.id) {
+      <li class="event-row">
+        <a class="event-row-link" [routerLink]="['/events', e.id]">
+          <div class="event-row-date">
+            <span class="date">{{ formatLongDate(e.date) }}</span>
+            @if (e.startTime) { <span class="time muted">{{ e.startTime }} Uhr</span> }
+          </div>
+          <div class="event-row-main">
+            <span class="event-row-title">{{ e.title }}</span>
+            @if (statusLabel(e)) {
+              <span class="tag status-{{ e.status }}">{{ statusLabel(e) }}</span>
+            }
+            <span class="muted event-row-meta">
+              @if (showEnsemble() && ensembleName(e)) { {{ ensembleName(e) }} }
+              @if (showVenue() && venueName(e)) { · {{ venueName(e) }}, {{ cityName(e) }} }
+              @if (conductorName(e)) { · {{ conductorName(e) }} }
+            </span>
+          </div>
+        </a>
+      </li>
+    }
+  </ul>
+}

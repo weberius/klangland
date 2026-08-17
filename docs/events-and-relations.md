@@ -1,5 +1,10 @@
 # Events und Beziehungen
 
+> Teil des Datenmodells. Die übergreifenden Konventionen und alle anderen Datenobjekte
+> sind in [`data-model.md`](data-model.md) dokumentiert. Dieses Dokument beschreibt die
+> Event-Entität sowie die Werk-/Programm-Trennung; die Werkstammdaten selbst stehen in
+> [`entities/composers-and-works.md`](entities/composers-and-works.md).
+
 ## Zweck
 
 Ein Event beschreibt eine konkrete Aufführung zu einem konkreten Zeitpunkt an einem konkreten Ort. Es ist kein Stammdatensatz für ein Ensemble, eine Spielstätte oder ein Werk.

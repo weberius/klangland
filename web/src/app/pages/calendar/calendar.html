@@ -1,0 +1,94 @@
+<section class="page-header">
+  <h1>Konzertkalender</h1>
+  <p class="muted">
+    Professionelle Orchester in Nordrhein-Westfalen
+    @if (data.seasonLabel) { · Spielzeit {{ data.seasonLabel }} }
+  </p>
+</section>
+
+<div class="month-nav" role="group" aria-label="Monatsnavigation">
+  <a class="btn" [routerLink]="prevLink()" rel="prev" aria-label="Vorheriger Monat">‹ Vorheriger</a>
+  <h2 class="month-title" aria-live="polite">{{ monthLabel() }}</h2>
+  <a class="btn" [routerLink]="nextLink()" rel="next" aria-label="Nächster Monat">Nächster ›</a>
+  <a class="btn btn-today" routerLink="/" aria-label="Zum aktuellen Monat">Heute</a>
+</div>
+
+<p class="month-summary muted">
+  {{ monthEventCount() }}
+  {{ monthEventCount() === 1 ? 'Veranstaltung' : 'Veranstaltungen' }} in diesem Monat.
+</p>
+
+<!-- Monatsraster (Desktop/Tablet) -->
+<div class="calendar-grid-wrap">
+  <table class="calendar-grid">
+    <caption class="visually-hidden">Kalender für {{ monthLabel() }}</caption>
+    <thead>
+      <tr>
+        @for (wd of weekdays; track wd) {
+          <th scope="col">{{ wd }}</th>
+        }
+      </tr>
+    </thead>
+    <tbody>
+      @for (week of weeks(); track $index) {
+        <tr>
+          @for (cell of week; track cell.iso) {
+            <td
+              class="day-cell"
+              [class.outside]="!cell.inMonth"
+              [class.today]="cell.isToday"
+              [class.has-events]="cell.events.length > 0"
+            >
+              <div class="day-number">
+                <span [attr.aria-current]="cell.isToday ? 'date' : null">{{ cell.day }}</span>
+              </div>
+              <ul class="day-events">
+                @for (e of cell.events.slice(0, 2); track e.id) {
+                  <li>
+                    <a class="event-chip" [routerLink]="eventLink(e)" [class.cancelled]="e.status === 'cancelled'">
+                      @if (time(e)) { <span class="chip-time">{{ time(e) }}</span> }
+                      <span class="chip-title">{{ e.title }}</span>
+                      <span class="chip-sub">{{ ensembleName(e) }}</span>
+                    </a>
+                  </li>
+                }
+                @if (cell.events.length > 2) {
+                  <li class="more">+ {{ cell.events.length - 2 }} weitere</li>
+                }
+              </ul>
+            </td>
+          }
+        </tr>
+      }
+    </tbody>
+  </table>
+</div>
+
+<!-- Agenda (mobil) -->
+<div class="agenda">
+  @if (agenda().length === 0) {
+    <p class="empty">Keine Veranstaltungen in diesem Monat.</p>
+  } @else {
+    @for (d of agenda(); track d.iso) {
+      <div class="agenda-day">
+        <div class="agenda-date">
+          <span class="agenda-weekday">{{ d.weekdayShort }}</span>
+          <span class="agenda-num">{{ d.day }}</span>
+        </div>
+        <ul class="agenda-events">
+          @for (e of d.events; track e.id) {
+            <a class="agenda-event" [routerLink]="eventLink(e)">
+              <div class="agenda-event-head">
+                @if (time(e)) { <span class="chip-time">{{ time(e) }}</span> }
+                <span class="agenda-title">{{ e.title }}</span>
+                @if (e.status === 'cancelled') { <span class="status-cancelled">Abgesagt</span> }
+              </div>
+              <div class="muted">{{ ensembleName(e) }} · {{ cityName(e) }}</div>
+              @if (conductorName(e)) { <div class="muted">{{ conductorName(e) }}</div> }
+            </a>
+          }
+        </ul>
+      </div>
+    }
+  }
+</div>

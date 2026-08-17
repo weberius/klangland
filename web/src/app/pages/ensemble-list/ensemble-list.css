@@ -1,0 +1,38 @@
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+}
+.ensemble-card {
+  display: block;
+  padding: 1.1rem 1.25rem;
+  text-decoration: none;
+  color: var(--color-text);
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+.ensemble-card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  transform: translateY(-1px);
+}
+.ensemble-name {
+  font-size: 1.1rem;
+  margin: 0 0 0.2rem;
+}
+.ensemble-meta {
+  margin: 0 0 0.6rem;
+  font-size: 0.85rem;
+}
+.conductor {
+  margin: 0 0 0.6rem;
+  font-size: 0.9rem;
+}
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin: 0 0 0.6rem;
+}
+.count {
+  margin: 0;
+  font-size: 0.85rem;
+}

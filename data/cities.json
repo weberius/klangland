@@ -1,13 +1,28 @@
 {
   "metadata": {
-    "version": "1.0",
+    "version": "1.1",
     "lastUpdated": "2026-08-17",
     "language": "de",
-    "notes": "Kleine Referenzmenge für die ersten Event-Beispiele. Weitere Städte werden bei Bedarf ergänzt."
+    "notes": "Normalisierte Ortsreferenzen. Enthält alle Sitzorte der erfassten Institutionen, Ensembles und Spielstätten sowie die von Events referenzierten Orte."
   },
   "cities": [
+    { "id": "aachen", "name": "Aachen", "country": "Deutschland" },
+    { "id": "bielefeld", "name": "Bielefeld", "country": "Deutschland" },
+    { "id": "bochum", "name": "Bochum", "country": "Deutschland" },
+    { "id": "bonn", "name": "Bonn", "country": "Deutschland" },
+    { "id": "dortmund", "name": "Dortmund", "country": "Deutschland" },
+    { "id": "duisburg", "name": "Duisburg", "country": "Deutschland" },
     { "id": "duesseldorf", "name": "Düsseldorf", "country": "Deutschland" },
+    { "id": "essen", "name": "Essen", "country": "Deutschland" },
+    { "id": "hagen", "name": "Hagen", "country": "Deutschland" },
     { "id": "koeln", "name": "Köln", "country": "Deutschland" },
-    { "id": "dortmund", "name": "Dortmund", "country": "Deutschland" }
+    { "id": "krefeld", "name": "Krefeld", "country": "Deutschland" },
+    { "id": "moenchengladbach", "name": "Mönchengladbach", "country": "Deutschland" },
+    { "id": "muenster", "name": "Münster", "country": "Deutschland" },
+    { "id": "recklinghausen", "name": "Recklinghausen", "country": "Deutschland" },
+    { "id": "siegen", "name": "Siegen", "country": "Deutschland" },
+    { "id": "solingen", "name": "Solingen", "country": "Deutschland" },
+    { "id": "remscheid", "name": "Remscheid", "country": "Deutschland" },
+    { "id": "wuppertal", "name": "Wuppertal", "country": "Deutschland" }
   ]
 }

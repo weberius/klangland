@@ -1,0 +1,37 @@
+@if (!venue()) {
+  <a class="back-link" routerLink="/venues">‹ Alle Spielstätten</a>
+  <p class="empty">Diese Spielstätte wurde nicht gefunden.</p>
+} @else {
+  <a class="back-link" routerLink="/venues">‹ Alle Spielstätten</a>
+
+  <article>
+    <header class="profile-head">
+      <h1>{{ venue()!.name }}</h1>
+      <p class="muted">{{ cityName() }} · {{ typeLabel() }}</p>
+    </header>
+
+    <aside class="card profile-facts">
+      <dl>
+        <dt>Ort</dt>
+        <dd>{{ cityName() }}</dd>
+        @if (venue()!.address) {
+          <dt>Adresse</dt>
+          <dd>{{ venue()!.address }}</dd>
+        }
+        @if (institution(); as inst) {
+          <dt>Träger</dt>
+          <dd>{{ inst.name }} <span class="muted">({{ institutionType() }})</span></dd>
+        }
+        @if (venue()!.website) {
+          <dt>Website</dt>
+          <dd><a [href]="venue()!.website" target="_blank" rel="noopener">Offizielle Seite</a></dd>
+        }
+      </dl>
+    </aside>
+
+    <section class="events-section">
+      <h2>Veranstaltungen ({{ events().length }})</h2>
+      <app-event-list [events]="events()" [showVenue]="false" />
+    </section>
+  </article>
+}

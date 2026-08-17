@@ -1,0 +1,28 @@
+<section class="page-header">
+  <h1>Ensembles</h1>
+  <p class="muted">Professionelle Orchester mit festem Sitz in Nordrhein-Westfalen.</p>
+</section>
+
+@if (ensembles().length === 0) {
+  <p class="empty">Keine Ensembles erfasst.</p>
+} @else {
+  <div class="card-grid">
+    @for (e of ensembles(); track e.id) {
+      <a class="card ensemble-card" [routerLink]="['/ensembles', e.id]">
+        <h2 class="ensemble-name">{{ e.name }}</h2>
+        <p class="muted ensemble-meta">{{ cityName(e) }} · {{ typeLabel(e) }}</p>
+        @if (conductorName(e)) {
+          <p class="conductor">Chefdirigent:in: {{ conductorName(e) }}</p>
+        }
+        @if (e.artisticProfile.length) {
+          <p class="tags">
+            @for (p of e.artisticProfile.slice(0, 3); track p) { <span class="tag">{{ p }}</span> }
+          </p>
+        }
+        <p class="muted count">
+          {{ eventCount(e) }} {{ eventCount(e) === 1 ? 'Veranstaltung' : 'Veranstaltungen' }}
+        </p>
+      </a>
+    }
+  </div>
+}
