@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-08-17",
+    "language": "de",
+    "notes": "Werkstammdaten für die ersten Event-Beispiele. Aufführungsdaten stehen ausschließlich in events.json."
+  },
+  "works": [
+    {
+      "id": "beethoven-sinfonie-5",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Sinfonie Nr. 5 c-Moll",
+      "catalogue": [
+        { "system": "Opus", "number": "67" }
+      ],
+      "yearComposed": { "from": 1804, "to": 1808 },
+      "genre": "symphony",
+      "durationMinutes": 35,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mahler-sinfonie-3",
+      "composerId": "gustav-mahler",
+      "title": "Sinfonie Nr. 3 d-Moll",
+      "catalogue": [],
+      "yearComposed": { "from": 1893, "to": 1896 },
+      "genre": "symphony",
+      "durationMinutes": 95,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruckner-sinfonie-7",
+      "composerId": "anton-bruckner",
+      "title": "Sinfonie Nr. 7 E-Dur",
+      "catalogue": [
+        { "system": "WAB", "number": "107" }
+      ],
+      "yearComposed": { "from": 1881, "to": 1883 },
+      "genre": "symphony",
+      "durationMinutes": 65,
+      "version": null,
+      "scoring": null,
+      "description": null
+    }
+  ]
+}

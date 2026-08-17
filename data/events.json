@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-08-17",
+    "season": "2026/27",
+    "language": "de",
+    "notes": "Beispieldatensätze zur Erprobung des Event-Modells. Die Quellen sind Platzhalter und keine recherchierten Konzerttermine."
+  },
+  "events": [
+    {
+      "id": "event-2026-10-02-duesseldorf-mahler3",
+      "title": "Mahler 3",
+      "eventType": "concert",
+      "date": "2026-10-02",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": ["duesseldorfer-symphoniker"],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": ["vitali-alekseenok"],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mahler-sinfonie-3"
+        }
+      ],
+      "seriesId": null,
+      "description": "Beispiel für ein eigenständiges Konzert-Event.",
+      "source": {
+        "url": "https://example.org/klangland/demo/duesseldorf-mahler-3-2026-10-02",
+        "name": "Klangland-Demodaten",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-10-03-duesseldorf-mahler3",
+      "title": "Mahler 3",
+      "eventType": "concert",
+      "date": "2026-10-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": ["duesseldorfer-symphoniker"],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": ["vitali-alekseenok"],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mahler-sinfonie-3",
+          "movement": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Zweiter Aufführungstermin mit eigener Event-ID.",
+      "source": {
+        "url": "https://example.org/klangland/demo/duesseldorf-mahler-3-2026-10-03",
+        "name": "Klangland-Demodaten",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-11-14-koeln-neue-musik",
+      "title": "Klangräume",
+      "eventType": "concert",
+      "date": "2026-11-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": ["wdr-sinfonieorchester"],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": ["marie-jacquot"],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bruckner-sinfonie-7",
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Beispiel für ein Event des WDR Sinfonieorchesters mit eigener Programmreihenbezeichnung.",
+      "source": {
+        "url": "https://example.org/klangland/demo/koeln-klangraeume-2026-11-14",
+        "name": "Klangland-Demodaten",
+        "retrievedAt": "2026-08-17"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-17"
+    }
+  ]
+}

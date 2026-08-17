@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-08-17",
+    "language": "de",
+    "notes": "Erste Beispieldatensätze für die Werke in events.json."
+  },
+  "composers": [
+    {
+      "id": "ludwig-van-beethoven",
+      "name": "Ludwig van Beethoven",
+      "life": { "from": 1770, "to": 1827 }
+    },
+    {
+      "id": "gustav-mahler",
+      "name": "Gustav Mahler",
+      "life": { "from": 1860, "to": 1911 }
+    },
+    {
+      "id": "anton-bruckner",
+      "name": "Anton Bruckner",
+      "life": { "from": 1824, "to": 1896 }
+    }
+  ]
+}

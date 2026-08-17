@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-08-17",
+    "language": "de",
+    "notes": "Kleine Referenzmenge für die ersten Event-Beispiele. Weitere Städte werden bei Bedarf ergänzt."
+  },
+  "cities": [
+    { "id": "duesseldorf", "name": "Düsseldorf", "country": "Deutschland" },
+    { "id": "koeln", "name": "Köln", "country": "Deutschland" },
+    { "id": "dortmund", "name": "Dortmund", "country": "Deutschland" }
+  ]
+}

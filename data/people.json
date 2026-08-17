@@ -1,0 +1,22 @@
+{
+  "metadata": { "version": "1.0", "lastUpdated": "2026-08-17", "language": "de" },
+  "people": [
+    { "id": "levente-toeroek", "name": "Levente Török", "role": "chief_conductor" },
+    { "id": "robin-davis", "name": "Robin Davis", "role": "chief_conductor" },
+    { "id": "aurel-dawidiuk", "name": "Aurel Dawidiuk", "role": "chief_conductor" },
+    { "id": "dirk-kaftan", "name": "Dirk Kaftan", "role": "chief_conductor" },
+    { "id": "jordan-de-souza", "name": "Jordan de Souza", "role": "chief_conductor" },
+    { "id": "stefan-blunier", "name": "Stefan Blunier", "role": "chief_conductor" },
+    { "id": "vitali-alekseenok", "name": "Vitali Alekseenok", "role": "chief_conductor" },
+    { "id": "andrea-sanguineti", "name": "Andrea Sanguineti", "role": "chief_conductor" },
+    { "id": "sebastian-lang-lessing", "name": "Sebastian Lang-Lessing", "role": "chief_conductor" },
+    { "id": "andres-orozco-estrada", "name": "Andrés Orozco-Estrada", "role": "chief_conductor" },
+    { "id": "marie-jacquot", "name": "Marie Jacquot", "role": "chief_conductor" },
+    { "id": "mihkel-kutson", "name": "Mihkel Kütson", "role": "chief_conductor" },
+    { "id": "golo-berg", "name": "Golo Berg", "role": "chief_conductor" },
+    { "id": "rasmus-baumann", "name": "Rasmus Baumann", "role": "chief_conductor" },
+    { "id": "ingmar-beck", "name": "Ingmar Beck", "role": "chief_conductor" },
+    { "id": "daniel-huppert", "name": "Daniel Huppert", "role": "chief_conductor" },
+    { "id": "patrick-hahn", "name": "Patrick Hahn", "role": "chief_conductor" }
+  ]
+}

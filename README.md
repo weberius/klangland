@@ -1,6 +1,6 @@
-# NRW Orchester-Kalender
+# Klangland
 
-Eine schlanke, statische Webanwendung für professionelle Sinfonie- und Philharmonieorchester in Nordrhein-Westfalen und ihre Konzertveranstaltungen.
+Eine schlanke, statische Datenplattform für Musikensembles, Spielstätten und Konzertveranstaltungen in Nordrhein-Westfalen. Der Konzertkalender ist die erste Anwendung von Klangland.
 
 Der Kalender beantwortet die zentrale Frage:
 
@@ -14,8 +14,9 @@ Geplante Bereiche:
 
 - Kalender mit Monatsnavigation und mehreren Veranstaltungen pro Tag
 - Veranstaltungsdetailseiten mit Programm, Künstler:innen, Spielstätte und Quelle
-- Orchesterübersicht und Orchesterprofile
-- Direkte URLs für Monate, Orchester und Veranstaltungen
+- Ensemble- und Orchesterübersicht mit Profilen
+- Spielstättenübersicht mit eigenen Profilen
+- Direkte URLs für Monate, Ensembles, Spielstätten und Veranstaltungen
 - Responsive Darstellung für Desktop und Smartphone
 - Tastaturbedienung, sichtbare Fokuszustände und semantische HTML-Struktur
 
@@ -28,7 +29,7 @@ Recherche offizieller Quellen
           ↓
 Datenaufbereitung und Validierung
           ↓
-/data/orchestras.json
+/data/*.json
           ↓
 Git und statisches Deployment
           ↓
@@ -42,23 +43,32 @@ Die versionierte JSON-Datei ist die Single Source of Truth. Die Webapp konsumier
 ```text
 .
 ├── data/
-│   └── orchestras.json
+│   ├── people.json
+│   ├── institutions.json
+│   ├── ensembles.json
+│   ├── venues.json
+│   ├── cities.json
+│   ├── composers.json
+│   ├── works.json
+│   ├── events.json
+│   └── README.md
 ├── data-tool/
 │   ├── validator/
 │   ├── updater/
 │   └── reports/
 ├── schema/
-│   └── orchestras.schema.json
+│   └── klangland.schema.json
 ├── web/
 │   └── Angular-/TypeScript-Webapp
 ├── docs/
-│   └── product/prd.md
+│   ├── product/prd.md
+│   └── events-and-relations.md
 └── README.md
 ```
 
 ## Datenmodell
 
-Die zentrale Datei enthält Metadaten zur Spielzeit sowie Orchester, Veranstaltungsorte und einzelne Veranstaltungen:
+Die Daten liegen in versionierten JSON-Dateien. Jede Entität besitzt eine eigene Datei und eine eigene Quelle. Das Domänenmodell ist über den Kalender hinaus für eine Klangland-Datenplattform ausgelegt. Stammdaten werden nicht in Veranstaltungen dupliziert; Beziehungen werden ausschließlich über IDs hergestellt:
 
 ```json
 {
@@ -67,13 +77,33 @@ Die zentrale Datei enthält Metadaten zur Spielzeit sowie Orchester, Veranstaltu
     "lastUpdated": "2026-08-22",
     "season": "2026/27"
   },
-  "orchestras": [],
+  "people": [],
+  "institutions": [],
+  "ensembles": [],
   "venues": [],
+  "composers": [],
+  "works": [],
   "events": []
 }
 ```
 
-Wiederkehrende Konzerte werden als einzelne Veranstaltungen gespeichert. Jede Veranstaltung soll eine eindeutige ID, ein gültiges Datum, Referenzen auf Orchester und Veranstaltungsort sowie eine ursprüngliche Quelle besitzen.
+Die zentralen Beziehungen sind:
+
+```text
+Institution ── betreibt/veranstaltet ── Venue
+Institution ── trägt ── Ensemble
+Person ── leitet ── Ensemble
+Ensemble ── spielt ── Event ── findet statt in ── Venue
+City ── beschreibt den Ort ── Event
+Event ── enthält ── Work
+Work ── geschrieben von ── Composer
+```
+
+Ein `Event` referenziert daher `ensembleIds`, `venueId`, `cityId`, `workId`-Werte und `conductorPersonIds`. Das Werk selbst enthält keine Aufführungsdaten. Programmpunkte können zusätzlich einen aufgeführten Satz oder eine Fassung angeben. Wiederkehrende Konzerte werden als einzelne Veranstaltungen gespeichert. Jede Veranstaltung soll eine eindeutige ID, ein gültiges Datum und eine ursprüngliche Quelle besitzen.
+
+`works.json` enthält Werkstammdaten. `composers.json` enthält die Komponist:innen. Katalognummern werden als Liste mit `system` und `number` gespeichert, damit beispielsweise Opus-, KV-, D- und WAB-Angaben abgebildet werden können. `durationMinutes` ist eine ungefähre Werksdauer und nicht die Konzertdauer.
+
+`ensembles` ersetzt `orchestras` als Oberbegriff. So können später neben Sinfonie- und Philharmonieorchestern auch Rundfunk-, Kammer- und Opernorchester, Chöre oder andere Ensembles erfasst werden. `venues` sind eigenständige Stammdaten mit Adresse, Koordinaten, Typ und Institutionenbezug. Dadurch kann die Anwendung später neben Ensembleprofilen auch Spielstättenprofile und deren Veranstaltungsprogramm anzeigen.
 
 ## Tech-Stack
 
@@ -95,13 +125,13 @@ python -m nrw_orchester_data update
 python -m nrw_orchester_data report
 ```
 
-Die Validierung soll unter anderem doppelte IDs, ungültige Datums- und Uhrzeitwerte, fehlende Pflichtfelder sowie ungültige Orchester- und Venue-Referenzen erkennen. Fehler führen zu einem Exit Code ungleich null. Vergangene Veranstaltungen bleiben erhalten, werden aber als Warnung gemeldet.
+Die Validierung soll unter anderem doppelte IDs, ungültige Datums- und Uhrzeitwerte, fehlende Pflichtfelder sowie ungültige Ensemble-, Institution- und Venue-Referenzen erkennen. Fehler führen zu einem Exit Code ungleich null. Vergangene Veranstaltungen bleiben erhalten, werden aber als Warnung gemeldet.
 
 Offizielle Websites der Orchester und Veranstalter sind bevorzugte Quellen. Änderungen an Datum, Dirigent:in, Programm, Veranstaltungsort oder Absage werden zunächst als Vorschlag beziehungsweise Änderungsbericht ausgegeben und nicht ohne Prüfung überschrieben.
 
 ## Entwicklungsstatus
 
-Das Repository enthält derzeit das Produktanforderungsdokument. Die Webapp, die JSON-Datenbasis, das Schema und das Python-Datenpflegewerkzeug sind als nächste Umsetzungsschritte vorgesehen.
+Das Repository enthält das Produktanforderungsdokument und die erste normalisierte JSON-Datenbasis. Die Angular-Webapp, das JSON-Schema und das Python-Datenpflegewerkzeug sind als nächste Umsetzungsschritte vorgesehen.
 
 ## Anforderungen aus dem MVP
 
@@ -110,8 +140,10 @@ Das MVP soll:
 - beim Öffnen den tatsächlichen aktuellen Monat anzeigen, optional mit konfigurierbarem Referenzdatum für Tests;
 - Monatsnavigation ohne vollständigen Seiten-Reload ermöglichen;
 - Konzerte kompakt und vollständig verlinkbar darstellen;
-- Orchester- und Veranstaltungsdetailseiten anbieten;
+- Ensemble-, Spielstätten- und Veranstaltungsdetailseiten anbieten;
 - ohne Backend funktionieren;
 - mit geprüften JSON-Daten reproduzierbar gebaut und statisch deployt werden können.
 
 Der vollständige Anforderungskatalog steht in [`docs/product/prd.md`](docs/product/prd.md).
+
+Die Regeln für Event-IDs, Aufführungstermine, Beziehungen und die schrittweise Normalisierung des Programms sind in [`docs/events-and-relations.md`](docs/events-and-relations.md) dokumentiert.

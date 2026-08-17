@@ -1,0 +1,21 @@
+{
+  "metadata": { "version": "1.0", "lastUpdated": "2026-08-17", "language": "de" },
+  "institutions": [
+    { "id": "theater-aachen", "name": "Theater Aachen", "city": "Aachen", "type": "theatre", "ensembleIds": ["sinfonieorchester-aachen"] },
+    { "id": "stadttheater-bielefeld", "name": "Theater Bielefeld", "city": "Bielefeld", "type": "theatre", "ensembleIds": ["bielefelder-philharmoniker"] },
+    { "id": "bochum-kultur", "name": "Bochum Kultur", "city": "Bochum", "type": "cultural_institution", "ensembleIds": ["bochumer-symphoniker"] },
+    { "id": "beethoven-orchester-bonn-institution", "name": "Beethoven Orchester Bonn", "city": "Bonn", "type": "orchestra_institution", "ensembleIds": ["beethoven-orchester-bonn"] },
+    { "id": "theater-dortmund", "name": "Theater Dortmund", "city": "Dortmund", "type": "theatre", "ensembleIds": ["dortmunder-philharmoniker"] },
+    { "id": "deutsche-oper-am-rhein", "name": "Deutsche Oper am Rhein", "city": "Duisburg / Düsseldorf", "type": "opera_house", "ensembleIds": ["duisburger-philharmoniker", "duesseldorfer-symphoniker"] },
+    { "id": "theater-und-philharmonie-essen", "name": "Theater und Philharmonie Essen", "city": "Essen", "type": "cultural_institution", "ensembleIds": ["essener-philharmoniker"] },
+    { "id": "theater-hagen-institution", "name": "Theater Hagen", "city": "Hagen", "type": "theatre", "ensembleIds": ["philharmonisches-orchester-hagen"] },
+    { "id": "oper-koeln", "name": "Oper Köln", "city": "Köln", "type": "opera_house", "ensembleIds": ["guerzenich-orchester-koeln"] },
+    { "id": "westdeutscher-rundfunk", "name": "Westdeutscher Rundfunk", "city": "Köln", "type": "broadcaster", "ensembleIds": ["wdr-sinfonieorchester"] },
+    { "id": "theater-krefeld-moenchengladbach-institution", "name": "Theater Krefeld und Mönchengladbach", "city": "Krefeld / Mönchengladbach", "type": "theatre", "ensembleIds": ["niederrheinische-sinfoniker"] },
+    { "id": "theater-muenster-institution", "name": "Theater Münster", "city": "Münster", "type": "theatre", "ensembleIds": ["sinfonieorchester-muenster"] },
+    { "id": "neue-philharmonie-westfalen-institution", "name": "Neue Philharmonie Westfalen", "city": "Recklinghausen / Ruhrgebiet", "type": "orchestra_institution", "ensembleIds": ["neue-philharmonie-westfalen"] },
+    { "id": "philharmonie-suedwestfalen-institution", "name": "Philharmonie Südwestfalen", "city": "Siegen / Südwestfalen", "type": "orchestra_institution", "ensembleIds": ["philharmonie-suedwestfalen"] },
+    { "id": "bergische-symphoniker-institution", "name": "Bergische Symphoniker", "city": "Solingen / Remscheid", "type": "orchestra_institution", "ensembleIds": ["bergische-symphoniker"] },
+    { "id": "wuppertaler-buehnen", "name": "Wuppertaler Bühnen", "city": "Wuppertal", "type": "theatre", "ensembleIds": ["sinfonieorchester-wuppertal"] }
+  ]
+}

@@ -367,7 +367,7 @@ Darstellung beispielsweise als Karten:
 
 ---
 
-# 11. Orchester-Stammdaten
+# 11. Ensemble-Stammdaten
 
 Für jedes Orchester werden mindestens folgende Daten benötigt:
 
@@ -415,10 +415,17 @@ Optional kann später eine kleine Karte ergänzt werden.
 
 # 13. Datenmodell
 
-Die Daten werden zunächst in einer einzigen JSON-Datei gespeichert:
+Die Daten werden in getrennten, versionierten JSON-Dateien gespeichert. Jede zentrale Entität besitzt eine eigene Datei; Beziehungen zwischen Entitäten werden ausschließlich über IDs hergestellt:
 
 ```text
-/data/orchestras.json
+/data/people.json
+/data/institutions.json
+/data/ensembles.json
+/data/venues.json
+/data/cities.json
+/data/composers.json
+/data/works.json
+/data/events.json
 ```
 
 Empfohlen wird folgende Struktur:
@@ -431,13 +438,18 @@ Empfohlen wird folgende Struktur:
     "season": "2026/27"
   },
 
-  "orchestras": [],
-
+  "people": [],
+  "institutions": [],
+  "ensembles": [],
   "venues": [],
-
+  "cities": [],
+        "composers": [],
+  "works": [],
   "events": []
 }
 ```
+
+Die Entitäten sind bewusst getrennt: Eine Institution kann mehrere Spielstätten betreiben und Ensembles tragen. Ein Ensemble kann an verschiedenen Spielstätten auftreten. Ein Event verbindet Ensemble, Venue, Personen und Werke. `ensembles` ist der Oberbegriff; `orchestras` wird nicht mehr als zentrale Entität verwendet.
 
 ---
 
@@ -447,41 +459,40 @@ Beispiel:
 
 ```json
 {
-  "id": "2026-10-02-duesseldorfer-symphoniker-mahler-3",
-  "orchestraId": "duesseldorfer-symphoniker",
+        "id": "event-2026-10-02-duesseldorf-mahler3",
+        "title": "Mahler 3",
+        "eventType": "concert",
 
   "date": "2026-10-02",
   "startTime": "19:30",
   "endTime": null,
 
-  "title": "Mahler 3",
-  "series": "Sternzeichen",
-
-  "conductor": {
-    "name": "..."
-  },
-
-  "soloists": [],
-
-  "program": [
-    {
-      "composer": "Gustav Mahler",
-      "work": "Sinfonie Nr. 3 d-Moll",
-      "catalogue": null
-    }
-  ],
-
+  "status": "scheduled",
+  "ensembleIds": ["duesseldorfer-symphoniker"],
   "venueId": "tonhalle-duesseldorf",
+  "cityId": "duesseldorf",
+  "conductorPersonIds": ["vitali-alekseenok"],
+  "soloistPersonIds": [],
 
-  "city": "Düsseldorf",
+        "program": [
+                {
+                        "workId": "mahler-sinfonie-3",
+                        "movement": null,
+                        "version": null
+                }
+        ],
+
+        "seriesId": null,
+        "description": null,
 
   "source": {
-    "url": "...",
-    "name": "Düsseldorfer Symphoniker",
-    "retrievedAt": "2026-08-22"
+        "url": "https://example.org/konzerte/mahler-3",
+        "name": "Beispielquelle",
+        "retrievedAt": "2026-08-17"
   },
 
-  "notes": null
+        "ticketUrl": null,
+        "lastVerified": "2026-08-17"
 }
 ```
 
@@ -515,20 +526,24 @@ Das Python-Werkzeug soll deshalb mindestens folgende Prüfungen durchführen:
 
 ### Pflichtfelder
 
-* eindeutige Orchester-ID
+* eindeutige Ensemble-ID
 * eindeutige Veranstaltungs-ID
 * gültiges Datum
-* Orchester existiert
+* Ensemble existiert
 * Veranstaltungsort existiert
+* referenzierte Werke und Komponist:innen existieren
 * Titel vorhanden
 
 ### Konsistenz
 
-* keine doppelten IDs
+* keine doppelten IDs in Ensembles, Werken, Komponist:innen und Veranstaltungen
 * gültige ISO-Datumswerte
 * Uhrzeiten im Format `HH:MM`
-* jede Veranstaltung verweist auf ein existierendes Orchester
+* jede Veranstaltung verweist auf existierende Ensembles
 * jede Veranstaltung verweist auf einen existierenden Veranstaltungsort
+* jeder Programmpunkt verweist auf ein existierendes Werk
+* jedes Werk verweist auf einen existierenden Komponisten
+* `genre` und Katalogsysteme verwenden kontrollierte Werte
 
 ### Quellen
 
@@ -578,11 +593,12 @@ Beispiel:
 ```text
 Checking data...
 
-✓ 17 orchestras
+✓ 17 ensembles
 ✓ 23 venues
 ✓ 184 events
 ✓ no duplicate IDs
-✓ all orchestra references valid
+✓ all ensemble references valid
+✓ all institution references valid
 ✓ all venue references valid
 ✓ all dates valid
 
@@ -603,7 +619,7 @@ Die langfristige Zielsetzung ist ein halbautomatischer Datenpflegeprozess.
 
 Das Werkzeug soll perspektivisch in der Lage sein:
 
-1. Orchester-Websites zu kennen
+1. Ensemble- und Institutionen-Websites zu kennen
 2. Veranstaltungsquellen zu kennen
 3. vorhandene Veranstaltungen zu laden
 4. neue Veranstaltungen zu erkennen
@@ -640,7 +656,7 @@ Beispielhafter Ablauf:
 
         ↓
 
-Orchesterliste laden
+Ensembleliste und Institutionen laden
 
         ↓
 
@@ -716,7 +732,8 @@ Für das MVP wird eine **statische Webanwendung** empfohlen.
 ```text
                 ┌───────────────────┐
                 │   JSON-Daten      │
-                │ orchestras.json   │
+                │ getrennte JSON-   │
+                │ Stammdatendateien │
                 └─────────┬─────────┘
                           │
                           ▼
@@ -724,7 +741,8 @@ Für das MVP wird eine **statische Webanwendung** empfohlen.
                 │ Static Web App     │
                 │                   │
                 │ Kalender           │
-                │ Orchester          │
+                │ Ensembles          │
+                │ Spielstätten       │
                 │ Details            │
                 └─────────┬─────────┘
                           │
@@ -799,16 +817,22 @@ Beispiel:
 → Oktober 2026
 
 ```text
-/orchestras
+/ensembles
 ```
 
-→ Orchesterübersicht
+→ Ensembleübersicht
 
 ```text
-/orchestras/wdr-sinfonieorchester
+/ensembles/wdr-sinfonieorchester
 ```
 
-→ Orchesterprofil
+→ Ensembleprofil
+
+```text
+/venues/tonhalle-duesseldorf
+```
+
+→ Spielstättenprofil
 
 ```text
 /events/2026-10-02-duesseldorfer-symphoniker-mahler-3
@@ -1003,20 +1027,28 @@ Die erste veröffentlichungsfähige Version muss enthalten:
 * [ ] klickbare Veranstaltungen
 * [ ] Veranstaltungsdetails
 
-### Orchester
+### Ensembles und Orchester
 
-* [ ] vollständige Orchesterliste
+* [ ] vollständige Ensembleliste
 * [ ] Ort
 * [ ] Chefdirigent:in
 * [ ] musikalisches Profil
 * [ ] Website
 * [ ] Stammsaal / wichtigste Spielstätte
-* [ ] Orchesterdetailseite
+* [ ] Ensembledetailseite
+
+### Spielstätten
+
+* [ ] vollständige Spielstättenliste
+* [ ] Spielstättenprofil
+* [ ] Liste der dort stattfindenden Veranstaltungen
 
 ### Daten
 
 * [ ] JSON-Schema
-* [ ] Orchester-Stammdaten
+* [ ] Ensemble-Stammdaten
+* [ ] Personen-Stammdaten
+* [ ] Institutionen-Stammdaten
 * [ ] Veranstaltungsdaten
 * [ ] Veranstaltungsorte
 * [ ] Quellen
@@ -1149,7 +1181,12 @@ nrw-orchester/
 │   └── Webapplikation
 │
 ├── data/
-│   └── orchestras.json
+│   ├── people.json
+│   ├── institutions.json
+│   ├── ensembles.json
+│   ├── venues.json
+│   ├── works.json
+│   └── events.json
 │
 ├── data-tool/
 │   ├── validator
@@ -1157,7 +1194,7 @@ nrw-orchester/
 │   └── reports
 │
 ├── schema/
-│   └── orchestras.schema.json
+│   └── klangland.schema.json
 │
 └── README.md
 ```
@@ -1181,7 +1218,7 @@ Datenaufbereitung
     ↓
 Validierung
     ↓
-orchestras.json
+getrennte JSON-Dateien
     ↓
 Git
     ↓
@@ -1219,15 +1256,15 @@ Die Anwendung soll dabei nicht versuchen, einen vollständigen Konzertführer f�
 
 Die Entwicklung sollte in dieser Reihenfolge erfolgen:
 
-1. **Orchesterliste und Datenmodell endgültig festlegen**
+1. **Ensemble-, Institutionen- und Venue-Modell endgültig festlegen**
 2. JSON Schema definieren
-3. vollständige Orchester-Stammdaten erfassen
+3. vollständige Ensemble-, Personen- und Institutionen-Stammdaten erfassen
 4. Veranstaltungsorte erfassen
 5. Spielpläne 2026/27 recherchieren und JSON aufbauen
 6. Python-Validator entwickeln
 7. Kalender-UI entwickeln
 8. Veranstaltungsdetailseite entwickeln
-9. Orchesterseiten entwickeln
+9. Ensemble- und Spielstättenprofile entwickeln
 10. responsive/mobile Darstellung
 11. Deployment einrichten
 12. Datenaktualisierungs-Skill/Python-Updater entwickeln
