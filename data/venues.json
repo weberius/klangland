@@ -498,6 +498,110 @@
       "website": "https://www.eurogress-aachen.de",
       "type": "concert_hall",
       "institutionId": null
+    },
+    {
+      "id": "baukunstarchiv-nrw-dortmund",
+      "name": "Baukunstarchiv NRW (Gartensaal)",
+      "cityIds": [
+        "dortmund"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "kokerei-hansa-dortmund",
+      "name": "Kokerei Hansa (Salzlager)",
+      "cityIds": [
+        "dortmund"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "akademie-theater-digitalitaet-dortmund",
+      "name": "Akademie für Theater und Digitalität",
+      "cityIds": [
+        "dortmund"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "opernhaus-dortmund",
+      "name": "Opernhaus Dortmund",
+      "cityIds": [
+        "dortmund"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "opera_house",
+      "institutionId": null
+    },
+    {
+      "id": "deutsches-fussballmuseum-dortmund",
+      "name": "Deutsches Fußballmuseum Dortmund",
+      "cityIds": [
+        "dortmund"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "phoenix-des-lumieres-dortmund",
+      "name": "Phoenix des Lumières Dortmund",
+      "cityIds": [
+        "dortmund"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "thier-galerie-dortmund",
+      "name": "Thier-Galerie Dortmund",
+      "cityIds": [
+        "dortmund"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "domicil-dortmund",
+      "name": "domicil Dortmund",
+      "cityIds": [
+        "dortmund"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
     }
   ]
 }

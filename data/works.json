@@ -5765,6 +5765,527 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "schumann-klavierquartett-es-dur",
+      "composerId": "robert-schumann",
+      "title": "Klavierquartett Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "47"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-klavierquartett-nr-1-g-moll",
+      "composerId": "johannes-brahms",
+      "title": "Klavierquartett Nr. 1 g-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "25"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "aucoin-heath",
+      "composerId": "matthew-aucoin",
+      "title": "Heath",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "britten-four-sea-interludes-aus-der-peter-grimes",
+      "composerId": "benjamin-britten",
+      "title": "Four Sea Interludes aus der Oper Peter Grimes",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "33a"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "janacek-taras-bulba-rhapsodie-fuer-orchester",
+      "composerId": "leos-janacek",
+      "title": "Taras Bulba. Rhapsodie für Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prokofjew-violinkonzert-nr-1-d-dur",
+      "composerId": "sergej-prokofjew",
+      "title": "Violinkonzert Nr. 1 D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "19"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-sinfonische-taenze",
+      "composerId": "sergej-rachmaninow",
+      "title": "Sinfonische Tänze",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "45"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "amadeus-mozart-sinfonie-nr-25-g-moll",
+      "composerId": "wolfgang-amadeus",
+      "title": "Mozart Sinfonie Nr. 25 g-Moll",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "183"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "nielsen-konzert-fuer-floete-und-orchester",
+      "composerId": "carl-nielsen",
+      "title": "Konzert für Flöte und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-sinfonie-nr-6-c-dur-d-589",
+      "composerId": "franz-schubert",
+      "title": "Sinfonie Nr. 6 C-Dur D 589",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruckner-sinfonie-nr-4-es-dur-fassung-1879-80",
+      "composerId": "anton-bruckner",
+      "title": "Sinfonie Nr. 4 Es-Dur (Fassung 1879/80)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-sinfonie-nr-44-e-moll-trauersinfonie",
+      "composerId": "joseph-haydn",
+      "title": "Sinfonie Nr. 44 e-Moll „Trauersinfonie“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "higdon-blue-cathedral",
+      "composerId": "jennifer-higdon",
+      "title": "Blue Cathedral",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-ein-deutsches-requiem",
+      "composerId": "johannes-brahms",
+      "title": "Ein deutsches Requiem",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "45"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "requiem",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-romeo-und-julia-fantasie-ouvertuere",
+      "composerId": "peter-tschaikowsky",
+      "title": "Romeo und Julia. Fantasie-Ouvertüre",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "clyne-three-sisters-konzert-fuer-mandoline-und",
+      "composerId": "anna-clyne",
+      "title": "Three Sisters. Konzert für Mandoline und Streichorchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sibelius-sinfonie-nr-5-es-dur",
+      "composerId": "jean-sibelius",
+      "title": "Sinfonie Nr. 5 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "82"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "resatsch-ad-se-revertens",
+      "composerId": "eduard-resatsch",
+      "title": "„Ad se revertens“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-violinkonzert-d-moll",
+      "composerId": "robert-schumann",
+      "title": "Violinkonzert d-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-sinfonie-nr-6-d-dur",
+      "composerId": "antonin-dvorak",
+      "title": "Sinfonie Nr. 6 D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "60"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "aucoin-neues-werk-ein-kompositionsauftrag-des-a",
+      "composerId": "matthew-aucoin",
+      "title": "Neues Werk: Ein Kompositionsauftrag des Aspen Music Festival, des Lake Area Music Festival und der Dortmunder Philharmoniker – Europäische Erstaufführung",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strawinsky-der-feuervogel-1909-10",
+      "composerId": "igor-strawinsky",
+      "title": "Der Feuervogel (1909/10)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "offenbach-ouvertuere-zu-la-vie-parisienne",
+      "composerId": "jacques-offenbach",
+      "title": "Ouvertüre zu La vie Parisienne",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "gershwin-an-american-in-paris",
+      "composerId": "george-gershwin",
+      "title": "An American in Paris",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "debussy-gymnopedies-nr-1-3",
+      "composerId": "erik-satie-claude-debussy",
+      "title": "Gymnopédies Nr. 1 & 3",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-klavierkonzert-g-dur",
+      "composerId": "maurice-ravel",
+      "title": "Klavierkonzert G-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dukas-der-zauberlehrling",
+      "composerId": "paul-dukas",
+      "title": "Der Zauberlehrling",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-aus-der-musik-zu-harry-potter",
+      "composerId": "john-williams",
+      "title": "Aus der Musik zu Harry Potter",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "korngold-the-private-lives-of-elizabeth-and-essex",
+      "composerId": "erich-wolfgang-korngold",
+      "title": "The Private Lives of Elizabeth and Essex (Auszüge)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-walkuerenritt",
+      "composerId": "richard-wagner",
+      "title": "Walkürenritt",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "caplet-clair-de-lune",
+      "composerId": "claude-debussy-andre-caplet",
+      "title": "Clair de lune",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "holst-mars-der-kriegsbringer-aus-die-planeten-",
+      "composerId": "gustav-holst",
+      "title": "Mars, der Kriegsbringer aus Die Planeten und viele weitere Werke",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-streichquartett-nr-1-d-dur",
+      "composerId": "peter-tschaikowsky",
+      "title": "Streichquartett Nr. 1 D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "11"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-concerti-nr-1-4-die-vier-jahreszeiten",
+      "composerId": "antonio-vivaldi",
+      "title": "Concerti , Nr. 1 – 4 Die vier Jahreszeiten",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "8"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "piazzolla-die-vier-jahreszeiten-in-buenos-aires",
+      "composerId": "astor-piazzolla",
+      "title": "Die vier Jahreszeiten in Buenos Aires",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "borodin-streichquartett-nr-2-d-dur",
+      "composerId": "alexander-borodin",
+      "title": "Streichquartett Nr. 2 D-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-streichsextett-d-moll-souvenir-de-floren",
+      "composerId": "peter-tschaikowsky",
+      "title": "Streichsextett d-Moll Souvenir de Florence",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "70"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartok-contrasts-fuer-violine-klarinette-und-kl",
+      "composerId": "bela-bartok",
+      "title": "Contrasts für Violine, Klarinette und Klavier Johannes Brahms Klarinettentrio a-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "114"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

@@ -1042,6 +1042,56 @@
       "id": "florent-schmitt",
       "name": "Florent Schmitt",
       "life": null
+    },
+    {
+      "id": "matthew-aucoin",
+      "name": "Matthew Aucoin",
+      "life": null
+    },
+    {
+      "id": "wolfgang-amadeus",
+      "name": "Wolfgang Amadeus",
+      "life": null
+    },
+    {
+      "id": "peter-tschaikowsky",
+      "name": "Peter Tschaikowsky",
+      "life": null
+    },
+    {
+      "id": "eduard-resatsch",
+      "name": "Eduard Resatsch",
+      "life": null
+    },
+    {
+      "id": "jacques-offenbach",
+      "name": "Jacques Offenbach",
+      "life": null
+    },
+    {
+      "id": "erik-satie-claude-debussy",
+      "name": "Erik Satie/Claude Debussy",
+      "life": null
+    },
+    {
+      "id": "john-williams",
+      "name": "John Williams",
+      "life": null
+    },
+    {
+      "id": "claude-debussy-andre-caplet",
+      "name": "Claude Debussy /André Caplet",
+      "life": null
+    },
+    {
+      "id": "gustav-holst",
+      "name": "Gustav Holst",
+      "life": null
+    },
+    {
+      "id": "astor-piazzolla",
+      "name": "Astor Piazzolla",
+      "life": null
     }
   ]
 }

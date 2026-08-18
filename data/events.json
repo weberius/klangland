@@ -14057,6 +14057,2018 @@
       },
       "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2571216",
       "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-09-dortmund-medizin-meets-musik-1900",
+      "title": "medizin meets musik",
+      "eventType": "concert",
+      "date": "2026-09-09",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "baukunstarchiv-nrw-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/medizin-meets-musik/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-21-dortmund-1-konzert-fuer-junge-leute-symphon-1900",
+      "title": "1. Konzert für junge Leute: Symphonic Sing Along",
+      "eventType": "concert",
+      "date": "2026-09-21",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "miki-kekenj"
+      ],
+      "soloistPersonIds": [
+        "leslie-jost"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-konzert-fuer-junge-leute-symphonic-sing-along/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13364",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-26-dortmund-1-konzert-late-night-in-der-kokere-2100",
+      "title": "1. Konzert Late Night in der Kokerei Hansa: Maloche",
+      "eventType": "concert",
+      "date": "2026-09-26",
+      "startTime": "21:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "kokerei-hansa-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "matthew-aucoin"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-konzert-late-night-in-der-kokerei-hansa-maloche/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13360",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-29-dortmund-1-philharmonisches-konzert-seelenk-1930",
+      "title": "1. Philharmonisches Konzert: Seelenklänge",
+      "eventType": "concert",
+      "date": "2026-09-29",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "julie-boulianne",
+        "clay-hilley"
+      ],
+      "program": [
+        {
+          "workId": "aucoin-heath"
+        },
+        {
+          "workId": "britten-four-sea-interludes-aus-der-peter-grimes"
+        },
+        {
+          "workId": "mahler-das-lied-von-der-erde"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-philharmonisches-konzert-seelenklaenge/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13337",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-30-dortmund-1-philharmonisches-konzert-seelenk-1100",
+      "title": "1. Philharmonisches Konzert: Seelenklänge",
+      "eventType": "concert",
+      "date": "2026-09-30",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "julie-boulianne",
+        "clay-hilley"
+      ],
+      "program": [
+        {
+          "workId": "aucoin-heath"
+        },
+        {
+          "workId": "britten-four-sea-interludes-aus-der-peter-grimes"
+        },
+        {
+          "workId": "mahler-das-lied-von-der-erde"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-philharmonisches-konzert-seelenklaenge/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-30-dortmund-1-philharmonisches-konzert-seelenk-1930",
+      "title": "1. Philharmonisches Konzert: Seelenklänge",
+      "eventType": "concert",
+      "date": "2026-09-30",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "julie-boulianne",
+        "clay-hilley"
+      ],
+      "program": [
+        {
+          "workId": "aucoin-heath"
+        },
+        {
+          "workId": "britten-four-sea-interludes-aus-der-peter-grimes"
+        },
+        {
+          "workId": "mahler-das-lied-von-der-erde"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-philharmonisches-konzert-seelenklaenge/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13338",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-01-dortmund-1-kammerkonzert-romantische-fluege-1900",
+      "title": "1. Kammerkonzert: Romantische Flügelträume",
+      "eventType": "concert",
+      "date": "2026-10-01",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "akademie-theater-digitalitaet-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "martina-sebald",
+        "juan-urena-hevia",
+        "florian-sebald",
+        "koji-ishizaka"
+      ],
+      "program": [
+        {
+          "workId": "schumann-klavierquartett-es-dur"
+        },
+        {
+          "workId": "brahms-klavierquartett-nr-1-g-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-kammerkonzert-romantische-fluegeltraeume/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13561",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-04-dortmund-1-babykonzert-2627-1015",
+      "title": "1. Babykonzert",
+      "eventType": "concert",
+      "date": "2026-10-04",
+      "startTime": "10:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-babykonzert-2627/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-04-dortmund-1-babykonzert-2627-1200",
+      "title": "1. Babykonzert",
+      "eventType": "concert",
+      "date": "2026-10-04",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-babykonzert-2627/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-11-dortmund-1-familienkonzert-die-hexen-sind-l-1015",
+      "title": "1. Familienkonzert: Die Hexen sind los!",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "10:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "koji-ishizaka"
+      ],
+      "soloistPersonIds": [
+        "viola-michalski"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-familienkonzert-die-hexen-sind-los/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13366",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-11-dortmund-1-familienkonzert-die-hexen-sind-l-1200",
+      "title": "1. Familienkonzert: Die Hexen sind los!",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "koji-ishizaka"
+      ],
+      "soloistPersonIds": [
+        "viola-michalski"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-familienkonzert-die-hexen-sind-los/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13367",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-20-dortmund-2-philharmonisches-konzert-kopfkin-1930",
+      "title": "2. Philharmonisches Konzert: Kopfkino",
+      "eventType": "concert",
+      "date": "2026-10-20",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "nicolo-foron"
+      ],
+      "soloistPersonIds": [
+        "alexander-prushinskiy"
+      ],
+      "program": [
+        {
+          "workId": "janacek-taras-bulba-rhapsodie-fuer-orchester"
+        },
+        {
+          "workId": "prokofjew-violinkonzert-nr-1-d-dur"
+        },
+        {
+          "workId": "rachmaninow-sinfonische-taenze"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-philharmonisches-konzert-kopfkino/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13339",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-21-dortmund-2-philharmonisches-konzert-kopfkin-1930",
+      "title": "2. Philharmonisches Konzert: Kopfkino",
+      "eventType": "concert",
+      "date": "2026-10-21",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "nicolo-foron"
+      ],
+      "soloistPersonIds": [
+        "alexander-prushinskiy"
+      ],
+      "program": [
+        {
+          "workId": "janacek-taras-bulba-rhapsodie-fuer-orchester"
+        },
+        {
+          "workId": "prokofjew-violinkonzert-nr-1-d-dur"
+        },
+        {
+          "workId": "rachmaninow-sinfonische-taenze"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-philharmonisches-konzert-kopfkino/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13340",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-28-dortmund-1-sitzkissenkonzert-vitaminmusik-u-0930",
+      "title": "1. Sitzkissenkonzert: Vitaminmusik und Tonsalat",
+      "eventType": "concert",
+      "date": "2026-10-28",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-sitzkissenkonzert-vitaminmusik-und-tonsalat/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-17-dortmund-3-philharmonisches-konzert-urknall-1930",
+      "title": "3. Philharmonisches Konzert: Urknall",
+      "eventType": "concert",
+      "date": "2026-11-17",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "jasmine-choi"
+      ],
+      "program": [
+        {
+          "workId": "amadeus-mozart-sinfonie-nr-25-g-moll"
+        },
+        {
+          "workId": "nielsen-konzert-fuer-floete-und-orchester"
+        },
+        {
+          "workId": "strauss-also-sprach-zarathustra"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/3-philharmonisches-konzert-urknall/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13341",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-18-dortmund-3-philharmonisches-konzert-urknall-1930",
+      "title": "3. Philharmonisches Konzert: Urknall",
+      "eventType": "concert",
+      "date": "2026-11-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "jasmine-choi"
+      ],
+      "program": [
+        {
+          "workId": "amadeus-mozart-sinfonie-nr-25-g-moll"
+        },
+        {
+          "workId": "nielsen-konzert-fuer-floete-und-orchester"
+        },
+        {
+          "workId": "strauss-also-sprach-zarathustra"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/3-philharmonisches-konzert-urknall/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13342",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-28-dortmund-2-babykonzert-2627-1015",
+      "title": "2. Babykonzert",
+      "eventType": "concert",
+      "date": "2026-11-28",
+      "startTime": "10:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-babykonzert-2627/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-28-dortmund-2-babykonzert-2627-1200",
+      "title": "2. Babykonzert",
+      "eventType": "concert",
+      "date": "2026-11-28",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-babykonzert-2627/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-30-dortmund-2-kammerkonzert-geniale-talentprob-1900",
+      "title": "2. Kammerkonzert: Geniale Talentproben",
+      "eventType": "concert",
+      "date": "2026-11-30",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "deutsches-fussballmuseum-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "tschaikowsky-streichquartett-nr-1-d-dur"
+        },
+        {
+          "workId": "debussy-streichquartett-g-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-kammerkonzert-geniale-talentproben/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13562",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-12-dortmund-kaffeehauskonzert-1500",
+      "title": "Kaffeehauskonzert",
+      "eventType": "concert",
+      "date": "2026-12-12",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/kaffeehauskonzert/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-14-dortmund-1-konzert-deep-dive-peter-tschaiko-1900",
+      "title": "1. Konzert Deep Dive: Peter Tschaikowsky „Der Nussknacker“",
+      "eventType": "concert",
+      "date": "2026-12-14",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/1-konzert-deep-dive-peter-tschaikowsky-der-nussknacker/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13357",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-01-dortmund-neujahrskonzert-paris-mon-amour-1500",
+      "title": "Neujahrskonzert: Paris, mon amour!",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "frank-dupree"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-ouvertuere-zu-la-vie-parisienne"
+        },
+        {
+          "workId": "gershwin-an-american-in-paris"
+        },
+        {
+          "workId": "debussy-gymnopedies-nr-1-3"
+        },
+        {
+          "workId": "ravel-klavierkonzert-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/neujahrskonzert-paris-mon-amour/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13361",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-01-dortmund-neujahrskonzert-paris-mon-amour-1800",
+      "title": "Neujahrskonzert: Paris, mon amour!",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "frank-dupree"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-ouvertuere-zu-la-vie-parisienne"
+        },
+        {
+          "workId": "gershwin-an-american-in-paris"
+        },
+        {
+          "workId": "debussy-gymnopedies-nr-1-3"
+        },
+        {
+          "workId": "ravel-klavierkonzert-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/neujahrskonzert-paris-mon-amour/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13362",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-12-dortmund-sinfonische-blockbuster-1930",
+      "title": "Sinfonische Blockbuster",
+      "eventType": "concert",
+      "date": "2027-01-12",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "vito-cristofaro"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dukas-der-zauberlehrling"
+        },
+        {
+          "workId": "williams-aus-der-musik-zu-harry-potter"
+        },
+        {
+          "workId": "korngold-the-private-lives-of-elizabeth-and-essex"
+        },
+        {
+          "workId": "wagner-walkuerenritt"
+        },
+        {
+          "workId": "caplet-clair-de-lune"
+        },
+        {
+          "workId": "holst-mars-der-kriegsbringer-aus-die-planeten-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/sinfonische-blockbuster/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13353",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-13-dortmund-sinfonische-blockbuster-1930",
+      "title": "Sinfonische Blockbuster",
+      "eventType": "concert",
+      "date": "2027-01-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "vito-cristofaro"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dukas-der-zauberlehrling"
+        },
+        {
+          "workId": "williams-aus-der-musik-zu-harry-potter"
+        },
+        {
+          "workId": "korngold-the-private-lives-of-elizabeth-and-essex"
+        },
+        {
+          "workId": "wagner-walkuerenritt"
+        },
+        {
+          "workId": "caplet-clair-de-lune"
+        },
+        {
+          "workId": "holst-mars-der-kriegsbringer-aus-die-planeten-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/sinfonische-blockbuster/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13354",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-01-dortmund-2-konzert-deep-dive-claude-debussy-1900",
+      "title": "2. Konzert Deep Dive: Claude Debussy „La Mer“",
+      "eventType": "concert",
+      "date": "2027-02-01",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-konzert-deep-dive-claude-debussy-la-mer/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13358",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-06-dortmund-kaffeehauskonzert-1500",
+      "title": "Kaffeehauskonzert",
+      "eventType": "concert",
+      "date": "2027-02-06",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/kaffeehauskonzert/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-16-dortmund-4-philharmonisches-konzert-klangka-1930",
+      "title": "4. Philharmonisches Konzert: Klangkathedralen",
+      "eventType": "concert",
+      "date": "2027-02-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "cornelius-meister"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schubert-sinfonie-nr-6-c-dur-d-589"
+        },
+        {
+          "workId": "bruckner-sinfonie-nr-4-es-dur-fassung-1879-80"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/4-philharmonisches-konzert-klangkathedralen/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13343",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-17-dortmund-4-philharmonisches-konzert-klangka-1930",
+      "title": "4. Philharmonisches Konzert: Klangkathedralen",
+      "eventType": "concert",
+      "date": "2027-02-17",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "cornelius-meister"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schubert-sinfonie-nr-6-c-dur-d-589"
+        },
+        {
+          "workId": "bruckner-sinfonie-nr-4-es-dur-fassung-1879-80"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/4-philharmonisches-konzert-klangkathedralen/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13344",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-18-dortmund-3-kammerkonzert-acht-jahreszeiten-1900",
+      "title": "3. Kammerkonzert: Acht Jahreszeiten",
+      "eventType": "concert",
+      "date": "2027-02-18",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "phoenix-des-lumieres-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "vivaldi-concerti-nr-1-4-die-vier-jahreszeiten"
+        },
+        {
+          "workId": "piazzolla-die-vier-jahreszeiten-in-buenos-aires"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/3-kammerkonzert-acht-jahreszeiten/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13563",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-23-dortmund-3-babykonzert-2627-0930",
+      "title": "3. Babykonzert",
+      "eventType": "concert",
+      "date": "2027-02-23",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/3-babykonzert-2627/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-23-dortmund-3-babykonzert-2627-1100",
+      "title": "3. Babykonzert",
+      "eventType": "concert",
+      "date": "2027-02-23",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/3-babykonzert-2627/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-28-dortmund-2-familienkonzert-der-letzte-troll-1015",
+      "title": "2. Familienkonzert: Der letzte Troll",
+      "eventType": "concert",
+      "date": "2027-02-28",
+      "startTime": "10:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "olivia-lee-gundermann"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-familienkonzert-der-letzte-troll/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13368",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-28-dortmund-2-familienkonzert-der-letzte-troll-1200",
+      "title": "2. Familienkonzert: Der letzte Troll",
+      "eventType": "concert",
+      "date": "2027-02-28",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "olivia-lee-gundermann"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-familienkonzert-der-letzte-troll/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13369",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-08-dortmund-2-sitzkissenkonzert-tulpinella-hat-0930",
+      "title": "2. Sitzkissenkonzert: Tulpinella hat verschlafen",
+      "eventType": "concert",
+      "date": "2027-03-08",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-sitzkissenkonzert-tulpinella-hat-verschlafen/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-23-dortmund-5-philharmonisches-konzert-seligke-1930",
+      "title": "5. Philharmonisches Konzert: Seligkeit",
+      "eventType": "concert",
+      "date": "2027-03-23",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "louise-alder",
+        "huw-montague-rendall"
+      ],
+      "program": [
+        {
+          "workId": "haydn-sinfonie-nr-44-e-moll-trauersinfonie"
+        },
+        {
+          "workId": "higdon-blue-cathedral"
+        },
+        {
+          "workId": "brahms-ein-deutsches-requiem"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/5-philharmonisches-konzert-seligkeit/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13345",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-24-dortmund-5-philharmonisches-konzert-seligke-1930",
+      "title": "5. Philharmonisches Konzert: Seligkeit",
+      "eventType": "concert",
+      "date": "2027-03-24",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "louise-alder",
+        "huw-montague-rendall"
+      ],
+      "program": [
+        {
+          "workId": "haydn-sinfonie-nr-44-e-moll-trauersinfonie"
+        },
+        {
+          "workId": "higdon-blue-cathedral"
+        },
+        {
+          "workId": "brahms-ein-deutsches-requiem"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/5-philharmonisches-konzert-seligkeit/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13346",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-13-dortmund-6-philharmonisches-konzert-brutale-1930",
+      "title": "6. Philharmonisches Konzert: Brutale Liebe",
+      "eventType": "concert",
+      "date": "2027-04-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "anna-rakitina"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "tschaikowsky-romeo-und-julia-fantasie-ouvertuere"
+        },
+        {
+          "workId": "clyne-three-sisters-konzert-fuer-mandoline-und"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-5-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/6-philharmonisches-konzert-brutale-liebe/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13347",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-14-dortmund-6-philharmonisches-konzert-brutale-1930",
+      "title": "6. Philharmonisches Konzert: Brutale Liebe",
+      "eventType": "concert",
+      "date": "2027-04-14",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "anna-rakitina"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "tschaikowsky-romeo-und-julia-fantasie-ouvertuere"
+        },
+        {
+          "workId": "clyne-three-sisters-konzert-fuer-mandoline-und"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-5-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/6-philharmonisches-konzert-brutale-liebe/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13348",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-17-dortmund-kaffeehauskonzert-1500",
+      "title": "Kaffeehauskonzert",
+      "eventType": "concert",
+      "date": "2027-04-17",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/kaffeehauskonzert/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-19-dortmund-3-konzert-deep-dive-ludwig-van-bee-1900",
+      "title": "3. Konzert Deep Dive: Ludwig van Beethoven Sinfonie Nr. 3 „Eroica“",
+      "eventType": "concert",
+      "date": "2027-04-19",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "matthew-aucoin"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/3-konzert-deep-dive-ludwig-van-beethoven-sinfonie-nr-3-eroica/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13359",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-22-dortmund-4-kammerkonzert-sehnsucht-nach-ita-2100",
+      "title": "4. Kammerkonzert: Sehnsucht nach Italien",
+      "eventType": "concert",
+      "date": "2027-04-22",
+      "startTime": "21:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "thier-galerie-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "gesa-renzenbrink",
+        "anna-straub",
+        "doi-kim",
+        "n-n",
+        "denis-krotov",
+        "sofia-llucia-roy"
+      ],
+      "program": [
+        {
+          "workId": "borodin-streichquartett-nr-2-d-dur"
+        },
+        {
+          "workId": "tschaikowsky-streichsextett-d-moll-souvenir-de-floren"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/4-kammerkonzert-sehnsucht-nach-italien/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13564",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-25-dortmund-3-familienkonzert-dodos-karneval-d-1015",
+      "title": "3. Familienkonzert: Dodos Karneval der Tiere",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "10:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "vito-cristofaro"
+      ],
+      "soloistPersonIds": [
+        "viola-michalski"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/3-familienkonzert-dodos-karneval-der-tiere/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13370",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-25-dortmund-3-familienkonzert-dodos-karneval-d-1200",
+      "title": "3. Familienkonzert: Dodos Karneval der Tiere",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "vito-cristofaro"
+      ],
+      "soloistPersonIds": [
+        "viola-michalski"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/3-familienkonzert-dodos-karneval-der-tiere/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13371",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-26-dortmund-4-babykonzert-2627-0930",
+      "title": "4. Babykonzert",
+      "eventType": "concert",
+      "date": "2027-04-26",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/4-babykonzert-2627/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-26-dortmund-4-babykonzert-2627-1100",
+      "title": "4. Babykonzert",
+      "eventType": "concert",
+      "date": "2027-04-26",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/4-babykonzert-2627/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-04-dortmund-7-philharmonisches-konzert-gluecks-1930",
+      "title": "7. Philharmonisches Konzert: Glücksversprechen",
+      "eventType": "concert",
+      "date": "2027-05-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "oksana-lyniv"
+      ],
+      "soloistPersonIds": [
+        "dmytro-udovychenko"
+      ],
+      "program": [
+        {
+          "workId": "resatsch-ad-se-revertens"
+        },
+        {
+          "workId": "schumann-violinkonzert-d-moll"
+        },
+        {
+          "workId": "dvorak-sinfonie-nr-6-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/7-philharmonisches-konzert-gluecksversprechen/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13349",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-05-dortmund-7-philharmonisches-konzert-gluecks-1930",
+      "title": "7. Philharmonisches Konzert: Glücksversprechen",
+      "eventType": "concert",
+      "date": "2027-05-05",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "oksana-lyniv"
+      ],
+      "soloistPersonIds": [
+        "dmytro-udovychenko"
+      ],
+      "program": [
+        {
+          "workId": "resatsch-ad-se-revertens"
+        },
+        {
+          "workId": "schumann-violinkonzert-d-moll"
+        },
+        {
+          "workId": "dvorak-sinfonie-nr-6-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/7-philharmonisches-konzert-gluecksversprechen/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13350",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-09-dortmund-mitsingkonzert-johannes-brahms-ein-1600",
+      "title": "Mitsingkonzert: Johannes Brahms „Ein deutsches Requiem op. 45“",
+      "eventType": "concert",
+      "date": "2027-05-09",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "simon-halsey"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/mitsingkonzert-johannes-brahms-ein-deutsches-requiem-op-45/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-18-dortmund-3-sitzkissenkonzert-wer-hat-an-der-0930",
+      "title": "3. Sitzkissenkonzert: Wer hat an der Uhr gedreht?",
+      "eventType": "concert",
+      "date": "2027-05-18",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/3-sitzkissenkonzert-wer-hat-an-der-uhr-gedreht/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-24-dortmund-2-konzert-fuer-junge-leute-echt-vi-1900",
+      "title": "2. Konzert für junge Leute: ECHT VIRAL Symphonic Trending Sounds",
+      "eventType": "concert",
+      "date": "2027-05-24",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "olivia-lee-gundermann"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-konzert-fuer-junge-leute-echt-viral-symphonic-trending-sounds/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13365",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-08-dortmund-festival-beethoven-now-beethoven-d-1930",
+      "title": "Festival Beethoven NOW! Beethoven, der Radikale",
+      "eventType": "concert",
+      "date": "2027-06-08",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "aristo-sham"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/festival-beethoven-now-beethoven-der-radikale/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13355",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-09-dortmund-festival-beethoven-now-beethoven-d-1930",
+      "title": "Festival Beethoven NOW! Beethoven, der Träumer",
+      "eventType": "concert",
+      "date": "2027-06-09",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "aristo-sham"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/festival-beethoven-now-beethoven-der-traeumer/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13356",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-10-dortmund-5-kammerkonzert-kontraste-1900",
+      "title": "5. Kammerkonzert: Kontraste",
+      "eventType": "concert",
+      "date": "2027-06-10",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "domicil-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "bianca-adamek",
+        "alina-heinl",
+        "andrei-simion",
+        "olivia-lee-gundermann"
+      ],
+      "program": [
+        {
+          "workId": "bartok-contrasts-fuer-violine-klarinette-und-kl"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/5-kammerkonzert-kontraste/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13565",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-13-dortmund-5-babykonzert-2627-1015",
+      "title": "5. Babykonzert",
+      "eventType": "concert",
+      "date": "2027-06-13",
+      "startTime": "10:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/5-babykonzert-2627/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-13-dortmund-5-babykonzert-2627-1200",
+      "title": "5. Babykonzert",
+      "eventType": "concert",
+      "date": "2027-06-13",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "opernhaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/5-babykonzert-2627/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-19-dortmund-2-konzert-late-night-in-der-kokere",
+      "title": "2. Konzert Late Night in der Kokerei Hansa: Late Night Special „Data Symphony“",
+      "eventType": "concert",
+      "date": "2027-06-19",
+      "startTime": null,
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "kokerei-hansa-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/2-konzert-late-night-in-der-kokerei-hansa-late-night-special-data-symphony/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-22-dortmund-benefizkonzert-musik-macht-stark-1900",
+      "title": "Benefizkonzert: Musik macht stark!",
+      "eventType": "concert",
+      "date": "2027-06-22",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/benefizkonzert-musik-macht-stark/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-29-dortmund-8-philharmonisches-konzert-farbenr-1930",
+      "title": "8. Philharmonisches Konzert: Farbenrausch",
+      "eventType": "concert",
+      "date": "2027-06-29",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "n-n"
+      ],
+      "program": [
+        {
+          "workId": "aucoin-neues-werk-ein-kompositionsauftrag-des-a"
+        },
+        {
+          "workId": "strawinsky-der-feuervogel-1909-10"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/8-philharmonisches-konzert-farbenrausch/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13351",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-30-dortmund-schulkonzert-2-1100",
+      "title": "Schulkonzert 2",
+      "eventType": "concert",
+      "date": "2027-06-30",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/schulkonzert-2/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-30-dortmund-8-philharmonisches-konzert-farbenr-1930",
+      "title": "8. Philharmonisches Konzert: Farbenrausch",
+      "eventType": "concert",
+      "date": "2027-06-30",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "jordan-de-souza"
+      ],
+      "soloistPersonIds": [
+        "n-n"
+      ],
+      "program": [
+        {
+          "workId": "aucoin-neues-werk-ein-kompositionsauftrag-des-a"
+        },
+        {
+          "workId": "strawinsky-der-feuervogel-1909-10"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/8-philharmonisches-konzert-farbenrausch/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13352",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-14-dortmund-stummfilmkonzert-harold-lloyd-safe-1900",
+      "title": "Stummfilmkonzert: Harold Lloyd „Safety Last!“",
+      "eventType": "concert",
+      "date": "2027-07-14",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "dortmunder-philharmoniker"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [
+        "carlos-vazquez"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterdo.de/produktionen/detail/stummfilmkonzert-harold-lloyd-safety-last/",
+        "name": "Theater Dortmund / Dortmunder Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13363",
+      "lastVerified": "2026-08-18"
     }
   ]
 }
