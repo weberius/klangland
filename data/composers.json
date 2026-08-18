@@ -765,6 +765,78 @@
         "from": 1913,
         "to": 1976
       }
+    },
+    {
+      "id": "john-rutter",
+      "name": "John Rutter",
+      "life": {
+        "from": 1945,
+        "to": null
+      }
+    },
+    {
+      "id": "lili-boulanger",
+      "name": "Lili Boulanger",
+      "life": {
+        "from": 1893,
+        "to": 1918
+      }
+    },
+    {
+      "id": "alberto-ginastera",
+      "name": "Alberto Ginastera",
+      "life": {
+        "from": 1916,
+        "to": 1983
+      }
+    },
+    {
+      "id": "xavier-montsalvatge",
+      "name": "Xavier Montsalvatge",
+      "life": {
+        "from": 1912,
+        "to": 2002
+      }
+    },
+    {
+      "id": "manuel-de-falla",
+      "name": "Manuel de Falla",
+      "life": {
+        "from": 1876,
+        "to": 1946
+      }
+    },
+    {
+      "id": "alexander-borodin",
+      "name": "Alexander Borodin",
+      "life": {
+        "from": 1833,
+        "to": 1887
+      }
+    },
+    {
+      "id": "jennifer-higdon",
+      "name": "Jennifer Higdon",
+      "life": {
+        "from": 1962,
+        "to": null
+      }
+    },
+    {
+      "id": "giuseppe-verdi",
+      "name": "Giuseppe Verdi",
+      "life": {
+        "from": 1813,
+        "to": 1901
+      }
+    },
+    {
+      "id": "andrea-tarrodi",
+      "name": "Andrea Tarrodi",
+      "life": {
+        "from": 1981,
+        "to": null
+      }
     }
   ]
 }

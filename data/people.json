@@ -1181,6 +1181,58 @@
     {
       "id": "michael-giesen",
       "name": "Michael Giesen"
+    },
+    {
+      "id": "tomas-grau",
+      "name": "Tomàs Grau"
+    },
+    {
+      "id": "felix-mildenberger",
+      "name": "Felix Mildenberger"
+    },
+    {
+      "id": "riccardo-frizza",
+      "name": "Riccardo Frizza"
+    },
+    {
+      "id": "clara-andrada",
+      "name": "Clara Andrada"
+    },
+    {
+      "id": "alexandra-urquiola",
+      "name": "Alexandra Urquiola"
+    },
+    {
+      "id": "jozsef-balog",
+      "name": "József Balog"
+    },
+    {
+      "id": "francesco-de-angelis",
+      "name": "Francesco de Angelis"
+    },
+    {
+      "id": "alexej-gerassimez",
+      "name": "Alexej Gerassimez"
+    },
+    {
+      "id": "eloise-bella-kohn",
+      "name": "Eloïse Bella Kohn"
+    },
+    {
+      "id": "larisa-akbari",
+      "name": "Larisa Akbari"
+    },
+    {
+      "id": "mario-rojas",
+      "name": "Mario Rojas"
+    },
+    {
+      "id": "max-bell",
+      "name": "Max Bell"
+    },
+    {
+      "id": "giulia-rimonda",
+      "name": "Giulia Rimonda"
     }
   ]
 }

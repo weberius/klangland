@@ -9921,6 +9921,642 @@
       },
       "ticketUrl": null,
       "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-19-aachen-1-sinfoniekonzert",
+      "title": "1. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-09-19",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "levente-toeroek"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "elgar-wand-of-youth-suite-1"
+        },
+        {
+          "workId": "rutter-partita"
+        },
+        {
+          "workId": "boulanger-dun-matin-de-printemps"
+        },
+        {
+          "workId": "ravel-daphnis-et-chloe-auszuege"
+        }
+      ],
+      "seriesId": null,
+      "description": "Antrittskonzert des neuen Generalmusikdirektors Levente Török. Mit Opernchor Aachen und Sinfonischem Chor Aachen (Choreinstudierung: Alexander Einarsson).",
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/1-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2545031",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-20-aachen-1-sinfoniekonzert",
+      "title": "1. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-09-20",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "levente-toeroek"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "elgar-wand-of-youth-suite-1"
+        },
+        {
+          "workId": "rutter-partita"
+        },
+        {
+          "workId": "boulanger-dun-matin-de-printemps"
+        },
+        {
+          "workId": "ravel-daphnis-et-chloe-auszuege"
+        }
+      ],
+      "seriesId": null,
+      "description": "Antrittskonzert des neuen Generalmusikdirektors Levente Török. Mit Opernchor Aachen und Sinfonischem Chor Aachen (Choreinstudierung: Alexander Einarsson).",
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/1-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2549457",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-17-aachen-2-sinfoniekonzert",
+      "title": "2. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-10-17",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "tomas-grau"
+      ],
+      "soloistPersonIds": [
+        "clara-andrada",
+        "alexandra-urquiola"
+      ],
+      "program": [
+        {
+          "workId": "ginastera-estancia-tanze"
+        },
+        {
+          "workId": "montsalvatge-sinfonietta-concerto"
+        },
+        {
+          "workId": "falla-el-amor-brujo-suite"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/2-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2545694",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-18-aachen-2-sinfoniekonzert",
+      "title": "2. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-10-18",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "tomas-grau"
+      ],
+      "soloistPersonIds": [
+        "clara-andrada",
+        "alexandra-urquiola"
+      ],
+      "program": [
+        {
+          "workId": "ginastera-estancia-tanze"
+        },
+        {
+          "workId": "montsalvatge-sinfonietta-concerto"
+        },
+        {
+          "workId": "falla-el-amor-brujo-suite"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/2-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2549458",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-14-aachen-3-sinfoniekonzert",
+      "title": "3. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-11-14",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "levente-toeroek"
+      ],
+      "soloistPersonIds": [
+        "jozsef-balog"
+      ],
+      "program": [
+        {
+          "workId": "kodaly-galantai-tancok"
+        },
+        {
+          "workId": "dohnanyi-variationen-kinderlied"
+        },
+        {
+          "workId": "brahms-sinfonie-4"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/3-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2545702",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-15-aachen-3-sinfoniekonzert",
+      "title": "3. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "levente-toeroek"
+      ],
+      "soloistPersonIds": [
+        "jozsef-balog"
+      ],
+      "program": [
+        {
+          "workId": "kodaly-galantai-tancok"
+        },
+        {
+          "workId": "dohnanyi-variationen-kinderlied"
+        },
+        {
+          "workId": "brahms-sinfonie-4"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/3-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2549476",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-13-aachen-4-sinfoniekonzert",
+      "title": "4. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-02-13",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "levente-toeroek"
+      ],
+      "soloistPersonIds": [
+        "francesco-de-angelis"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-violinkonzert"
+        },
+        {
+          "workId": "borodin-fuerst-igor-ouvertuere"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-9"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/4-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2545711",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-14-aachen-4-sinfoniekonzert",
+      "title": "4. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "levente-toeroek"
+      ],
+      "soloistPersonIds": [
+        "francesco-de-angelis"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-violinkonzert"
+        },
+        {
+          "workId": "borodin-fuerst-igor-ouvertuere"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-9"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/4-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2549477",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-20-aachen-5-sinfoniekonzert",
+      "title": "5. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-03-20",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "felix-mildenberger"
+      ],
+      "soloistPersonIds": [
+        "alexej-gerassimez"
+      ],
+      "program": [
+        {
+          "workId": "gershwin-amerikaner-in-paris"
+        },
+        {
+          "workId": "higdon-percussion-concerto"
+        },
+        {
+          "workId": "dvorak-sinfonie-9-neue-welt"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/5-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2545932",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-21-aachen-5-sinfoniekonzert",
+      "title": "5. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "felix-mildenberger"
+      ],
+      "soloistPersonIds": [
+        "alexej-gerassimez"
+      ],
+      "program": [
+        {
+          "workId": "gershwin-amerikaner-in-paris"
+        },
+        {
+          "workId": "higdon-percussion-concerto"
+        },
+        {
+          "workId": "dvorak-sinfonie-9-neue-welt"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/5-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2549478",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-24-aachen-6-sinfoniekonzert",
+      "title": "6. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-04-24",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "riccardo-frizza"
+      ],
+      "soloistPersonIds": [
+        "eloise-bella-kohn"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-leonore-ouvertuere-3"
+        },
+        {
+          "workId": "beethoven-klavierkonzert-5"
+        },
+        {
+          "workId": "berlioz-symphonie-fantastique"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/6-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2545938",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-25-aachen-6-sinfoniekonzert",
+      "title": "6. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "riccardo-frizza"
+      ],
+      "soloistPersonIds": [
+        "eloise-bella-kohn"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-leonore-ouvertuere-3"
+        },
+        {
+          "workId": "beethoven-klavierkonzert-5"
+        },
+        {
+          "workId": "berlioz-symphonie-fantastique"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/6-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2549480",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-22-aachen-7-sinfoniekonzert",
+      "title": "7. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-05-22",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "levente-toeroek"
+      ],
+      "soloistPersonIds": [
+        "larisa-akbari",
+        "mario-rojas",
+        "max-bell"
+      ],
+      "program": [
+        {
+          "workId": "verdi-messa-da-requiem"
+        }
+      ],
+      "seriesId": null,
+      "description": "Verdis »Messa da Requiem« mit Sinfonieorchester Aachen, Opernchor Aachen und Sinfonischem Chor Aachen. In Kooperation mit der Chorbiennale.",
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/7-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2545982",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-23-aachen-7-sinfoniekonzert",
+      "title": "7. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-05-23",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "levente-toeroek"
+      ],
+      "soloistPersonIds": [
+        "larisa-akbari",
+        "mario-rojas",
+        "max-bell"
+      ],
+      "program": [
+        {
+          "workId": "verdi-messa-da-requiem"
+        }
+      ],
+      "seriesId": null,
+      "description": "Verdis »Messa da Requiem« mit Sinfonieorchester Aachen, Opernchor Aachen und Sinfonischem Chor Aachen. In Kooperation mit der Chorbiennale.",
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/7-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2549488",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-19-aachen-8-sinfoniekonzert",
+      "title": "8. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-06-19",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "levente-toeroek"
+      ],
+      "soloistPersonIds": [
+        "giulia-rimonda"
+      ],
+      "program": [
+        {
+          "workId": "brahms-violinkonzert"
+        },
+        {
+          "workId": "tarrodi-fragments-of-enlightenment"
+        },
+        {
+          "workId": "mozart-sinfonie-39"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/8-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2546149",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-20-aachen-8-sinfoniekonzert",
+      "title": "8. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-06-20",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-aachen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "levente-toeroek"
+      ],
+      "soloistPersonIds": [
+        "giulia-rimonda"
+      ],
+      "program": [
+        {
+          "workId": "brahms-violinkonzert"
+        },
+        {
+          "workId": "tarrodi-fragments-of-enlightenment"
+        },
+        {
+          "workId": "mozart-sinfonie-39"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theateraachen.de/de/produktionen/8-sinfoniekonzert-3.html",
+        "name": "Theater Aachen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2549517",
+      "lastVerified": "2026-08-18"
     }
   ]
 }

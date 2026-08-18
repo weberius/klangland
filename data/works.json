@@ -3527,6 +3527,372 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "elgar-wand-of-youth-suite-1",
+      "composerId": "edward-elgar",
+      "title": "»The Wand of Youth« – Suite Nr. 1",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "1a"
+        }
+      ],
+      "yearComposed": {
+        "from": 1907,
+        "to": 1907
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rutter-partita",
+      "composerId": "john-rutter",
+      "title": "Partita",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "boulanger-dun-matin-de-printemps",
+      "composerId": "lili-boulanger",
+      "title": "»D'un matin de printemps«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1917,
+        "to": 1918
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-daphnis-et-chloe-auszuege",
+      "composerId": "maurice-ravel",
+      "title": "»Daphnis et Chloé« – Symphonie chorégraphique (Auszüge)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1909,
+        "to": 1912
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ginastera-estancia-tanze",
+      "composerId": "alberto-ginastera",
+      "title": "Tänze aus dem Ballett »Estancia«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "8a"
+        }
+      ],
+      "yearComposed": {
+        "from": 1941,
+        "to": 1941
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "montsalvatge-sinfonietta-concerto",
+      "composerId": "xavier-montsalvatge",
+      "title": "»Sinfonietta-concerto« für Flöte und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "falla-el-amor-brujo-suite",
+      "composerId": "manuel-de-falla",
+      "title": "Suite aus »El amor brujo«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1915,
+        "to": 1915
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dohnanyi-variationen-kinderlied",
+      "composerId": "ernst-von-dohnanyi",
+      "title": "»Variationen über ein Kinderlied« für Orchester mit konzertantem Klavier",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "25"
+        }
+      ],
+      "yearComposed": {
+        "from": 1914,
+        "to": 1914
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-sinfonie-4",
+      "composerId": "johannes-brahms",
+      "title": "Sinfonie Nr. 4 e-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "98"
+        }
+      ],
+      "yearComposed": {
+        "from": 1884,
+        "to": 1885
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-violinkonzert",
+      "composerId": "peter-iljitsch-tschaikowsky",
+      "title": "Konzert für Violine und Orchester D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "35"
+        }
+      ],
+      "yearComposed": {
+        "from": 1878,
+        "to": 1878
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "borodin-fuerst-igor-ouvertuere",
+      "composerId": "alexander-borodin",
+      "title": "Ouvertüre zu »Fürst Igor«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1869,
+        "to": 1887
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-sinfonie-9",
+      "composerId": "dmitri-schostakowitsch",
+      "title": "Sinfonie Nr. 9 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "70"
+        }
+      ],
+      "yearComposed": {
+        "from": 1945,
+        "to": 1945
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "higdon-percussion-concerto",
+      "composerId": "jennifer-higdon",
+      "title": "Concerto for Percussion",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 2005,
+        "to": 2005
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-sinfonie-9-neue-welt",
+      "composerId": "antonin-dvorak",
+      "title": "Sinfonie Nr. 9 e-Moll »Aus der Neuen Welt«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "95"
+        }
+      ],
+      "yearComposed": {
+        "from": 1893,
+        "to": 1893
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-leonore-ouvertuere-3",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Ouvertüre Nr. 3 zu »Leonore«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "72b"
+        }
+      ],
+      "yearComposed": {
+        "from": 1806,
+        "to": 1806
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-klavierkonzert-5",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Konzert für Klavier und Orchester Nr. 5 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "73"
+        }
+      ],
+      "yearComposed": {
+        "from": 1809,
+        "to": 1809
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "berlioz-symphonie-fantastique",
+      "composerId": "hector-berlioz",
+      "title": "»Symphonie fantastique«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "14"
+        }
+      ],
+      "yearComposed": {
+        "from": 1830,
+        "to": 1830
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "verdi-messa-da-requiem",
+      "composerId": "giuseppe-verdi",
+      "title": "Messa da Requiem",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1874,
+        "to": 1874
+      },
+      "genre": "requiem",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-violinkonzert",
+      "composerId": "johannes-brahms",
+      "title": "Konzert für Violine und Orchester D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "77"
+        }
+      ],
+      "yearComposed": {
+        "from": 1878,
+        "to": 1878
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tarrodi-fragments-of-enlightenment",
+      "composerId": "andrea-tarrodi",
+      "title": "»Fragments of Enlightenment«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sinfonie-39",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Sinfonie Nr. 39 Es-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "543"
+        }
+      ],
+      "yearComposed": {
+        "from": 1788,
+        "to": 1788
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

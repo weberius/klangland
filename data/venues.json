@@ -485,6 +485,19 @@
       "website": null,
       "type": "other",
       "institutionId": null
+    },
+    {
+      "id": "eurogress-aachen",
+      "name": "Eurogress Aachen",
+      "cityIds": [
+        "aachen"
+      ],
+      "region": null,
+      "address": "Monheimsallee 48, 52062 Aachen",
+      "coordinates": null,
+      "website": "https://www.eurogress-aachen.de",
+      "type": "concert_hall",
+      "institutionId": null
     }
   ]
 }
