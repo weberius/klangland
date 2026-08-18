@@ -38,11 +38,11 @@ Webapp im Browser
 
 Die versionierte JSON-Datei ist die Single Source of Truth. Die Webapp konsumiert ausschließlich geprüfte Daten und enthält keine Logik zur Datenbeschaffung.
 
-## Geplanter Projektaufbau
+## Projektaufbau
 
 ```text
 .
-├── data/
+├── data/                     # Single Source of Truth (versionierte JSON-Dateien)
 │   ├── people.json
 │   ├── institutions.json
 │   ├── ensembles.json
@@ -50,21 +50,26 @@ Die versionierte JSON-Datei ist die Single Source of Truth. Die Webapp konsumier
 │   ├── cities.json
 │   ├── composers.json
 │   ├── works.json
-│   ├── events.json
-│   └── README.md
-├── data-tool/
-│   ├── validator/
-│   ├── updater/
-│   └── reports/
-├── schema/
-│   └── klangland.schema.json
-├── web/
-│   └── Angular-/TypeScript-Webapp
+│   └── events.json
+├── web/                      # Angular-/TypeScript-Webapp
 ├── docs/
-│   ├── product/prd.md
-│   └── events-and-relations.md
+│   ├── product/prd.md        # Produktanforderungen
+│   ├── product/contracts/    # Gherkin-Szenarien (umgesetztes Verhalten)
+│   ├── product/ears/         # Anforderungen in EARS-Notation
+│   ├── product/planning/     # Backlog / User Stories
+│   ├── architecture/         # Architecture Decision Records (ADR)
+│   ├── data-model.md         # Datenmodell (Klammer über alle Entitäten)
+│   ├── events-and-relations.md
+│   ├── entities/             # Detaildoku je Entität
+│   ├── data-tooling/         # Ingest-Skripte + Doku je Quelle
+│   └── templates/            # Vorlagen (ADR, Gherkin, EARS)
 └── README.md
 ```
+
+Geplant, aber noch nicht angelegt: `schema/` (JSON-Schema) sowie ein gebündeltes
+Python-Datenpflegewerkzeug (`data-tool/` mit Validator/Updater/Reports). Die Datenpflege
+erfolgt derzeit über quellenspezifische Ingest-Skripte unter
+[`docs/data-tooling/`](docs/data-tooling/).
 
 ## Datenmodell
 
@@ -116,7 +121,13 @@ Ein `Event` referenziert daher `ensembleIds`, `venueId`, `cityId`, `workId`-Wert
 
 ## Datenpflege
 
-Das geplante Python-Werkzeug `nrw_orchester_data` prüft die JSON-Datei und unterstützt ihre Aktualisierung.
+Aktuell werden Spielpläne über **quellenspezifische, idempotente Python-Ingest-Skripte** in
+die JSON-Dateien übernommen. Jede Quelle hat ein Skript und eine kurze Doku (Quelle, Mapping,
+Kuratierung) unter [`docs/data-tooling/`](docs/data-tooling/). Die Skripte entfernen zuvor
+eingespielte Events derselben Quelle und legen Stammdaten anhand ihrer IDs dublettenfrei an.
+
+Perspektivisch ist zusätzlich ein **gebündeltes Werkzeug** (`nrw-orchester-data`) geplant, das
+die JSON-Dateien validiert und die Aktualisierung unterstützt:
 
 ```bash
 python -m nrw_orchester_data validate
@@ -131,13 +142,13 @@ Offizielle Websites der Orchester und Veranstalter sind bevorzugte Quellen. Änd
 
 ## Entwicklungsstatus
 
-Das Repository enthält das Produktanforderungsdokument, die dokumentierte und normalisierte JSON-Datenbasis sowie die erste Version der **Angular-Webapp** unter [`web/`](web/). Die App zeigt Kalender, Ensemble- und Spielstättenprofile sowie Veranstaltungsdetails aus den JSON-Daten an (siehe [`web/README.md`](web/README.md)).
+Das Repository enthält das Produktanforderungsdokument, die dokumentierte und normalisierte JSON-Datenbasis (u. a. 17 Ensembles, 37 Spielstätten und rund 290 Veranstaltungen der Spielzeit 2026/27) sowie die erste Version der **Angular-Webapp** unter [`web/`](web/). Die App zeigt Kalender, Ensemble- und Spielstättenprofile sowie Veranstaltungsdetails aus den JSON-Daten an (siehe [`web/README.md`](web/README.md)). Die Datenerfassung erfolgt über die Ingest-Skripte unter [`docs/data-tooling/`](docs/data-tooling/). Ergänzend liegen Architekturentscheidungen ([`docs/architecture/`](docs/architecture/)), Gherkin-Contracts ([`docs/product/contracts/`](docs/product/contracts/)) und EARS-Anforderungen ([`docs/product/ears/`](docs/product/ears/)) vor.
 
 ```bash
 cd web && npm install && npm start   # Dev-Server auf http://localhost:4200
 ```
 
-Das JSON-Schema und das Python-Datenpflegewerkzeug sind als nächste Umsetzungsschritte vorgesehen.
+Das JSON-Schema und ein gebündeltes Python-Datenpflegewerkzeug sind als nächste Umsetzungsschritte vorgesehen.
 
 ## Anforderungen aus dem MVP
 
@@ -151,5 +162,6 @@ Das MVP soll:
 - mit geprüften JSON-Daten reproduzierbar gebaut und statisch deployt werden können.
 
 Der vollständige Anforderungskatalog steht in [`docs/product/prd.md`](docs/product/prd.md).
+Das umgesetzte Verhalten ist zusätzlich als Gherkin-Contracts ([`docs/product/contracts/`](docs/product/contracts/)) und als EARS-Anforderungen ([`docs/product/ears/`](docs/product/ears/)) spezifiziert; die zentralen Architekturentscheidungen stehen als ADRs unter [`docs/architecture/`](docs/architecture/).
 
 Das vollständige Datenmodell mit allen Datenobjekten, gemeinsamen Konventionen und Beziehungen ist in [`docs/data-model.md`](docs/data-model.md) dokumentiert. Je Entität gibt es eine Detaildoku unter [`docs/entities/`](docs/entities/); die Event-spezifischen Regeln stehen in [`docs/events-and-relations.md`](docs/events-and-relations.md).

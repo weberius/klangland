@@ -6,6 +6,10 @@
 
 **NRW Orchester-Kalender**
 
+> **Hinweis:** Das Projekt wird inzwischen unter dem Namen **Klangland** geführt; der
+> Konzertkalender ist dessen erste Anwendung. „NRW Orchester-Kalender" bleibt als
+> beschreibender Arbeitstitel dieses Dokuments erhalten.
+
 Eine schlanke, statische Webapplikation zur Übersicht der professionellen Sinfonie- und Philharmonieorchester in Nordrhein-Westfalen und deren Konzertveranstaltungen in der Spielzeit 2026/27 und darüber hinaus.
 
 Die Anwendung bezieht sämtliche Inhalte aus einer versionierten **JSON-Datei**. Die Webapplikation selbst benötigt kein Backend und keine Datenbank.
@@ -369,29 +373,33 @@ Darstellung beispielsweise als Karten:
 
 # 11. Ensemble-Stammdaten
 
-Für jedes Orchester werden mindestens folgende Daten benötigt:
+Für jedes Ensemble werden mindestens folgende Daten benötigt. Beziehungen werden
+ausschließlich über IDs hergestellt; Ort, Leitung und Stammsaal werden **nicht** eingebettet,
+sondern über `cityIds`, `chiefConductorPersonId` und `venueId` referenziert:
 
 ```json
 {
-  "id": "wdr-sinfonieorchester",
-  "name": "WDR Sinfonieorchester",
-  "city": "Köln",
+  "id": "sinfonieorchester-aachen",
+  "name": "Sinfonieorchester Aachen",
+  "type": "symphony_orchestra",
   "country": "Deutschland",
-  "chiefConductor": "Marie Jacquot",
-  "artisticProfile": [
-    "Sinfonische Musik",
-    "20. Jahrhundert",
-    "Neue Musik"
-  ],
+  "cityIds": ["aachen"],
+  "region": null,
+  "chiefConductorPersonId": "levente-toeroek",
+  "venueId": "theater-aachen",
+  "artisticProfile": ["Klassik", "Romantik", "Oper", "Sinfonik"],
   "description": "...",
-  "website": "https://...",
-  "venue": {
-    "name": "Kölner Philharmonie",
-    "city": "Köln",
-    "address": "..."
-  }
+  "website": null,
+  "source": null
 }
 ```
+
+> **Hinweis:** Das ursprünglich hier skizzierte flache Modell (eingebettete Felder `city`,
+> `chiefConductor`, `venue`) wurde zugunsten des normalisierten Modells aufgegeben. Maßgeblich
+> ist die Detaildoku [`docs/entities/ensembles.md`](../entities/ensembles.md) bzw. das
+> Datenmodell [`docs/data-model.md`](../data-model.md); die Entscheidung ist in
+> [ADR-003](../architecture/ADR-003-normalisiertes-datenmodell-mit-id-referenzen.md)
+> festgehalten.
 
 ---
 
