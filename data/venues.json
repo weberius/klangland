@@ -706,6 +706,84 @@
       "website": null,
       "type": "opera_house",
       "institutionId": null
+    },
+    {
+      "id": "rudolf-oetker-halle-bielefeld",
+      "name": "Rudolf-Oetker-Halle Bielefeld",
+      "cityIds": [
+        "bielefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "assapheum-bethel-bielefeld",
+      "name": "Assapheum (Bethel) Bielefeld",
+      "cityIds": [
+        "bielefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "universitaet-bielefeld",
+      "name": "Universität Bielefeld (Audimax)",
+      "cityIds": [
+        "bielefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "zionskirche-bethel-bielefeld",
+      "name": "Zionskirche Bethel Bielefeld",
+      "cityIds": [
+        "bielefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "bielefeld-umgebung",
+      "name": "Bielefeld und Umgebung",
+      "cityIds": [
+        "bielefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "stadttheater-buehne-bielefeld",
+      "name": "Stadttheater Bielefeld",
+      "cityIds": [
+        "bielefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
     }
   ]
 }

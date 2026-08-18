@@ -7206,6 +7206,247 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "tippett-a-child-of-our-time-oratorium-fuer-soli-",
+      "composerId": "michael-tippett",
+      "title": "A Child of Our Time Oratorium für Soli, Chor und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "oratorio",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wallen-the-elements-dea",
+      "composerId": "errollyn-wallen",
+      "title": "The Elements (DEA)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-konzert-fuer-klavier-und-orchester-nr-2-",
+      "composerId": "sergej-w-rachmaninow",
+      "title": "Konzert für Klavier und Orchester Nr. 2 c-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "18"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruckner-sinfonie-nr-5-b-dur-wab-105",
+      "composerId": "anton-bruckner",
+      "title": "Symphonie Nr. 5 B-Dur WAB 105",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "berg-suite-aus-der-lulu-fuer-koloratursopran-",
+      "composerId": "alban-berg",
+      "title": "Suite aus der Oper Lulu für Koloratursopran und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-klavierquartett-g-moll-fuer-orchester-ge",
+      "composerId": "johannes-brahms",
+      "title": "Klavierquartett g-Moll (für Orchester gesetzt von Arnold Schönberg)",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "25"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "boulanger-d-un-matin-de-printempsrichard-strauss-1",
+      "composerId": "lili-boulanger",
+      "title": "D’un matin de printempsRichard Strauss (1864–1949)Vier letzte LiederFranz Schubert (1797–1828)Symphonie Nr. 8 C-Dur Große C-Dur",
+      "catalogue": [
+        {
+          "system": "D",
+          "number": "944"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "clyne-this-midnight-hourfelix-mendelssohn-bart",
+      "composerId": "anna-clyne",
+      "title": "This Midnight HourFelix Mendelssohn Bartholdy (1809–1847)Konzert für Violine und Orchester e-Moll Claude Debussy (1862–1918)Prélude à l’après-midi d’un fauneIgor Strawinsky (1882–1971)Der Feuervogel Suite Nr. 2 für Orchester (1919)",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "64"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-sinfonie-nr-96-d-dur-the-miracle",
+      "composerId": "joseph-haydn",
+      "title": "Symphonie Nr. 96 D-Dur The Miracle",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "walton-konzert-fuer-viola-und-orchester",
+      "composerId": "william-walton",
+      "title": "Konzert für Viola und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-sinfonie-nr-9-es-dur",
+      "composerId": "dmitri-d-schostakowitsch",
+      "title": "Symphonie Nr. 9 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "70"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "auerbach-icarus",
+      "composerId": "lera-auerbach",
+      "title": "Icarus",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruckner-sinfonie-nr-5",
+      "composerId": "anton-bruckner",
+      "title": "Symphonie Nr. 5",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-sinfonie-nr-9-aus-der-neuen-welt",
+      "composerId": "antonin-dvorak",
+      "title": "Symphonie Nr. 9 Aus der Neuen Welt",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-die-zauberfloete",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Die Zauberflöte",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sinfonie-nr-40",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Symphonie Nr. 40",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-sinfonie-nr-9",
+      "composerId": "dmitri-schostakowitsch",
+      "title": "Symphonie Nr. 9",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strawinsky-der-feuervogel",
+      "composerId": "igor-strawinsky",
+      "title": "Der Feuervogel",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

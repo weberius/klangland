@@ -1272,6 +1272,31 @@
       "id": "duette-terzette-und",
       "name": "Duette, Terzette und",
       "life": null
+    },
+    {
+      "id": "michael-tippett",
+      "name": "Michael Tippett",
+      "life": null
+    },
+    {
+      "id": "errollyn-wallen",
+      "name": "Errollyn Wallen",
+      "life": null
+    },
+    {
+      "id": "sergej-w-rachmaninow",
+      "name": "Sergej W. Rachmaninow",
+      "life": null
+    },
+    {
+      "id": "dmitri-d-schostakowitsch",
+      "name": "Dmitri D. Schostakowitsch",
+      "life": null
+    },
+    {
+      "id": "lera-auerbach",
+      "name": "Lera Auerbach",
+      "life": null
     }
   ]
 }

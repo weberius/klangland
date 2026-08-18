@@ -18040,6 +18040,2198 @@
       },
       "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10458",
       "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-12-bielefeld-live-wdr-3-konzert-1-1800",
+      "title": "Live-WDR 3-Konzert",
+      "eventType": "concert",
+      "date": "2026-09-12",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "todd-boyce"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/rudolf-oetker-halle/veranstaltung/live-wdr-3-konzert-1",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12649",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-13-bielefeld-klassik-um-3-1-1500",
+      "title": "Klassik um 3",
+      "eventType": "concert",
+      "date": "2026-09-13",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "assapheum-bethel-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-um-3-1",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-27-bielefeld-klassik-lounge-ab-0-2-1000",
+      "title": "Klassik-Lounge ab 0",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-lounge-ab-0-2",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-28-bielefeld-am-trapez-2000",
+      "title": "Am Trapez",
+      "eventType": "concert",
+      "date": "2026-09-28",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "pedro-dias-moreira",
+        "susanne-heilig",
+        "katrin-adelmann",
+        "katrin-ervin",
+        "anna-kalvelage",
+        "thomas-bronkowski",
+        "anne-hinrichsen"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/am-trapez",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12478",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-12-bielefeld-universitaetskonzert-2-2000",
+      "title": "Universitätskonzert",
+      "eventType": "concert",
+      "date": "2026-10-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "universitaet-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/universitaetskonzert-2",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-16-bielefeld-von-menschen-und-goettern-2000",
+      "title": "Von Menschen und Göttern",
+      "eventType": "concert",
+      "date": "2026-10-16",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "steven-isserlis"
+      ],
+      "program": [
+        {
+          "workId": "auerbach-icarus"
+        },
+        {
+          "workId": "schumann-cellokonzert"
+        },
+        {
+          "workId": "mahler-sinfonie-nr-1-d-dur-titan"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/von-menschen-und-goettern",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12449",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-18-bielefeld-von-menschen-und-goettern-1100",
+      "title": "Von Menschen und Göttern",
+      "eventType": "concert",
+      "date": "2026-10-18",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "steven-isserlis"
+      ],
+      "program": [
+        {
+          "workId": "auerbach-icarus"
+        },
+        {
+          "workId": "schumann-cellokonzert"
+        },
+        {
+          "workId": "mahler-sinfonie-nr-1-d-dur-titan"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/von-menschen-und-goettern",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12451",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-22-bielefeld-biphil-after-work-4-1900",
+      "title": "BiPhil After Work",
+      "eventType": "concert",
+      "date": "2026-10-22",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "anne-hinrichsen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/biphil-after-work-4",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12502",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-30-bielefeld-le-laudi-di-san-francesco-dassisi-2000",
+      "title": "Le Laudi di San Francesco d`Assisi",
+      "eventType": "concert",
+      "date": "2026-10-30",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "hagen-enke"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/le-laudi-di-san-francesco-dassisi",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-06-bielefeld-tartueff-2000",
+      "title": "Tartüff",
+      "eventType": "concert",
+      "date": "2026-11-06",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/tartueff",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12506",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-08-bielefeld-klassik-um-3-5-1500",
+      "title": "Klassik um 3",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "assapheum-bethel-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-um-3-5",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-09-bielefeld-celloquartette-auf-dem-weg-ins-20--2000",
+      "title": "Celloquartette - auf dem Weg ins 20. Jahrhundert",
+      "eventType": "concert",
+      "date": "2026-11-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "yoonha-choi",
+        "anna-kalvelage",
+        "catarina-moura-nunes",
+        "aneta-stefanska"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/celloquartette-auf-dem-weg-ins-20-jahrhundert",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12479",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-13-bielefeld-aus-der-neuen-welt-2000",
+      "title": "Aus der Neuen Welt",
+      "eventType": "concert",
+      "date": "2026-11-13",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "magdalene-ho"
+      ],
+      "program": [
+        {
+          "workId": "wallen-the-elements-dea"
+        },
+        {
+          "workId": "rachmaninow-konzert-fuer-klavier-und-orchester-nr-2-"
+        },
+        {
+          "workId": "dvorak-sinfonie-9-neue-welt"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/aus-der-neuen-welt",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12461",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-15-bielefeld-aus-der-neuen-welt-1100",
+      "title": "Aus der Neuen Welt",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "magdalene-ho"
+      ],
+      "program": [
+        {
+          "workId": "wallen-the-elements-dea"
+        },
+        {
+          "workId": "rachmaninow-konzert-fuer-klavier-und-orchester-nr-2-"
+        },
+        {
+          "workId": "dvorak-sinfonie-9-neue-welt"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/aus-der-neuen-welt",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12462",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-16-bielefeld-dvorak-symphonie-nr-9-aus-der-neue-1000",
+      "title": "Dvořák – Symphonie Nr. 9 Aus der Neuen Welt",
+      "eventType": "concert",
+      "date": "2026-11-16",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "gregor-rot"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dvorak-sinfonie-nr-9-aus-der-neuen-welt"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/dvorak-symphonie-nr-9-aus-der-neuen-welt",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-16-bielefeld-dvorak-symphonie-nr-9-aus-der-neue-1130",
+      "title": "Dvořák – Symphonie Nr. 9 Aus der Neuen Welt",
+      "eventType": "concert",
+      "date": "2026-11-16",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "gregor-rot"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dvorak-sinfonie-nr-9-aus-der-neuen-welt"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/dvorak-symphonie-nr-9-aus-der-neuen-welt",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-22-bielefeld-dvorak-symphonie-nr-9-aus-der-neue-1100",
+      "title": "Dvořák – Symphonie Nr. 9 Aus der Neuen Welt",
+      "eventType": "concert",
+      "date": "2026-11-22",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "gregor-rot"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dvorak-sinfonie-nr-9-aus-der-neuen-welt"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/dvorak-symphonie-nr-9-aus-der-neuen-welt-1",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12490",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-26-bielefeld-selig-2000",
+      "title": "Selig",
+      "eventType": "concert",
+      "date": "2026-11-26",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/selig",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-29-bielefeld-klassik-ab-3-2-1115",
+      "title": "Klassik ab 3",
+      "eventType": "concert",
+      "date": "2026-11-29",
+      "startTime": "11:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-ab-3-2",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-11-bielefeld-die-fantastische-fuenf-2000",
+      "title": "Die Fantastische Fünf",
+      "eventType": "concert",
+      "date": "2026-12-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bruckner-sinfonie-nr-5-b-dur-wab-105"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/die-fantastische-fuenf",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12463",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-13-bielefeld-die-fantastische-fuenf-1100",
+      "title": "Die Fantastische Fünf",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bruckner-sinfonie-nr-5-b-dur-wab-105"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/die-fantastische-fuenf",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12464",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-14-bielefeld-bruckner-symphonie-nr-5-1000",
+      "title": "Bruckner – Symphonie Nr. 5",
+      "eventType": "concert",
+      "date": "2026-12-14",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "gregor-rot"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bruckner-sinfonie-nr-5"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/bruckner-symphonie-nr-5",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-14-bielefeld-bruckner-symphonie-nr-5-1130",
+      "title": "Bruckner – Symphonie Nr. 5",
+      "eventType": "concert",
+      "date": "2026-12-14",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "gregor-rot"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bruckner-sinfonie-nr-5"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/bruckner-symphonie-nr-5",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-19-bielefeld-christmas-around-the-world-1800",
+      "title": "Christmas Around the World",
+      "eventType": "concert",
+      "date": "2026-12-19",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "gregor-rot"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/christmas-around-the-world",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12505",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-20-bielefeld-klassik-um-3-4-1500",
+      "title": "Klassik um 3",
+      "eventType": "concert",
+      "date": "2026-12-20",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "zionskirche-bethel-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "gregor-rot"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-um-3-4",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-21-bielefeld-bethlehem-bis-broadway-2000",
+      "title": "Bethlehem bis Broadway",
+      "eventType": "concert",
+      "date": "2026-12-21",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "cornelie-isenbuerger",
+        "sterre-koopman"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/bethlehem-bis-broadway",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12480",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-01-bielefeld-einmal-mond-und-zurueck-bitte-1-1800",
+      "title": "Einmal Mond und zurück, bitte!",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/einmal-mond-und-zurueck-bitte-1",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-03-bielefeld-einmal-mond-und-zurueck-bitte-1900",
+      "title": "Einmal Mond und zurück, bitte!",
+      "eventType": "concert",
+      "date": "2027-01-03",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "bielefeld-umgebung",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/einmal-mond-und-zurueck-bitte",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-06-bielefeld-biphil-after-work-spezial-2-1900",
+      "title": "BiPhil After Work Spezial",
+      "eventType": "concert",
+      "date": "2027-01-06",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "anne-hinrichsen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/biphil-after-work-spezial-2",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-18-bielefeld-oboensalon-ein-abend-von-solo-bis--2000",
+      "title": "Oboensalon - ein Abend von Solo bis Ensemble",
+      "eventType": "concert",
+      "date": "2027-01-18",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "pedro-dias-moreira",
+        "hana-nomura",
+        "marie-christine-gitman-englischhorn"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/oboensalon-ein-abend-von-solo-bis-ensemble",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12481",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-22-bielefeld-mirakel-mirakel-2000",
+      "title": "Mirakel, Mirakel!",
+      "eventType": "concert",
+      "date": "2027-01-22",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "ewa-strusinska"
+      ],
+      "soloistPersonIds": [
+        "lawrence-power"
+      ],
+      "program": [
+        {
+          "workId": "haydn-sinfonie-nr-96-d-dur-the-miracle"
+        },
+        {
+          "workId": "walton-konzert-fuer-viola-und-orchester"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-nr-9-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/mirakel-mirakel",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12465",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-24-bielefeld-mirakel-mirakel-1100",
+      "title": "Mirakel, Mirakel!",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "ewa-strusinska"
+      ],
+      "soloistPersonIds": [
+        "lawrence-power"
+      ],
+      "program": [
+        {
+          "workId": "haydn-sinfonie-nr-96-d-dur-the-miracle"
+        },
+        {
+          "workId": "walton-konzert-fuer-viola-und-orchester"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-nr-9-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/mirakel-mirakel",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12466",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-26-bielefeld-schostakowitsch-symphonie-nr-9-1000",
+      "title": "Schostakowitsch – Symphonie Nr. 9",
+      "eventType": "concert",
+      "date": "2027-01-26",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "gregor-rot"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schostakowitsch-sinfonie-nr-9"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/schostakowitsch-symphonie-nr-9",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-26-bielefeld-schostakowitsch-symphonie-nr-9-1130",
+      "title": "Schostakowitsch – Symphonie Nr. 9",
+      "eventType": "concert",
+      "date": "2027-01-26",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "gregor-rot"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schostakowitsch-sinfonie-nr-9"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/schostakowitsch-symphonie-nr-9",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-02-bielefeld-mozart-die-zauberfloete-1100",
+      "title": "Mozart - Die Zauberflöte",
+      "eventType": "concert",
+      "date": "2027-02-02",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "stadttheater-buehne-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-die-zauberfloete"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/mozart-die-zauberfloete",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-07-bielefeld-mozart-die-zauberfloete-1-1100",
+      "title": "Mozart - Die Zauberflöte",
+      "eventType": "concert",
+      "date": "2027-02-07",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "stadttheater-buehne-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-die-zauberfloete"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/mozart-die-zauberfloete-1",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12492",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-12-bielefeld-a-child-of-our-time-2000",
+      "title": "A Child of Our Time",
+      "eventType": "concert",
+      "date": "2027-02-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "dusica-bijelic",
+        "alexandra-ionis"
+      ],
+      "program": [
+        {
+          "workId": "tippett-a-child-of-our-time-oratorium-fuer-soli-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/a-child-of-our-time",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12467",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-14-bielefeld-a-child-of-our-time-1100",
+      "title": "A Child of Our Time",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "dusica-bijelic",
+        "alexandra-ionis"
+      ],
+      "program": [
+        {
+          "workId": "tippett-a-child-of-our-time-oratorium-fuer-soli-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/a-child-of-our-time",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12468",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-14-bielefeld-klassik-um-3-3-1500",
+      "title": "Klassik um 3",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "assapheum-bethel-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-um-3-3",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-15-bielefeld-akademie-konzert-2000",
+      "title": "Akademie-Konzert",
+      "eventType": "concert",
+      "date": "2027-02-15",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/akademie-konzert",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12482",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-24-bielefeld-never-dared-to-dream-2000",
+      "title": "Never Dared to Dream",
+      "eventType": "concert",
+      "date": "2027-02-24",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/rudolf-oetker-halle/veranstaltung/never-dared-to-dream",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12240",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-28-bielefeld-klassik-lounge-ab-0-2-1000",
+      "title": "Klassik-Lounge ab 0",
+      "eventType": "concert",
+      "date": "2027-02-28",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-lounge-ab-0-2",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-08-bielefeld-tell-me-the-truth-about-love-2000",
+      "title": "Tell Me The Truth About Love",
+      "eventType": "concert",
+      "date": "2027-03-08",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "alexandra-ionis",
+        "robin-davis"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/tell-me-the-truth-about-love",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12483",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-12-bielefeld-hinter-den-spiegeln-2000",
+      "title": "Hinter den Spiegeln",
+      "eventType": "concert",
+      "date": "2027-03-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "joseph-moog"
+      ],
+      "program": [
+        {
+          "workId": "shaw-entracte"
+        },
+        {
+          "workId": "mozart-sinfonie-40"
+        },
+        {
+          "workId": "beethoven-klavierkonzert-5"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/hinter-den-spiegeln",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12469",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-14-bielefeld-hinter-den-spiegeln-1100",
+      "title": "Hinter den Spiegeln",
+      "eventType": "concert",
+      "date": "2027-03-14",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "joseph-moog"
+      ],
+      "program": [
+        {
+          "workId": "shaw-entracte"
+        },
+        {
+          "workId": "mozart-sinfonie-40"
+        },
+        {
+          "workId": "beethoven-klavierkonzert-5"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/hinter-den-spiegeln",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12470",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-16-bielefeld-mozart-symphonie-nr-40-1000",
+      "title": "Mozart – Symphonie Nr. 40",
+      "eventType": "concert",
+      "date": "2027-03-16",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "anne-hinrichsen"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-nr-40"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/mozart-symphonie-nr-40",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-16-bielefeld-mozart-symphonie-nr-40-1130",
+      "title": "Mozart – Symphonie Nr. 40",
+      "eventType": "concert",
+      "date": "2027-03-16",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "anne-hinrichsen"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-nr-40"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/mozart-symphonie-nr-40",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-19-bielefeld-biphil-after-work-3-1900",
+      "title": "BiPhil After Work",
+      "eventType": "concert",
+      "date": "2027-03-19",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "anne-hinrichsen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/biphil-after-work-3",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12503",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-21-bielefeld-klassik-ab-3-2-1115",
+      "title": "Klassik ab 3",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "11:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-ab-3-2",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-26-bielefeld-2-saisonkonzert-1900",
+      "title": "2. Saisonkonzert",
+      "eventType": "concert",
+      "date": "2027-03-26",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/musikverein-/-2-saisonkonzert",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-02-bielefeld-femme-fatale-2000",
+      "title": "Femme fatale",
+      "eventType": "concert",
+      "date": "2027-04-02",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "jac-van-steen"
+      ],
+      "soloistPersonIds": [
+        "brenda-rae"
+      ],
+      "program": [
+        {
+          "workId": "berg-suite-aus-der-lulu-fuer-koloratursopran-"
+        },
+        {
+          "workId": "brahms-klavierquartett-g-moll-fuer-orchester-ge"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/femme-fatale",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12471",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-04-bielefeld-femme-fatale-1100",
+      "title": "Femme fatale",
+      "eventType": "concert",
+      "date": "2027-04-04",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "jac-van-steen"
+      ],
+      "soloistPersonIds": [
+        "brenda-rae"
+      ],
+      "program": [
+        {
+          "workId": "berg-suite-aus-der-lulu-fuer-koloratursopran-"
+        },
+        {
+          "workId": "brahms-klavierquartett-g-moll-fuer-orchester-ge"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/femme-fatale",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12472",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-05-bielefeld-vier-auf-einen-streich-2000",
+      "title": "Vier auf einen Streich",
+      "eventType": "concert",
+      "date": "2027-04-05",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "katrin-adelmann",
+        "natalie-rink",
+        "taeksun-hwang",
+        "aneta-stefanska"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/vier-auf-einen-streich",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12484",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-11-bielefeld-klassik-um-3-2-1500",
+      "title": "Klassik um 3",
+      "eventType": "concert",
+      "date": "2027-04-11",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "assapheum-bethel-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-um-3-2",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-25-bielefeld-klassik-lounge-ab-0-2-1000",
+      "title": "Klassik-Lounge ab 0",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-lounge-ab-0-2",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-03-bielefeld-hornquartette-von-renaissance-bis--2000",
+      "title": "Hornquartette von Renaissance bis Moderne",
+      "eventType": "concert",
+      "date": "2027-05-03",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "edward-haspelmann",
+        "daniel-hill-almeida",
+        "valentin-kalhoff",
+        "clara-schuricht",
+        "hartmut-welpmann"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/hornquartette-von-renaissance-bis-moderne",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12485",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-06-bielefeld-himmelfahrt-2027-ein-mozartabend-1800",
+      "title": "Himmelfahrt 2027 - ein Mozartabend",
+      "eventType": "concert",
+      "date": "2027-05-06",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "hagen-enke"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/himmelfahrt-2027-ein-mozartabend",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-09-bielefeld-zwei-maeuse-entdecken-das-weltall--1100",
+      "title": "Zwei Mäuse entdecken das Weltall",
+      "eventType": "concert",
+      "date": "2027-05-09",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "stadttheater-buehne-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "anne-hinrichsen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/zwei-maeuse-entdecken-das-weltall-1",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12493",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-14-bielefeld-midnight-hour-2000",
+      "title": "Midnight Hour",
+      "eventType": "concert",
+      "date": "2027-05-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "clyne-this-midnight-hourfelix-mendelssohn-bart"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/midnight-hour",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12473",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-16-bielefeld-midnight-hour-1100",
+      "title": "Midnight Hour",
+      "eventType": "concert",
+      "date": "2027-05-16",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "clyne-this-midnight-hourfelix-mendelssohn-bart"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/midnight-hour",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12474",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-27-bielefeld-klassik-um-3-1500",
+      "title": "Klassik um 3",
+      "eventType": "concert",
+      "date": "2027-05-27",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "assapheum-bethel-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-um-3",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-30-bielefeld-strawinsky-der-feuervogel-1-1100",
+      "title": "Strawinsky - Der Feuervogel",
+      "eventType": "concert",
+      "date": "2027-05-30",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "anne-hinrichsen"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "strawinsky-der-feuervogel"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/strawinsky-der-feuervogel-1",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12534",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-01-bielefeld-strawinsky-der-feuervogel-1000",
+      "title": "Strawinsky - Der Feuervogel",
+      "eventType": "concert",
+      "date": "2027-06-01",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "anne-hinrichsen"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "strawinsky-der-feuervogel"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/strawinsky-der-feuervogel",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-01-bielefeld-strawinsky-der-feuervogel-1130",
+      "title": "Strawinsky - Der Feuervogel",
+      "eventType": "concert",
+      "date": "2027-06-01",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "anne-hinrichsen"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "strawinsky-der-feuervogel"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/strawinsky-der-feuervogel",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-13-bielefeld-klassik-ab-3-2-1115",
+      "title": "Klassik ab 3",
+      "eventType": "concert",
+      "date": "2027-06-13",
+      "startTime": "11:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klassik-ab-3-2",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-14-bielefeld-klaviertrios-2000",
+      "title": "Klaviertrios",
+      "eventType": "concert",
+      "date": "2027-06-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "hana-miyoshi",
+        "yoonha-choi",
+        "haewon-shin"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/klaviertrios",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12486",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-18-bielefeld-letzte-gedanken-2000",
+      "title": "Letzte Gedanken",
+      "eventType": "concert",
+      "date": "2027-06-18",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "dusica-bijelic"
+      ],
+      "program": [
+        {
+          "workId": "boulanger-d-un-matin-de-printempsrichard-strauss-1"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/letzte-gedanken",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12475",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-20-bielefeld-letzte-gedanken-1100",
+      "title": "Letzte Gedanken",
+      "eventType": "concert",
+      "date": "2027-06-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [
+        "dusica-bijelic"
+      ],
+      "program": [
+        {
+          "workId": "boulanger-d-un-matin-de-printempsrichard-strauss-1"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/letzte-gedanken",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12476",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-27-bielefeld-eine-reise-in-klang-und-bewegung-1100",
+      "title": "Eine Reise in Klang und Bewegung",
+      "eventType": "concert",
+      "date": "2027-06-27",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "stadttheater-buehne-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "gregor-rot"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/eine-reise-in-klang-und-bewegung",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12494",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-01-bielefeld-200-jahre-cruevelli-2000",
+      "title": "200 Jahre Sophie Cruvelli",
+      "eventType": "concert",
+      "date": "2027-07-01",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "robin-davis"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/200-jahre-cruevelli",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-05-bielefeld-italienisches-liederbuch-2000",
+      "title": "Italienisches Liederbuch",
+      "eventType": "concert",
+      "date": "2027-07-05",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bielefelder-philharmoniker"
+      ],
+      "venueId": "rudolf-oetker-halle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mayan-goldenfeld",
+        "tomas-kildisius",
+        "anne-hinrichsen"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.buo-bielefeld.de/philharmoniker/veranstaltung/italienisches-liederbuch",
+        "name": "Bielefelder Philharmoniker / Theater Bielefeld",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12487",
+      "lastVerified": "2026-08-18"
     }
   ]
 }
