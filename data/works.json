@@ -8164,6 +8164,235 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "glanert-sinfonia",
+      "composerId": "detlev-glanert",
+      "title": "Sinfonia",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "jofre-tangofonus-konzert-fuer-bandoneon-und-or",
+      "composerId": "jp-jofre",
+      "title": "Tangofonus - Konzert für Bandoneon und Orchester (Uraufführung)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-ouvertuere-die-hebriden-mwv-p-7",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Ouvertüre Die Hebriden MWV P 7",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "26"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-sinfonie-nr-1-b-dur-fruehling",
+      "composerId": "robert-schumann",
+      "title": "Sinfonie Nr. 1 B-Dur „Frühling",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "38"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hensel-das-jahr-juli-bis-dezember",
+      "composerId": "fanny-mendelssohn-hensel",
+      "title": "Das Jahr (Juli bis Dezember)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hensel-das-jahr-januar-bis-maerz",
+      "composerId": "fanny-mendelssohn-hensel",
+      "title": "Das Jahr (Januar bis März)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "walton-violinkonzert-2",
+      "composerId": "william-walton",
+      "title": "Violinkonzert",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mussorgski-bilder-einer-ausstellung",
+      "composerId": "modest-mussorgski",
+      "title": "Bilder einer Ausstellung",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-1-aufzug-aus-die-walkuere-wwv-86-b",
+      "composerId": "richard-wagner",
+      "title": "1. Aufzug aus Die Walküre WWV 86 B",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-klavierkonzert-nr-5-es-dur",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Klavierkonzert Nr. 5 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "73"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hensel-das-jahr-april-bis-juni",
+      "composerId": "fanny-mendelssohn-hensel",
+      "title": "Das Jahr (April bis Juni)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartok-klavierkonzert-nr-3-e-dur-sz-119",
+      "composerId": "bela-bartok",
+      "title": "Klavierkonzert Nr. 3 E-Dur Sz 119",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowski-sinfonie-nr-4-f-moll-th-27",
+      "composerId": "pjotr-tschaikowski",
+      "title": "Sinfonie Nr. 4 f-Moll TH 27",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "36"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "glanert-three-american-preludes",
+      "composerId": "detlev-glanert",
+      "title": "Three American Preludes",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "gershwin-rhapsody-in-blue",
+      "composerId": "george-gershwin",
+      "title": "Rhapsody in Blue",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "smetana-die-moldau-jb-1-112-2-aus-mein-vaterland",
+      "composerId": "bedrich-smetana",
+      "title": "Die Moldau JB 1:112/2 aus Mein Vaterland",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowski-variationen-ueber-ein-rokoko-thema-th-57",
+      "composerId": "pjotr-tschaikowski",
+      "title": "Variationen über ein Rokoko-Thema TH 57",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "33"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

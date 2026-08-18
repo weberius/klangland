@@ -19,6 +19,7 @@ Quelle (erkannt am Quell-Host) und legen Stammdaten anhand ihrer IDs dublettenfr
 | Beethoven Orchester Bonn | `beethoven-orchester.de` (Archiv 26-27 + Detailseiten) | [`ingest_bonn.py`](ingest_bonn.py) | [beethoven-orchester-bonn.md](beethoven-orchester-bonn.md) |
 | Bielefelder Philharmoniker | `buo-bielefeld.de` (Kalender-Paging + Detailseiten) | [`ingest_bielefeld.py`](ingest_bielefeld.py) | [bielefelder-philharmoniker.md](bielefelder-philharmoniker.md) |
 | Duisburger Philharmoniker | `duisburger-philharmoniker.de` (Kalender + Detailseiten) | [`ingest_duisburg.py`](ingest_duisburg.py) | [duisburger-philharmoniker.md](duisburger-philharmoniker.md) |
+| Philharmonisches Orchester Hagen | `theaterhagen.de` (Kalender monatsweise + Detailseiten) | [`ingest_hagen.py`](ingest_hagen.py) | [philharmonisches-orchester-hagen.md](philharmonisches-orchester-hagen.md) |
 | Essener Philharmoniker | `theater-essen.de/programm/spielzeit-26-27` (HTML) | [`ingest_essener.py`](ingest_essener.py) | [essener-philharmoniker.md](essener-philharmoniker.md) |
 | Gürzenich-Orchester Köln | `guerzenich-orchester.de` (Sitemap + Detailseiten) | [`ingest_guerzenich.py`](ingest_guerzenich.py) | [guerzenich-orchester-koeln.md](guerzenich-orchester-koeln.md) |
 

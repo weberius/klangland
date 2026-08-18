@@ -888,6 +888,71 @@
       "website": null,
       "type": "other",
       "institutionId": null
+    },
+    {
+      "id": "stadthalle-hagen",
+      "name": "Stadthalle Hagen",
+      "cityIds": [
+        "hagen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "kunstquartier-hagen",
+      "name": "Kunstquartier Hagen",
+      "cityIds": [
+        "hagen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "lutz-hagen",
+      "name": "Lutz Theater Hagen",
+      "cityIds": [
+        "hagen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "johanniskirche-hagen",
+      "name": "Johanniskirche",
+      "cityIds": [
+        "hagen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "theatercafe-hagen",
+      "name": "Theatercafé Hagen",
+      "cityIds": [
+        "hagen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
     }
   ]
 }

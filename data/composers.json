@@ -1387,6 +1387,26 @@
       "id": "e-t-a-hoffman",
       "name": "E. T. A. Hoffman",
       "life": null
+    },
+    {
+      "id": "detlev-glanert",
+      "name": "Detlev Glanert",
+      "life": null
+    },
+    {
+      "id": "jp-jofre",
+      "name": "JP Jofre",
+      "life": null
+    },
+    {
+      "id": "fanny-mendelssohn-hensel",
+      "name": "Fanny Mendelssohn-Hensel",
+      "life": null
+    },
+    {
+      "id": "pjotr-tschaikowski",
+      "name": "Pjotr Tschaikowski",
+      "life": null
     }
   ]
 }

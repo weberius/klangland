@@ -22498,6 +22498,1051 @@
       },
       "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22396",
       "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-06-hagen-1-familienkonzert-2071-1100",
+      "title": "1. Familienkonzert",
+      "eventType": "concert",
+      "date": "2026-09-06",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theater-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/1-familienkonzert-2071/9827/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12264",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-20-hagen-1-kammerkonzert-2022-1130",
+      "title": "1. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2026-09-20",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "kunstquartier-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/1-kammerkonzert-2022/9810/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12249",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-22-hagen-1-sinfoniekonzert-tangofonus-versus-jupi-1930",
+      "title": "1. Sinfoniekonzert – Tangofonus versus Jupiter",
+      "eventType": "concert",
+      "date": "2026-09-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theater-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "sebastian-lang-lessing"
+      ],
+      "soloistPersonIds": [
+        "jp-jofre"
+      ],
+      "program": [
+        {
+          "workId": "glanert-sinfonia"
+        },
+        {
+          "workId": "jofre-tangofonus-konzert-fuer-bandoneon-und-or"
+        },
+        {
+          "workId": "mozart-sinfonie-nr-41-c-dur-jupiter"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/1-sinfoniekonzert-tangofonus-versus-jupiter-2013/9800/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12240",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-27-hagen-krabbelkonzerte-2076-1000",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "lutz-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9922/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12270",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-27-hagen-krabbelkonzerte-2076-1115",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "11:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "lutz-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9835/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12270",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-27-hagen-2a-sinfoniekonzert-schumann-zyklus-i-im--1930",
+      "title": "2a. Sinfoniekonzert – Schumann-Zyklus I - Im Thale blüht der Frühling auf!",
+      "eventType": "concert",
+      "date": "2026-10-27",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "stadthalle-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "sebastian-lang-lessing"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bartholdy-ouvertuere-die-hebriden-mwv-p-7"
+        },
+        {
+          "workId": "schumann-sinfonie-nr-1-b-dur-fruehling"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/2a-sinfoniekonzert-schumann-zyklus-i-im-thale-blueht-der-fruehling-auf-2014/9801/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12241",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-07-hagen-2b-sinfoniekonzert-schumann-zyklus-ii-he-1930",
+      "title": "2b. Sinfoniekonzert – Schumann-Zyklus II - Herbststimmung",
+      "eventType": "concert",
+      "date": "2026-11-07",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theater-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "sebastian-lang-lessing"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "hensel-das-jahr-juli-bis-dezember"
+        },
+        {
+          "workId": "schumann-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/2b-sinfoniekonzert-schumann-zyklus-ii-herbststimmung-2015/9802/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-29-hagen-krabbelkonzerte-2076-1000",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2026-11-29",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "lutz-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9862/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12272",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-29-hagen-krabbelkonzerte-2076-1115",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2026-11-29",
+      "startTime": "11:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "lutz-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9863/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12272",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-29-hagen-2-kammerkonzert-2023-1130",
+      "title": "2. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2026-11-29",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "kunstquartier-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/2-kammerkonzert-2023/9811/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12250",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-10-hagen-weihnachtliches-mitsingkonzert-2063-1930",
+      "title": "Weihnachtliches Mitsingkonzert",
+      "eventType": "concert",
+      "date": "2026-12-10",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "johanniskirche-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "prof-florian-ludwig"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/weihnachtliches-mitsingkonzert-2063/9869/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12256",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-15-hagen-3-sinfoniekonzert-bilder-einer-ausstellu-1930",
+      "title": "3. Sinfoniekonzert – Bilder einer Ausstellung - Musikalische Malerei",
+      "eventType": "concert",
+      "date": "2026-12-15",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "stadthalle-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "sebastian-lang-lessing"
+      ],
+      "soloistPersonIds": [
+        "frank-peter-zimmermann"
+      ],
+      "program": [
+        {
+          "workId": "hensel-das-jahr-januar-bis-maerz"
+        },
+        {
+          "workId": "walton-violinkonzert-2"
+        },
+        {
+          "workId": "mussorgski-bilder-einer-ausstellung"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/3-sinfoniekonzert-bilder-einer-ausstellung-musikalische-malerei-2016/9803/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-20-hagen-adventskonzert-2064-1800",
+      "title": "Adventskonzert",
+      "eventType": "concert",
+      "date": "2026-12-20",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theater-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "julian-wolf"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/adventskonzert-2064/9872/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-01-hagen-neujahrskonzert-2027-2065-1800",
+      "title": "Neujahrskonzert 2027",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "stadthalle-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/neujahrskonzert-2027-2065/9875/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12258",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-24-hagen-2-familienkonzert-2072-1100",
+      "title": "2. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theater-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/2-familienkonzert-2072/9828/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12265",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-24-hagen-3-kammerkonzert-2024-1130",
+      "title": "3. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "kunstquartier-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/3-kammerkonzert-2024/9812/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12251",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-26-hagen-4-sinfoniekonzert-wagner-gala-winterstue-1930",
+      "title": "4. Sinfoniekonzert – Wagner-Gala - Winterstürme wichen dem Wonnemond",
+      "eventType": "concert",
+      "date": "2027-01-26",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "stadthalle-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "sebastian-lang-lessing"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "wagner-1-aufzug-aus-die-walkuere-wwv-86-b"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/4-sinfoniekonzert-wagner-gala-winterstuerme-wichen-dem-wonnemond-2017/9804/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-31-hagen-krabbelkonzerte-2076-1000",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2027-01-31",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "lutz-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9890/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12274",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-31-hagen-krabbelkonzerte-2076-1115",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2027-01-31",
+      "startTime": "11:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "lutz-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9891/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12274",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-14-hagen-4-kammerkonzert-2025-1130",
+      "title": "4. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "kunstquartier-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/4-kammerkonzert-2025/9813/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12252",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-02-hagen-5-sinfoniekonzert-beethoven-konzert-zum--1930",
+      "title": "5. Sinfoniekonzert – Beethoven - Konzert zum 200. Todestag",
+      "eventType": "concert",
+      "date": "2027-03-02",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "stadthalle-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "n-n"
+      ],
+      "soloistPersonIds": [
+        "francois-frederic-guy"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-klavierkonzert-nr-5-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/5-sinfoniekonzert-beethoven-konzert-zum-200-todestag-2018/9805/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-14-hagen-krabbelkonzerte-2076-1000",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2027-03-14",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "lutz-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9899/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12276",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-14-hagen-krabbelkonzerte-2076-1115",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2027-03-14",
+      "startTime": "11:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "lutz-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9900/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12276",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-14-hagen-5-kammerkonzert-2026-1130",
+      "title": "5. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2027-03-14",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "kunstquartier-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/5-kammerkonzert-2026/9814/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12253",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-13-hagen-6-sinfoniekonzert-schicksalsinfonie-trad-1930",
+      "title": "6. Sinfoniekonzert – SchicksalSinfonie - Tradition und Aufbruch",
+      "eventType": "concert",
+      "date": "2027-04-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "stadthalle-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "martina-filjak"
+      ],
+      "program": [
+        {
+          "workId": "hensel-das-jahr-april-bis-juni"
+        },
+        {
+          "workId": "bartok-klavierkonzert-nr-3-e-dur-sz-119"
+        },
+        {
+          "workId": "tschaikowski-sinfonie-nr-4-f-moll-th-27"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/6-sinfoniekonzert-schicksalsinfonie-tradition-und-aufbruch-2019/9806/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-18-hagen-3-familienkonzert-2073-1100",
+      "title": "3. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-04-18",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theater-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/3-familienkonzert-2073/9829/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12266",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-19-hagen-schulkonzert-juri-und-robin-hood-2075-1000",
+      "title": "Schulkonzert - Juri und Robin Hood",
+      "eventType": "concert",
+      "date": "2027-04-19",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theater-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/schulkonzert-juri-und-robin-hood-2075/9831/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-09-hagen-krabbelkonzerte-2076-1000",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2027-05-09",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "lutz-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9908/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12278",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-09-hagen-krabbelkonzerte-2076-1115",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2027-05-09",
+      "startTime": "11:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "lutz-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9909/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12278",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-09-hagen-6-kammerkonzert-2027-1130",
+      "title": "6. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2027-05-09",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "kunstquartier-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/6-kammerkonzert-2027/9815/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12254",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-11-hagen-7-sinfoniekonzert-carmina-burana-2020-1930",
+      "title": "7. Sinfoniekonzert – Carmina Burana",
+      "eventType": "concert",
+      "date": "2027-05-11",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "stadthalle-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "sebastian-lang-lessing"
+      ],
+      "soloistPersonIds": [
+        "simon-haje",
+        "nike-tiecke",
+        "anton-kuzenok",
+        "insu-hwang"
+      ],
+      "program": [
+        {
+          "workId": "glanert-three-american-preludes"
+        },
+        {
+          "workId": "gershwin-rhapsody-in-blue"
+        },
+        {
+          "workId": "orff-carmina-burana"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/7-sinfoniekonzert-carmina-burana-2020/9807/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-13-hagen-krabbelkonzerte-2076-1000",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2027-06-13",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theatercafe-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9910/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12280",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-13-hagen-krabbelkonzerte-2076-1115",
+      "title": "Krabbelkonzerte",
+      "eventType": "concert",
+      "date": "2027-06-13",
+      "startTime": "11:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theatercafe-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/krabbelkonzerte-2076/9911/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12280",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-20-hagen-7-kammerkonzert-2028-1130",
+      "title": "7. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2027-06-20",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "kunstquartier-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/7-kammerkonzert-2028/9816/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12255",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-22-hagen-8-sinfoniekonzert-brillante-wien-prag-pe-1930",
+      "title": "8. Sinfoniekonzert – Brillante! - Wien, Prag, Petersburg",
+      "eventType": "concert",
+      "date": "2027-06-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theater-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [
+        "sebastian-lang-lessing"
+      ],
+      "soloistPersonIds": [
+        "petar-pejcic"
+      ],
+      "program": [
+        {
+          "workId": "smetana-die-moldau-jb-1-112-2-aus-mein-vaterland"
+        },
+        {
+          "workId": "tschaikowski-variationen-ueber-ein-rokoko-thema-th-57"
+        },
+        {
+          "workId": "beethoven-sinfonie-4"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/8-sinfoniekonzert-brillante-wien-prag-petersburg-2021/9809/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-11-hagen-4-familienkonzert-2074-1100",
+      "title": "4. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-07-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonisches-orchester-hagen"
+      ],
+      "venueId": "theater-hagen",
+      "cityId": "hagen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theaterhagen.de/veranstaltung/4-familienkonzert-2074/9830/show/Play/",
+        "name": "Theater Hagen / Philharmonisches Orchester Hagen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12267",
+      "lastVerified": "2026-08-18"
     }
   ]
 }
