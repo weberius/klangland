@@ -23,11 +23,31 @@ npm start            # Dev-Server auf http://localhost:4200
 ## Build
 
 ```bash
-npm run build        # Produktionsbuild nach web/dist/klangland-web/
+npm run build        # Produktionsbuild nach web/dist/klangland/
 ```
 
 Das Ergebnis ist eine rein statische Anwendung und kann auf jedem statischen Host
 (GitHub Pages, Netlify, Vercel, Cloudflare Pages) deployt werden.
+
+## Deployment (GitHub Pages)
+
+Der Workflow [`.github/workflows/deploy-pages.yml`](../.github/workflows/deploy-pages.yml)
+baut und veröffentlicht die App bei jedem Push auf `main` automatisch unter
+`https://weberius.github.io/klangland/`.
+
+Einmalig nötig: In den Repo-Einstellungen **Settings → Pages → Build and deployment →
+Source: „GitHub Actions"** auswählen.
+
+Besonderheiten des Workflows:
+
+- baut mit `npm run build -- --base-href /klangland/` (der `prebuild`-Hook synchronisiert die
+  Daten nach `public/data`; `ng build` allein würde das überspringen);
+- deployt das Verzeichnis `web/dist/klangland/browser`;
+- legt eine `404.html` als Kopie der `index.html` an, damit Deep-Links (SPA-Routing) beim
+  direkten Aufruf funktionieren.
+
+Für ein Deployment unter einer eigenen Domain oder im Web-Root ist der `--base-href`
+entsprechend anzupassen (z. B. `/`).
 
 ## Daten
 

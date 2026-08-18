@@ -1,0 +1,60 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Install dependencies
+        working-directory: web
+        run: npm ci
+
+      # `npm run build` löst den prebuild-Hook (tools/sync-data.mjs) aus, der die
+      # JSON-Daten aus /data nach web/public/data kopiert. Ohne diesen Schritt hätte
+      # die deployte App keine Daten. Args nach `--` werden an `ng build` gereicht.
+      - name: Build Angular app
+        working-directory: web
+        run: npm run build -- --configuration production --base-href /klangland/
+
+      # SPA-Fallback: GitHub Pages liefert statische Dateien aus; ohne 404.html
+      # würden direkte Deep-Links (z. B. /klangland/events/...) beim Neuladen 404en.
+      - name: Add SPA 404 fallback
+        run: cp web/dist/klangland/browser/index.html web/dist/klangland/browser/404.html
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist/klangland/browser
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
