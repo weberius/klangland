@@ -61,13 +61,6 @@ export class EventDetailPage {
     if (!text || (e?.program?.length ?? 0) > 0) return '';
     return /^(Werke von|Musik von)\b/.test(text) ? text : '';
   });
-  readonly headerDescription = computed(() => {
-    const e = this.event();
-    const text = e?.description?.trim() ?? '';
-    if (!text) return '';
-    return text === this.programFallbackText() ? '' : text;
-  });
-
   readonly program = computed<ProgramLine[]>(() =>
     (this.event()?.program ?? []).map((p) => {
       const work = this.data.work(p.workId);
