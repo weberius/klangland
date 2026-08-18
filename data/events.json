@@ -10557,6 +10557,3506 @@
       },
       "ticketUrl": "https://theateraachen.reservix.de/p/reservix/event/2549517",
       "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-05-bochum-antrittskonzert",
+      "title": "Antrittskonzert",
+      "eventType": "concert",
+      "date": "2026-09-05",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "program": [
+        {
+          "workId": "hindemith-ragtime-wohltemperiert"
+        },
+        {
+          "workId": "haydn-konzert-fuer-klavier-und-orchester-nr-11"
+        },
+        {
+          "workId": "brahms-sinfonie-1"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/antrittskonzert",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2573101",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-18-bochum-funkelschoen-2",
+      "title": "funkelschön",
+      "eventType": "concert",
+      "date": "2026-09-18",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/funkelschoen-2",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572364",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-18-bochum-funkelschoen-2-1130",
+      "title": "funkelschön",
+      "eventType": "concert",
+      "date": "2026-09-18",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/funkelschoen-2",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572373",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-18-bochum-funkelschoen-2-1500",
+      "title": "funkelschön",
+      "eventType": "concert",
+      "date": "2026-09-18",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/funkelschoen-2",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572375",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-18-bochum-funkelschoen-2-1630",
+      "title": "funkelschön",
+      "eventType": "concert",
+      "date": "2026-09-18",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/funkelschoen-2",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572376",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-20-bochum-stimmen-der-erde",
+      "title": "Stimmen der Erde",
+      "eventType": "concert",
+      "date": "2026-09-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "alejandra-urrutia"
+      ],
+      "soloistPersonIds": [
+        "selina-ott"
+      ],
+      "program": [
+        {
+          "workId": "williams-fantasia-on-a-theme-by-thomas-tallis"
+        },
+        {
+          "workId": "britten-four-sea-interludes-aus-peter-grimes"
+        },
+        {
+          "workId": "arutiunian-konzert-fuer-trompete-und-orchester-as-d"
+        },
+        {
+          "workId": "ginastera-estancia"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/stimmen-der-erde",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2533669",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-20-bochum-zeitwende",
+      "title": "Zeitenwende",
+      "eventType": "concert",
+      "date": "2026-09-20",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "emily-florian",
+        "tobias-bredohl"
+      ],
+      "program": [
+        {
+          "workId": "hindemith-sonate-fuer-violine-und-klavier-es-dur"
+        },
+        {
+          "workId": "janacek-sonate-fuer-violine-und-klavier"
+        },
+        {
+          "workId": "elgar-sonate-fuer-violine-und-klavier"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/zeitwende",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2571016",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-24-bochum-irdisches-glueck-ewiges-sein",
+      "title": "Irdisches Glück - Ewiges Sein",
+      "eventType": "concert",
+      "date": "2026-09-24",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "ustina-dubitsky"
+      ],
+      "soloistPersonIds": [
+        "okka-von-der-damerau",
+        "mirko-roschkowski"
+      ],
+      "program": [
+        {
+          "workId": "wagner-siegfried-idyll-wwv-103"
+        },
+        {
+          "workId": "mahler-das-lied-von-der-erde"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/irdisches-glueck-ewiges-sein",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539662",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-25-bochum-irdisches-glueck-ewiges-sein",
+      "title": "Irdisches Glück - Ewiges Sein",
+      "eventType": "concert",
+      "date": "2026-09-25",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "ustina-dubitsky"
+      ],
+      "soloistPersonIds": [
+        "okka-von-der-damerau",
+        "mirko-roschkowski"
+      ],
+      "program": [
+        {
+          "workId": "wagner-siegfried-idyll-wwv-103"
+        },
+        {
+          "workId": "mahler-das-lied-von-der-erde"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/irdisches-glueck-ewiges-sein",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539664",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-27-bochum-das-konzert-mit-der-maus",
+      "title": "Das Konzert mit der Maus",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "11:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "jesko-sirvend"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/das-konzert-mit-der-maus",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2575287",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-27-bochum-das-konzert-mit-der-maus-1400",
+      "title": "Das Konzert mit der Maus",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "jesko-sirvend"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/das-konzert-mit-der-maus",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2575291",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-30-bochum-spiegelungen",
+      "title": "Spiegelungen",
+      "eventType": "concert",
+      "date": "2026-09-30",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "raphael-christ"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "lessel-sinfonie-nr-5-g-moll-finale-molto-presto"
+        },
+        {
+          "workId": "haydn-sinfonie-nr-47-g-dur-hob-i-47"
+        },
+        {
+          "workId": "rossini-ouvertuere-zur-semiramide"
+        },
+        {
+          "workId": "haydn-sinfonie-nr-56-c-dur-hob-i-56"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/spiegelungen",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539658",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-04-bochum-bekenntnisse",
+      "title": "Bekenntnisse",
+      "eventType": "concert",
+      "date": "2026-10-04",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "esiona-stefani",
+        "jiwon-kim",
+        "aliaksandr-senazhenski",
+        "christof-kepser"
+      ],
+      "program": [
+        {
+          "workId": "schostakowitsch-streichquartett-nr-8-c-moll"
+        },
+        {
+          "workId": "beethoven-streichquartett-nr-2-e-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Viktoria Quartett",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/bekenntnisse",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2535884",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-10-bochum-aus-der-schublade",
+      "title": "Aus der Schublade",
+      "eventType": "concert",
+      "date": "2026-10-10",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schubert-sinfonie-h-moll-d759-die-unvollendete"
+        },
+        {
+          "workId": "bruckner-sinfonie-in-d-moll-nullte-wab-100"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/aus-der-schublade",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539623",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-11-bochum-aus-der-schublade",
+      "title": "Aus der Schublade",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schubert-sinfonie-h-moll-d759-die-unvollendete"
+        },
+        {
+          "workId": "bruckner-sinfonie-in-d-moll-nullte-wab-100"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/aus-der-schublade",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539626",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-18-bochum-dialoge-zu-dritt",
+      "title": "Dialoge zu dritt",
+      "eventType": "concert",
+      "date": "2026-10-18",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "eunmi-lee",
+        "hye-bin-kim",
+        "kira-ratner"
+      ],
+      "program": [
+        {
+          "workId": "haendel-triosonate-g-moll"
+        },
+        {
+          "workId": "moszkowski-suite-g-moll"
+        },
+        {
+          "workId": "schumann-sechs-duos-fuer-zwei-violinen-und-klavie"
+        },
+        {
+          "workId": "schostakowitsch-fuenf-stuecke-fuer-zwei-violinen-und-kla"
+        },
+        {
+          "workId": "sarasate-navarra"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/dialoge-zu-dritt",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2571075",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-23-bochum-bosy-goes-pop",
+      "title": "BoSy goes Pop",
+      "eventType": "concert",
+      "date": "2026-10-23",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "inga-hilsberg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Classic Night Chor",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/bosy-goes-pop",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2575558",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-24-bochum-bosy-goes-pop",
+      "title": "BoSy goes Pop",
+      "eventType": "concert",
+      "date": "2026-10-24",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "inga-hilsberg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Classic Night Chor",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/bosy-goes-pop",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2575561",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-25-bochum-bosy-goes-pop",
+      "title": "BoSy goes Pop",
+      "eventType": "concert",
+      "date": "2026-10-25",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "inga-hilsberg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Classic Night Chor",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/bosy-goes-pop",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2575562",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-01-bochum-geisterliches",
+      "title": "Geist(er)liches",
+      "eventType": "concert",
+      "date": "2026-11-01",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "florian-helgath"
+      ],
+      "soloistPersonIds": [
+        "magdalena-lucjan",
+        "maria-hegele",
+        "patrick-grahl",
+        "matthias-winckhler"
+      ],
+      "program": [
+        {
+          "workId": "schubert-gesang-der-geister-ueber-den-wassern-d-7"
+        },
+        {
+          "workId": "schubert-messe-in-es-dur-d-950"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: CHORWERK RUHR",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/geisterliches",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2533598",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-07-bochum-festkonzert-10-jahre-musikfo",
+      "title": "Festkonzert - 10 Jahre Musikforum",
+      "eventType": "concert",
+      "date": "2026-11-07",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "mateo-penaloza-cecconi",
+        "norbert-koop",
+        "steven-sloane",
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schumann-nachtlied"
+        },
+        {
+          "workId": "strawinsky-orchestersuite-aus-der-feuervogel-fassun"
+        },
+        {
+          "workId": "nicolai-ouvertuere-zu-die-lustigen-weiber-von-wi"
+        },
+        {
+          "workId": "schumann-sinfonie-nr-4-d-moll-urfassung"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Philharmonischer Chor Bochum",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/festkonzert-10-jahre-musikforum",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576096",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-08-bochum-kuriositaeten-1",
+      "title": "Kuriositäten",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "ursula-lee",
+        "louisa-spahn",
+        "janet-boram-lee"
+      ],
+      "program": [
+        {
+          "workId": "martinů-streichtrio-nr-2-h-238"
+        },
+        {
+          "workId": "kuemper-streichtrio-ua-auftragswerk-der-bochumer"
+        },
+        {
+          "workId": "beethoven-serenade-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: artTone Trio",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/kuriositaeten-1",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2571082",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-14-bochum-seelentheater",
+      "title": "Seelentheater",
+      "eventType": "concert",
+      "date": "2026-11-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "raphael-christ"
+      ],
+      "soloistPersonIds": [
+        "raphael-christ"
+      ],
+      "program": [
+        {
+          "workId": "bach-konzert-fuer-violine-streicher-und-b-c-a"
+        },
+        {
+          "workId": "locatelli-concerto-a-4-es-dur-il-pianto-d-arianna"
+        },
+        {
+          "workId": "vivaldi-concerto-grosso-g-moll-rv-156"
+        },
+        {
+          "workId": "vivaldi-sinfonia-zur-l-olimpiade-rv-725"
+        },
+        {
+          "workId": "vivaldi-sonate-fuer-violine-und-b-c-la-follia-rv"
+        },
+        {
+          "workId": "vivaldi-concerto-fuer-violine-streicher-und-b-c-"
+        },
+        {
+          "workId": "bach-sinfonie-in-h-moll-h661"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/seelentheater",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539611",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-19-bochum-vom-licht-der-welt",
+      "title": "Vom Licht der Welt",
+      "eventType": "concert",
+      "date": "2026-11-19",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "steven-sloane"
+      ],
+      "soloistPersonIds": [
+        "rebecca-nelsen"
+      ],
+      "program": [
+        {
+          "workId": "wagner-vorspiel-zu-parsifal-wwv-111"
+        },
+        {
+          "workId": "sheriff-abschied-liederzyklus-fuer-sopran-und-or-2"
+        },
+        {
+          "workId": "haydn-sinfonie-nr-22-es-dur-hob-i-22-philosoph"
+        },
+        {
+          "workId": "strauss-tod-und-verklaerung"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/vom-licht-der-welt",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2540356",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-20-bochum-vom-licht-der-welt",
+      "title": "Vom Licht der Welt",
+      "eventType": "concert",
+      "date": "2026-11-20",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "steven-sloane"
+      ],
+      "soloistPersonIds": [
+        "rebecca-nelsen"
+      ],
+      "program": [
+        {
+          "workId": "wagner-vorspiel-zu-parsifal-wwv-111"
+        },
+        {
+          "workId": "sheriff-abschied-liederzyklus-fuer-sopran-und-or-2"
+        },
+        {
+          "workId": "haydn-sinfonie-nr-22-es-dur-hob-i-22-philosoph"
+        },
+        {
+          "workId": "strauss-tod-und-verklaerung"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/vom-licht-der-welt",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2540359",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-21-bochum-tangomania-1",
+      "title": "Tangomania",
+      "eventType": "concert",
+      "date": "2026-11-21",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "marko-genero",
+        "suye-shao",
+        "dmitri-solodukha"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Konzert und Tanzveranstaltung mit Live-Musik und DJ · 18 Uhr Schnupper-Workshop zum Kennenlernen der Tango-Grundlagen (Zutritt mit Tangomania-Ticket) · Bitte beachten Sie, dass die Veranstaltung nicht bestuhlt ist.",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/tangomania-1",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576373",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-17-bochum-tangomania-1",
+      "title": "Tangomania",
+      "eventType": "concert",
+      "date": "2027-04-17",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "marko-genero",
+        "suye-shao",
+        "dmitri-solodukha"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Konzert und Tanzveranstaltung mit Live-Musik und DJ · 18 Uhr Schnupper-Workshop zum Kennenlernen der Tango-Grundlagen (Zutritt mit Tangomania-Ticket) · Bitte beachten Sie, dass die Veranstaltung nicht bestuhlt ist.",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/tangomania-1",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2577659",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-22-bochum-dahoam",
+      "title": "Dahoam",
+      "eventType": "concert",
+      "date": "2026-11-22",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "florian-schoetz",
+        "pinchas-adt",
+        "christoph-vandory",
+        "raphael-paratore"
+      ],
+      "program": [
+        {
+          "workId": "haydn-streichquartett-a-dur"
+        },
+        {
+          "workId": "dvorak-streichquartett-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Goldmund Quartett · Dahoam: Werke von Joseph Haydn und Franz Schubert sowie Arrangements nach Herbert Pixner, Karl Edelmann und traditionelle Volksmusik",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/dahoam",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2535885",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-25-bochum-poetry-in-concert",
+      "title": "Poetry in Concert",
+      "eventType": "concert",
+      "date": "2026-11-25",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/poetry-in-concert",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2554522",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-29-bochum-so-klingt-weihnachten-4",
+      "title": "So klingt Weihnachten!",
+      "eventType": "concert",
+      "date": "2026-11-29",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "mateo-penaloza-cecconi"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Philharmonischer Chor, Bochum",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/so-klingt-weihnachten-4",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2533609",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-06-bochum-nah-und-fern",
+      "title": "Nah und Fern",
+      "eventType": "concert",
+      "date": "2026-12-06",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [
+        "wolfgang-sellner"
+      ],
+      "program": [
+        {
+          "workId": "hindemith-symphonische-metamorphosen"
+        },
+        {
+          "workId": "jue-konzert-fuer-violoncello-und-orchester-u"
+        },
+        {
+          "workId": "tower-fanfare-for-the-uncommon-woman-nr-1"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-1-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/nah-und-fern",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2533840",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-12-bochum-bosy-chor-extra",
+      "title": "Weihnachtsoratorium",
+      "eventType": "concert",
+      "date": "2026-12-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "johannes-honecker"
+      ],
+      "soloistPersonIds": [
+        "marie-heeschen",
+        "bettina-schaeffer",
+        "johannes-gaubitz",
+        "jakob-kress"
+      ],
+      "program": [
+        {
+          "workId": "bach-das-weihnachtsoratorium-kantaten-1-2-3-4"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Jugendkonzertchor der CHORAKADEMIE am Konzerthaus Dortmund e.V., Konzertchor Westfalica der CHORAKADEMIE am Konzerthaus Dortmund e.V.",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/bosy-chor-extra",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576446",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-13-bochum-bosy-chor-extra",
+      "title": "Weihnachtsoratorium",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "johannes-honecker"
+      ],
+      "soloistPersonIds": [
+        "marie-heeschen",
+        "bettina-schaeffer",
+        "johannes-gaubitz",
+        "jakob-kress"
+      ],
+      "program": [
+        {
+          "workId": "bach-das-weihnachtsoratorium-kantaten-1-2-3-4"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Jugendkonzertchor der CHORAKADEMIE am Konzerthaus Dortmund e.V., Konzertchor Westfalica der CHORAKADEMIE am Konzerthaus Dortmund e.V.",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/bosy-chor-extra",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576551",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-19-bochum-silent-night-classic-night",
+      "title": "Silent Night - Classic Night",
+      "eventType": "concert",
+      "date": "2026-12-19",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "torsten-sickert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Classic Night Band, Classic Night Chor",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/silent-night-classic-night",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576553",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-20-bochum-silent-night-classic-night",
+      "title": "Silent Night - Classic Night",
+      "eventType": "concert",
+      "date": "2026-12-20",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "torsten-sickert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Classic Night Band, Classic Night Chor",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/silent-night-classic-night",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576554",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-21-bochum-silent-night-classic-night",
+      "title": "Silent Night - Classic Night",
+      "eventType": "concert",
+      "date": "2026-12-21",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "torsten-sickert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Classic Night Band, Classic Night Chor",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/silent-night-classic-night",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576556",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-22-bochum-silent-night-classic-night",
+      "title": "Silent Night - Classic Night",
+      "eventType": "concert",
+      "date": "2026-12-22",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "torsten-sickert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Classic Night Band, Classic Night Chor",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/silent-night-classic-night",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576565",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-23-bochum-silent-night-classic-night",
+      "title": "Silent Night - Classic Night",
+      "eventType": "concert",
+      "date": "2026-12-23",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "torsten-sickert"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Classic Night Band, Classic Night Chor",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/silent-night-classic-night",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576569",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-31-bochum-konzerte-zum-jahreswechsel-s",
+      "title": "Konzerte zum Jahreswechsel - Silvester",
+      "eventType": "concert",
+      "date": "2026-12-31",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [
+        "bryan-cheng"
+      ],
+      "program": [
+        {
+          "workId": "gulda-konzert-fuer-violoncello-und-blasorchest"
+        },
+        {
+          "workId": "strauss-walzer-maersche-polkas"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/konzerte-zum-jahreswechsel-silvester",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576577",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-31-bochum-konzerte-zum-jahreswechsel-s-2000",
+      "title": "Konzerte zum Jahreswechsel - Silvester",
+      "eventType": "concert",
+      "date": "2026-12-31",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [
+        "bryan-cheng"
+      ],
+      "program": [
+        {
+          "workId": "gulda-konzert-fuer-violoncello-und-blasorchest"
+        },
+        {
+          "workId": "strauss-walzer-maersche-polkas"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/konzerte-zum-jahreswechsel-silvester",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576916",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-01-bochum-konzerte-zum-jahreswechsel-n",
+      "title": "Konzerte zum Jahreswechsel - Neujahr",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [
+        "bryan-cheng"
+      ],
+      "program": [
+        {
+          "workId": "gulda-konzert-fuer-violoncello-und-blasorchest"
+        },
+        {
+          "workId": "strauss-walzer-maersche-polkas"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/konzerte-zum-jahreswechsel-neujahr",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576923",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-01-bochum-konzerte-zum-jahreswechsel-n-2000",
+      "title": "Konzerte zum Jahreswechsel - Neujahr",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [
+        "bryan-cheng"
+      ],
+      "program": [
+        {
+          "workId": "gulda-konzert-fuer-violoncello-und-blasorchest"
+        },
+        {
+          "workId": "strauss-walzer-maersche-polkas"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/konzerte-zum-jahreswechsel-neujahr",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576929",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-02-bochum-konzerte-zum-jahreswechsel-n",
+      "title": "Konzerte zum Jahreswechsel - Neujahr",
+      "eventType": "concert",
+      "date": "2027-01-02",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [
+        "bryan-cheng"
+      ],
+      "program": [
+        {
+          "workId": "gulda-konzert-fuer-violoncello-und-blasorchest"
+        },
+        {
+          "workId": "strauss-walzer-maersche-polkas"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/konzerte-zum-jahreswechsel-neujahr",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2576930",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-09-bochum-ueberlebensstrategien",
+      "title": "Überlebensstrategien",
+      "eventType": "concert",
+      "date": "2027-01-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aziz-shokhakimov"
+      ],
+      "soloistPersonIds": [
+        "alexander-gavrylyuk"
+      ],
+      "program": [
+        {
+          "workId": "prokofjew-konzert-fuer-klavier-und-orchester-nr-3-"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-nr-5-d-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/ueberlebensstrategien",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539651",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-10-bochum-ueberlebensstrategien",
+      "title": "Überlebensstrategien",
+      "eventType": "concert",
+      "date": "2027-01-10",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aziz-shokhakimov"
+      ],
+      "soloistPersonIds": [
+        "alexander-gavrylyuk"
+      ],
+      "program": [
+        {
+          "workId": "prokofjew-konzert-fuer-klavier-und-orchester-nr-3-"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-nr-5-d-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/ueberlebensstrategien",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539653",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-17-bochum-vom-anfang-und-ende-der-roma",
+      "title": "Vom Anfang und Ende der Romantik",
+      "eventType": "concert",
+      "date": "2027-01-17",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "christian-blex"
+      ],
+      "soloistPersonIds": [
+        "kilian-herold"
+      ],
+      "program": [
+        {
+          "workId": "weber-ouvertuere-zur-oberon"
+        },
+        {
+          "workId": "weber-konzert-fuer-klarinette-und-orchester-nr-2"
+        },
+        {
+          "workId": "elgar-sinfonie-nr-2-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/vom-anfang-und-ende-der-romantik",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2533841",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-24-bochum-sacrifice",
+      "title": "Sacrifice!",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "alexander-puliaev"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Triosonaten und Kanons rund um Bachs „Das Musikalische Opfer“",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/sacrifice",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2571206",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-31-bochum-lichtung",
+      "title": "Lichtung",
+      "eventType": "concert",
+      "date": "2027-01-31",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "noah-bendix-balgley",
+        "shanshan-yao",
+        "teng-li",
+        "nathan-vickery"
+      ],
+      "program": [
+        {
+          "workId": "bartholdy-streichquartett-nr-6-f-moll"
+        },
+        {
+          "workId": "barber-streichquartett-b-moll"
+        },
+        {
+          "workId": "beethoven-streichquartett-nr-15-a-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Rosamunde Quartett",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/lichtung",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2535886",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-04-bochum-verrueckte-wunderwelt",
+      "title": "Verrückte Wunderwelt",
+      "eventType": "concert",
+      "date": "2027-02-04",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anna-betzl-reitmeier"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/verrueckte-wunderwelt",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572453",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-05-bochum-verrueckte-wunderwelt",
+      "title": "Verrückte Wunderwelt",
+      "eventType": "concert",
+      "date": "2027-02-05",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anna-betzl-reitmeier"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/verrueckte-wunderwelt",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572464",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-06-bochum-jahreszeiten-perspektiven",
+      "title": "Jahreszeiten – Perspektiven",
+      "eventType": "concert",
+      "date": "2027-02-06",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "sergey-malov"
+      ],
+      "soloistPersonIds": [
+        "sergey-malov"
+      ],
+      "program": [
+        {
+          "workId": "vivaldi-ouvertuere-zu-dorilla-in-tempe-rv-709-fr"
+        },
+        {
+          "workId": "koutrumpis-lanterns-fuer-streicher"
+        },
+        {
+          "workId": "vivaldi-sommer-aus-vier-jahreszeiten"
+        },
+        {
+          "workId": "vivaldi-herbst-aus-vier-jahreszeiten"
+        },
+        {
+          "workId": "vivaldi-konzert-fuer-violoncello-streicher-und-b"
+        },
+        {
+          "workId": "zuraj-overhead-fuer-streicher"
+        },
+        {
+          "workId": "vivaldi-winter-aus-vier-jahreszeiten"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/jahreszeiten-perspektiven",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539615",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-11-bochum-von-woelfen-und-kueken",
+      "title": "Von Wölfen und Küken",
+      "eventType": "concert",
+      "date": "2027-02-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "prokofjew-peter-und-der-wolf"
+        },
+        {
+          "workId": "kancheli-another-step"
+        },
+        {
+          "workId": "mussorgski-bilder-einer-ausstellung-orchestrierung-"
+        },
+        {
+          "workId": "mussorgski-dieses-konzert-ist-teil-des-projektes-kl"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/von-woelfen-und-kueken",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2540360",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-12-bochum-von-woelfen-und-kueken",
+      "title": "Von Wölfen und Küken",
+      "eventType": "concert",
+      "date": "2027-02-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "prokofjew-peter-und-der-wolf"
+        },
+        {
+          "workId": "kancheli-another-step"
+        },
+        {
+          "workId": "mussorgski-bilder-einer-ausstellung-orchestrierung-"
+        },
+        {
+          "workId": "mussorgski-dieses-konzert-ist-teil-des-projektes-kl"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/von-woelfen-und-kueken",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2540363",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-17-bochum-kopfkinokonzert-magisch",
+      "title": "KopfKinoKonzert – Magisch",
+      "eventType": "concert",
+      "date": "2027-02-17",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "mateo-penaloza-cecconi"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "In dieser Konzertreihe mischen wir ganz bewusst und fast zu gleichen Teilen verschiedenste Filmmusiken und traditionelles Repertoire unseres Orchesters. Unsere These: Wer Filmmusik mag, wird automatisch auch »klassische Musik« mögen. · Dieses Konzert ist Teil des Projektes “Klasse!Konzert” .",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/kopfkinokonzert-magisch",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2554523",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-18-bochum-kopfkinokonzert-magisch",
+      "title": "KopfKinoKonzert – Magisch",
+      "eventType": "concert",
+      "date": "2027-02-18",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "mateo-penaloza-cecconi"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "In dieser Konzertreihe mischen wir ganz bewusst und fast zu gleichen Teilen verschiedenste Filmmusiken und traditionelles Repertoire unseres Orchesters. Unsere These: Wer Filmmusik mag, wird automatisch auch »klassische Musik« mögen. · Dieses Konzert ist Teil des Projektes “Klasse!Konzert” .",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/kopfkinokonzert-magisch",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2577159",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-21-bochum-hoch-hinauf",
+      "title": "Hoch hinauf",
+      "eventType": "concert",
+      "date": "2027-02-21",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "lea-ray"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Anna und Paul machen zum allerersten Mal eine Bergtour mit ihren Eltern. Was sie unterwegs dann alles erleben und ob sie es bis zum Gipfel schaffen, das erfahrt ihr im Konzert. · Ein spannendes Bergabenteuer mit Musik von Ákos Hoffmann nach Richard Strauss‘ Alpensymphonie und einem Text von Isabel Hindersin.",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/hoch-hinauf",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2554533",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-21-bochum-rendezvous-in-der-brasserie",
+      "title": "Rendezvous in der Brasserie",
+      "eventType": "concert",
+      "date": "2027-02-21",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "nika-melnikova",
+        "alexander-schuetz",
+        "marion-michel",
+        "julia-puls",
+        "raul-roque",
+        "rebecca-mertens"
+      ],
+      "program": [
+        {
+          "workId": "francaix-l-heure-du-berger-fuer-blaeserquintett-u"
+        },
+        {
+          "workId": "poulenc-sextett-fuer-blaeser-und-klavier"
+        },
+        {
+          "workId": "mozart-quintett-es-dur-fuer-oboe-klarinette-fag"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/rendezvous-in-der-brasserie",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2571211",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-22-bochum-hoch-hinauf-1",
+      "title": "Hoch hinauf -- Schulkonzert",
+      "eventType": "concert",
+      "date": "2027-02-22",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "lea-ray"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Anna und Paul machen zum allerersten Mal eine Bergtour mit ihren Eltern. Was sie unterwegs dann alles erleben und ob sie es bis zum Gipfel schaffen, das erfahrt ihr im Konzert. · Ein spannendes Bergabenteuer mit Musik von Ákos Hoffmann nach Richard Strauss‘ Alpensymphonie und einem Text von Isabel Hindersin.",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/hoch-hinauf-1",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-25-bochum-bochum-barock",
+      "title": "bochum barock",
+      "eventType": "concert",
+      "date": "2027-02-25",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "ursula-lee",
+        "eva-unterweger",
+        "steffen-schrank",
+        "thorsten-diekmann",
+        "alexander-puliaev"
+      ],
+      "program": [
+        {
+          "workId": "bach-goldberg-variationen-fassung-fuer-streic"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/bochum-barock",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2577196",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-27-bochum-von-der-renaissance-zur-amer",
+      "title": "Von der Renaissance zur amerikanischen Metropole – Musik im Wandel der Zeiten",
+      "eventType": "concert",
+      "date": "2027-02-27",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "klaus-schuhwerk"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dukas-fanfare-pour-preceder-la-peri"
+        },
+        {
+          "workId": "praetorius-taenze-aus-terpsichore"
+        },
+        {
+          "workId": "grieg-trauermarsch"
+        },
+        {
+          "workId": "cheetham-keystone-celebration"
+        },
+        {
+          "workId": "tomasi-fanfares-liturgiques"
+        },
+        {
+          "workId": "parker-a-londoner-in-new-york"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/von-der-renaissance-zur-amerikanischen-metropole-musik-im-wandel-der-zeiten",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2577213",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-28-bochum-sehnsuechte",
+      "title": "Sehnsüchte",
+      "eventType": "concert",
+      "date": "2027-02-28",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "esiona-stefani",
+        "jiwon-kim",
+        "aliaksandr-senazhenski",
+        "christof-kepser"
+      ],
+      "program": [
+        {
+          "workId": "schubert-streichquartett-nr-13-a-moll-d-804-rosam"
+        },
+        {
+          "workId": "schumann-streichquartett-nr-3-a-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Viktoria Quartett",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/sehnsuechte",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2535889",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-07-bochum-unsterbliches",
+      "title": "Unsterbliches",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "roland-kluttig"
+      ],
+      "soloistPersonIds": [
+        "kevin-chen"
+      ],
+      "program": [
+        {
+          "workId": "chopin-konzert-fuer-klavier-und-orchester-nr-1-"
+        },
+        {
+          "workId": "schumann-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/unsterbliches",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2533843",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-10-bochum-wiener-klassiker",
+      "title": "Wiener Klassiker",
+      "eventType": "concert",
+      "date": "2027-03-10",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "raphael-christ"
+      ],
+      "soloistPersonIds": [
+        "martin-helmchen"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-konzert-fuer-klavier-und-orchester-nr-2-"
+        },
+        {
+          "workId": "mozart-sinfonie-nr-35-d-dur-haffner"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/wiener-klassiker",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539659",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-14-bochum-schlagabtausch-taenze-fuer-h",
+      "title": "SchlagAbtausch - Tänze für Hämmer und Schlegel",
+      "eventType": "concert",
+      "date": "2027-03-14",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "postponed",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "guido-pauss",
+        "diego-aldonza-crespo"
+      ],
+      "program": [
+        {
+          "workId": "rachmaninow-suite-nr-2-fuer-zwei-klaviere"
+        },
+        {
+          "workId": "ravel-la-valse-fuer-klavier-zu-vier-haenden"
+        },
+        {
+          "workId": "koppel-toccata-fuer-vibraphone-und-marimba"
+        },
+        {
+          "workId": "bartok-sonate-fuer-zwei-klaviere-schlagzeug-und"
+        }
+      ],
+      "seriesId": null,
+      "description": "Dieses Konzert wird in die Saison 2027/28 verschoben!",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/schlagabtausch-taenze-fuer-haemmer-und-schlegel",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-20-bochum-im-licht-der-melancholie",
+      "title": "Im Licht der Melancholie",
+      "eventType": "concert",
+      "date": "2027-03-20",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [
+        "marlis-petersen"
+      ],
+      "program": [
+        {
+          "workId": "krenek-symphonische-elegie-in-memoriam-anton-we"
+        },
+        {
+          "workId": "mahler-rueckert-lieder"
+        },
+        {
+          "workId": "tower-fanfare-for-the-uncommon-woman-nr-2"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-2-d-dur"
+        },
+        {
+          "workId": "beethoven-dieses-konzert-ist-teil-des-projektes-ge"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/im-licht-der-melancholie",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539654",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-21-bochum-im-licht-der-melancholie",
+      "title": "Im Licht der Melancholie",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [
+        "marlis-petersen"
+      ],
+      "program": [
+        {
+          "workId": "krenek-symphonische-elegie-in-memoriam-anton-we"
+        },
+        {
+          "workId": "mahler-rueckert-lieder"
+        },
+        {
+          "workId": "tower-fanfare-for-the-uncommon-woman-nr-2"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-2-d-dur"
+        },
+        {
+          "workId": "beethoven-dieses-konzert-ist-teil-des-projektes-ge"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/im-licht-der-melancholie",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539655",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-28-bochum-vom-singen-der-saiten",
+      "title": "Vom Singen der Saiten",
+      "eventType": "concert",
+      "date": "2027-03-28",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "vlada-berezhnaya",
+        "yoana-ducros",
+        "cristina-ceja-anton",
+        "andrei-simion",
+        "mariko-sudo"
+      ],
+      "program": [
+        {
+          "workId": "schubert-streichtrio-b-dur-d-471"
+        },
+        {
+          "workId": "cras-streichtrio"
+        },
+        {
+          "workId": "dvorak-klavierquintett-nr-2-a-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/vom-singen-der-saiten",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2571217",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-08-bochum-verhaengnisvolle-anmut",
+      "title": "Verhängnisvolle Anmut",
+      "eventType": "concert",
+      "date": "2027-04-08",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "tung-chieh-chuang"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berlioz-scene-d-amour-aus-romeo-et-juliette"
+        },
+        {
+          "workId": "fujikura-konzert-fuer-saxophon-quartett-und-orche-2"
+        },
+        {
+          "workId": "prokofjew-suite-aus-romeo-und-julia-zusammenstellu"
+        },
+        {
+          "workId": "prokofjew-dieses-konzert-ist-teil-des-projektes-kl"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: sonic.art Saxophonquartett",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/verhaengnisvolle-anmut",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2540364",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-09-bochum-verhaengnisvolle-anmut",
+      "title": "Verhängnisvolle Anmut",
+      "eventType": "concert",
+      "date": "2027-04-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "tung-chieh-chuang"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berlioz-scene-d-amour-aus-romeo-et-juliette"
+        },
+        {
+          "workId": "fujikura-konzert-fuer-saxophon-quartett-und-orche-2"
+        },
+        {
+          "workId": "prokofjew-suite-aus-romeo-und-julia-zusammenstellu"
+        },
+        {
+          "workId": "prokofjew-dieses-konzert-ist-teil-des-projektes-kl"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: sonic.art Saxophonquartett",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/verhaengnisvolle-anmut",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2540367",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-16-bochum-traeumesanft",
+      "title": "träumesanft",
+      "eventType": "concert",
+      "date": "2027-04-16",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/traeumesanft",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572408",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-16-bochum-traeumesanft-1130",
+      "title": "träumesanft",
+      "eventType": "concert",
+      "date": "2027-04-16",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/traeumesanft",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572419",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-16-bochum-traeumesanft-1500",
+      "title": "träumesanft",
+      "eventType": "concert",
+      "date": "2027-04-16",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/traeumesanft",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572422",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-16-bochum-traeumesanft-1630",
+      "title": "träumesanft",
+      "eventType": "concert",
+      "date": "2027-04-16",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/traeumesanft",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572423",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-16-bochum-abschlusskonzert-dirigentena",
+      "title": "Abschlusskonzert Dirigierakademie",
+      "eventType": "concert",
+      "date": "2027-04-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/abschlusskonzert-dirigentenakademie",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2577625",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-18-bochum-fruehvollendet",
+      "title": "Frühvollendet",
+      "eventType": "concert",
+      "date": "2027-04-18",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anna-luisa-volkwein",
+        "hye-bin-kim",
+        "mario-anton-andreu",
+        "jorge-fores-blasco"
+      ],
+      "program": [
+        {
+          "workId": "arriaga-streichquartett-nr-3-es-dur"
+        },
+        {
+          "workId": "bartholdy-streichquartett-nr-6-f-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/fruehvollendet",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2535890",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-23-bochum-9-bochumer-singer-songwriter",
+      "title": "9. Bochumer Singer Songwriter Contest",
+      "eventType": "concert",
+      "date": "2027-04-23",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/9-bochumer-singer-songwriter-contest",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2577671",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-25-bochum-the-young-persons-guide-to-t",
+      "title": "The Young Person’s Guide to the Orchestra",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/the-young-persons-guide-to-the-orchestra",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2554538",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-25-bochum-glanzstuecke",
+      "title": "Glanzstücke",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "katrin-spodzieja",
+        "claudia-christ",
+        "almud-philippsen",
+        "janet-boram-lee",
+        "schaghajegh-nosrati"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-klaviertrio-b-dur-gassenhauer-trio"
+        },
+        {
+          "workId": "schumann-klavierquintett-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/glanzstuecke",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2571213",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-26-bochum-the-young-persons-guide-to-t",
+      "title": "The Young Person’s Guide to the Orchestra -- Schulkonzert",
+      "eventType": "concert",
+      "date": "2027-04-26",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/the-young-persons-guide-to-the-orchestra-1",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-01-bochum-lebenskreis",
+      "title": "Lebenskreis",
+      "eventType": "concert",
+      "date": "2027-05-01",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "mateo-penaloza-cecconi"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "haydn-die-jahreszeiten-hob-xxi-3"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Philharmonischer Chor, Bochum",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/lebenskreis",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2533624",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-09-bochum-quintessenz",
+      "title": "Quintessenz",
+      "eventType": "concert",
+      "date": "2027-05-09",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "vlad-stanculeasa",
+        "katrin-spodzieja",
+        "wolfgang-sellner"
+      ],
+      "program": [
+        {
+          "workId": "brahms-streichquintett-nr-1-f-dur"
+        },
+        {
+          "workId": "bruckner-streichquintett-f-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/quintessenz",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2571214",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-13-bochum-von-helden-und-unbeugsamen",
+      "title": "Von Helden und Unbeugsamen",
+      "eventType": "concert",
+      "date": "2027-05-13",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "strauss-kaiserwalzer"
+        },
+        {
+          "workId": "schulhoff-serenade"
+        },
+        {
+          "workId": "tower-fanfare-for-the-uncommon-woman-nr-3"
+        },
+        {
+          "workId": "beethoven-sinfonie-3-eroica"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/von-helden-und-unbeugsamen",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2540368",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-14-bochum-von-helden-und-unbeugsamen",
+      "title": "Von Helden und Unbeugsamen",
+      "eventType": "concert",
+      "date": "2027-05-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "strauss-kaiserwalzer"
+        },
+        {
+          "workId": "schulhoff-serenade"
+        },
+        {
+          "workId": "tower-fanfare-for-the-uncommon-woman-nr-3"
+        },
+        {
+          "workId": "beethoven-sinfonie-3-eroica"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/von-helden-und-unbeugsamen",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2540381",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-20-bochum-fjodor-frecher-kabeljau-1",
+      "title": "Fjodor, frecher Kabeljau -- Schulkonzert",
+      "eventType": "concert",
+      "date": "2027-05-20",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "felix-janosa",
+        "ursula-lee",
+        "louisa-spahn",
+        "janet-boram-lee"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: artTone Trio",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/fjodor-frecher-kabeljau-1",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-22-bochum-fjodor-frecher-kabeljau",
+      "title": "Fjodor, frecher Kabeljau",
+      "eventType": "concert",
+      "date": "2027-05-22",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "felix-janosa",
+        "ursula-lee",
+        "louisa-spahn",
+        "janet-boram-lee"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: artTone Trio",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/fjodor-frecher-kabeljau",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572436",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-22-bochum-fjodor-frecher-kabeljau-1400",
+      "title": "Fjodor, frecher Kabeljau",
+      "eventType": "concert",
+      "date": "2027-05-22",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "felix-janosa",
+        "ursula-lee",
+        "louisa-spahn",
+        "janet-boram-lee"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: artTone Trio",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/fjodor-frecher-kabeljau",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572448",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-22-bochum-mediterranea",
+      "title": "Mediterranea",
+      "eventType": "concert",
+      "date": "2027-05-22",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "enrico-onofri"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bach-sinfonie-nr-4-in-d-dur"
+        },
+        {
+          "workId": "brunetti-sinfonie-l-311-in-g-moll"
+        },
+        {
+          "workId": "jommelli-sinfonia-xiv-periodical-overture-in-es-d"
+        },
+        {
+          "workId": "sammartini-sinfonia-jc62-in-a-dur-fuer-streicher"
+        },
+        {
+          "workId": "boccherini-sinfonie-nr-26-g-519-in-c-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/mediterranea",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539620",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-30-bochum-im-glaesernen-labyrinth",
+      "title": "Im gläsernen Labyrinth",
+      "eventType": "concert",
+      "date": "2027-05-30",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "barbara-dragan"
+      ],
+      "soloistPersonIds": [
+        "josef-spacek"
+      ],
+      "program": [
+        {
+          "workId": "roussel-le-festin-de-l-araignee-fragments-sympho"
+        },
+        {
+          "workId": "martinů-konzert-fuer-violine-und-orchester-nr-1-"
+        },
+        {
+          "workId": "franck-sinfonie-d-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/im-glaesernen-labyrinth",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2533844",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-02-bochum-konfliktreich",
+      "title": "Konfliktreich",
+      "eventType": "concert",
+      "date": "2027-06-02",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "raphael-christ"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schubert-ouvertuere-c-dur-d-591-im-italienischen-"
+        },
+        {
+          "workId": "mozart-sinfonie-nr-25-g-moll"
+        },
+        {
+          "workId": "schubert-sinfonie-nr-4-c-moll-d-417"
+        },
+        {
+          "workId": "schubert-dieses-konzert-ist-teil-des-projektes-ge"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/konfliktreich",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539660",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-03-bochum-farben-und-formen-1",
+      "title": "Farbenmeer und Formensalat -- Kita-Konzert",
+      "eventType": "concert",
+      "date": "2027-06-03",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anna-betzl-reitmeier"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/farben-und-formen-1",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-03-bochum-farben-und-formen",
+      "title": "Farbenmeer und Formensalat",
+      "eventType": "concert",
+      "date": "2027-06-03",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anna-betzl-reitmeier"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/farben-und-formen",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572483",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-04-bochum-farben-und-formen",
+      "title": "Farbenmeer und Formensalat",
+      "eventType": "concert",
+      "date": "2027-06-04",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anna-betzl-reitmeier"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/farben-und-formen",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2572485",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-06-bochum-trash-recycled-1",
+      "title": "TRASH RECYCLED",
+      "eventType": "concert",
+      "date": "2027-06-06",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "aurel-dawidiuk"
+      ],
+      "soloistPersonIds": [
+        "jesper-mikkelsen",
+        "thomas-hamilton"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/trash-recycled-1",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2554540",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-12-bochum-zwischen-den-horizonten",
+      "title": "Zwischen den Horizonten",
+      "eventType": "concert",
+      "date": "2027-06-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "anu-tali"
+      ],
+      "soloistPersonIds": [
+        "antje-weithaas"
+      ],
+      "program": [
+        {
+          "workId": "tueuer-passion"
+        },
+        {
+          "workId": "sibelius-konzert-fuer-violine-und-orchester-d-mol"
+        },
+        {
+          "workId": "tueuer-action"
+        },
+        {
+          "workId": "grieg-peer-gynt-suiten-nr-1-2"
+        },
+        {
+          "workId": "grieg-dieses-konzert-ist-teil-des-projektes-kl"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/zwischen-den-horizonten",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539656",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-13-bochum-zwischen-den-horizonten",
+      "title": "Zwischen den Horizonten",
+      "eventType": "concert",
+      "date": "2027-06-13",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "anu-tali"
+      ],
+      "soloistPersonIds": [
+        "antje-weithaas"
+      ],
+      "program": [
+        {
+          "workId": "tueuer-passion"
+        },
+        {
+          "workId": "sibelius-konzert-fuer-violine-und-orchester-d-mol"
+        },
+        {
+          "workId": "tueuer-action"
+        },
+        {
+          "workId": "grieg-peer-gynt-suiten-nr-1-2"
+        },
+        {
+          "workId": "grieg-dieses-konzert-ist-teil-des-projektes-kl"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/zwischen-den-horizonten",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2539657",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-24-bochum-obsessionen",
+      "title": "Obsessionen",
+      "eventType": "concert",
+      "date": "2027-06-24",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "sylvain-cambreling"
+      ],
+      "soloistPersonIds": [
+        "jean-efflam-bavouzet"
+      ],
+      "program": [
+        {
+          "workId": "janacek-zarlivost"
+        },
+        {
+          "workId": "debussy-fantaisie-pour-piano-et-orchestre"
+        },
+        {
+          "workId": "schmitt-la-tragedie-de-salome"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/obsessionen",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2540382",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-25-bochum-obsessionen",
+      "title": "Obsessionen",
+      "eventType": "concert",
+      "date": "2027-06-25",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [
+        "sylvain-cambreling"
+      ],
+      "soloistPersonIds": [
+        "jean-efflam-bavouzet"
+      ],
+      "program": [
+        {
+          "workId": "janacek-zarlivost"
+        },
+        {
+          "workId": "debussy-fantaisie-pour-piano-et-orchestre"
+        },
+        {
+          "workId": "schmitt-la-tragedie-de-salome"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/obsessionen",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2540386",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-27-bochum-farbrausch",
+      "title": "Farbrausch",
+      "eventType": "concert",
+      "date": "2027-06-27",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "esiona-stefani",
+        "jiwon-kim",
+        "aliaksandr-senazhenski",
+        "christof-kepser"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-streichquartett-nr-10-es-dur"
+        },
+        {
+          "workId": "beethoven-harfenquartett"
+        },
+        {
+          "workId": "debussy-streichquartett-g-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Viktoria Quartett",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/farbrausch",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2535892",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-04-bochum-basso-profondo",
+      "title": "Basso Profondo",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "bochumer-symphoniker"
+      ],
+      "venueId": "zeughauskultur-bochum",
+      "cityId": "bochum",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "jordan-ofiesh",
+        "alexander-sprung",
+        "mario-anton-andreu",
+        "angela-chang",
+        "asako-tedoriya",
+        "julia-puls",
+        "ece-nur-oezer",
+        "raul-roque"
+      ],
+      "program": [
+        {
+          "workId": "dvorak-streichquintett-g-dur"
+        },
+        {
+          "workId": "schubert-oktett-f-dur-d803"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mitwirkende Ensembles: Aethon Quintett",
+      "source": {
+        "url": "https://www.bochumer-symphoniker.de/programm/detail/basso-profondo",
+        "name": "Bochumer Symphoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://bochumer-symphoniker.reservix.de/p/reservix/event/2571216",
+      "lastVerified": "2026-08-18"
     }
   ]
 }

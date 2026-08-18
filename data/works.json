@@ -3893,6 +3893,1878 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "hindemith-ragtime-wohltemperiert",
+      "composerId": "paul-hindemith",
+      "title": "Ragtime (wohltemperiert)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-konzert-fuer-klavier-und-orchester-nr-11",
+      "composerId": "joseph-haydn",
+      "title": "Konzert für Klavier und Orchester Nr. 11 D-Dur (Hob XVIII:11)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-fantasia-on-a-theme-by-thomas-tallis",
+      "composerId": "ralph-vaughan-williams",
+      "title": "Fantasia on a Theme by Thomas Tallis",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "britten-four-sea-interludes-aus-peter-grimes",
+      "composerId": "benjamin-britten",
+      "title": "Four Sea Interludes aus Peter Grimes",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "arutiunian-konzert-fuer-trompete-und-orchester-as-d",
+      "composerId": "alexander-arutiunian",
+      "title": "Konzert für Trompete und Orchester As-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ginastera-estancia",
+      "composerId": "alberto-ginastera",
+      "title": "Estancia",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "8"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hindemith-sonate-fuer-violine-und-klavier-es-dur",
+      "composerId": "paul-hindemith",
+      "title": "Sonate für Violine und Klavier Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "11 Nr. 1"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "janacek-sonate-fuer-violine-und-klavier",
+      "composerId": "leos-janacek",
+      "title": "Sonate für Violine und Klavier",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "elgar-sonate-fuer-violine-und-klavier",
+      "composerId": "edward-elgar",
+      "title": "Sonate für Violine und Klavier",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "82"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-siegfried-idyll-wwv-103",
+      "composerId": "richard-wagner",
+      "title": "Siegfried-Idyll WWV 103",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mahler-das-lied-von-der-erde",
+      "composerId": "gustav-mahler",
+      "title": "Das Lied von der Erde",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-sinfonie-nr-47-g-dur-hob-i-47",
+      "composerId": "joseph-haydn",
+      "title": "Symphonie Nr. 47 G-Dur Hob. I:47",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rossini-ouvertuere-zur-semiramide",
+      "composerId": "gioachino-rossini",
+      "title": "Ouvertüre zur Oper Semiramide",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-sinfonie-nr-56-c-dur-hob-i-56",
+      "composerId": "joseph-haydn",
+      "title": "Symphonie Nr. 56 C-Dur Hob. I:56",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-streichquartett-nr-8-c-moll",
+      "composerId": "dmitri-schostakowitsch",
+      "title": "Streichquartett Nr. 8 c-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "110"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-streichquartett-nr-2-e-moll",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Streichquartett Nr. 2 e-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "59"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haendel-triosonate-g-moll",
+      "composerId": "georg-friedrich-haendel",
+      "title": "Triosonate g-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "2 Nr. 7"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "moszkowski-suite-g-moll",
+      "composerId": "moritz-moszkowski",
+      "title": "Suite g-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "71"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-sechs-duos-fuer-zwei-violinen-und-klavie",
+      "composerId": "robert-schumann",
+      "title": "Sechs Duos für zwei Violinen und Klavier",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-fuenf-stuecke-fuer-zwei-violinen-und-kla",
+      "composerId": "dmitri-schostakowitsch",
+      "title": "Fünf Stücke für zwei Violinen und Klavier (Bearbeitung: Levon Atovmyan)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sarasate-navarra",
+      "composerId": "pablo-de-sarasate",
+      "title": "Navarra",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "33"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-gesang-der-geister-ueber-den-wassern-d-7",
+      "composerId": "franz-schubert",
+      "title": "Gesang der Geister über den Wassern D 714",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-messe-in-es-dur-d-950",
+      "composerId": "franz-schubert",
+      "title": "Messe in Es-Dur D 950",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "oratorio",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-nachtlied",
+      "composerId": "robert-schumann",
+      "title": "„Nachtlied“",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "108"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strawinsky-orchestersuite-aus-der-feuervogel-fassun",
+      "composerId": "igor-strawinsky",
+      "title": "Orchestersuite aus „Der Feuervogel“ (Fassung 1919)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "nicolai-ouvertuere-zu-die-lustigen-weiber-von-wi",
+      "composerId": "otto-nicolai",
+      "title": "Ouvertüre zu „Die Lustigen Weiber von Windsor“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-sinfonie-nr-4-d-moll-urfassung",
+      "composerId": "robert-schumann",
+      "title": "Symphonie Nr. 4 d-Moll (Urfassung)",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "120"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "martinů-streichtrio-nr-2-h-238",
+      "composerId": "bohuslav-martinů",
+      "title": "Streichtrio Nr. 2 H.238",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kuemper-streichtrio-ua-auftragswerk-der-bochumer",
+      "composerId": "jona-kuemper",
+      "title": "Streichtrio (UA) (Auftragswerk der Bochumer Symphoniker)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-serenade-d-dur",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Serenade D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "8"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-concerto-grosso-g-moll-rv-156",
+      "composerId": "antonio-vivaldi",
+      "title": "Concerto grosso g-Moll RV 156",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-sinfonia-zur-l-olimpiade-rv-725",
+      "composerId": "antonio-vivaldi",
+      "title": "Sinfonia zur Oper L‘Olimpiade RV 725",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-sonate-fuer-violine-und-b-c-la-follia-rv",
+      "composerId": "antonio-vivaldi",
+      "title": "Sonate für Violine und B.c. La Follia RV 63",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-sinfonie-in-h-moll-h661",
+      "composerId": "carl-philipp-emmanuel-bach",
+      "title": "Symphonie in h-Moll H661",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-vorspiel-zu-parsifal-wwv-111",
+      "composerId": "richard-wagner",
+      "title": "Vorspiel zu Parsifal WWV 111",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-sinfonie-nr-22-es-dur-hob-i-22-philosoph",
+      "composerId": "joseph-haydn",
+      "title": "Symphonie Nr. 22 Es-Dur Hob I:22 Philosoph",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-tod-und-verklaerung",
+      "composerId": "richard-strauss",
+      "title": "Tod und Verklärung",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "24"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-streichquartett-a-dur",
+      "composerId": "joseph-haydn",
+      "title": "Streichquartett A-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "20/6"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-streichquartett-g-dur",
+      "composerId": "antonin-dvorak",
+      "title": "Streichquartett G-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "106"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hindemith-symphonische-metamorphosen",
+      "composerId": "paul-hindemith",
+      "title": "Symphonische Metamorphosen",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "jue-konzert-fuer-violoncello-und-orchester-u",
+      "composerId": "wang-jue",
+      "title": "Konzert für Violoncello und Orchester UA",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tower-fanfare-for-the-uncommon-woman-nr-1",
+      "composerId": "joan-tower",
+      "title": "Fanfare for the uncommon woman Nr. 1",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-sinfonie-nr-1-c-dur",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Symphonie Nr. 1 C-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "21"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-das-weihnachtsoratorium-kantaten-1-2-3-4",
+      "composerId": "johann-sebastian-bach",
+      "title": "Das Weihnachtsoratorium (Kantaten 1, 2, 3 & 4)",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "248"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "oratorio",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "gulda-konzert-fuer-violoncello-und-blasorchest",
+      "composerId": "friedrich-gulda",
+      "title": "Konzert für Violoncello und Blasorchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-walzer-maersche-polkas",
+      "composerId": "johann-strauss",
+      "title": "Walzer, Märsche, Polkas",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-sinfonie-nr-5-d-moll",
+      "composerId": "dmitri-schostakowitsch",
+      "title": "Symphonie Nr. 5 d-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "47"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "weber-ouvertuere-zur-oberon",
+      "composerId": "carl-maria-von-weber",
+      "title": "Ouvertüre zur Oper Oberon",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "elgar-sinfonie-nr-2-es-dur",
+      "composerId": "edward-elgar",
+      "title": "Symphonie Nr. 2 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "63"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-streichquartett-nr-6-f-moll",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Streichquartett Nr. 6 f-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "80"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "barber-streichquartett-b-moll",
+      "composerId": "samuel-barber",
+      "title": "Streichquartett b-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "11"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-streichquartett-nr-15-a-moll",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Streichquartett Nr. 15 a-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "132"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "koutrumpis-lanterns-fuer-streicher",
+      "composerId": "konstantinos-koutrumpis",
+      "title": "Lanterns für Streicher",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-sommer-aus-vier-jahreszeiten",
+      "composerId": "antonio-vivaldi",
+      "title": "Sommer aus Vier Jahreszeiten",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-herbst-aus-vier-jahreszeiten",
+      "composerId": "antonio-vivaldi",
+      "title": "Herbst aus Vier Jahreszeiten",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-konzert-fuer-violoncello-streicher-und-b",
+      "composerId": "antonio-vivaldi",
+      "title": "Konzert für Violoncello, Streicher und B.C RV 419",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "zuraj-overhead-fuer-streicher",
+      "composerId": "vito-zuraj",
+      "title": "Overhead für Streicher",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-winter-aus-vier-jahreszeiten",
+      "composerId": "antonio-vivaldi",
+      "title": "Winter aus Vier Jahreszeiten",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kancheli-another-step",
+      "composerId": "giya-kancheli",
+      "title": "Another Step",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mussorgski-bilder-einer-ausstellung-orchestrierung-",
+      "composerId": "modest-mussorgski",
+      "title": "Bilder einer Ausstellung (Orchestrierung Maurice Ravel)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mussorgski-dieses-konzert-ist-teil-des-projektes-kl",
+      "composerId": "modest-mussorgski",
+      "title": "Dieses Konzert ist Teil des Projektes “Klasse!Konzert” .",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "francaix-l-heure-du-berger-fuer-blaeserquintett-u",
+      "composerId": "jean-francaix",
+      "title": "„L’Heure du Berger“ für Bläserquintett und Klavier",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "poulenc-sextett-fuer-blaeser-und-klavier",
+      "composerId": "francis-poulenc",
+      "title": "Sextett für Bläser und Klavier",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-quintett-es-dur-fuer-oboe-klarinette-fag",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Quintett Es-Dur für Oboe, Klarinette, Fagott, Horn und Klavier",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "452"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-goldberg-variationen-fassung-fuer-streic",
+      "composerId": "johann-sebastian-bach",
+      "title": "„Goldberg-Variationen“ (Fassung für Streichorchester)",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "988"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dukas-fanfare-pour-preceder-la-peri",
+      "composerId": "paul-dukas",
+      "title": "Fanfare pour précéder „La Péri“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "praetorius-taenze-aus-terpsichore",
+      "composerId": "michael-praetorius",
+      "title": "Tänze aus „Terpsichore“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "grieg-trauermarsch",
+      "composerId": "edvard-grieg",
+      "title": "Trauermarsch",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "cheetham-keystone-celebration",
+      "composerId": "john-cheetham",
+      "title": "Keystone Celebration",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tomasi-fanfares-liturgiques",
+      "composerId": "henri-tomasi",
+      "title": "Fanfares liturgiques.",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "parker-a-londoner-in-new-york",
+      "composerId": "jim-parker",
+      "title": "A Londoner in New York",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-streichquartett-nr-3-a-dur",
+      "composerId": "robert-schumann",
+      "title": "Streichquartett Nr. 3 A-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "41"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-suite-nr-2-fuer-zwei-klaviere",
+      "composerId": "sergej-rachmaninow",
+      "title": "Suite Nr. 2 für zwei Klaviere",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "17"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-la-valse-fuer-klavier-zu-vier-haenden",
+      "composerId": "maurice-ravel",
+      "title": "La Valse für Klavier zu vier Händen",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "koppel-toccata-fuer-vibraphone-und-marimba",
+      "composerId": "anders-koppel",
+      "title": "Toccata für Vibraphone und Marimba",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartok-sonate-fuer-zwei-klaviere-schlagzeug-und",
+      "composerId": "bela-bartok",
+      "title": "Sonate für zwei Klaviere, Schlagzeug und Pauke",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "krenek-symphonische-elegie-in-memoriam-anton-we",
+      "composerId": "ernst-krenek",
+      "title": "Symphonische Elegie (in Memoriam Anton Webern)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mahler-rueckert-lieder",
+      "composerId": "gustav-mahler",
+      "title": "Rückert-Lieder",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tower-fanfare-for-the-uncommon-woman-nr-2",
+      "composerId": "joan-tower",
+      "title": "Fanfare for the uncommon woman Nr. 2",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-sinfonie-nr-2-d-dur",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Symphonie Nr. 2 D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "36"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-dieses-konzert-ist-teil-des-projektes-ge",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Dieses Konzert ist Teil des Projektes “Gemeinsam ins Konzert” .",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-streichtrio-b-dur-d-471",
+      "composerId": "franz-schubert",
+      "title": "Streichtrio B-Dur D 471",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "cras-streichtrio",
+      "composerId": "jean-cras",
+      "title": "Streichtrio",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-klavierquintett-nr-2-a-dur",
+      "composerId": "antonin-dvorak",
+      "title": "Klavierquintett Nr. 2 A-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "81"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "berlioz-scene-d-amour-aus-romeo-et-juliette",
+      "composerId": "hector-berlioz",
+      "title": "Scène d’amour aus Roméo et Juliette",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "17"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prokofjew-dieses-konzert-ist-teil-des-projektes-kl",
+      "composerId": "sergej-prokofjew",
+      "title": "Dieses Konzert ist Teil des Projektes “Klasse!Konzert” und Teil der Projektes “Gemeinsam ins Konzert” .",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "arriaga-streichquartett-nr-3-es-dur",
+      "composerId": "juan-crisostomo-de-arriaga",
+      "title": "Streichquartett Nr. 3 Es-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-klaviertrio-b-dur-gassenhauer-trio",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Klaviertrio B-Dur „Gassenhauer-Trio“",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "11"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-klavierquintett-es-dur",
+      "composerId": "robert-schumann",
+      "title": "Klavierquintett Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "44"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-die-jahreszeiten-hob-xxi-3",
+      "composerId": "joseph-haydn",
+      "title": "Die Jahreszeiten Hob.XXI:3",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-streichquintett-nr-1-f-dur",
+      "composerId": "johannes-brahms",
+      "title": "Streichquintett Nr. 1 F-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "88"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruckner-streichquintett-f-dur",
+      "composerId": "anton-bruckner",
+      "title": "Streichquintett F-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-kaiserwalzer",
+      "composerId": "johann-strauss",
+      "title": "Kaiserwalzer",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "437"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schulhoff-serenade",
+      "composerId": "erwin-schulhoff",
+      "title": "Serenade",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tower-fanfare-for-the-uncommon-woman-nr-3",
+      "composerId": "joan-tower",
+      "title": "Fanfare for the uncommon woman Nr. 3",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-sinfonie-nr-4-in-d-dur",
+      "composerId": "johann-christian-bach",
+      "title": "Symphonie Nr. 4 in D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "18"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brunetti-sinfonie-l-311-in-g-moll",
+      "composerId": "gaetano-brunetti",
+      "title": "Symphonie L.311 in g-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "jommelli-sinfonia-xiv-periodical-overture-in-es-d",
+      "composerId": "niccolo-jommelli",
+      "title": "Sinfonia XIV (Periodical Overture) in Es-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sammartini-sinfonia-jc62-in-a-dur-fuer-streicher",
+      "composerId": "giovanni-battista-sammartini",
+      "title": "Sinfonia JC62 in A-Dur für Streicher",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "boccherini-sinfonie-nr-26-g-519-in-c-moll",
+      "composerId": "luigi-boccherini",
+      "title": "Symphonie Nr. 26 G 519 in c-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "roussel-le-festin-de-l-araignee-fragments-sympho",
+      "composerId": "albert-roussel",
+      "title": "Le Festin de l‘araignée (Fragments Symphonique)",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "17"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "martinů-konzert-fuer-violine-und-orchester-nr-1-",
+      "composerId": "bohuslav-martinů",
+      "title": "Konzert für Violine und Orchester Nr. 1 H 226",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "franck-sinfonie-d-moll",
+      "composerId": "cesar-franck",
+      "title": "Symphonie d-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sinfonie-nr-25-g-moll",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Symphonie Nr. 25 g-Moll",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "183"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-sinfonie-nr-4-c-moll-d-417",
+      "composerId": "franz-schubert",
+      "title": "Symphonie Nr. 4 c-Moll D 417",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-dieses-konzert-ist-teil-des-projektes-ge",
+      "composerId": "franz-schubert",
+      "title": "Dieses Konzert ist Teil des Projektes “Gemeinsam ins Konzert” .",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tueuer-passion",
+      "composerId": "erkki-sven-tueuer",
+      "title": "Passion",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "oratorio",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tueuer-action",
+      "composerId": "erkki-sven-tueuer",
+      "title": "Action",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "grieg-peer-gynt-suiten-nr-1-2",
+      "composerId": "edvard-grieg",
+      "title": "Peer Gynt: Suiten Nr. 1 & 2",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "grieg-dieses-konzert-ist-teil-des-projektes-kl",
+      "composerId": "edvard-grieg",
+      "title": "Dieses Konzert ist Teil des Projektes “Klasse!Konzert” .",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "janacek-zarlivost",
+      "composerId": "leos-janacek",
+      "title": "Žárlivost",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "debussy-fantaisie-pour-piano-et-orchestre",
+      "composerId": "claude-debussy",
+      "title": "Fantaisie pour piano et orchestre",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schmitt-la-tragedie-de-salome",
+      "composerId": "florent-schmitt",
+      "title": "La Tragédie de Salomé",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-streichquartett-nr-10-es-dur",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Streichquartett Nr. 10 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "74"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-harfenquartett",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Harfenquartett",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "debussy-streichquartett-g-moll",
+      "composerId": "claude-debussy",
+      "title": "Streichquartett g-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "10"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-streichquintett-g-dur",
+      "composerId": "antonin-dvorak",
+      "title": "Streichquintett G-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "77"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-oktett-f-dur-d803",
+      "composerId": "franz-schubert",
+      "title": "Oktett F-Dur D803",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "lessel-sinfonie-nr-5-g-moll-finale-molto-presto",
+      "composerId": "franciszek-lessel",
+      "title": "Symphonie Nr. 5 g-Moll Finale. Molto Presto",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-sinfonie-h-moll-d759-die-unvollendete",
+      "composerId": "franz-schubert",
+      "title": "Symphonie h-Moll D759 Die Unvollendete",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruckner-sinfonie-in-d-moll-nullte-wab-100",
+      "composerId": "anton-bruckner",
+      "title": "Symphonie in d-Moll Nullte WAB: 100",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-konzert-fuer-violine-streicher-und-b-c-a",
+      "composerId": "johann-sebastian-bach",
+      "title": "Konzert für Violine, Streicher und B.c. a-Moll",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "1041"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "locatelli-concerto-a-4-es-dur-il-pianto-d-arianna",
+      "composerId": "pietro-locatelli",
+      "title": "Concerto a 4 Es-Dur Il pianto d‘Arianna",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "7 Nr. 6"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-concerto-fuer-violine-streicher-und-b-c-",
+      "composerId": "antonio-vivaldi",
+      "title": "Concerto für Violine, Streicher und B.c. e-Moll RV 278",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sheriff-abschied-liederzyklus-fuer-sopran-und-or-2",
+      "composerId": "ella-milch-sheriff",
+      "title": "Abschied – Liederzyklus für Sopran und Orchester nach Gedichten von Else Lasker-Schüler",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prokofjew-konzert-fuer-klavier-und-orchester-nr-3-",
+      "composerId": "sergej-prokofjew",
+      "title": "Konzert für Klavier und Orchester Nr. 3 C-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "26"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "weber-konzert-fuer-klarinette-und-orchester-nr-2",
+      "composerId": "carl-maria-von-weber",
+      "title": "Konzert für Klarinette und Orchester Nr. 1 f-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "73"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-ouvertuere-zu-dorilla-in-tempe-rv-709-fr",
+      "composerId": "antonio-vivaldi",
+      "title": "Ouvertüre zu Dorilla in Tempe RV 709 Frühling aus Vier Jahreszeiten",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-streichquartett-nr-13-a-moll-d-804-rosam",
+      "composerId": "franz-schubert",
+      "title": "Streichquartett Nr. 13 a-Moll D 804 Rosamunde",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "29"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "chopin-konzert-fuer-klavier-und-orchester-nr-1-",
+      "composerId": "frederic-chopin",
+      "title": "Konzert für Klavier und Orchester Nr. 1 e-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "11"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-konzert-fuer-klavier-und-orchester-nr-2-",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Konzert für Klavier und Orchester Nr. 2 B-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "19"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sinfonie-nr-35-d-dur-haffner",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Symphonie Nr. 35 D-Dur Haffner",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "385"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "fujikura-konzert-fuer-saxophon-quartett-und-orche-2",
+      "composerId": "dai-fujikura",
+      "title": "Konzert für Saxophon-Quartett und Orchester UA Ein Auftragswerk der Bochumer Symphoniker",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prokofjew-suite-aus-romeo-und-julia-zusammenstellu",
+      "composerId": "sergej-prokofjew",
+      "title": "Suite aus Romeo und Julia Zusammenstellung Tung-Chieh Chuang",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "64"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-ouvertuere-c-dur-d-591-im-italienischen-",
+      "composerId": "franz-schubert",
+      "title": "Ouvertüre C-Dur D 591 Im italienischen Stil",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sibelius-konzert-fuer-violine-und-orchester-d-mol",
+      "composerId": "jean-sibelius",
+      "title": "Konzert für Violine und Orchester d-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "47"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

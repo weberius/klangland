@@ -837,6 +837,211 @@
         "from": 1981,
         "to": null
       }
+    },
+    {
+      "id": "alexander-arutiunian",
+      "name": "Alexander Arutiunian",
+      "life": null
+    },
+    {
+      "id": "leos-janacek",
+      "name": "Leoš Janáček",
+      "life": null
+    },
+    {
+      "id": "franciszek-lessel",
+      "name": "Franciszek Lessel",
+      "life": null
+    },
+    {
+      "id": "gioachino-rossini",
+      "name": "Gioachino Rossini",
+      "life": null
+    },
+    {
+      "id": "moritz-moszkowski",
+      "name": "Moritz Moszkowski",
+      "life": null
+    },
+    {
+      "id": "pablo-de-sarasate",
+      "name": "Pablo de Sarasate",
+      "life": null
+    },
+    {
+      "id": "otto-nicolai",
+      "name": "Otto Nicolai",
+      "life": null
+    },
+    {
+      "id": "bohuslav-martinů",
+      "name": "Bohuslav Martinů",
+      "life": null
+    },
+    {
+      "id": "jona-kuemper",
+      "name": "Jona Kümper",
+      "life": null
+    },
+    {
+      "id": "pietro-locatelli",
+      "name": "Pietro Locatelli",
+      "life": null
+    },
+    {
+      "id": "antonio-vivaldi",
+      "name": "Antonio Vivaldi",
+      "life": null
+    },
+    {
+      "id": "carl-philipp-emmanuel-bach",
+      "name": "Carl Philipp Emmanuel Bach",
+      "life": null
+    },
+    {
+      "id": "ella-milch-sheriff",
+      "name": "Ella Milch-Sheriff",
+      "life": null
+    },
+    {
+      "id": "wang-jue",
+      "name": "Wang Jue",
+      "life": null
+    },
+    {
+      "id": "joan-tower",
+      "name": "Joan Tower",
+      "life": null
+    },
+    {
+      "id": "friedrich-gulda",
+      "name": "Friedrich Gulda",
+      "life": null
+    },
+    {
+      "id": "johann-strauss",
+      "name": "Johann Strauss",
+      "life": null
+    },
+    {
+      "id": "samuel-barber",
+      "name": "Samuel Barber",
+      "life": null
+    },
+    {
+      "id": "konstantinos-koutrumpis",
+      "name": "Konstantinos Koutrumpis",
+      "life": null
+    },
+    {
+      "id": "vito-zuraj",
+      "name": "Vito Žuraj",
+      "life": null
+    },
+    {
+      "id": "giya-kancheli",
+      "name": "Giya Kancheli",
+      "life": null
+    },
+    {
+      "id": "modest-mussorgski",
+      "name": "Modest Mussorgski",
+      "life": null
+    },
+    {
+      "id": "jean-francaix",
+      "name": "Jean Françaix",
+      "life": null
+    },
+    {
+      "id": "paul-dukas",
+      "name": "Paul Dukas",
+      "life": null
+    },
+    {
+      "id": "michael-praetorius",
+      "name": "Michael Praetorius",
+      "life": null
+    },
+    {
+      "id": "john-cheetham",
+      "name": "John Cheetham",
+      "life": null
+    },
+    {
+      "id": "henri-tomasi",
+      "name": "Henri Tomasi",
+      "life": null
+    },
+    {
+      "id": "jim-parker",
+      "name": "Jim Parker",
+      "life": null
+    },
+    {
+      "id": "anders-koppel",
+      "name": "Anders Koppel",
+      "life": null
+    },
+    {
+      "id": "ernst-krenek",
+      "name": "Ernst Krenek",
+      "life": null
+    },
+    {
+      "id": "jean-cras",
+      "name": "Jean Cras",
+      "life": null
+    },
+    {
+      "id": "dai-fujikura",
+      "name": "Dai Fujikura",
+      "life": null
+    },
+    {
+      "id": "juan-crisostomo-de-arriaga",
+      "name": "Juan Crisóstomo de Arriaga",
+      "life": null
+    },
+    {
+      "id": "erwin-schulhoff",
+      "name": "Erwin Schulhoff",
+      "life": null
+    },
+    {
+      "id": "johann-christian-bach",
+      "name": "Johann Christian Bach",
+      "life": null
+    },
+    {
+      "id": "gaetano-brunetti",
+      "name": "Gaetano Brunetti",
+      "life": null
+    },
+    {
+      "id": "niccolo-jommelli",
+      "name": "Niccolò Jommelli",
+      "life": null
+    },
+    {
+      "id": "giovanni-battista-sammartini",
+      "name": "Giovanni Battista Sammartini",
+      "life": null
+    },
+    {
+      "id": "albert-roussel",
+      "name": "Albert Roussel",
+      "life": null
+    },
+    {
+      "id": "erkki-sven-tueuer",
+      "name": "Erkki-Sven Tüür",
+      "life": null
+    },
+    {
+      "id": "florent-schmitt",
+      "name": "Florent Schmitt",
+      "life": null
     }
   ]
 }
