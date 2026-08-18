@@ -1,10 +1,9 @@
 {
   "metadata": {
     "version": "1.1",
-    "lastUpdated": "2026-08-17",
+    "lastUpdated": "2026-08-18",
     "season": "2026/27",
-    "language": "de",
-    "notes": "Enthält recherchierte Konzerte des WDR Sinfonieorchesters (Kölner Philharmonie), der Bergischen Symphoniker (bergischesymphoniker.de) und des Gürzenich-Orchesters Köln (guerzenich-orchester.de), Spielzeit 2026/27, sowie einige frühere Beispieldatensätze (Quellen mit example.org)."
+    "language": "de"
   },
   "events": [
     {
@@ -7178,6 +7177,1175 @@
       },
       "ticketUrl": "https://shop.guerzenich-orchester.de/webshop/webticket/shop?event=26329&language=de",
       "lastVerified": "2026-08-17"
+    },
+    {
+      "id": "event-2026-09-17-essen-bruckner-3",
+      "title": "Bruckner 3",
+      "eventType": "concert",
+      "date": "2026-09-17",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [
+        {
+          "workId": "work-bruckner-symphony-3",
+          "notes": ""
+        },
+        {
+          "workId": "work-wagner-rienzi-overture",
+          "notes": ""
+        }
+      ],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/bruckner-3-153256/",
+        "fetched": "2026-08-18T05:52:21.426163"
+      },
+      "conductorPersonIds": [
+        "person-bertrand-de-billy"
+      ]
+    },
+    {
+      "id": "event-2026-09-18-essen-bruckner-3",
+      "title": "Bruckner 3",
+      "eventType": "concert",
+      "date": "2026-09-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [
+        {
+          "workId": "work-bruckner-symphony-3",
+          "notes": ""
+        },
+        {
+          "workId": "work-wagner-rienzi-overture",
+          "notes": ""
+        }
+      ],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/bruckner-3-153256/",
+        "fetched": "2026-08-18T05:52:21.426469"
+      },
+      "conductorPersonIds": [
+        "person-bertrand-de-billy"
+      ]
+    },
+    {
+      "id": "event-2026-09-23-essen-konzert-für-menschen",
+      "title": "Konzert für Menschen mit Behinderung",
+      "eventType": "concert",
+      "date": "2026-09-23",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/konzert-fuer-menschen-mit-behinderung-164739/",
+        "fetched": "2026-08-18T05:52:21.426506"
+      },
+      "conductorPersonIds": [
+        "person-tommaso-turchetta"
+      ]
+    },
+    {
+      "id": "event-2026-09-27-essen-mit-götz-alsmann-ins",
+      "title": "Mit Götz Alsmann ins Konzert",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/mit-goetz-alsmann-ins-konzert-164748/",
+        "fetched": "2026-08-18T05:52:21.426535"
+      },
+      "conductorPersonIds": [
+        "person-tommaso-turchetta"
+      ],
+      "soloistPersonIds": [
+        "person-goetz-alsmann"
+      ]
+    },
+    {
+      "id": "event-2026-10-11-essen-sonnenquartette",
+      "title": "Sonnenquartette",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sonnenquartette-163784/",
+        "fetched": "2026-08-18T05:52:21.426566"
+      },
+      "soloistPersonIds": [
+        "person-sarah-koenen",
+        "person-sebastian-b",
+        "person-miriam-klaeger"
+      ]
+    },
+    {
+      "id": "event-2026-10-12-essen-klang-geschichten",
+      "title": "Klang-Geschichten",
+      "eventType": "concert",
+      "date": "2026-10-12",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/klang-geschichten-168355/",
+        "fetched": "2026-08-18T05:52:21.426598"
+      },
+      "soloistPersonIds": [
+        "person-eduardo-rodriguez-romanos",
+        "person-anja-renczikowski"
+      ]
+    },
+    {
+      "id": "event-2026-10-15-essen-eroica",
+      "title": "Eroica",
+      "eventType": "concert",
+      "date": "2026-10-15",
+      "startTime": "21:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/eroica-153285/",
+        "fetched": "2026-08-18T05:52:21.426624"
+      },
+      "conductorPersonIds": [
+        "person-andrea-sanguineti"
+      ],
+      "soloistPersonIds": [
+        "person-liza-ferschtman",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2026-10-16-essen-eroica",
+      "title": "Eroica",
+      "eventType": "concert",
+      "date": "2026-10-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/eroica-153285/",
+        "fetched": "2026-08-18T05:52:21.426651"
+      },
+      "conductorPersonIds": [
+        "person-andrea-sanguineti"
+      ],
+      "soloistPersonIds": [
+        "person-liza-ferschtman",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2026-10-19-essen-klassiklounge",
+      "title": "KlassikLounge",
+      "eventType": "concert",
+      "date": "2026-10-19",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/klassiklounge-168024/",
+        "fetched": "2026-08-18T05:52:21.426678"
+      },
+      "soloistPersonIds": [
+        "person-andreas-gosling",
+        "person-julien-flor",
+        "person-joachim-graf"
+      ]
+    },
+    {
+      "id": "event-2026-11-07-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-11-07",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "fetched": "2026-08-18T05:52:21.426706"
+      },
+      "conductorPersonIds": [
+        "person-musikalische"
+      ],
+      "soloistPersonIds": [
+        "person-youri-vamos",
+        "person-martin-cerny",
+        "person-marian-thienel",
+        "person-joyce-couco",
+        "person-savina-kationi"
+      ]
+    },
+    {
+      "id": "event-2026-11-15-essen-le-groupe-des-six-et",
+      "title": "Le groupe des Six et amis",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/le-groupe-des-six-et-amis-163144/",
+        "fetched": "2026-08-18T05:52:21.426765"
+      },
+      "soloistPersonIds": [
+        "person-andreas-gosling",
+        "person-julien-flor",
+        "person-joachim-graf"
+      ]
+    },
+    {
+      "id": "event-2026-11-26-essen-dvorák-7",
+      "title": "Dvorák 7",
+      "eventType": "concert",
+      "date": "2026-11-26",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/dvorak-7-153316/",
+        "fetched": "2026-08-18T05:52:21.426792"
+      },
+      "conductorPersonIds": [
+        "person-daniel-cohen"
+      ],
+      "soloistPersonIds": [
+        "person-julien-flor",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2026-11-27-essen-dvorák-7",
+      "title": "Dvorák 7",
+      "eventType": "concert",
+      "date": "2026-11-27",
+      "startTime": "20:04",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/dvorak-7-153316/",
+        "fetched": "2026-08-18T05:52:21.426818"
+      },
+      "conductorPersonIds": [
+        "person-daniel-cohen"
+      ],
+      "soloistPersonIds": [
+        "person-julien-flor",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2026-12-13-essen-barocke-weihnachten",
+      "title": "Barocke Weihnachten",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/barocke-weihnachten-163810/",
+        "fetched": "2026-08-18T05:52:21.426841"
+      },
+      "soloistPersonIds": [
+        "person-ava-polheim",
+        "person-tobias-nayda",
+        "person-judith-nayda",
+        "person-santiago-cavanagh",
+        "person-patrick-jaskolka"
+      ]
+    },
+    {
+      "id": "event-2026-12-14-essen-klassiklounge",
+      "title": "KlassikLounge",
+      "eventType": "concert",
+      "date": "2026-12-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/klassiklounge-168025/",
+        "fetched": "2026-08-18T05:52:21.426885"
+      },
+      "soloistPersonIds": [
+        "person-clemens-ratajczak",
+        "person-eduardo-rodriguez-romanos",
+        "person-christopher-bruckman"
+      ]
+    },
+    {
+      "id": "event-2026-12-17-essen-weihnachts­oratorium",
+      "title": "Weihnachts­oratorium",
+      "eventType": "concert",
+      "date": "2026-12-17",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/weihnachtsoratorium-153345/",
+        "fetched": "2026-08-18T05:52:21.426911"
+      },
+      "conductorPersonIds": [
+        "person-riccardo-minasi"
+      ],
+      "soloistPersonIds": [
+        "person-aljoscha-lennert",
+        "person-natalia-labourdette",
+        "person-liliana-de-sousa",
+        "person-mykhailo-kushlyk",
+        "person-baurzhan-anderzhanov",
+        "person-philharmonischer-chor-essen",
+        "person-patrick-jaskolka",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2026-12-18-essen-weihnachts­oratorium",
+      "title": "Weihnachts­oratorium",
+      "eventType": "concert",
+      "date": "2026-12-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/weihnachtsoratorium-153345/",
+        "fetched": "2026-08-18T05:52:21.426961"
+      },
+      "conductorPersonIds": [
+        "person-riccardo-minasi"
+      ],
+      "soloistPersonIds": [
+        "person-aljoscha-lennert",
+        "person-natalia-labourdette",
+        "person-liliana-de-sousa",
+        "person-mykhailo-kushlyk",
+        "person-baurzhan-anderzhanov",
+        "person-philharmonischer-chor-essen",
+        "person-patrick-jaskolka",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-01-01-essen-neujahrskonzert-der-",
+      "title": "Neujahrskonzert der Essener Philharmoniker",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/neujahrskonzert-der-essener-philharmoniker-153655/",
+        "fetched": "2026-08-18T05:52:21.427015"
+      },
+      "conductorPersonIds": [
+        "person-andrea-sanguineti"
+      ],
+      "soloistPersonIds": [
+        "person-idil-kutay",
+        "person-bettina-ranch",
+        "person-tilmann-unger",
+        "person-andrei-nicoara",
+        "person-opernchor-des-aalto-theaters",
+        "person-patrick-jaskolka",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-01-14-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-01-14",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "fetched": "2026-08-18T05:52:21.427063"
+      },
+      "conductorPersonIds": [
+        "person-musikalische"
+      ],
+      "soloistPersonIds": [
+        "person-sena-shirae",
+        "person-compagnie-des-aalto-ballett-essen",
+        "person-armen-hakobyan",
+        "person-ramon-ivars",
+        "person-armen-hakobyan",
+        "person-roger-orra",
+        "person-laura-bruckner"
+      ]
+    },
+    {
+      "id": "event-2027-01-17-essen-bartók-&-brahms",
+      "title": "Bartók & Brahms",
+      "eventType": "concert",
+      "date": "2027-01-17",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/bartok--brahms-163782/",
+        "fetched": "2026-08-18T05:52:21.427117"
+      },
+      "soloistPersonIds": [
+        "person-sebastian-gaesslein",
+        "person-kevin-treiber",
+        "person-florian-hoheisel"
+      ]
+    },
+    {
+      "id": "event-2027-01-21-essen-meeresrauschen",
+      "title": "Meeresrauschen",
+      "eventType": "concert",
+      "date": "2027-01-21",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/meeresrauschen-153638/",
+        "fetched": "2026-08-18T05:52:21.427147"
+      },
+      "conductorPersonIds": [
+        "person-patrick-lange"
+      ],
+      "soloistPersonIds": [
+        "person-bettina-ranch",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-01-22-essen-meeresrauschen",
+      "title": "Meeresrauschen",
+      "eventType": "concert",
+      "date": "2027-01-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/meeresrauschen-153638/",
+        "fetched": "2026-08-18T05:52:21.427171"
+      },
+      "conductorPersonIds": [
+        "person-patrick-lange"
+      ],
+      "soloistPersonIds": [
+        "person-bettina-ranch",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-02-11-essen-beethoven-7",
+      "title": "Beethoven 7",
+      "eventType": "concert",
+      "date": "2027-02-11",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/beethoven-7-153377/",
+        "fetched": "2026-08-18T05:52:21.427195"
+      },
+      "conductorPersonIds": [
+        "person-marc-albrecht"
+      ],
+      "soloistPersonIds": [
+        "person-alexander-gadjiev",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-02-12-essen-beethoven-7",
+      "title": "Beethoven 7",
+      "eventType": "concert",
+      "date": "2027-02-12",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/beethoven-7-153377/",
+        "fetched": "2026-08-18T05:52:21.427219"
+      },
+      "conductorPersonIds": [
+        "person-marc-albrecht"
+      ],
+      "soloistPersonIds": [
+        "person-alexander-gadjiev",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-02-21-essen-gesang-der-vögel",
+      "title": "Gesang der Vögel",
+      "eventType": "concert",
+      "date": "2027-02-21",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/gesang-der-voegel-163811/",
+        "fetched": "2026-08-18T05:52:21.427244"
+      },
+      "soloistPersonIds": [
+        "person-liliana-de-sousa",
+        "person-olivier-girardin",
+        "person-karla-m",
+        "person-harald-hendrichs",
+        "person-tristan-von-den-driesch",
+        "person-klaus-goessmann",
+        "person-clemens-ratajczak",
+        "person-juliane-lopper",
+        "person-maximilian-weller",
+        "person-stefan-kellner"
+      ]
+    },
+    {
+      "id": "event-2027-04-08-essen-schumann-cellokonzer",
+      "title": "Schumann Cellokonzert",
+      "eventType": "concert",
+      "date": "2027-04-08",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schumann-cellokonzert-153435/",
+        "fetched": "2026-08-18T05:52:21.427299"
+      },
+      "conductorPersonIds": [
+        "person-andrea-sanguineti"
+      ],
+      "soloistPersonIds": [
+        "person-anastasia-kobekina",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-04-09-essen-schumann-cellokonzer",
+      "title": "Schumann Cellokonzert",
+      "eventType": "concert",
+      "date": "2027-04-09",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schumann-cellokonzert-153435/",
+        "fetched": "2026-08-18T05:52:21.427324"
+      },
+      "conductorPersonIds": [
+        "person-andrea-sanguineti"
+      ],
+      "soloistPersonIds": [
+        "person-anastasia-kobekina",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-04-11-essen-kammerkonzert-der-or",
+      "title": "Kammerkonzert der Orchesterakademie",
+      "eventType": "concert",
+      "date": "2027-04-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/kammerkonzert-der-orchesterakademie-165758/",
+        "fetched": "2026-08-18T05:52:21.427349"
+      }
+    },
+    {
+      "id": "event-2027-04-16-essen-götterfunken-i",
+      "title": "Götterfunken I",
+      "eventType": "concert",
+      "date": "2027-04-16",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/goetterfunken-i-163778/",
+        "fetched": "2026-08-18T05:52:21.427365"
+      },
+      "conductorPersonIds": [
+        "person-lea-katharina-fischer"
+      ]
+    },
+    {
+      "id": "event-2027-04-17-essen-götterfunken-ii",
+      "title": "Götterfunken II",
+      "eventType": "concert",
+      "date": "2027-04-17",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/goetterfunken-ii-163780/",
+        "fetched": "2026-08-18T05:52:21.427385"
+      },
+      "conductorPersonIds": [
+        "person-lea-katharina-fischer"
+      ]
+    },
+    {
+      "id": "event-2027-04-25-essen-serenaden",
+      "title": "Serenaden",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/serenaden-163812/",
+        "fetched": "2026-08-18T05:52:21.427406"
+      },
+      "soloistPersonIds": [
+        "person-julien-flor",
+        "person-federico-aluffi",
+        "person-marcin-sikorski",
+        "person-markus-mayr",
+        "person-clemens-ratajczak",
+        "person-jannis-hoesch",
+        "person-florian-hoheisel",
+        "person-eduardo-rodriguez-romanos",
+        "person-atsuko-ota"
+      ]
+    },
+    {
+      "id": "event-2027-04-29-essen-elias",
+      "title": "Elias",
+      "eventType": "concert",
+      "date": "2027-04-29",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/elias-153464/",
+        "fetched": "2026-08-18T05:52:21.427452"
+      },
+      "conductorPersonIds": [
+        "person-constantin-trinks"
+      ],
+      "soloistPersonIds": [
+        "person-derek-welton",
+        "person-idil-kutay",
+        "person-bettina-ranch",
+        "person-david-fischer",
+        "person-philharmonischer-chor-essen",
+        "person-patrick-jaskolka"
+      ]
+    },
+    {
+      "id": "event-2027-04-30-essen-elias",
+      "title": "Elias",
+      "eventType": "concert",
+      "date": "2027-04-30",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/elias-153464/",
+        "fetched": "2026-08-18T05:52:21.427490"
+      },
+      "conductorPersonIds": [
+        "person-constantin-trinks"
+      ],
+      "soloistPersonIds": [
+        "person-derek-welton",
+        "person-idil-kutay",
+        "person-bettina-ranch",
+        "person-david-fischer",
+        "person-philharmonischer-chor-essen",
+        "person-patrick-jaskolka"
+      ]
+    },
+    {
+      "id": "event-2027-05-21-essen-schwanen­see",
+      "title": "Schwanen­see",
+      "eventType": "concert",
+      "date": "2027-05-21",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schwanensee/",
+        "fetched": "2026-08-18T05:52:21.427529"
+      }
+    },
+    {
+      "id": "event-2027-05-27-essen-sacre",
+      "title": "Sacre",
+      "eventType": "concert",
+      "date": "2027-05-27",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sacre-153493/",
+        "fetched": "2026-08-18T05:52:21.427541"
+      },
+      "conductorPersonIds": [
+        "person-andrea-sanguineti"
+      ],
+      "soloistPersonIds": [
+        "person-rudolf-buchbinder",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-05-28-essen-sacre",
+      "title": "Sacre",
+      "eventType": "concert",
+      "date": "2027-05-28",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sacre-153493/",
+        "fetched": "2026-08-18T05:52:21.427571"
+      },
+      "conductorPersonIds": [
+        "person-andrea-sanguineti"
+      ],
+      "soloistPersonIds": [
+        "person-rudolf-buchbinder",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-05-30-essen-mit-götz-alsmann-ins",
+      "title": "Mit Götz Alsmann ins Konzert",
+      "eventType": "concert",
+      "date": "2027-05-30",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/mit-goetz-alsmann-ins-konzert-164749/",
+        "fetched": "2026-08-18T05:52:21.427597"
+      },
+      "conductorPersonIds": [
+        "person-tommaso-turchetta"
+      ],
+      "soloistPersonIds": [
+        "person-goetz-alsmann"
+      ]
+    },
+    {
+      "id": "event-2027-06-06-essen-aquarelles",
+      "title": "Aquarelles",
+      "eventType": "concert",
+      "date": "2027-06-06",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/aquarelles-163813/",
+        "fetched": "2026-08-18T05:52:21.427621"
+      },
+      "soloistPersonIds": [
+        "person-olivier-girardin",
+        "person-tristan-von-den-driesch",
+        "person-clemens-ratajczak",
+        "person-sampo-korkeala",
+        "person-boris-gurevich"
+      ]
+    },
+    {
+      "id": "event-2027-06-07-essen-klassiklounge",
+      "title": "KlassikLounge",
+      "eventType": "concert",
+      "date": "2027-06-07",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/klassiklounge-168027/",
+        "fetched": "2026-08-18T05:52:21.427654"
+      },
+      "soloistPersonIds": [
+        "person-sebastian-gaesslein",
+        "person-kevin-treiber",
+        "person-florian-hoheisel"
+      ]
+    },
+    {
+      "id": "event-2027-06-24-essen-dichtungen-aus-musik",
+      "title": "Dichtungen aus Musik",
+      "eventType": "concert",
+      "date": "2027-06-24",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/dichtungen-aus-musik-153522/",
+        "fetched": "2026-08-18T05:52:21.427685"
+      },
+      "conductorPersonIds": [
+        "person-andrea-sanguineti"
+      ]
+    },
+    {
+      "id": "event-2027-06-25-essen-dichtungen-aus-musik",
+      "title": "Dichtungen aus Musik",
+      "eventType": "concert",
+      "date": "2027-06-25",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/dichtungen-aus-musik-153522/",
+        "fetched": "2026-08-18T05:52:21.427705"
+      },
+      "conductorPersonIds": [
+        "person-andrea-sanguineti"
+      ]
+    },
+    {
+      "id": "event-2027-07-04-essen-zypressen",
+      "title": "Zypressen",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/zypressen-163149/",
+        "fetched": "2026-08-18T05:52:21.427725"
+      },
+      "soloistPersonIds": [
+        "person-ilka-wagner",
+        "person-mira-nauer",
+        "person-ruth-herrmann",
+        "person-almuth-hett"
+      ]
+    },
+    {
+      "id": "event-2027-07-10-essen-open-air-im-grugapar",
+      "title": "Open Air im Grugapark",
+      "eventType": "concert",
+      "date": "2027-07-10",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/open-air-im-grugapark-167171/",
+        "fetched": "2026-08-18T05:52:21.427756"
+      },
+      "conductorPersonIds": [
+        "person-wolfram-maria-maertig"
+      ],
+      "soloistPersonIds": [
+        "person-thorsten-stepath"
+      ]
+    },
+    {
+      "id": "event-2027-07-15-essen-sommertanz",
+      "title": "Sommertanz",
+      "eventType": "concert",
+      "date": "2027-07-15",
+      "startTime": "21:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sommertanz-153580/",
+        "fetched": "2026-08-18T05:52:21.427781"
+      },
+      "conductorPersonIds": [
+        "person-martijn-dendievel"
+      ],
+      "soloistPersonIds": [
+        "person-eduardo-rodriguez-romanos",
+        "person-essener-philharmoniker"
+      ]
+    },
+    {
+      "id": "event-2027-07-16-essen-sommertanz",
+      "title": "Sommertanz",
+      "eventType": "concert",
+      "date": "2027-07-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "city-essen",
+      "program": [],
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sommertanz-153580/",
+        "fetched": "2026-08-18T05:52:21.427808"
+      },
+      "conductorPersonIds": [
+        "person-martijn-dendievel"
+      ],
+      "soloistPersonIds": [
+        "person-eduardo-rodriguez-romanos",
+        "person-essener-philharmoniker"
+      ]
     }
   ]
 }

@@ -13,6 +13,7 @@ Quelle (erkannt am Quell-Host) und legen Stammdaten anhand ihrer IDs dublettenfr
 | Ensemble | Quelle | Skript | Doku |
 | --- | --- | --- | --- |
 | Bergische Symphoniker | `bergischesymphoniker.de/api/concerts` | [`ingest_bergische.py`](ingest_bergische.py) | [bergische-symphoniker.md](bergische-symphoniker.md) |
+| Essener Philharmoniker | `theater-essen.de/programm/spielzeit-26-27` (HTML) | [`ingest_essener.py`](ingest_essener.py) | [essener-philharmoniker.md](essener-philharmoniker.md) |
 | Gürzenich-Orchester Köln | `guerzenich-orchester.de` (Sitemap + Detailseiten) | [`ingest_guerzenich.py`](ingest_guerzenich.py) | [guerzenich-orchester-koeln.md](guerzenich-orchester-koeln.md) |
 
 ## Konventionen

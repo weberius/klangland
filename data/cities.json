@@ -110,6 +110,11 @@
       "id": "coesfeld",
       "name": "Coesfeld",
       "country": "Deutschland"
+    },
+    {
+      "id": "city-essen",
+      "name": "Essen",
+      "country": "Deutschland"
     }
   ]
 }
