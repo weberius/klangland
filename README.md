@@ -150,6 +150,51 @@ cd web && npm install && npm start   # Dev-Server auf http://localhost:4200
 
 Das JSON-Schema und ein gebündeltes Python-Datenpflegewerkzeug sind als nächste Umsetzungsschritte vorgesehen.
 
+## Deployment (GitHub Pages)
+
+Die Webapp wird über **GitHub Actions** automatisch auf **GitHub Pages** veröffentlicht.
+Der Workflow [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) baut
+und deployt bei jedem Push auf `main` (oder manuell über „Run workflow"). Zielseite:
+
+```text
+https://weberius.github.io/klangland/
+```
+
+### Einmalige Einrichtung
+
+In den Repo-Einstellungen unter **Settings → Pages → Build and deployment** als
+**Source „GitHub Actions"** auswählen. Ohne diese Einstellung schlägt der Deploy-Schritt fehl.
+
+### Ablauf des Workflows
+
+1. **Checkout** und Node.js 22 mit npm-Cache (`web/package-lock.json`).
+2. `npm ci` im Verzeichnis `web/`.
+3. **Build:** `npm run build -- --configuration production --base-href /klangland/`.
+   - `npm run build` löst den `prebuild`-Hook (`tools/sync-data.mjs`) aus, der die JSON-Daten
+     aus [`data/`](data/) nach `web/public/data` kopiert. Ein direktes `ng build` würde diesen
+     Schritt überspringen und die App ohne Daten ausliefern.
+   - `--base-href /klangland/` passt die Pfade an das Pages-Unterverzeichnis an (Repo-Name).
+4. **SPA-Fallback:** `index.html` wird als `404.html` kopiert, damit Deep-Links (z. B.
+   `…/klangland/events/<id>`) auch beim direkten Aufruf/Neuladen funktionieren.
+5. **Upload & Deploy** des Verzeichnisses `web/dist/klangland/browser` über
+   `actions/upload-pages-artifact` und `actions/deploy-pages`.
+
+### Manuelles Bauen (lokal, optional)
+
+```bash
+cd web
+npm ci
+npm run build -- --base-href /klangland/     # Ausgabe: web/dist/klangland/browser
+```
+
+Das Ergebnis ist rein statisch und lässt sich alternativ auf jedem statischen Host
+(Netlify, Vercel, Cloudflare Pages) veröffentlichen. Bei Deployment im Web-Root oder unter
+einer eigenen Domain den `--base-href` entsprechend anpassen (z. B. `/`).
+
+> Hinweis: Für den Produktivbetrieb sollte in [`web/src/app/core/app-config.ts`](web/src/app/core/app-config.ts)
+> das Demo-`referenceDate` auf `null` gesetzt werden, damit der tatsächliche aktuelle Monat
+> als Startansicht erscheint.
+
 ## Anforderungen aus dem MVP
 
 Das MVP soll:
