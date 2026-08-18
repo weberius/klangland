@@ -784,6 +784,110 @@
       "website": null,
       "type": "theatre",
       "institutionId": null
+    },
+    {
+      "id": "mercatorhalle-duisburg",
+      "name": "Philharmonie Mercatorhalle Duisburg",
+      "cityIds": [
+        "duisburg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "kueppersmuehle-duisburg",
+      "name": "Museum Küppersmühle Duisburg",
+      "cityIds": [
+        "duisburg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "landschaftspark-duisburg-nord",
+      "name": "Landschaftspark Duisburg-Nord",
+      "cityIds": [
+        "duisburg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "naturwerkstatt-wambachsee-duisburg",
+      "name": "Naturwerkstatt am Forsthaus Wambachsee (Duisburg)",
+      "cityIds": [
+        "duisburg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "kulturkirche-liebfrauen-duisburg-mitte",
+      "name": "Kulturkirche Liebfrauen Duisburg-Mitte",
+      "cityIds": [
+        "duisburg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "marienkirche-duisburg",
+      "name": "Marienkirche Duisburg",
+      "cityIds": [
+        "duisburg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "salvatorkirche-duisburg",
+      "name": "Salvatorkirche Duisburg",
+      "cityIds": [
+        "duisburg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "st-maximilian-in-duisburg-ruhrort",
+      "name": "St. Maximilian in Duisburg-Ruhrort",
+      "cityIds": [
+        "duisburg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
     }
   ]
 }

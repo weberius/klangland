@@ -20232,6 +20232,2272 @@
       },
       "ticketUrl": "https://theater-bielefeld.eventim-inhouse.de/webshop/webticket/shop?event=12487",
       "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-12-duisburg-1-serenadenkonzert-serenaden01-2026-2027",
+      "title": "1. Serenadenkonzert",
+      "eventType": "concert",
+      "date": "2026-09-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "peter-wuttke"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bruckner-sinfonie-d-moll-nullte"
+        },
+        {
+          "workId": "brahms-variationen-ueber-ein-thema-von-haydn"
+        },
+        {
+          "workId": "strauss-ouvertuere-zu-die-fledermaus"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/1-serenadenkonzert-serenaden01-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22330",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-11-duisburg-7-haniel-klassik-open-air-soko01-2026-20",
+      "title": "7. Haniel Klassik Open Air",
+      "eventType": "concert",
+      "date": "2026-09-11",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "theater-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "goetz-alsmann",
+        "karsu-doenmez",
+        "syavash-rastani"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/7-haniel-klassik-open-air-soko01-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-25-duisburg-a-saite-bis-zupfen-k-klasse-klassik-mini",
+      "title": "A-Saite bis Zupfen",
+      "eventType": "concert",
+      "date": "2027-01-25",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kathrin-boedeker"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/a-saite-bis-zupfen-k-klasse-klassik-mini-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-24-duisburg-a-saite-bis-zupfen-klasse-klassik-mini-2",
+      "title": "A-Saite bis Zupfen",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kathrin-boedeker"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/a-saite-bis-zupfen-klasse-klassik-mini-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-08-duisburg-ansatz-bis-zug-f-klasse-klassik-mini-202",
+      "title": "Ansatz bis Zug",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kathrin-boedeker"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/ansatz-bis-zug-f-klasse-klassik-mini-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-06-duisburg-ansatz-bis-zug-klasse-klassik-mini-2026-",
+      "title": "Ansatz bis Zug",
+      "eventType": "concert",
+      "date": "2026-11-06",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kathrin-boedeker"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/ansatz-bis-zug-klasse-klassik-mini-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-06-duisburg-astrein-klasse-klassik-green-2026-2027",
+      "title": "Astrein – Instrumente und ihre Bäume",
+      "eventType": "concert",
+      "date": "2026-12-06",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "imke-alers",
+        "anke-becker"
+      ],
+      "soloistPersonIds": [
+        "kadra-dreizehnter"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/astrein-klasse-klassik-green-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22381",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-07-duisburg-astrein-s-klasse-klassik-green-2026-2027",
+      "title": "Astrein – Instrumente und ihre Bäume",
+      "eventType": "concert",
+      "date": "2026-12-07",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "imke-alers",
+        "anke-becker"
+      ],
+      "soloistPersonIds": [
+        "kadra-dreizehnter"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/astrein-s-klasse-klassik-green-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-12-duisburg-atmen-bis-zugabe-k-klasse-klassik-mini-2",
+      "title": "Atmen bis Zugabe",
+      "eventType": "concert",
+      "date": "2027-04-12",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kathrin-boedeker"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/atmen-bis-zugabe-k-klasse-klassik-mini-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-11-duisburg-atmen-bis-zugabe-klasse-klassik-mini-202",
+      "title": "Atmen bis Zugabe",
+      "eventType": "concert",
+      "date": "2027-04-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kathrin-boedeker"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/atmen-bis-zugabe-klasse-klassik-mini-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-30-duisburg-bildgewaltig-pk11-2026-2027",
+      "title": "Bildgewaltig",
+      "eventType": "concert",
+      "date": "2027-07-30",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "rachmaninow-die-toteninsel"
+        },
+        {
+          "workId": "reger-vier-tondichtungen-nach-arnold-boecklin"
+        },
+        {
+          "workId": "mussorgsky-bilder-einer-ausstellung"
+        },
+        {
+          "workId": "mussorgsky-orchestriert-von-leopold-stokowski"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/bildgewaltig-pk11-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22308",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-01-duisburg-bildgewaltig-pk11-2026-2027",
+      "title": "Bildgewaltig",
+      "eventType": "concert",
+      "date": "2027-07-01",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "rachmaninow-die-toteninsel"
+        },
+        {
+          "workId": "reger-vier-tondichtungen-nach-arnold-boecklin"
+        },
+        {
+          "workId": "mussorgsky-bilder-einer-ausstellung"
+        },
+        {
+          "workId": "mussorgsky-orchestriert-von-leopold-stokowski"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/bildgewaltig-pk11-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22309",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-17-duisburg-brahms-im-dialog-pk07-2026-2027",
+      "title": "Brahms im Dialog",
+      "eventType": "concert",
+      "date": "2027-03-17",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "aivis-greters",
+        "marcus-struempe"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "brahms-naenie"
+        },
+        {
+          "workId": "dorman-fantasie-fuer-altsaxophon-in-es-dur-und-"
+        },
+        {
+          "workId": "dorman-urauffuehrung"
+        },
+        {
+          "workId": "brahms-klarinettensonate-nr-2-es-dur-in-der-bea"
+        },
+        {
+          "workId": "vasks-musica-serena-fuer-streichorchester"
+        },
+        {
+          "workId": "dubra-silence-love-and-light"
+        },
+        {
+          "workId": "brahms-schicksalslied"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/brahms-im-dialog-pk07-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22300",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-18-duisburg-brahms-im-dialog-pk07-2026-2027",
+      "title": "Brahms im Dialog",
+      "eventType": "concert",
+      "date": "2027-03-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "aivis-greters",
+        "marcus-struempe"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "brahms-naenie"
+        },
+        {
+          "workId": "dorman-fantasie-fuer-altsaxophon-in-es-dur-und-"
+        },
+        {
+          "workId": "dorman-urauffuehrung"
+        },
+        {
+          "workId": "brahms-klarinettensonate-nr-2-es-dur-in-der-bea"
+        },
+        {
+          "workId": "vasks-musica-serena-fuer-streichorchester"
+        },
+        {
+          "workId": "dubra-silence-love-and-light"
+        },
+        {
+          "workId": "brahms-schicksalslied"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/brahms-im-dialog-pk07-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22301",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-21-duisburg-bruckner-zyklus-pk08-2026-2027",
+      "title": "Bruckner-Zyklus",
+      "eventType": "concert",
+      "date": "2027-04-21",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "martin-helmchen"
+      ],
+      "program": [
+        {
+          "workId": "mozart-klavierkonzert-nr-17-g-dur"
+        },
+        {
+          "workId": "bruckner-sinfonie-d-moll-nullte"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/bruckner-zyklus-pk08-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22302",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-22-duisburg-bruckner-zyklus-pk08-2026-2027",
+      "title": "Bruckner-Zyklus",
+      "eventType": "concert",
+      "date": "2027-04-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "martin-helmchen"
+      ],
+      "program": [
+        {
+          "workId": "mozart-klavierkonzert-nr-17-g-dur"
+        },
+        {
+          "workId": "bruckner-sinfonie-d-moll-nullte"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/bruckner-zyklus-pk08-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22303",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-06-duisburg-eule-und-specht-klasse-klassik-green-202",
+      "title": "Eule und Specht im Waldkonzert",
+      "eventType": "concert",
+      "date": "2026-09-06",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "naturwerkstatt-wambachsee-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "imke-alers",
+        "anke-becker"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/eule-und-specht-klasse-klassik-green-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-23-duisburg-folklore-italiano-pk01-2026-2027",
+      "title": "Folklore Italiano",
+      "eventType": "concert",
+      "date": "2026-09-23",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "alessandro-de-marchi"
+      ],
+      "soloistPersonIds": [
+        "magdalena-kozena"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke von Giuseppe Martucci, Ottorino Respighi, Mario Castelnuovo-Tedesco, Alfredo Casella, Nino Rota und Luciano Berio",
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/folklore-italiano-pk01-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22288",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-24-duisburg-folklore-italiano-pk01-2026-2027",
+      "title": "Folklore Italiano",
+      "eventType": "concert",
+      "date": "2026-09-24",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "alessandro-de-marchi"
+      ],
+      "soloistPersonIds": [
+        "magdalena-kozena"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke von Giuseppe Martucci, Ottorino Respighi, Mario Castelnuovo-Tedesco, Alfredo Casella, Nino Rota und Luciano Berio",
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/folklore-italiano-pk01-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22289",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-04-duisburg-folkwang-junior-ar03-2026-2027",
+      "title": "Folkwang Junior",
+      "eventType": "concert",
+      "date": "2027-04-04",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "kulturkirche-liebfrauen-duisburg-mitte",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "toni-gu",
+        "philipp-chernomor",
+        "ben-stuemke"
+      ],
+      "program": [
+        {
+          "workId": "mozart-klavierkonzert-nr-12-a-dur"
+        },
+        {
+          "workId": "bartholdy-violinkonzert-e-moll"
+        },
+        {
+          "workId": "hummel-trompetenkonzert-e-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/folkwang-junior-ar03-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22397",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-17-duisburg-herzmusik-klasse-klassik-senior-2026-202",
+      "title": "Herzmusik",
+      "eventType": "concert",
+      "date": "2026-12-17",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "michael-gees"
+      ],
+      "soloistPersonIds": [
+        "anja-renczikowski"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/herzmusik-klasse-klassik-senior-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22370",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-18-duisburg-herzmusik2-klasse-klassik-senior-2026-20",
+      "title": "Herzmusik",
+      "eventType": "concert",
+      "date": "2027-03-18",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anja-renczikowski"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/herzmusik2-klasse-klassik-senior-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22371",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-03-duisburg-herzmusik3-klasse-klassik-senior-2026-20",
+      "title": "Herzmusik",
+      "eventType": "concert",
+      "date": "2027-06-03",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anja-renczikowski"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/herzmusik3-klasse-klassik-senior-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22372",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-03-duisburg-home-and-the-infinite-gasp3-ii-2026-2027",
+      "title": "„Home and the Infinite“",
+      "eventType": "concert",
+      "date": "2027-03-03",
+      "startTime": "20:45",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "kamalini-mukherji"
+      ],
+      "program": [
+        {
+          "workId": "ghosh-home-and-the-infinite-ein-tagore-liederz"
+        },
+        {
+          "workId": "beethoven-sinfonie-4"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/home-and-the-infinite-gasp3-ii-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-19-duisburg-iga-soko05-2026-2027",
+      "title": "Blumen-Walzer und Trompeten-Zauber",
+      "eventType": "concert",
+      "date": "2027-06-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "pacho-flores"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke von J. Strauß (Sohn), Bizet, Sarasate, Ponchielli, Tschaikowsky, Copland, Márquez",
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/iga-soko05-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-29-duisburg-iga-soko05a-2026-2027",
+      "title": "Die ganze Welt ist himmelblau",
+      "eventType": "concert",
+      "date": "2027-05-29",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/iga-soko05a-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-20-duisburg-klimawerkstatt-adr-klima06-2026-2027",
+      "title": "Klimawerkstatt #6",
+      "eventType": "concert",
+      "date": "2027-02-20",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "marienkirche-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/klimawerkstatt-adr-klima06-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22399",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-16-duisburg-kueppersmuehle-adr-mkm01-2026-2027",
+      "title": "Konzerte im Museum Küppersmühle",
+      "eventType": "concert",
+      "date": "2026-09-16",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "kueppersmuehle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/kueppersmuehle-adr-mkm01-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22407",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-27-duisburg-kueppersmuehle-adr-mkm02-2026-2027",
+      "title": "Konzerte im Museum Küppersmühle",
+      "eventType": "concert",
+      "date": "2027-01-27",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "kueppersmuehle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/kueppersmuehle-adr-mkm02-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22408",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-28-duisburg-kueppersmuehle-adr-mkm03-2026-2027",
+      "title": "Konzerte im Museum Küppersmühle",
+      "eventType": "concert",
+      "date": "2027-04-28",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "kueppersmuehle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/kueppersmuehle-adr-mkm03-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22409",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-14-duisburg-lied-der-nacht-pk02-2026-2027",
+      "title": "Lied der Nacht",
+      "eventType": "concert",
+      "date": "2026-10-14",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mahler-sinfonie-nr-7-e-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/lied-der-nacht-pk02-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22290",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-15-duisburg-lied-der-nacht-pk02-2026-2027",
+      "title": "Lied der Nacht",
+      "eventType": "concert",
+      "date": "2026-10-15",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mahler-sinfonie-nr-7-e-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/lied-der-nacht-pk02-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22291",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-16-duisburg-luft-von-anderem-planeten-pk04-2026-2027",
+      "title": "Ich fühle Luft von anderem Planeten",
+      "eventType": "concert",
+      "date": "2026-12-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "williams-titelthema-aus-star-wars"
+        },
+        {
+          "workId": "ligeti-clocks-and-clouds-fuer-frauenchor-und-or"
+        },
+        {
+          "workId": "chapela-konzert-fuer-saxophon-und-orchester"
+        },
+        {
+          "workId": "chapela-urauffuehrung-kompositionsauftrag-der-du"
+        },
+        {
+          "workId": "holst-die-planeten"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/luft-von-anderem-planeten-pk04-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22294",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-17-duisburg-luft-von-anderem-planeten-pk04-2026-2027",
+      "title": "Ich fühle Luft von anderem Planeten",
+      "eventType": "concert",
+      "date": "2026-12-17",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "williams-titelthema-aus-star-wars"
+        },
+        {
+          "workId": "ligeti-clocks-and-clouds-fuer-frauenchor-und-or"
+        },
+        {
+          "workId": "chapela-konzert-fuer-saxophon-und-orchester"
+        },
+        {
+          "workId": "chapela-urauffuehrung-kompositionsauftrag-der-du"
+        },
+        {
+          "workId": "holst-die-planeten"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/luft-von-anderem-planeten-pk04-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22295",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-25-duisburg-mein-vaterland-pk03-2026-2027",
+      "title": "Mein Vaterland",
+      "eventType": "concert",
+      "date": "2026-11-25",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "ariane-matiakh"
+      ],
+      "soloistPersonIds": [
+        "jacques-forestier"
+      ],
+      "program": [
+        {
+          "workId": "ljadow-kikimora"
+        },
+        {
+          "workId": "dvorak-violinkonzert"
+        },
+        {
+          "workId": "smetana-mein-vaterland-auszuege"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/mein-vaterland-pk03-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22292",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-26-duisburg-mein-vaterland-pk03-2026-2027",
+      "title": "Mein Vaterland",
+      "eventType": "concert",
+      "date": "2026-11-26",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "ariane-matiakh"
+      ],
+      "soloistPersonIds": [
+        "jacques-forestier"
+      ],
+      "program": [
+        {
+          "workId": "ljadow-kikimora"
+        },
+        {
+          "workId": "dvorak-violinkonzert"
+        },
+        {
+          "workId": "smetana-mein-vaterland-auszuege"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/mein-vaterland-pk03-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22293",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-15-duisburg-meisterwerke-maurice-ravel-klasse-klassi",
+      "title": "Meisterwerke",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "n-n"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ravel-ma-mere-l-oye"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/meisterwerke-maurice-ravel-klasse-klassik-junior-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22390",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-16-duisburg-meisterwerke-maurice-ravel-s-klasse-klas",
+      "title": "Meisterwerke",
+      "eventType": "concert",
+      "date": "2026-11-16",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "n-n"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ravel-ma-mere-l-oye"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/meisterwerke-maurice-ravel-s-klasse-klassik-junior-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-25-duisburg-musikalischer-regenbogen-klasse-klassik-",
+      "title": "Ein musikalischer Regenbogen",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/musikalischer-regenbogen-klasse-klassik-mini-mi-2-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-20-duisburg-musikalischer-regenbogen-klasse-klassik-",
+      "title": "Ein musikalischer Regenbogen",
+      "eventType": "concert",
+      "date": "2026-09-20",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/musikalischer-regenbogen-klasse-klassik-mini-mi-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-10-duisburg-neujahrskonzert-adr-winter03-2026-2027",
+      "title": "Neujahrskonzert mit dem Salonorchester",
+      "eventType": "concert",
+      "date": "2027-01-10",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "tonio-schibel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke von Johann Strauß (Sohn), Josef Strauß, Tschaikowsky, von Weber, von Suppè und Grieg",
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/neujahrskonzert-adr-winter03-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22339",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-01-duisburg-neujahrskonzert-ohrenkino-soko00-2026-20",
+      "title": "Neujahrskonzert 2027",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "alessandro-de-marchi"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/neujahrskonzert-ohrenkino-soko00-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-17-duisburg-neujahrskonzert2-adr-winter03-2026-2027",
+      "title": "Neujahrskonzert mit dem Salonorchester",
+      "eventType": "concert",
+      "date": "2027-01-17",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "tonio-schibel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke von Johann Strauß (Sohn), Josef Strauß, Tschaikowsky, von Weber, von Suppè und Grieg",
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/neujahrskonzert2-adr-winter03-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22340",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-02-duisburg-nordisch-umrahmte-romantik-pk10-2026-202",
+      "title": "Nordisch umrahmte Romantik",
+      "eventType": "concert",
+      "date": "2027-06-02",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "magdalena-ernst"
+      ],
+      "program": [
+        {
+          "workId": "grieg-sinfonie-c-moll"
+        },
+        {
+          "workId": "strauss-hornkonzert-nr-1-es-dur"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-3-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/nordisch-umrahmte-romantik-pk10-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22306",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-03-duisburg-nordisch-umrahmte-romantik-pk10-2026-202",
+      "title": "Nordisch umrahmte Romantik",
+      "eventType": "concert",
+      "date": "2027-06-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "magdalena-ernst"
+      ],
+      "program": [
+        {
+          "workId": "grieg-sinfonie-c-moll"
+        },
+        {
+          "workId": "strauss-hornkonzert-nr-1-es-dur"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-3-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/nordisch-umrahmte-romantik-pk10-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22307",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-24-duisburg-pastoral-und-poetisch-pk06-2026-2027",
+      "title": "Pastoral und poetisch",
+      "eventType": "concert",
+      "date": "2027-02-24",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "louis-lortie"
+      ],
+      "program": [
+        {
+          "workId": "schumann-ouvertuere-zur-genoveva"
+        },
+        {
+          "workId": "chopin-klavierkonzert-nr-2-f-moll"
+        },
+        {
+          "workId": "beethoven-sinfonie-4"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/pastoral-und-poetisch-pk06-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22298",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-25-duisburg-pastoral-und-poetisch-pk06-2026-2027",
+      "title": "Pastoral und poetisch",
+      "eventType": "concert",
+      "date": "2027-02-25",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "louis-lortie"
+      ],
+      "program": [
+        {
+          "workId": "schumann-ouvertuere-zur-genoveva"
+        },
+        {
+          "workId": "chopin-klavierkonzert-nr-2-f-moll"
+        },
+        {
+          "workId": "beethoven-sinfonie-4"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/pastoral-und-poetisch-pk06-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22299",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-02-duisburg-phil4teens-klasse-klassik-4teens-2026-20",
+      "title": "phil4teens",
+      "eventType": "concert",
+      "date": "2027-02-02",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "annette-keuchel-wolfgang-schindler"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/phil4teens-klasse-klassik-4teens-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-13-duisburg-philharmonic-slam-v-soko02-2026-2027",
+      "title": "Philharmonic Slam V",
+      "eventType": "concert",
+      "date": "2027-02-13",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/philharmonic-slam-v-soko02-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22345",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-23-duisburg-rettet-den-zauberwald-klasse-klassik-jun",
+      "title": "Rettet den Zauberwald!",
+      "eventType": "concert",
+      "date": "2027-05-23",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "kerou-liu"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/rettet-den-zauberwald-klasse-klassik-junior-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22388",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-24-duisburg-rettet-den-zauberwald-vg-klasse-klassik-",
+      "title": "Rettet den Zauberwald!",
+      "eventType": "concert",
+      "date": "2027-05-24",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "kerou-liu"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/rettet-den-zauberwald-vg-klasse-klassik-junior-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-11-duisburg-sommerkonzert-klasse-klassik-laedt-ein-2",
+      "title": "Sommerkonzert",
+      "eventType": "concert",
+      "date": "2027-07-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "sabina-lopez-miguez"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/sommerkonzert-klasse-klassik-laedt-ein-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-03-duisburg-sospensione-e-slancio-gasp3-i-2026-2027",
+      "title": "„Sospensione e slancio“",
+      "eventType": "concert",
+      "date": "2027-03-03",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schumann-genoveva-ouvertuere"
+        },
+        {
+          "workId": "beethoven-sinfonie-4"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/sospensione-e-slancio-gasp3-i-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-07-duisburg-tanz-in-den-mai-ar04-2026-2027",
+      "title": "Rekordverdächtig",
+      "eventType": "concert",
+      "date": "2027-05-07",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "salvatorkirche-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "haydn-sinfonie-nr-12-e-dur"
+        },
+        {
+          "workId": "milhaud-kammersinfonie-nr-1-le-printemps"
+        },
+        {
+          "workId": "milhaud-kammersinfonie-nr-4-dixtuor"
+        },
+        {
+          "workId": "bach-sinfonie-g-dur-wq-182-nr-1"
+        },
+        {
+          "workId": "strawinsky-sinfonies-d-instruments-a-vent"
+        },
+        {
+          "workId": "strawinsky-revidierte-fassung-von-1947"
+        },
+        {
+          "workId": "mozart-sinfonie-nr-1-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/tanz-in-den-mai-ar04-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22398",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-12-duisburg-the-worlds-wife-pk09-2026-2027",
+      "title": "The World’s Wife",
+      "eventType": "concert",
+      "date": "2027-05-12",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "baldur-broennimann"
+      ],
+      "soloistPersonIds": [
+        "claire-booth"
+      ],
+      "program": [
+        {
+          "workId": "bacewicz-konzert-fuer-streichorchester"
+        },
+        {
+          "workId": "dean-the-world-s-wife"
+        },
+        {
+          "workId": "dean-deutsche-erstauffuehrung"
+        },
+        {
+          "workId": "schumann-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/the-worlds-wife-pk09-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22304",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-13-duisburg-the-worlds-wife-pk09-2026-2027",
+      "title": "The World’s Wife",
+      "eventType": "concert",
+      "date": "2027-05-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "baldur-broennimann"
+      ],
+      "soloistPersonIds": [
+        "claire-booth"
+      ],
+      "program": [
+        {
+          "workId": "bacewicz-konzert-fuer-streichorchester"
+        },
+        {
+          "workId": "dean-the-world-s-wife"
+        },
+        {
+          "workId": "dean-deutsche-erstauffuehrung"
+        },
+        {
+          "workId": "schumann-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/the-worlds-wife-pk09-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22305",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-04-duisburg-unsterbliche-melodien-gasp04-2026-2027",
+      "title": "Unsterbliche Melodien",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "stefan-blunier"
+      ],
+      "soloistPersonIds": [
+        "polina-pastirchak",
+        "irakli-kakhidze"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/unsterbliche-melodien-gasp04-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-14-duisburg-vermaechtnisse-pk12-2026-2027",
+      "title": "Vermächtnisse",
+      "eventType": "concert",
+      "date": "2027-07-14",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "domingo-hindoyan"
+      ],
+      "soloistPersonIds": [
+        "anastasia-kobekina"
+      ],
+      "program": [
+        {
+          "workId": "bryan-neues-werk"
+        },
+        {
+          "workId": "bryan-deutsche-erstauffuehrung"
+        },
+        {
+          "workId": "elgar-cellokonzert-e-moll"
+        },
+        {
+          "workId": "bartok-konzert-fuer-orchester"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/vermaechtnisse-pk12-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22310",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-15-duisburg-vermaechtnisse-pk12-2026-2027",
+      "title": "Vermächtnisse",
+      "eventType": "concert",
+      "date": "2027-07-15",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "domingo-hindoyan"
+      ],
+      "soloistPersonIds": [
+        "anastasia-kobekina"
+      ],
+      "program": [
+        {
+          "workId": "bryan-neues-werk"
+        },
+        {
+          "workId": "bryan-deutsche-erstauffuehrung"
+        },
+        {
+          "workId": "elgar-cellokonzert-e-moll"
+        },
+        {
+          "workId": "bartok-konzert-fuer-orchester"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/vermaechtnisse-pk12-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22311",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-04-duisburg-vier-jahreszeiten-ar01-2026-2027",
+      "title": "Vier Jahreszeiten",
+      "eventType": "concert",
+      "date": "2026-10-04",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "landschaftspark-duisburg-nord",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "henry-flory"
+      ],
+      "soloistPersonIds": [
+        "stefan-blunier"
+      ],
+      "program": [
+        {
+          "workId": "vivaldi-die-vier-jahreszeiten"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/vier-jahreszeiten-ar01-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22395",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-20-duisburg-viva-vivaldi-pk05-2026-2027",
+      "title": "Viva Vivaldi",
+      "eventType": "concert",
+      "date": "2027-01-20",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "alessandro-de-marchi"
+      ],
+      "soloistPersonIds": [
+        "valerio-losito"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke von Antonio Vivaldi",
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/viva-vivaldi-pk05-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22296",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-21-duisburg-viva-vivaldi-pk05-2026-2027",
+      "title": "Viva Vivaldi",
+      "eventType": "concert",
+      "date": "2027-01-21",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "alessandro-de-marchi"
+      ],
+      "soloistPersonIds": [
+        "valerio-losito"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke von Antonio Vivaldi",
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/viva-vivaldi-pk05-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22297",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-25-duisburg-vom-gefuehl-zum-laecheln-adr-sod-2026-20",
+      "title": "Vom großen Gefühl zum schelmischen Lächeln",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "theater-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "melchior-kupke"
+      ],
+      "soloistPersonIds": [
+        "moe-dierstein"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-polonaise-aus-eugen-onegin"
+        },
+        {
+          "workId": "tschaikowsky-konzert-fuer-violine-und-orchester"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-9"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/vom-gefuehl-zum-laecheln-adr-sod-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22342",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-13-duisburg-weihnachten-adr-winter02-2026-2027",
+      "title": "Weihnachten mit Musik und Wort",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "achim-conrad"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-nussknacker-suite-bearbeitung-von-isabel"
+        },
+        {
+          "workId": "hoffman-auszuege-aus-der-erzaehlung-nussknacker-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/weihnachten-adr-winter02-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22337",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-20-duisburg-weihnachten2-adr-winter02-2026-2027",
+      "title": "Weihnachten mit Musik und Wort",
+      "eventType": "concert",
+      "date": "2026-12-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "mercatorhalle-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "achim-conrad"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-nussknacker-suite-bearbeitung-von-isabel"
+        },
+        {
+          "workId": "hoffman-auszuege-aus-der-erzaehlung-nussknacker-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/weihnachten2-adr-winter02-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22338",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-13-duisburg-wiener-melange-adr-sod-2026-2027",
+      "title": "Wiener Melange",
+      "eventType": "concert",
+      "date": "2026-09-13",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "st-maximilian-in-duisburg-ruhrort",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "peter-wuttke"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bruckner-sinfonie-d-moll-nullte"
+        },
+        {
+          "workId": "brahms-variationen-ueber-ein-thema-von-haydn"
+        },
+        {
+          "workId": "strauss-ouvertuere-zu-die-fledermaus"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/wiener-melange-adr-sod-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22341",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-12-duisburg-winterreise-ar02-2026-2027",
+      "title": "Winterreise",
+      "eventType": "concert",
+      "date": "2027-02-12",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duisburger-philharmoniker"
+      ],
+      "venueId": "theater-duisburg",
+      "cityId": "duisburg",
+      "conductorPersonIds": [
+        "johannes-witt"
+      ],
+      "soloistPersonIds": [
+        "thomas-bondelle"
+      ],
+      "program": [
+        {
+          "workId": "zender-schuberts-winterreise-eine-komponierte-i"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://duisburger-philharmoniker.de/Konzerte/winterreise-ar02-2026-2027/",
+        "name": "Duisburger Philharmoniker",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://theaterduisburg.eventim-inhouse.de/webshop/webticket/shop?event=22396",
+      "lastVerified": "2026-08-18"
     }
   ]
 }

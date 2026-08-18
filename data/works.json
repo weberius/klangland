@@ -7447,6 +7447,723 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "bruckner-sinfonie-d-moll-nullte",
+      "composerId": "anton-bruckner",
+      "title": "Sinfonie d-Moll – „Nullte",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-variationen-ueber-ein-thema-von-haydn",
+      "composerId": "johannes-brahms",
+      "title": "Variationen über ein Thema von Haydn",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "56a"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-ouvertuere-zu-die-fledermaus",
+      "composerId": "johann-strauss",
+      "title": "Ouvertüre zu „Die Fledermaus",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rachmaninow-die-toteninsel",
+      "composerId": "sergej-rachmaninow",
+      "title": "Die Toteninsel",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "29"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "reger-vier-tondichtungen-nach-arnold-boecklin",
+      "composerId": "max-reger",
+      "title": "Vier Tondichtungen nach Arnold Böcklin",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "128"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mussorgsky-bilder-einer-ausstellung",
+      "composerId": "modest-mussorgsky",
+      "title": "Bilder einer Ausstellung",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mussorgsky-orchestriert-von-leopold-stokowski",
+      "composerId": "modest-mussorgsky",
+      "title": "(Orchestriert von Leopold Stokowski)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-naenie",
+      "composerId": "johannes-brahms",
+      "title": "Nänie",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dorman-fantasie-fuer-altsaxophon-in-es-dur-und-",
+      "composerId": "avner-dorman",
+      "title": "Fantasie für Altsaxophon in Es-Dur und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dorman-urauffuehrung",
+      "composerId": "avner-dorman",
+      "title": "(Uraufführung)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-klarinettensonate-nr-2-es-dur-in-der-bea",
+      "composerId": "johannes-brahms",
+      "title": "Klarinettensonate Nr. 2 Es-Dur (in der Bearbeitung von Stephan Koncz)",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "120"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vasks-musica-serena-fuer-streichorchester",
+      "composerId": "peteris-vasks",
+      "title": "Musica Serena für Streichorchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dubra-silence-love-and-light",
+      "composerId": "rihards-dubra",
+      "title": "Silence, Love and Light",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-klavierkonzert-nr-17-g-dur",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Klavierkonzert Nr. 17 G-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "453"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "zender-schuberts-winterreise-eine-komponierte-i",
+      "composerId": "hans-zender",
+      "title": "Schuberts „Winterreise“ – eine komponierte Interpretation für Tenor und kleines Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-klavierkonzert-nr-12-a-dur",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Klavierkonzert Nr. 12 A-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "414"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-violinkonzert-e-moll",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Violinkonzert e-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "64"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hummel-trompetenkonzert-e-dur",
+      "composerId": "johann-nepomuk-hummel",
+      "title": "Trompetenkonzert E-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ghosh-home-and-the-infinite-ein-tagore-liederz",
+      "composerId": "kamalini-mukherji-bickram-ghosh",
+      "title": "Home and the Infinite“ – ein Tagore-Liederzyklus für Stimme und Orchester nach Lyrik und Musik von Rabindranath Tagore",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mahler-sinfonie-nr-7-e-moll",
+      "composerId": "gustav-mahler",
+      "title": "Sinfonie Nr. 7 e-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-titelthema-aus-star-wars",
+      "composerId": "john-williams",
+      "title": "Titelthema aus „Star Wars",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ligeti-clocks-and-clouds-fuer-frauenchor-und-or",
+      "composerId": "gyoergy-ligeti",
+      "title": "Clocks and Clouds“ für Frauenchor und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "chapela-konzert-fuer-saxophon-und-orchester",
+      "composerId": "enrico-chapela",
+      "title": "Konzert für Saxophon und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "chapela-urauffuehrung-kompositionsauftrag-der-du",
+      "composerId": "enrico-chapela",
+      "title": "(Uraufführung, Kompositionsauftrag der Duisburger Philharmoniker)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "holst-die-planeten",
+      "composerId": "gustav-holst",
+      "title": "Die Planeten",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "32"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ljadow-kikimora",
+      "composerId": "anatoli-ljadow",
+      "title": "Kikimora",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "63"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "smetana-mein-vaterland-auszuege",
+      "composerId": "bedrich-smetana",
+      "title": "Mein Vaterland“ (Auszüge)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-ma-mere-l-oye",
+      "composerId": "maurice-ravel",
+      "title": "Ma mère l’oye",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "grieg-sinfonie-c-moll",
+      "composerId": "edvard-grieg",
+      "title": "Sinfonie c-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-hornkonzert-nr-1-es-dur",
+      "composerId": "richard-strauss",
+      "title": "Hornkonzert Nr. 1 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "11"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sibelius-sinfonie-nr-3-c-dur",
+      "composerId": "jean-sibelius",
+      "title": "Sinfonie Nr. 3 C-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "52"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-ouvertuere-zur-genoveva",
+      "composerId": "robert-schumann",
+      "title": "Ouvertüre zur Oper „Genoveva",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "81"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "chopin-klavierkonzert-nr-2-f-moll",
+      "composerId": "frederic-chopin",
+      "title": "Klavierkonzert Nr. 2 f-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "21"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-genoveva-ouvertuere",
+      "composerId": "robert-schumann",
+      "title": "Genoveva“-Ouvertüre",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "81"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-sinfonie-nr-12-e-dur",
+      "composerId": "joseph-haydn",
+      "title": "Sinfonie Nr. 12 E-Dur",
+      "catalogue": [
+        {
+          "system": "Hob",
+          "number": "I:12"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "milhaud-kammersinfonie-nr-1-le-printemps",
+      "composerId": "darius-milhaud",
+      "title": "Kammersinfonie Nr. 1 – „Le Printemps",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "43"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "milhaud-kammersinfonie-nr-4-dixtuor",
+      "composerId": "darius-milhaud",
+      "title": "Kammersinfonie Nr. 4 – „Dixtuor",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "74"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-sinfonie-g-dur-wq-182-nr-1",
+      "composerId": "carl-philipp-emanuel-bach",
+      "title": "Sinfonie G-Dur Wq 182 Nr. 1",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strawinsky-sinfonies-d-instruments-a-vent",
+      "composerId": "igor-strawinsky",
+      "title": "Symphonies d’instruments à vent",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strawinsky-revidierte-fassung-von-1947",
+      "composerId": "igor-strawinsky",
+      "title": "(Revidierte Fassung von 1947)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sinfonie-nr-1-es-dur",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Sinfonie Nr. 1 Es-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "16"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bacewicz-konzert-fuer-streichorchester",
+      "composerId": "grazyna-bacewicz",
+      "title": "Konzert für Streichorchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dean-the-world-s-wife",
+      "composerId": "brett-dean",
+      "title": "The World’s Wife",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dean-deutsche-erstauffuehrung",
+      "composerId": "brett-dean",
+      "title": "(Deutsche Erstaufführung)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bryan-neues-werk",
+      "composerId": "courtney-bryan",
+      "title": "Neues Werk",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bryan-deutsche-erstauffuehrung",
+      "composerId": "courtney-bryan",
+      "title": "(Deutsche Erstaufführung)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "elgar-cellokonzert-e-moll",
+      "composerId": "edward-elgar",
+      "title": "Cellokonzert e-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "85"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-polonaise-aus-eugen-onegin",
+      "composerId": "pjotr-i-tschaikowsky",
+      "title": "Polonaise aus „Eugen Onegin",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-konzert-fuer-violine-und-orchester",
+      "composerId": "pjotr-i-tschaikowsky",
+      "title": "Konzert für Violine und Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "35"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-nussknacker-suite-bearbeitung-von-isabel",
+      "composerId": "pjotr-i-tschaikowsky",
+      "title": "Nussknacker-Suite (Bearbeitung von Isabel Mundry und Brice Pauset)",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "71a"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hoffman-auszuege-aus-der-erzaehlung-nussknacker-",
+      "composerId": "e-t-a-hoffman",
+      "title": "Auszüge aus der Erzählung „Nussknacker und Mausekönig",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

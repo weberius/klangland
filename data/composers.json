@@ -1297,6 +1297,96 @@
       "id": "lera-auerbach",
       "name": "Lera Auerbach",
       "life": null
+    },
+    {
+      "id": "max-reger",
+      "name": "Max Reger",
+      "life": null
+    },
+    {
+      "id": "modest-mussorgsky",
+      "name": "Modest Mussorgsky",
+      "life": null
+    },
+    {
+      "id": "avner-dorman",
+      "name": "Avner Dorman",
+      "life": null
+    },
+    {
+      "id": "peteris-vasks",
+      "name": "Pēteris Vasks",
+      "life": null
+    },
+    {
+      "id": "rihards-dubra",
+      "name": "Rihards Dubra",
+      "life": null
+    },
+    {
+      "id": "hans-zender",
+      "name": "Hans Zender",
+      "life": null
+    },
+    {
+      "id": "johann-nepomuk-hummel",
+      "name": "Johann Nepomuk Hummel",
+      "life": null
+    },
+    {
+      "id": "kamalini-mukherji-bickram-ghosh",
+      "name": "Kamalini Mukherji | Bickram Ghosh",
+      "life": null
+    },
+    {
+      "id": "gyoergy-ligeti",
+      "name": "György Ligeti",
+      "life": null
+    },
+    {
+      "id": "enrico-chapela",
+      "name": "Enrico Chapela",
+      "life": null
+    },
+    {
+      "id": "anatoli-ljadow",
+      "name": "Anatoli Ljadow",
+      "life": null
+    },
+    {
+      "id": "bedrich-smetana",
+      "name": "Bedřich Smetana",
+      "life": null
+    },
+    {
+      "id": "darius-milhaud",
+      "name": "Darius Milhaud",
+      "life": null
+    },
+    {
+      "id": "carl-philipp-emanuel-bach",
+      "name": "Carl Philipp Emanuel Bach",
+      "life": null
+    },
+    {
+      "id": "brett-dean",
+      "name": "Brett Dean",
+      "life": null
+    },
+    {
+      "id": "courtney-bryan",
+      "name": "Courtney Bryan",
+      "life": null
+    },
+    {
+      "id": "pjotr-i-tschaikowsky",
+      "name": "Pjotr I. Tschaikowsky",
+      "life": null
+    },
+    {
+      "id": "e-t-a-hoffman",
+      "name": "E. T. A. Hoffman",
+      "life": null
     }
   ]
 }
