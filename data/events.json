@@ -16069,6 +16069,1977 @@
       },
       "ticketUrl": "https://ticket.theaterdo.de/eventim.webshop/webticket/shop?event=13363",
       "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-06-17-bonn-harpe-1930",
+      "title": "La Harpe",
+      "eventType": "concert",
+      "date": "2026-06-17",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "alter-bundesrat-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mariska-van-der-sande",
+        "maria-geissler",
+        "thomas-pluemacher",
+        "ines-altmann",
+        "johanna-welsch"
+      ],
+      "program": [
+        {
+          "workId": "cras-trio-a-cordes"
+        },
+        {
+          "workId": "rohozinski-suite-breve"
+        },
+        {
+          "workId": "saens-fantaisie"
+        },
+        {
+          "workId": "cras-quintett-fuer-floete-violine-viola-violo"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/harpe/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?event=9889&kassierer=weborch",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-06-20-bonn-klavierpur-1930",
+      "title": "Klavier Pur",
+      "eventType": "concert",
+      "date": "2026-06-20",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/klavierpur/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?event=9941&kassierer=weborch",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-06-27-bonn-orchesterfest26-1900",
+      "title": "Orchesterfest mit Open Philharmonics",
+      "eventType": "concert",
+      "date": "2026-06-27",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "download-download-tagesprogramm"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/orchesterfest26/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-06-29-bonn-harmonie-1930",
+      "title": "Harmoniemusiken",
+      "eventType": "concert",
+      "date": "2026-06-29",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethoven-haus-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "yamamoto-susanne-lucker-oboe-hans-joachim-mohrman"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/harmonie/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?event=9934&kassierer=weborch",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-07-10-bonn-aufbruch8-1930",
+      "title": "Aufbruch",
+      "eventType": "concert",
+      "date": "2026-07-10",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [
+        "clara-jumi-kang"
+      ],
+      "program": [
+        {
+          "workId": "korngold-the-sea-hawk-ouvertuere"
+        },
+        {
+          "workId": "korngold-konzert-fuer-violine-und-orchester-d-dur"
+        },
+        {
+          "workId": "mahler-sinfonie-nr-1-d-dur-titan"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/aufbruch8/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?event=9929&kassierer=weborch",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-07-12-bonn-picknick26-1900",
+      "title": "Klassik!Picknick",
+      "eventType": "concert",
+      "date": "2026-07-12",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "kunstrasen-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [
+        "ray-chenez"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/picknick26/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-11-bonn-neuewelt-1930",
+      "title": "Neue Welt",
+      "eventType": "concert",
+      "date": "2026-09-11",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [
+        "eliza-bragg",
+        "alicia-hall-moran",
+        "steven-bradshaw",
+        "gabriel-kahane"
+      ],
+      "program": [
+        {
+          "workId": "kahane-emergency-shelter-intake-form"
+        },
+        {
+          "workId": "dvorak-sinfonie-nr-9-e-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/neuewelt/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://www.beethovenfest.de/de/programm-tickets/gabriel-kahane-beethoven-orchester-bonn/831",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-27-bonn-robinhood-1100",
+      "title": "Robin Hood",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "maria-badstue"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "korngold-die-abenteuer-des-robin-hood"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/robinhood/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10409",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-11-bonn-koenigin-1000",
+      "title": "Die Königin der Farben",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "kinderbuch-die-koenigin-der-farben-von-jutta-bauer"
+        },
+        {
+          "workId": "kinderbuch-werke-fuer-horn-quartett"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/koenigin/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10437",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-11-bonn-koenigin2-1200",
+      "title": "Die Königin der Farben",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "kinderbuch-die-koenigin-der-farben-von-jutta-bauer"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/koenigin2/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10438",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-12-bonn-koenigin3-1000",
+      "title": "Die Königin der Farben",
+      "eventType": "concert",
+      "date": "2026-10-12",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "kinderbuch-die-koenigin-der-farben-von-jutta-bauer"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/koenigin3/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10439",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-15-bonn-pathetique-1930",
+      "title": "Pathétique",
+      "eventType": "concert",
+      "date": "2026-10-15",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "karen-kamensek"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "tschaikowski-sinfonie-nr-6-h-moll-pathetique"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/pathetique/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10427",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-16-bonn-grenzgaenge-1930",
+      "title": "Grenzgänge",
+      "eventType": "concert",
+      "date": "2026-10-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "karen-kamensek"
+      ],
+      "soloistPersonIds": [
+        "joseph-moog"
+      ],
+      "program": [
+        {
+          "workId": "adams-short-ride-in-a-fast-machine"
+        },
+        {
+          "workId": "bernstein-sinfonie-nr-2-the-age-of-anxiety"
+        },
+        {
+          "workId": "tschaikowski-sinfonie-nr-6-h-moll-pathetique"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/grenzgaenge/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10414",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-10-24-bonn-goldrausch-1930",
+      "title": "Goldrausch",
+      "eventType": "concert",
+      "date": "2026-10-24",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "stefanos-tsialis"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "chaplin-stummfilm-und-live-musik-zu-the-gold-rus"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/goldrausch/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10454",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-02-bonn-brassconnection-1930",
+      "title": "Brass Connection Bonn",
+      "eventType": "concert",
+      "date": "2026-11-02",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethoven-haus-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "sandro-hirsch",
+        "linus-fehn",
+        "gillian-williams",
+        "oliver-meissner",
+        "christoph-schneider"
+      ],
+      "program": [
+        {
+          "workId": "ewald-jan-koetsier-johann-sebastian-bach-john-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/brassconnection/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10445",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-08-bonn-traudich-1100",
+      "title": "Trau Dich!",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "friedrich-haendel-und-alessandro-scarlatti"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/traudich/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10434",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-12-bonn-kunstfreiheit-1930",
+      "title": "Die Kunst der Freiheit",
+      "eventType": "concert",
+      "date": "2026-11-12",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "brahms-sinfonie-nr-2-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/kunstfreiheit/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10428",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-13-bonn-maskenundfreiheit-1930",
+      "title": "Masken und Freiheit",
+      "eventType": "concert",
+      "date": "2026-11-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [
+        "mikhail-ovrutsky"
+      ],
+      "program": [
+        {
+          "workId": "bacewicz-ouverture"
+        },
+        {
+          "workId": "schostakowitsch-konzert-fuer-violine-und-orchester-nr-1-"
+        },
+        {
+          "workId": "brahms-sinfonie-nr-2-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/maskenundfreiheit/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10415",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-18-bonn-riesen-1930",
+      "title": "Die Gesetze der Riesen",
+      "eventType": "concert",
+      "date": "2026-11-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "alter-bundesrat-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "maria-geissler",
+        "alexandra-samedova",
+        "meike-bruemmer",
+        "ines-altmann"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-streichquartett-a-moll"
+        },
+        {
+          "workId": "hensel-streichquartett-es-dur"
+        },
+        {
+          "workId": "schnittke-streichquartett-nr-3"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/riesen/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10406",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-19-bonn-concertante-1930",
+      "title": "Concertante",
+      "eventType": "concert",
+      "date": "2026-11-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "peter-whelan"
+      ],
+      "soloistPersonIds": [
+        "grigory-alumyan"
+      ],
+      "program": [
+        {
+          "workId": "myslivecek-sinfonie-nr-1-f-dur"
+        },
+        {
+          "workId": "haydn-konzert-fuer-violoncello-und-orchester-d"
+        },
+        {
+          "workId": "mozart-sinfonie-nr-36-c-dur"
+        },
+        {
+          "workId": "mozart-linzer-sinfonie"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/concertante/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10424",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-29-bonn-allesbrahms-1100",
+      "title": "Alles Brahms!",
+      "eventType": "concert",
+      "date": "2026-11-29",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "brahms-sinfonie-nr-2-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/allesbrahms/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10410",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-30-bonn-allesbrahms2-1100",
+      "title": "Alles Brahms!",
+      "eventType": "concert",
+      "date": "2026-11-30",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "brahms-sinfonie-nr-2-d-dur"
+        },
+        {
+          "workId": "brahms-und-weitere-werke-des-komponisten"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/allesbrahms2/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10411",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-05-bonn-vierjahreszeiten-1930",
+      "title": "Die vier Jahreszeiten",
+      "eventType": "concert",
+      "date": "2026-12-05",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "antje-weithaas"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "vivaldi-die-vier-jahreszeiten"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/vierjahreszeiten/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10450",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-16-bonn-bee-nacht-1900",
+      "title": "BeethovenNacht",
+      "eventType": "concert",
+      "date": "2026-12-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "roehrenspiesslaute-thomas-bauer-bariton-beethoven-orchester"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/bee-nacht/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10416",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-20-bonn-kling-1100",
+      "title": "Kling, Glöckchen, kling!",
+      "eventType": "concert",
+      "date": "2026-12-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "daniel-j-mayr"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-arvo-paert-gustav-holst-u-a"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/kling/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10435",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-23-bonn-stern-1830",
+      "title": "Stern über Bethlehem",
+      "eventType": "concert",
+      "date": "2026-12-23",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "kreuzkirche-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "daniel-j-mayr"
+      ],
+      "soloistPersonIds": [
+        "gunde-hamraths"
+      ],
+      "program": [
+        {
+          "workId": "johann-sebastian-bach-gustav-holst-felix-mendel"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/stern/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10449",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-31-bonn-carminaburana-1800",
+      "title": "Carmina Burana",
+      "eventType": "concert",
+      "date": "2026-12-31",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [
+        "nicole-wacker",
+        "ray-chenez",
+        "giorgos-kanaris"
+      ],
+      "program": [
+        {
+          "workId": "tailleferre-ouverture"
+        },
+        {
+          "workId": "orff-carmina-burana"
+        },
+        {
+          "workId": "bernstein-make-our-garden-grow-aus-candide"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/carminaburana/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10432",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-01-bonn-carminaburana2-1800",
+      "title": "Carmina Burana",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [
+        "nicole-wacker",
+        "ray-chenez",
+        "giorgos-kanaris"
+      ],
+      "program": [
+        {
+          "workId": "tailleferre-ouverture"
+        },
+        {
+          "workId": "orff-carmina-burana"
+        },
+        {
+          "workId": "bernstein-make-our-garden-grow-aus-candide"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/carminaburana2/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10433",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-08-bonn-legenden-1930",
+      "title": "Legenden",
+      "eventType": "concert",
+      "date": "2027-01-08",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "jesko-sirvend"
+      ],
+      "soloistPersonIds": [
+        "katia-und-marielle-labeque"
+      ],
+      "program": [
+        {
+          "workId": "holmes-andromeda"
+        },
+        {
+          "workId": "poulenc-konzert-fuer-zwei-klaviere-und-orchester"
+        },
+        {
+          "workId": "sibelius-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/legenden/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10417",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-18-bonn-traumfabrik-1930",
+      "title": "Traumfabrik",
+      "eventType": "concert",
+      "date": "2027-01-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethoven-haus-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "alexander-lifland",
+        "noori-nah",
+        "susanne-roehrig",
+        "lena-ovrutsky-wignjosaputro",
+        "roman-salyutov"
+      ],
+      "program": [
+        {
+          "workId": "schumann-klavierquintett-es-dur"
+        },
+        {
+          "workId": "korngold-klavierquintett-e-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/traumfabrik/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10446",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-28-bonn-vorhangauf-1930",
+      "title": "Vorhang auf!",
+      "eventType": "concert",
+      "date": "2027-01-28",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "teresa-riveiro-boehm"
+      ],
+      "soloistPersonIds": [
+        "inga-balzer-wolf",
+        "silja-bothe",
+        "joachim-streckfuss",
+        "richard-logiewa-stojanovic"
+      ],
+      "program": [
+        {
+          "workId": "und-quartette-aus-der-bonner-hofkapelle"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/vorhangauf/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10425",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-05-bonn-fastelovend-1800",
+      "title": "Tradition em Hätz, Fastelovend he un jetzt!",
+      "eventType": "concert",
+      "date": "2027-02-05",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "barbara-dragan"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "musikalisches-ueberraschungsprogramm"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/fastelovend/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10431",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-07-bonn-jecketoen-1100",
+      "title": "Jecke Tön, jeckes Hätz",
+      "eventType": "concert",
+      "date": "2027-02-07",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "daniel-j-mayr"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "musikalisches-ueberraschungsprogramm"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/jecketoen/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10412",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-20-bonn-schwanengesang-1930",
+      "title": "Mozart: Schwanengesang",
+      "eventType": "concert",
+      "date": "2027-02-20",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-39"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/schwanengesang/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10451",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-25-bonn-narren-1930",
+      "title": "Helden und Narren",
+      "eventType": "concert",
+      "date": "2027-02-25",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "kevin-john-edusei"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "kodaly-hary-janos-suite"
+        },
+        {
+          "workId": "strauss-till-eulenspiegels-lustige-streiche-trv-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/narren/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10429",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-26-bonn-weltflucht-1930",
+      "title": "Weltflucht",
+      "eventType": "concert",
+      "date": "2027-02-26",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "kevin-john-edusei"
+      ],
+      "soloistPersonIds": [
+        "maximilian-hornung"
+      ],
+      "program": [
+        {
+          "workId": "liszt-les-preludes-sinfonische-dichtung-nr-3-s"
+        },
+        {
+          "workId": "dutilleux-konzert-fuer-violoncello-und-orchester-d"
+        },
+        {
+          "workId": "kodaly-hary-janos-suite"
+        },
+        {
+          "workId": "strauss-till-eulenspiegels-lustige-streiche-trv-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/weltflucht/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10418",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-21-bonn-mamere-1100",
+      "title": "Ma mère l’oye",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/mamere/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10436",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-25-bonn-missa-1930",
+      "title": "Missa Solemnis",
+      "eventType": "concert",
+      "date": "2027-03-25",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [
+        "chen-reiss",
+        "marie-seidler",
+        "attilio-glaser",
+        "michael-nagy"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-missa-solemnis-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/missa/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10420",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-04-bonn-gefuehle-1000",
+      "title": "Große Gefühle, kleine Ohren",
+      "eventType": "concert",
+      "date": "2027-04-04",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schubert-kurt-weill-u-a"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/gefuehle/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10440",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-04-bonn-gefuehle2-1200",
+      "title": "Große Gefühle, kleine Ohren",
+      "eventType": "concert",
+      "date": "2027-04-04",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schubert-kurt-weill-u-a"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/gefuehle2/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10441",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-05-bonn-gefuehle3-1000",
+      "title": "Große Gefühle, kleine Ohren",
+      "eventType": "concert",
+      "date": "2027-04-05",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schubert-kurt-weill-u-a"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/gefuehle3/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10442",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-05-bonn-dankgesang-1930",
+      "title": "Dankgesang",
+      "eventType": "concert",
+      "date": "2027-04-05",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethoven-haus-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "ieva-hieta",
+        "thomas-pluemacher",
+        "johannes-rapp"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-streichquartett-nr-15-a-moll"
+        },
+        {
+          "workId": "paert-da-pacem-domine"
+        },
+        {
+          "workId": "bartholdy-streichquartett-a-moll-mwv-r-21"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/dankgesang/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10447",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-18-bonn-jupiter-1100",
+      "title": "Jupiter",
+      "eventType": "concert",
+      "date": "2027-04-18",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "eduardo-browne"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-nr-41-c-dur-jupiter"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/jupiter/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10413",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-24-bonn-trompetengipfel-1930",
+      "title": "Trompetengipfel",
+      "eventType": "concert",
+      "date": "2027-04-24",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "friedrich-sandro-hirsch-trompete-beethoven-orchest"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/trompetengipfel/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10452",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-28-bonn-nebenwege-1930",
+      "title": "Nebenwege",
+      "eventType": "concert",
+      "date": "2027-04-28",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "alter-bundesrat-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "diego-castelli",
+        "avishai-chameides",
+        "bruno-hurtado-gosalvez"
+      ],
+      "program": [
+        {
+          "workId": "onslow-streichquintett"
+        },
+        {
+          "workId": "beethoven-arr-ferdinand-ries-streichquintett-nach-"
+        },
+        {
+          "workId": "beethoven-sonate-fuer-violoncello-und-klavier-f-du"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/nebenwege/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10407",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-30-bonn-maitanz-1930",
+      "title": "Tanz in den Mai",
+      "eventType": "concert",
+      "date": "2027-04-30",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "in-beethoven-orchester-bonn-dirk-kaftan-dir"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/maitanz/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-08-bonn-basecamp27-1900",
+      "title": "BaseCamp Neue Musik",
+      "eventType": "concert",
+      "date": "2027-05-08",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "basecamp-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "christoph-breidler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "magnus-lindberg-kraftwerk-und-anderen"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/basecamp27/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10405",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-10-bonn-bekenntnisse-1930",
+      "title": "Bekenntnisse",
+      "eventType": "concert",
+      "date": "2027-05-10",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethoven-haus-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "renzo-theresia-veale-violine-susanne-duermeyer"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/bekenntnisse/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10448",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-26-bonn-piano-1900",
+      "title": "Alles (außer) Piano",
+      "eventType": "concert",
+      "date": "2027-05-26",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "opernhaus-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "b-beethoven-orchester-bonn-fabian-mueller-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/piano/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10404",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-03-bonn-zeitenstuerme-1930",
+      "title": "Zeitenstürme",
+      "eventType": "concert",
+      "date": "2027-06-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mahler-sinfonie-nr-5-cis-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/zeitenstuerme/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10430",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-04-bonn-liederderwelt-1930",
+      "title": "Lieder der Welt",
+      "eventType": "concert",
+      "date": "2027-06-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [
+        "sharon-kam"
+      ],
+      "program": [
+        {
+          "workId": "copland-clarinet-concerto"
+        },
+        {
+          "workId": "ives-the-unanswered-question"
+        },
+        {
+          "workId": "shaw-clarinet-concerto"
+        },
+        {
+          "workId": "mahler-sinfonie-nr-5-cis-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/liederderwelt/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10419",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-09-bonn-verwandlungen-1930",
+      "title": "Verwandlungen",
+      "eventType": "concert",
+      "date": "2027-06-09",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "alter-bundesrat-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "stepp-keunah-park-violine-ji-eun-yang-christia"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/verwandlungen/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10408",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-03-bonn-b7-1930",
+      "title": "Beethoven 7",
+      "eventType": "concert",
+      "date": "2027-07-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "beethoven-sinfonie-nr-7-a-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/b7/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10453",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-04-bonn-picknick27-1900",
+      "title": "Klassik!Picknick",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "kunstrasen-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "dirk-kaftan"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "klassik-film-und-pop"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/picknick27/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-08-bonn-unerhoert-1930",
+      "title": "Unerhört!",
+      "eventType": "concert",
+      "date": "2027-07-08",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "reicha-ouvertuere-fuer-grosses-orchester"
+        },
+        {
+          "workId": "spohr-konzert-fuer-klarinette-und-orchester-nr"
+        },
+        {
+          "workId": "haydn-sinfonie-nr-97-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/unerhoert/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10426",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-11-bonn-froschkoenig-1000",
+      "title": "Der Froschkönig",
+      "eventType": "concert",
+      "date": "2027-07-11",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "steiner-violoncello-erzaehlerin-und-konzept-stre"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/froschkoenig/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10443",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-11-bonn-froschkoenig2-1200",
+      "title": "Der Froschkönig",
+      "eventType": "concert",
+      "date": "2027-07-11",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "steiner-violoncello-erzaehlerin-und-konzept-stre"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/froschkoenig2/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10444",
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-12-bonn-froschkoenig3-1000",
+      "title": "Der Froschkönig",
+      "eventType": "concert",
+      "date": "2027-07-12",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "beethoven-orchester-bonn"
+      ],
+      "venueId": "beethovenhalle-studio-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "steiner-violoncello-erzaehlerin-und-konzept-stre"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.beethoven-orchester.de/konzerte/froschkoenig3/",
+        "name": "Beethoven Orchester Bonn",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": "https://dtsinhousesales2.derticketservice.de/theaterbonn.webshop/webticket/shop?kassierer=weborch&event=10458",
+      "lastVerified": "2026-08-18"
     }
   ]
 }

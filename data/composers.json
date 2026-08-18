@@ -1092,6 +1092,186 @@
       "id": "astor-piazzolla",
       "name": "Astor Piazzolla",
       "life": null
+    },
+    {
+      "id": "germaine-tailleferre",
+      "name": "Germaine Tailleferre",
+      "life": null
+    },
+    {
+      "id": "carl-orff",
+      "name": "Carl Orff",
+      "life": null
+    },
+    {
+      "id": "josef-myslivecek",
+      "name": "Josef Myslivecek",
+      "life": null
+    },
+    {
+      "id": "pjotr-i-tschaikowski",
+      "name": "Pjotr I. Tschaikowski",
+      "life": null
+    },
+    {
+      "id": "ladislas-de-rohozinski",
+      "name": "Ladislas de Rohozinski",
+      "life": null
+    },
+    {
+      "id": "artie-shaw",
+      "name": "Artie Shaw",
+      "life": null
+    },
+    {
+      "id": "grazyna-bacewicz",
+      "name": "Grażyna Bacewicz",
+      "life": null
+    },
+    {
+      "id": "dmitrij-schostakowitsch",
+      "name": "Dmitrij Schostakowitsch",
+      "life": null
+    },
+    {
+      "id": "george-onslow",
+      "name": "George Onslow",
+      "life": null
+    },
+    {
+      "id": "gabriel-kahane",
+      "name": "Gabriel Kahane",
+      "life": null
+    },
+    {
+      "id": "fanny-hensel",
+      "name": "Fanny Hensel",
+      "life": null
+    },
+    {
+      "id": "alfred-schnittke",
+      "name": "Alfred Schnittke",
+      "life": null
+    },
+    {
+      "id": "franz-liszt",
+      "name": "Franz Liszt",
+      "life": null
+    },
+    {
+      "id": "henri-dutilleux",
+      "name": "Henri Dutilleux",
+      "life": null
+    },
+    {
+      "id": "nach-dem-kinderbuch",
+      "name": "Nach dem Kinderbuch",
+      "life": null
+    },
+    {
+      "id": "anton-reicha",
+      "name": "Anton Reicha",
+      "life": null
+    },
+    {
+      "id": "louis-spohr",
+      "name": "Louis Spohr",
+      "life": null
+    },
+    {
+      "id": "werke-von-magnus",
+      "name": "Werke von Magnus",
+      "life": null
+    },
+    {
+      "id": "tzu-ning-erhu-roehrenspiesslaute",
+      "name": "Tzu-Ning Erhu (Röhrenspießlaute)",
+      "life": null
+    },
+    {
+      "id": "daniele-di-renzo",
+      "name": "Daniele Di Renzo &",
+      "life": null
+    },
+    {
+      "id": "werke-von-viktor-ewald",
+      "name": "Werke von Viktor Ewald,",
+      "life": null
+    },
+    {
+      "id": "musikalisches",
+      "name": "Musikalisches",
+      "life": null
+    },
+    {
+      "id": "caroline-steiner",
+      "name": "Caroline Steiner",
+      "life": null
+    },
+    {
+      "id": "werke-von-franz-schubert",
+      "name": "Werke von Franz Schubert,",
+      "life": null
+    },
+    {
+      "id": "charlie-chaplin",
+      "name": "Charlie Chaplin",
+      "life": null
+    },
+    {
+      "id": "keita-yamamoto",
+      "name": "Keita Yamamoto &",
+      "life": null
+    },
+    {
+      "id": "werke-von-leopold-mozart",
+      "name": "Werke von Leopold Mozart,",
+      "life": null
+    },
+    {
+      "id": "n-n-solist-in",
+      "name": "N. N. Solist*in",
+      "life": null
+    },
+    {
+      "id": "das-tagesprogramm-zum-download",
+      "name": "Das Tagesprogramm zum Download",
+      "life": null
+    },
+    {
+      "id": "projektklassen-b",
+      "name": "Projektklassen b+",
+      "life": null
+    },
+    {
+      "id": "ein-mix-aus-klassik",
+      "name": "Ein Mix aus Klassik,",
+      "life": null
+    },
+    {
+      "id": "werke-von-johann",
+      "name": "Werke von Johann",
+      "life": null
+    },
+    {
+      "id": "werke-von-georg-friedrich",
+      "name": "Werke von Georg Friedrich",
+      "life": null
+    },
+    {
+      "id": "reinhold-friedrich",
+      "name": "Reinhold Friedrich &",
+      "life": null
+    },
+    {
+      "id": "dorothea-stepp",
+      "name": "Dorothea Stepp &",
+      "life": null
+    },
+    {
+      "id": "duette-terzette-und",
+      "name": "Duette, Terzette und",
+      "life": null
     }
   ]
 }

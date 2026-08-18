@@ -602,6 +602,110 @@
       "website": null,
       "type": "other",
       "institutionId": null
+    },
+    {
+      "id": "alter-bundesrat-bonn",
+      "name": "Alter Bundesrat Bonn",
+      "cityIds": [
+        "bonn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "beethovenhalle-bonn",
+      "name": "Beethovenhalle Bonn (Großer Saal)",
+      "cityIds": [
+        "bonn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "beethoven-haus-bonn",
+      "name": "Beethoven-Haus Bonn (Kammermusiksaal)",
+      "cityIds": [
+        "bonn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "kunstrasen-bonn",
+      "name": "KUNST!RASEN Bonn",
+      "cityIds": [
+        "bonn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "beethovenhalle-studio-bonn",
+      "name": "Beethovenhalle Bonn (Studio)",
+      "cityIds": [
+        "bonn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "kreuzkirche-bonn",
+      "name": "Kreuzkirche Bonn",
+      "cityIds": [
+        "bonn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "basecamp-bonn",
+      "name": "BaseCamp Hostel Bonn",
+      "cityIds": [
+        "bonn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "opernhaus-bonn",
+      "name": "Opernhaus Bonn",
+      "cityIds": [
+        "bonn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "opera_house",
+      "institutionId": null
     }
   ]
 }

@@ -6286,6 +6286,926 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "brahms-sinfonie-nr-2-d-dur",
+      "composerId": "johannes-brahms",
+      "title": "Sinfonie Nr. 2 D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "73"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-und-weitere-werke-des-komponisten",
+      "composerId": "johannes-brahms",
+      "title": "und weitere Werke des Komponisten",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "korngold-the-sea-hawk-ouvertuere",
+      "composerId": "erich-wolfgang-korngold",
+      "title": "The Sea Hawk – Ouvertüre",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "korngold-konzert-fuer-violine-und-orchester-d-dur",
+      "composerId": "erich-wolfgang-korngold",
+      "title": "Konzert für Violine und Orchester D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "35"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mahler-sinfonie-nr-1-d-dur-titan",
+      "composerId": "gustav-mahler",
+      "title": "Sinfonie Nr. 1 D-Dur Titan",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tailleferre-ouverture",
+      "composerId": "germaine-tailleferre",
+      "title": "Ouverture",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "orff-carmina-burana",
+      "composerId": "carl-orff",
+      "title": "Carmina Burana",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bernstein-make-our-garden-grow-aus-candide",
+      "composerId": "leonard-bernstein",
+      "title": "Make Our Garden Grow aus: Candide",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "myslivecek-sinfonie-nr-1-f-dur",
+      "composerId": "josef-myslivecek",
+      "title": "Sinfonie Nr. 1 F-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-konzert-fuer-violoncello-und-orchester-d",
+      "composerId": "joseph-haydn",
+      "title": "Konzert für Violoncello und Orchester D-Dur b:2",
+      "catalogue": [
+        {
+          "system": "Hob",
+          "number": "VII"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sinfonie-nr-36-c-dur",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Sinfonie Nr. 36 C-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-linzer-sinfonie",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Linzer Sinfonie",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "425"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "paert-da-pacem-domine",
+      "composerId": "arvo-paert",
+      "title": "Da pacem Domine",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-streichquartett-a-moll-mwv-r-21",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Streichquartett a-Moll , MWV R 21",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "13"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "adams-short-ride-in-a-fast-machine",
+      "composerId": "john-adams",
+      "title": "Short Ride in a Fast Machine",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bernstein-sinfonie-nr-2-the-age-of-anxiety",
+      "composerId": "leonard-bernstein",
+      "title": "Sinfonie Nr. 2 »The Age of Anxiety«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowski-sinfonie-nr-6-h-moll-pathetique",
+      "composerId": "pjotr-i-tschaikowski",
+      "title": "Sinfonie Nr. 6 h-Moll »Pathétique«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "74"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "cras-trio-a-cordes",
+      "composerId": "jean-cras",
+      "title": "Trio à cordes",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rohozinski-suite-breve",
+      "composerId": "ladislas-de-rohozinski",
+      "title": "Suite brêve",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "saens-fantaisie",
+      "composerId": "camille-saint-saens",
+      "title": "Fantaisie",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "cras-quintett-fuer-floete-violine-viola-violo",
+      "composerId": "jean-cras",
+      "title": "Quintett für Flöte, Violine, Viola, Violoncello und Harfe",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sinfonie-nr-41-c-dur-jupiter",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Sinfonie Nr. 41 C-Dur Jupiter",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "551"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "holmes-andromeda",
+      "composerId": "augusta-holmes",
+      "title": "Andromeda",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "poulenc-konzert-fuer-zwei-klaviere-und-orchester",
+      "composerId": "francis-poulenc",
+      "title": "Konzert für zwei Klaviere und Orchester d-Moll FP 61",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "copland-clarinet-concerto",
+      "composerId": "aaron-copland",
+      "title": "Clarinet Concerto",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "shaw-clarinet-concerto",
+      "composerId": "artie-shaw",
+      "title": "Clarinet Concerto",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mahler-sinfonie-nr-5-cis-moll",
+      "composerId": "gustav-mahler",
+      "title": "Sinfonie Nr. 5 cis-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bacewicz-ouverture",
+      "composerId": "grazyna-bacewicz",
+      "title": "Ouverture",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-konzert-fuer-violine-und-orchester-nr-1-",
+      "composerId": "dmitrij-schostakowitsch",
+      "title": "Konzert für Violine und Orchester Nr. 1 a-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "77"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kodaly-hary-janos-suite",
+      "composerId": "zoltan-kodaly",
+      "title": "Háry János-Suite",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-till-eulenspiegels-lustige-streiche-trv-",
+      "composerId": "richard-strauss",
+      "title": "Till Eulenspiegels lustige Streiche , TrV 171",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "28"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "onslow-streichquintett",
+      "composerId": "george-onslow",
+      "title": "Streichquintett",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-sonate-fuer-violoncello-und-klavier-f-du",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Sonate für Violoncello und Klavier F-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "5 Nr. 1"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kahane-emergency-shelter-intake-form",
+      "composerId": "gabriel-kahane",
+      "title": "emergency shelter intake form",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-sinfonie-nr-9-e-moll",
+      "composerId": "antonin-dvorak",
+      "title": "Sinfonie Nr. 9 e-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "95"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-streichquartett-a-moll",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Streichquartett a-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "130"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hensel-streichquartett-es-dur",
+      "composerId": "fanny-hensel",
+      "title": "Streichquartett Es-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schnittke-streichquartett-nr-3",
+      "composerId": "alfred-schnittke",
+      "title": "Streichquartett Nr. 3",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "korngold-klavierquintett-e-dur",
+      "composerId": "erich-wolfgang-korngold",
+      "title": "Klavierquintett E-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "liszt-les-preludes-sinfonische-dichtung-nr-3-s",
+      "composerId": "franz-liszt",
+      "title": "Les Préludes Sinfonische Dichtung Nr. 3 S. 97",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dutilleux-konzert-fuer-violoncello-und-orchester-d",
+      "composerId": "henri-dutilleux",
+      "title": "Konzert für Violoncello und Orchester D’un monde lointain …",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-sinfonie-nr-7-a-dur",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Sinfonie Nr. 7 A-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "92"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kinderbuch-die-koenigin-der-farben-von-jutta-bauer",
+      "composerId": "nach-dem-kinderbuch",
+      "title": "Die Königin der Farben von Jutta Bauer",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kinderbuch-werke-fuer-horn-quartett",
+      "composerId": "nach-dem-kinderbuch",
+      "title": "Werke für Horn-Quartett",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-arr-ferdinand-ries-streichquintett-nach-",
+      "composerId": "ludwig-van-beethoven",
+      "title": "arr. Ferdinand Ries Streichquintett nach der",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "reicha-ouvertuere-fuer-grosses-orchester",
+      "composerId": "anton-reicha",
+      "title": "Ouvertüre für großes Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "spohr-konzert-fuer-klarinette-und-orchester-nr",
+      "composerId": "louis-spohr",
+      "title": "Konzert für Klarinette und Orchester Nr. 2 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "57"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-sinfonie-nr-97-c-dur",
+      "composerId": "joseph-haydn",
+      "title": "Sinfonie Nr. 97 C-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "magnus-lindberg-kraftwerk-und-anderen",
+      "composerId": "werke-von-magnus",
+      "title": "Lindberg, Kraftwerk und anderen",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "roehrenspiesslaute-thomas-bauer-bariton-beethoven-orchester",
+      "composerId": "tzu-ning-erhu-roehrenspiesslaute",
+      "title": "Thomas Bauer Bariton Beethoven Orchester Bonn Dirk Kaftan Dirigent",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "renzo-theresia-veale-violine-susanne-duermeyer",
+      "composerId": "daniele-di-renzo",
+      "title": "Theresia Veale Violine Susanne Dürmeyer Viola Sen-Eun Hyun Violoncello",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ewald-jan-koetsier-johann-sebastian-bach-john-",
+      "composerId": "werke-von-viktor-ewald",
+      "title": "Jan Koetsier, Johann Sebastian Bach, John Cheetham u. a.",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "musikalisches-ueberraschungsprogramm",
+      "composerId": "musikalisches",
+      "title": "Überraschungsprogramm",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "steiner-violoncello-erzaehlerin-und-konzept-stre",
+      "composerId": "caroline-steiner",
+      "title": "Violoncello, Erzählerin und Konzept Streichquartett des Beethoven Orchester Bonn Tänzer*innen der Ballettschule Zaimovic-Stau",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-kurt-weill-u-a",
+      "composerId": "werke-von-franz-schubert",
+      "title": "Kurt Weill u. a.",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "chaplin-stummfilm-und-live-musik-zu-the-gold-rus",
+      "composerId": "charlie-chaplin",
+      "title": "Stummfilm und Live-Musik zu The Gold Rush – Goldrausch",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "yamamoto-susanne-lucker-oboe-hans-joachim-mohrman",
+      "composerId": "keita-yamamoto",
+      "title": "Susanne Lucker → Oboe Hans-Joachim Mohrmann & Florian Gyßling → Klarinette Daniel Lohmüller & Rohan Richards → Horn Thomas Ludes & Viola Focke → Fagott Mattia Riva → Kontrabass",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-arvo-paert-gustav-holst-u-a",
+      "composerId": "werke-von-leopold-mozart",
+      "title": "Arvo Pärt, Gustav Holst u. a.",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "in-beethoven-orchester-bonn-dirk-kaftan-dir",
+      "composerId": "n-n-solist-in",
+      "title": "Beethoven Orchester Bonn Dirk Kaftan Dirigent",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-missa-solemnis-d-dur",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Missa Solemnis D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "123"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "download-download-tagesprogramm",
+      "composerId": "das-tagesprogramm-zum-download",
+      "title": "Download Tagesprogramm",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "b-beethoven-orchester-bonn-fabian-mueller-",
+      "composerId": "projektklassen-b",
+      "title": "Beethoven Orchester Bonn Fabian Müller Klavier und musikalische Leitung",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "klassik-film-und-pop",
+      "composerId": "ein-mix-aus-klassik",
+      "title": "Film und Pop",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "korngold-die-abenteuer-des-robin-hood",
+      "composerId": "erich-wolfgang-korngold",
+      "title": "Die Abenteuer des Robin Hood",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "johann-sebastian-bach-gustav-holst-felix-mendel",
+      "composerId": "werke-von-johann",
+      "title": "Sebastian Bach, Gustav Holst, Felix Mendelssohn Bartholdy, Georg Friedrich Händel u. a.",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "friedrich-haendel-und-alessandro-scarlatti",
+      "composerId": "werke-von-georg-friedrich",
+      "title": "Händel und Alessandro Scarlatti",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "friedrich-sandro-hirsch-trompete-beethoven-orchest",
+      "composerId": "reinhold-friedrich",
+      "title": "Sandro Hirsch Trompete Beethoven Orchester Bonn Dirk Kaftan Dirigent & Moderator",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "stepp-keunah-park-violine-ji-eun-yang-christia",
+      "composerId": "dorothea-stepp",
+      "title": "Keunah Park Violine Ji Eun Yang & Christian Fischer Viola Lena Ovrutsky-Wignjosaputro und Markus Fassbender Violoncello",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-die-vier-jahreszeiten",
+      "composerId": "antonio-vivaldi",
+      "title": "Die vier Jahreszeiten",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "8"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "und-quartette-aus-der-bonner-hofkapelle",
+      "composerId": "duette-terzette-und",
+      "title": "Quartette aus der Bonner Hofkapelle",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }
