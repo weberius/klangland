@@ -3452,6 +3452,81 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "bruckner-sinfonie-3",
+      "composerId": "anton-bruckner",
+      "title": "Sinfonie Nr. 3 d-Moll",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1873,
+        "to": 1889
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-tragische-ouvertuere",
+      "composerId": "johannes-brahms",
+      "title": "Tragische Ouvertüre d-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "81"
+        }
+      ],
+      "yearComposed": {
+        "from": 1880,
+        "to": 1880
+      },
+      "genre": "overture",
+      "durationMinutes": 14,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "britten-violinkonzert-d-moll",
+      "composerId": "benjamin-britten",
+      "title": "Violinkonzert d-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "15"
+        }
+      ],
+      "yearComposed": {
+        "from": 1938,
+        "to": 1939
+      },
+      "genre": "concerto",
+      "durationMinutes": 32,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-sinfonie-3-eroica",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Sinfonie Nr. 3 Es-Dur »Eroica«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "55"
+        }
+      ],
+      "yearComposed": {
+        "from": 1802,
+        "to": 1804
+      },
+      "genre": "symphony",
+      "durationMinutes": 48,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

@@ -23,6 +23,29 @@ function index<T extends { id: string }>(items: T[]): Map<string, T> {
   return new Map(items.map((i) => [i.id, i]));
 }
 
+function normalizeSource(event: ConcertEvent): ConcertEvent['source'] {
+  if (!event.source) return null;
+  return {
+    url: event.source.url,
+    name: event.source.name || 'Unbekannte Quelle',
+    retrievedAt: event.source.retrievedAt || event.lastVerified || '',
+  };
+}
+
+function normalizeEvent(event: ConcertEvent): ConcertEvent {
+  return {
+    ...event,
+    conductorPersonIds: event.conductorPersonIds ?? [],
+    soloistPersonIds: event.soloistPersonIds ?? [],
+    program: event.program ?? [],
+    seriesId: event.seriesId ?? null,
+    description: event.description ?? null,
+    source: normalizeSource(event),
+    ticketUrl: event.ticketUrl ?? null,
+    lastVerified: event.lastVerified ?? event.source?.retrievedAt ?? null,
+  };
+}
+
 /**
  * Lädt alle JSON-Stammdaten einmalig und stellt Lookups sowie
  * beziehungsauflösende Hilfsmethoden bereit. Die App ist statisch;
@@ -64,7 +87,7 @@ export class DataService {
         venues: index(r.venues.venues),
         composers: index(r.composers.composers),
         works: index(r.works.works),
-        events: [...r.events.events],
+        events: r.events.events.map(normalizeEvent),
       });
     } catch (e) {
       console.error('Daten konnten nicht geladen werden', e);
@@ -137,11 +160,13 @@ export class DataService {
     return ids.map((id) => this.city(id)?.name ?? id).join(' / ');
   }
 
-  personNames(ids: string[]): string[] {
+  personNames(ids: string[] | null | undefined): string[] {
+    if (!ids || ids.length === 0) return [];
     return ids.map((id) => this.person(id)?.name ?? id);
   }
 
-  ensembleNames(ids: string[]): string[] {
+  ensembleNames(ids: string[] | null | undefined): string[] {
+    if (!ids || ids.length === 0) return [];
     return ids.map((id) => this.ensemble(id)?.name ?? id);
   }
 

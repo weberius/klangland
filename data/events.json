@@ -7183,31 +7183,36 @@
       "title": "Bruckner 3",
       "eventType": "concert",
       "date": "2026-09-17",
-      "startTime": "19:00",
-      "endTime": null,
+      "startTime": "19:30",
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "bertrand-de-billy"
+      ],
+      "soloistPersonIds": [],
       "program": [
         {
-          "workId": "work-bruckner-symphony-3",
-          "notes": ""
+          "workId": "wagner-siegfried-idyll"
         },
         {
-          "workId": "work-wagner-rienzi-overture",
-          "notes": ""
+          "workId": "bruckner-sinfonie-3",
+          "version": "3. Fassung"
         }
       ],
+      "seriesId": null,
+      "description": "Ein Geburtstagsständchen sondergleichen schrieb Richard Wagner anlässlich der Geburt seines ersten Sohnes Siegfried 1870: das \"Siegfried-Idyll\". Wie der Name schon verrät, beruht das ca. 20-minütige, in den Konzertprogrammen fest verankerte Stück auf Motiven aus dem gleichnamigen \"Ring\"-Teil des Meisters, dessen typische Handschrift auch hier ersichtlich ist. Eine Sinfonie mit dramatischen Konflikten, verzweifelten Ausbrüchen und Bruckner’scher Grandezza: Ursprünglich als \"Wagner-Sinfonie\" geplant, musste die Partitur seiner faszinierenden Dritten mehrfach bearbeitet werden, und nachdem die Uraufführung der zweiten Fassung zum Desaster wurde, schrieb Bruckner eine dritte Fassung, die in diesem Konzert erklingt. Der international agierende Dirigent Bertrand de Billy leitet das erste Sinfoniekonzert der Spielzeit und gibt sein Debüt am Pult der Essener Philharmoniker.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/bruckner-3-153256/",
-        "fetched": "2026-08-18T05:52:21.426163"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "conductorPersonIds": [
-        "person-bertrand-de-billy"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2026-09-18-essen-bruckner-3",
@@ -7215,30 +7220,35 @@
       "eventType": "concert",
       "date": "2026-09-18",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "bertrand-de-billy"
+      ],
+      "soloistPersonIds": [],
       "program": [
         {
-          "workId": "work-bruckner-symphony-3",
-          "notes": ""
+          "workId": "wagner-siegfried-idyll"
         },
         {
-          "workId": "work-wagner-rienzi-overture",
-          "notes": ""
+          "workId": "bruckner-sinfonie-3",
+          "version": "3. Fassung"
         }
       ],
+      "seriesId": null,
+      "description": "Ein Geburtstagsständchen sondergleichen schrieb Richard Wagner anlässlich der Geburt seines ersten Sohnes Siegfried 1870: das \"Siegfried-Idyll\". Wie der Name schon verrät, beruht das ca. 20-minütige, in den Konzertprogrammen fest verankerte Stück auf Motiven aus dem gleichnamigen \"Ring\"-Teil des Meisters, dessen typische Handschrift auch hier ersichtlich ist. Eine Sinfonie mit dramatischen Konflikten, verzweifelten Ausbrüchen und Bruckner’scher Grandezza: Ursprünglich als \"Wagner-Sinfonie\" geplant, musste die Partitur seiner faszinierenden Dritten mehrfach bearbeitet werden, und nachdem die Uraufführung der zweiten Fassung zum Desaster wurde, schrieb Bruckner eine dritte Fassung, die in diesem Konzert erklingt. Der international agierende Dirigent Bertrand de Billy leitet das erste Sinfoniekonzert der Spielzeit und gibt sein Debüt am Pult der Essener Philharmoniker.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/bruckner-3-153256/",
-        "fetched": "2026-08-18T05:52:21.426469"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "conductorPersonIds": [
-        "person-bertrand-de-billy"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2026-09-23-essen-konzert-für-menschen",
@@ -7246,21 +7256,27 @@
       "eventType": "concert",
       "date": "2026-09-23",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "21:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "tommaso-turchetta"
+      ],
+      "soloistPersonIds": [],
       "program": [],
+      "seriesId": null,
+      "description": "Eine Sinfonie mit dramatischen Konflikten, verzweifelten Ausbrüchen und Bruckner’scher Grandezza: Ursprünglich als \"Wagner-Sinfonie\" geplant, erblickte Bruckners faszinierende Dritte 1890 das Licht der Welt. Das Formatder Essener Philharmoniker wird zum ersten Mal durch das inklusive Projekt des Aalto Ballett Essen erweitert: Im Anschluss an das Konzert werden Rollstuhlfahrer*innen gemeinsam mit Tänzer*innen der Compagnie unter Anleitung von Armen Hakobyan eine Choreografie präsentieren.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/konzert-fuer-menschen-mit-behinderung-164739/",
-        "fetched": "2026-08-18T05:52:21.426506"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "conductorPersonIds": [
-        "person-tommaso-turchetta"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2026-09-27-essen-mit-götz-alsmann-ins",
@@ -7268,24 +7284,29 @@
       "eventType": "concert",
       "date": "2026-09-27",
       "startTime": "11:00",
-      "endTime": null,
+      "endTime": "12:15",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/mit-goetz-alsmann-ins-konzert-164748/",
-        "fetched": "2026-08-18T05:52:21.426535"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-tommaso-turchetta"
+        "tommaso-turchetta"
       ],
       "soloistPersonIds": [
-        "person-goetz-alsmann"
-      ]
+        "goetz-alsmann"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Götz Alsmann ist ein Phänomen: Als origineller Entertainer begeistert er sein Publikum in Hörfunk und Fernsehen. Auch in dieser Spielzeit präsentiert der promovierte Musikwissenschaftler gemeinsam mit den Essener Philharmonikern berühmte Werke aus dem aktuellen Spielplan. Mit viel Charme und Humor zeigt Alsmann, dass der Hörgenuss mit der Kenntnis steigt - und man trotzdem kein Gelehrter sein muss, um Spaß an klassischer Musik zu haben.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/mit-goetz-alsmann-ins-konzert-164748/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2026-10-11-essen-sonnenquartette",
@@ -7293,23 +7314,29 @@
       "eventType": "concert",
       "date": "2026-10-11",
       "startTime": "11:00",
-      "endTime": null,
+      "endTime": "13:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "sarah-koenen",
+        "sebastian-b",
+        "miriam-klaeger"
+      ],
       "program": [],
+      "seriesId": null,
+      "description": "Der \"Vater\" des Streichquartetts Joseph Haydn komponierte zahlreiche Stücke für diese Gattung, die ihn zeit seines Lebens begleitete. Einer aufgehenden Sonne, die auf dem Titelblatt der Ausgabe von J. Hummel aus dem Jahr 1779 abgebildet war, verdankt der Zyklus op. 20 seinen Namen: \"Sonnenquartette\". Diese \"strahlenden\" Quartette gehören aufgrund ihrer vorbildhaften Struktur und Dramatik zu den besten der Gattung. In dieser Musiktradition wurzelt auch Dvo?áks kammermusikalischer Beitrag, der für die Streicherliteratur eine ebenfalls beachtliche Sammlung hinterließ. 1895 entstand sein Quartett Nr. 13, in dem der slawische Tonfall und der Einfluss der böhmischen Musiktradition deutlich erkennbar sind. Mit dem \"klassischen\" Streichquartett beschäftigte sich auch der 31-jährige Debussy, als er 1893 sein einziges Streichquartett schrieb - allerdings auf seine eigene Art und Weise: \"Die Melodie bewegt sich, als schreite sie über einen luxuriösen, kunstvoll gemusterten Teppich von wundersamer Farbigkeit\" soll Paul Dukas über dieses Werk gesagt haben, dessen eigenartiger Struktur und Klangsprache den Stil der weiteren Meisterwerke vorwegnimmt.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sonnenquartette-163784/",
-        "fetched": "2026-08-18T05:52:21.426566"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "soloistPersonIds": [
-        "person-sarah-koenen",
-        "person-sebastian-b",
-        "person-miriam-klaeger"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2026-10-12-essen-klang-geschichten",
@@ -7317,74 +7344,108 @@
       "eventType": "concert",
       "date": "2026-10-12",
       "startTime": "09:30",
-      "endTime": null,
+      "endTime": "10:15",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "eduardo-rodriguez-romanos",
+        "anja-renczikowski"
+      ],
       "program": [],
+      "seriesId": null,
+      "description": "Das liebste Kinderbuch und seine kleinen wie großen Helden bleiben ein Leben lang in Erinnerung. Die eigenen Schätze aus Kindertagen präsentieren Musiker*innen im Festsaal der Philharmonie Essen bei den \"Klanggeschichten\". Dabei werden die Klassiker der Kinderbuchliteratur nicht nur vorgelesen, sondern liebevoll und individuell musikalisch illustriert. Eingeladen sind Jung und Alt, die gemeinsam Worten und Musik lauschen wollen, Neues kennenlernen oder Altbekanntes wiederentdecken möchten. Zum Auftakt bringt Eduardo Rodriguez Romanos, Solo-Kontrabassist der Essener Philharmoniker, den beliebten Kinderbuchklassiker \"Oh wie schön ist Panama\" von Janosch mit.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/klang-geschichten-168355/",
-        "fetched": "2026-08-18T05:52:21.426598"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "soloistPersonIds": [
-        "person-eduardo-rodriguez-romanos",
-        "person-anja-renczikowski"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2026-10-15-essen-eroica",
       "title": "Eroica",
       "eventType": "concert",
       "date": "2026-10-15",
-      "startTime": "21:30",
-      "endTime": null,
+      "startTime": "19:30",
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/eroica-153285/",
-        "fetched": "2026-08-18T05:52:21.426624"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-andrea-sanguineti"
+        "andrea-sanguineti"
       ],
       "soloistPersonIds": [
-        "person-liza-ferschtman",
-        "person-essener-philharmoniker"
-      ]
+        "liza-ferschtman"
+      ],
+      "program": [
+        {
+          "workId": "brahms-tragische-ouvertuere"
+        },
+        {
+          "workId": "britten-violinkonzert-d-moll"
+        },
+        {
+          "workId": "beethoven-sinfonie-3-eroica"
+        }
+      ],
+      "seriesId": null,
+      "description": "Als 1880 in Wien die \"Tragische Ouvertüre\" von Johannes Brahms uraufgeführt wurde, war der Komponist auf dem Höhepunkt seines Schaffens. Auch Ludwig van Beethoven schrieb seine dritte Sinfonie in der schaffensreichsten Phase seines Lebens. Diese eröffnet, entsprechend ihres Beinamens \"Eroica\", gleich zu Beginn mit zwei heroischen Paukenschlägen. Als Benjamin Britten 1939 sein Violinkonzert in d-Moll komponierte, erfuhr sein Leben einen großen Einschnitt: Unter anderem aufgrund der politischen Lage in Europa emigrierte der Komponist in die USA. Der hoch dramatische, vorwärtsdrängende zweite Satz des Violinkonzertes verdeutlicht Brittens Lebensrealität in der Mitte des 20. Jahrhunderts. Die Solistin Liza Ferschtman bringt das Violinkonzert mit einem tiefen Verständnis für die Komposition und der Beherrschung eines extrem breit aufgefächerten Repertoires auf die Bühne.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/eroica-153285/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2026-10-16-essen-eroica",
       "title": "Eroica",
       "eventType": "concert",
       "date": "2026-10-16",
-      "startTime": "19:00",
-      "endTime": null,
+      "startTime": "19:30",
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/eroica-153285/",
-        "fetched": "2026-08-18T05:52:21.426651"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-andrea-sanguineti"
+        "andrea-sanguineti"
       ],
       "soloistPersonIds": [
-        "person-liza-ferschtman",
-        "person-essener-philharmoniker"
-      ]
+        "liza-ferschtman"
+      ],
+      "program": [
+        {
+          "workId": "brahms-tragische-ouvertuere"
+        },
+        {
+          "workId": "britten-violinkonzert-d-moll"
+        },
+        {
+          "workId": "beethoven-sinfonie-3-eroica"
+        }
+      ],
+      "seriesId": null,
+      "description": "Als 1880 in Wien die \"Tragische Ouvertüre\" von Johannes Brahms uraufgeführt wurde, war der Komponist auf dem Höhepunkt seines Schaffens. Auch Ludwig van Beethoven schrieb seine dritte Sinfonie in der schaffensreichsten Phase seines Lebens. Diese eröffnet, entsprechend ihres Beinamens \"Eroica\", gleich zu Beginn mit zwei heroischen Paukenschlägen. Als Benjamin Britten 1939 sein Violinkonzert in d-Moll komponierte, erfuhr sein Leben einen großen Einschnitt: Unter anderem aufgrund der politischen Lage in Europa emigrierte der Komponist in die USA. Der hoch dramatische, vorwärtsdrängende zweite Satz des Violinkonzertes verdeutlicht Brittens Lebensrealität in der Mitte des 20. Jahrhunderts. Die Solistin Liza Ferschtman bringt das Violinkonzert mit einem tiefen Verständnis für die Komposition und der Beherrschung eines extrem breit aufgefächerten Repertoires auf die Bühne.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/eroica-153285/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2026-10-19-essen-klassiklounge",
@@ -7392,23 +7453,29 @@
       "eventType": "concert",
       "date": "2026-10-19",
       "startTime": "20:00",
-      "endTime": null,
+      "endTime": "22:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "andreas-gosling",
+        "julien-flor",
+        "joachim-graf"
+      ],
       "program": [],
+      "seriesId": null,
+      "description": "Die KlassikLounge der Essener Philharmoniker - dieses außergewöhnliche Konzertformat ist längst eine große Marke. Unterschiedliche Kammermusik-Ensembles unseres Orchesters präsentieren im Café Central des Grillo-Theaters spannende musikalische Mischungen, umrahmt von DJ-Sounds. Im Anschluss kann sich das Publikum in lockerer Atmosphäre mit den beteiligten Musiker*innen austauschen. Auch in der Spielzeit 2026/2027 sind die Musiker*innen vier Mal zu Gast. Die konkreten Termine werden rechtzeitig in unseren digitalen und gedruckten Publikationen bekannt gegeben.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/klassiklounge-168024/",
-        "fetched": "2026-08-18T05:52:21.426678"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "soloistPersonIds": [
-        "person-andreas-gosling",
-        "person-julien-flor",
-        "person-joachim-graf"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2026-11-07-essen-der-nussknacker",
@@ -7422,186 +7489,33 @@
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
       "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
-        "fetched": "2026-08-18T05:52:21.426706"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "conductorPersonIds": [
-        "person-musikalische"
-      ],
-      "soloistPersonIds": [
-        "person-youri-vamos",
-        "person-martin-cerny",
-        "person-marian-thienel",
-        "person-joyce-couco",
-        "person-savina-kationi"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
-      "id": "event-2026-11-15-essen-le-groupe-des-six-et",
-      "title": "Le groupe des Six et amis",
+      "id": "event-2026-11-12-essen-der-nussknacker",
+      "title": "Der Nussknacker",
       "eventType": "concert",
-      "date": "2026-11-15",
-      "startTime": "11:00",
-      "endTime": null,
-      "status": "scheduled",
-      "ensembleIds": [
-        "essener-philharmoniker"
-      ],
-      "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/le-groupe-des-six-et-amis-163144/",
-        "fetched": "2026-08-18T05:52:21.426765"
-      },
-      "soloistPersonIds": [
-        "person-andreas-gosling",
-        "person-julien-flor",
-        "person-joachim-graf"
-      ]
-    },
-    {
-      "id": "event-2026-11-26-essen-dvorák-7",
-      "title": "Dvorák 7",
-      "eventType": "concert",
-      "date": "2026-11-26",
-      "startTime": "19:00",
-      "endTime": null,
-      "status": "scheduled",
-      "ensembleIds": [
-        "essener-philharmoniker"
-      ],
-      "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/dvorak-7-153316/",
-        "fetched": "2026-08-18T05:52:21.426792"
-      },
-      "conductorPersonIds": [
-        "person-daniel-cohen"
-      ],
-      "soloistPersonIds": [
-        "person-julien-flor",
-        "person-essener-philharmoniker"
-      ]
-    },
-    {
-      "id": "event-2026-11-27-essen-dvorák-7",
-      "title": "Dvorák 7",
-      "eventType": "concert",
-      "date": "2026-11-27",
-      "startTime": "20:04",
-      "endTime": null,
-      "status": "scheduled",
-      "ensembleIds": [
-        "essener-philharmoniker"
-      ],
-      "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/dvorak-7-153316/",
-        "fetched": "2026-08-18T05:52:21.426818"
-      },
-      "conductorPersonIds": [
-        "person-daniel-cohen"
-      ],
-      "soloistPersonIds": [
-        "person-julien-flor",
-        "person-essener-philharmoniker"
-      ]
-    },
-    {
-      "id": "event-2026-12-13-essen-barocke-weihnachten",
-      "title": "Barocke Weihnachten",
-      "eventType": "concert",
-      "date": "2026-12-13",
-      "startTime": "11:00",
-      "endTime": null,
-      "status": "scheduled",
-      "ensembleIds": [
-        "essener-philharmoniker"
-      ],
-      "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/barocke-weihnachten-163810/",
-        "fetched": "2026-08-18T05:52:21.426841"
-      },
-      "soloistPersonIds": [
-        "person-ava-polheim",
-        "person-tobias-nayda",
-        "person-judith-nayda",
-        "person-santiago-cavanagh",
-        "person-patrick-jaskolka"
-      ]
-    },
-    {
-      "id": "event-2026-12-14-essen-klassiklounge",
-      "title": "KlassikLounge",
-      "eventType": "concert",
-      "date": "2026-12-14",
-      "startTime": "20:00",
-      "endTime": null,
-      "status": "scheduled",
-      "ensembleIds": [
-        "essener-philharmoniker"
-      ],
-      "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/klassiklounge-168025/",
-        "fetched": "2026-08-18T05:52:21.426885"
-      },
-      "soloistPersonIds": [
-        "person-clemens-ratajczak",
-        "person-eduardo-rodriguez-romanos",
-        "person-christopher-bruckman"
-      ]
-    },
-    {
-      "id": "event-2026-12-17-essen-weihnachts­oratorium",
-      "title": "Weihnachts­oratorium",
-      "eventType": "concert",
-      "date": "2026-12-17",
-      "startTime": "19:00",
-      "endTime": null,
-      "status": "scheduled",
-      "ensembleIds": [
-        "essener-philharmoniker"
-      ],
-      "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/weihnachtsoratorium-153345/",
-        "fetched": "2026-08-18T05:52:21.426911"
-      },
-      "conductorPersonIds": [
-        "person-riccardo-minasi"
-      ],
-      "soloistPersonIds": [
-        "person-aljoscha-lennert",
-        "person-natalia-labourdette",
-        "person-liliana-de-sousa",
-        "person-mykhailo-kushlyk",
-        "person-baurzhan-anderzhanov",
-        "person-philharmonischer-chor-essen",
-        "person-patrick-jaskolka",
-        "person-essener-philharmoniker"
-      ]
-    },
-    {
-      "id": "event-2026-12-18-essen-weihnachts­oratorium",
-      "title": "Weihnachts­oratorium",
-      "eventType": "concert",
-      "date": "2026-12-18",
+      "date": "2026-11-12",
       "startTime": "19:30",
       "endTime": null,
       "status": "scheduled",
@@ -7609,31 +7523,67 @@
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/weihnachtsoratorium-153345/",
-        "fetched": "2026-08-18T05:52:21.426961"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-riccardo-minasi"
+        "musikalische"
       ],
       "soloistPersonIds": [
-        "person-aljoscha-lennert",
-        "person-natalia-labourdette",
-        "person-liliana-de-sousa",
-        "person-mykhailo-kushlyk",
-        "person-baurzhan-anderzhanov",
-        "person-philharmonischer-chor-essen",
-        "person-patrick-jaskolka",
-        "person-essener-philharmoniker"
-      ]
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
-      "id": "event-2027-01-01-essen-neujahrskonzert-der-",
-      "title": "Neujahrskonzert der Essener Philharmoniker",
+      "id": "event-2026-11-15-essen-der-nussknacker",
+      "title": "Der Nussknacker",
       "eventType": "concert",
-      "date": "2027-01-01",
+      "date": "2026-11-15",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-22-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-11-22",
       "startTime": "18:00",
       "endTime": null,
       "status": "scheduled",
@@ -7641,24 +7591,731 @@
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/neujahrskonzert-der-essener-philharmoniker-153655/",
-        "fetched": "2026-08-18T05:52:21.427015"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-andrea-sanguineti"
+        "musikalische"
       ],
       "soloistPersonIds": [
-        "person-idil-kutay",
-        "person-bettina-ranch",
-        "person-tilmann-unger",
-        "person-andrei-nicoara",
-        "person-opernchor-des-aalto-theaters",
-        "person-patrick-jaskolka",
-        "person-essener-philharmoniker"
-      ]
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-29-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-11-29",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-04-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-12-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-06-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-12-06",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-10-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-12-10",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-12-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-12-12",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-23-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-12-23",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-25-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-12-25",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-30-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-12-30",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-09-essen-der-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2027-01-09",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "youri-vamos",
+        "martin-cerny",
+        "marian-thienel",
+        "joyce-couco",
+        "savina-kationi"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Weihnachtszeit! In den verschneiten Straßen Londons ist viel los, vor dem Spielzeugladen von Drosselmeier versammeln sich Kinder, Jugendliche und Eltern – alle besorgen Geschenke und Köstlichkeiten und freuen sich auf Weihnachten. Nur einer lässt sich von der allgemeinen Euphorie nicht überzeugen: der bittere, ehrgeizige Ebenezer Scrooge, der Weihnachten hasst, seinen Mitarbeiter Bob Crachit gnadenlos entlässt und den neuen Nussknacker von dessen Tochter kaputt macht. Doch nach dem nächtlichen Besuch der höllischen Geister und mithilfe der gütigen Zauberfee entdeckt Scrooge Menschlichkeit, Großzügigkeit und Nächstenliebe – und lernt dabei, die Weihnachtszeit zu genießen. Eine außergewöhnliche Neudeutung des Klassikers schuf der ungarische Choreograf Youri Vámos, langjähriger Ballettdirektor der Deutschen Oper am Rhein, als er seine „Nussknacker“-Choreografie 1988 in Bonn präsentierte: Dabei kombinierte er zwei Standardwerke, einerseits die Erzählung „Nussknacker und Mausekönig“ von E.T.A. Hoffmann – worauf das weltberühmte Ballett Tschaikowskys von 1892 basiert – und andererseits die „Weihnachtsgeschichte“ („A Christmas Carol“) von Charles Dickens. Vámos lässt die Figur des Scrooge durch das Bühnengeschehen führen, vertraut auf die farbenfrohe Musiksprache Tschaikowskys und kreiert somit einen märchenhaft-weihnachtlichen Ballettabend für die ganze Familie, während die atmosphärische Bühne Michael Scotts das viktorianische London sowie die traumhafte, winterliche Welt des „Nussknackers“ zu neuem Leben erweckt. Vámos’ Choreografien haben eine unmittelbare emotionale Wirkung auf das Publikum, wobei der narrative Ansatz seiner Ballette zu den wichtigen Merkmalen seines persönlichen Stils gehört. Die gefeierte „Nussknacker“- Choreografie kommt nun zum ersten Mal nach Essen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-nussknacker/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-15-essen-le-groupe-des-six-et",
+      "title": "Le groupe des Six et amis",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "andreas-gosling",
+        "julien-flor",
+        "joachim-graf"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Das zweite Kammerkonzert mit dem Titel \"Le groupe des Six et amis\" widmet sich der faszinierenden Klangwelt der französischen Moderne rund um die legendäre Künstlervereinigung \"Les Six\". Mit Werken von Darius Milhaud, Georges Auric und Louis Durey sowie Kompositionen ihrer Zeitgenossen Alexandre Tansman, Eugène Bozza und Jacques Ibert entfaltet sich ein farbenreiches Panorama französischer Kammermusik des 20. Jahrhunderts. Zwischen Esprit, Witz und lyrischer Eleganz entstehen feinsinnige Klangdialoge für Oboe, Klarinette und Fagott. Das Konzert verbindet die unverwechselbare Ästhetik von \"Les Six\" mit den musikalischen Stimmen ihrer Freunde und Zeitgenossen - charmant, virtuos und voller französischer Lebensart.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/le-groupe-des-six-et-amis-163144/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-26-essen-dvorák-7",
+      "title": "Dvorák 7",
+      "eventType": "concert",
+      "date": "2026-11-26",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "daniel-cohen"
+      ],
+      "soloistPersonIds": [
+        "julien-flor"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Als bestes seiner Art gilt das Klarinettenkonzert in A-Dur. Geschrieben für den Solisten Anton Stadler, gab Mozart all seine Begeisterung für das Blasinstrument in das Werk: Der warm-weiche Klang der Klarinette und ihr breites Farbspektrum werden in einer der letzten Kompositionen Mozarts brillant in Szene gesetzt, bei diesem Konzert durch den Solo-Klarinettisten der Essener Philharmoniker, Julien Floréani. Dvoráks 7. Sinfonie, die bei ihrer Uraufführung 1885 in London frenetisch gefeiert wurde, gibt sich anders als die vorhergegangenen aus der Feder des Tschechen. Folkloristische Elemente finden sich hier kaum, der Tonfall der Sinfonie ist überwiegend ernst und leidenschaftlich, der Einfluss von Brahms hörbar. Ullmanns Vertonung von Kleists Schauspielkomödie \"Der zerbrochene Krug\" bildet den spritzig-mitreißenden Ausgangspunkt des Programms. Die Ouvertüre zur Oper vereint geistreich Humor und Opulenz.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/dvorak-7-153316/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-11-27-essen-dvorák-7",
+      "title": "Dvorák 7",
+      "eventType": "concert",
+      "date": "2026-11-27",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "daniel-cohen"
+      ],
+      "soloistPersonIds": [
+        "julien-flor"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Als bestes seiner Art gilt das Klarinettenkonzert in A-Dur. Geschrieben für den Solisten Anton Stadler, gab Mozart all seine Begeisterung für das Blasinstrument in das Werk: Der warm-weiche Klang der Klarinette und ihr breites Farbspektrum werden in einer der letzten Kompositionen Mozarts brillant in Szene gesetzt, bei diesem Konzert durch den Solo-Klarinettisten der Essener Philharmoniker, Julien Floréani. Dvoráks 7. Sinfonie, die bei ihrer Uraufführung 1885 in London frenetisch gefeiert wurde, gibt sich anders als die vorhergegangenen aus der Feder des Tschechen. Folkloristische Elemente finden sich hier kaum, der Tonfall der Sinfonie ist überwiegend ernst und leidenschaftlich, der Einfluss von Brahms hörbar. Ullmanns Vertonung von Kleists Schauspielkomödie \"Der zerbrochene Krug\" bildet den spritzig-mitreißenden Ausgangspunkt des Programms. Die Ouvertüre zur Oper vereint geistreich Humor und Opulenz.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/dvorak-7-153316/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-05-essen-weihnachts­konzert",
+      "title": "Weihnachts­konzert",
+      "eventType": "concert",
+      "date": "2026-12-05",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "mykhailo-kushlyk",
+        "malte-arkona",
+        "patrick-jaskolka"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Überall auf der Welt wird Weihnachten gefeiert. Jedes Land hat dafür seine eigenen Traditionen. Ob Küsse unterm Mistelzweig (England), Weihnachtsschwimmen im eiskalten Meer (Irland) oder Spinnennetze im Tannenbaum (Ukraine) – eines haben alle gemeinsam: Es wird gesungen, was das Zeug hält. In dieser Tradition laden wir zum Lauschen und Mitsingen ein, wenn unsere Solist*innen und Chöre des Aalto-Theaters zu den Klängen der Essener Philharmoniker ihre Stimmen erheben.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/weihnkzt/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-12-essen-jazz-im-aalto",
+      "title": "Jazz im Aalto",
+      "eventType": "concert",
+      "date": "2026-12-12",
+      "startTime": "11:00",
+      "endTime": "14:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "ks.-christina-clark",
+        "florian-esch"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Schon lange ist es eine beliebte Tradition, unterschiedliche Orte des Aalto-Theaters ein paar Mal im Jahr einen Abend lang in einen Jazz-Club zu verwandeln, in dem sich Mitglieder des Gesangsensembles oder der Essener Philharmoniker gemeinsam mit Musiker*innen aus der Freien Szene musikalisch von einer anderen Seite präsentieren. Es wird gejazzt und gejammt, was das Zeug hält.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/jazz-christmas/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-15-essen-jazz-im-aalto",
+      "title": "Jazz im Aalto",
+      "eventType": "concert",
+      "date": "2026-12-15",
+      "startTime": "20:30",
+      "endTime": "23:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "ks.-christina-clark",
+        "florian-esch"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Schon lange ist es eine beliebte Tradition, unterschiedliche Orte des Aalto-Theaters ein paar Mal im Jahr einen Abend lang in einen Jazz-Club zu verwandeln, in dem sich Mitglieder des Gesangsensembles oder der Essener Philharmoniker gemeinsam mit Musiker*innen aus der Freien Szene musikalisch von einer anderen Seite präsentieren. Es wird gejazzt und gejammt, was das Zeug hält.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/jazz-christmas/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-13-essen-barocke-weihnachten",
+      "title": "Barocke Weihnachten",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "ava-polheim",
+        "tobias-nayda",
+        "judith-nayda",
+        "santiago-cavanagh",
+        "patrick-jaskolka"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Mit Meisterwerken des Barock beschließen die Essener Philharmoniker im dritten Kammerkonzert das Jahr 2026 und stimmen auf besinnlich-feierliche Weihnachtstage ein. Vier große Komponisten des 17. und 18. Jahrhunderts, Antonio Vivaldi, Arcangelo Corelli, Giuseppe Torelli und Johann Sebastian Bach sind in diesem Konzert versammelt. Im Mittelpunkt stehe Streich- und Saiteninstrumente in vielfältigen Besetzungen: Solistisch treten Violoncello, Gitarre und zwei Violinen hevor, begleitet von Streichern und meist auch einem Basso continuo. Aber auch kammermusikalische Intimität ist mit der Solosonate für Violine von Bach vertreten. Der weihnachtliche Geist schwingt dabei besonders in den Concerti grossi von Corelli und Torelli mit, die beide mit ihren Werken diese Gattung maßgeblich prägten.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/barocke-weihnachten-163810/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-14-essen-klassiklounge",
+      "title": "KlassikLounge",
+      "eventType": "concert",
+      "date": "2026-12-14",
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "clemens-ratajczak",
+        "eduardo-rodriguez-romanos",
+        "christopher-bruckman"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Die KlassikLounge der Essener Philharmoniker - dieses außergewöhnliche Konzertformat ist längst eine große Marke. Unterschiedliche Kammermusik-Ensembles unseres Orchesters präsentieren im Café Central des Grillo-Theaters spannende musikalische Mischungen, umrahmt von DJ-Sounds. Im Anschluss kann sich das Publikum in lockerer Atmosphäre mit den beteiligten Musiker*innen austauschen. Auch in der Spielzeit 2026/2027 sind die Musiker*innen vier Mal zu Gast. Die konkreten Termine werden rechtzeitig in unseren digitalen und gedruckten Publikationen bekannt gegeben.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/klassiklounge-168025/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-17-essen-weihnachts­oratorium",
+      "title": "Weihnachts­oratorium",
+      "eventType": "concert",
+      "date": "2026-12-17",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "riccardo-minasi"
+      ],
+      "soloistPersonIds": [
+        "aljoscha-lennert",
+        "natalia-labourdette",
+        "liliana-de-sousa",
+        "mykhailo-kushlyk",
+        "baurzhan-anderzhanov",
+        "patrick-jaskolka"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Jauchzet, frohlocket: Bach schrieb Musik zu allen Kirchenfesten, zu Ostern, Weihnachten und Himmelfahrt. Kaum zu glauben, dass sein \"Weihnachtsoratorium\" - heute mit der Weihnachtszeit untrennbar verbunden - nach seiner Erstaufführung in Vergessenheit geriet und erst Mitte des 19. Jahrhunderts wieder erklang. Für die Weihnachtszeit 1734/1735 schrieb der Thomaskantor das sechsteilige Oratorium und griff auf bereits existierende Kompositionen zurück. Wie in den Passionen wird die Erzählung des Evangelisten von Arien und Chören umrahmt, uns begegnen himmlische Engelschöre, strahlende Trompetenklänge und beeindruckende Paukenschläge, es herrscht auch hier eine Mischung aus Besinnlichkeit und Theatralität, aus kammermusikalisch geführten Dialogen und festlichem Glanz. Mit Riccardo Minasi steht am Pult der Essener Philharmoniker ein Experte im Bereich der historischen Aufführungspraxis.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/weihnachtsoratorium-153345/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-12-18-essen-weihnachts­oratorium",
+      "title": "Weihnachts­oratorium",
+      "eventType": "concert",
+      "date": "2026-12-18",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "riccardo-minasi"
+      ],
+      "soloistPersonIds": [
+        "aljoscha-lennert",
+        "natalia-labourdette",
+        "liliana-de-sousa",
+        "mykhailo-kushlyk",
+        "baurzhan-anderzhanov",
+        "patrick-jaskolka"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Jauchzet, frohlocket: Bach schrieb Musik zu allen Kirchenfesten, zu Ostern, Weihnachten und Himmelfahrt. Kaum zu glauben, dass sein \"Weihnachtsoratorium\" - heute mit der Weihnachtszeit untrennbar verbunden - nach seiner Erstaufführung in Vergessenheit geriet und erst Mitte des 19. Jahrhunderts wieder erklang. Für die Weihnachtszeit 1734/1735 schrieb der Thomaskantor das sechsteilige Oratorium und griff auf bereits existierende Kompositionen zurück. Wie in den Passionen wird die Erzählung des Evangelisten von Arien und Chören umrahmt, uns begegnen himmlische Engelschöre, strahlende Trompetenklänge und beeindruckende Paukenschläge, es herrscht auch hier eine Mischung aus Besinnlichkeit und Theatralität, aus kammermusikalisch geführten Dialogen und festlichem Glanz. Mit Riccardo Minasi steht am Pult der Essener Philharmoniker ein Experte im Bereich der historischen Aufführungspraxis.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/weihnachtsoratorium-153345/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-01-essen-neujahrskonzert-der-",
+      "title": "Neujahrskonzert der Essener Philharmoniker",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "andrea-sanguineti"
+      ],
+      "soloistPersonIds": [
+        "idil-kutay",
+        "bettina-ranch",
+        "tilmann-unger",
+        "andrei-nicoara",
+        "patrick-jaskolka"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Alle Menschen werden Brüder: \"Wenn der Deutsche von Sinfonien spricht, so spricht er von Beethoven [...]. Wie Italien sein Neapel hat, der Franzose seine Revolution, der Engländer seine Schifffahrt usw., so der Deutsche seine Beethovenschen Sinfonien\" - so Robert Schumann über das Vorbildhafte, das Emblematische von Beethovens sinfonischem Schaffen. Sein Opus Magnum jedoch, seine Neunte, definiert durch die mit Brüderlichkeitsidealen versehenen Verse aus Schillers Freudenhymne, hat in den letzten 200 Jahren als Kulturgut eine besondere Signifikanz im kollektivenGedächtnis gewonnen. Anlässlich des 200. Todestags Beethovens eröffnen die Essener Philharmoniker das Beethoven-Jahr 2027 mit diesem alle Grenzen der Gattung sprengenden Kunstwerk, das an Aktualität bis heute nichts verloren hat.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/neujahrskonzert-der-essener-philharmoniker-153655/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-11-essen-schwein-gehabt!",
+      "title": "Schwein gehabt!",
+      "eventType": "concert",
+      "date": "2027-01-11",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Von einem Tag auf den anderen beginnt Porco, ein glückliches italienisches Schwein, zu singen. Da hat er Schwein gehabt, denn Lucia und Giovanni, denen der Bauernhof, auf dem Porco lebt, gehört, wollten ihn schon an den Schlachter verkaufen. Jetzt wittern sie das große Geld und wollen Porco, der nur ein einziges Lied be herrscht, auf eine Konzerttour schicken. Doch bei einem Auftritt kann Porco nur Grunzen, was das Publikum empört. Zum Glück bieten zwei Kinder Porco einen Unterschlupf und er flieht zu ihrem Bauernhof. Da hat er noch einmal Schwein gehabt!",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schwein-gehabt/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-30-essen-schwein-gehabt!",
+      "title": "Schwein gehabt!",
+      "eventType": "concert",
+      "date": "2027-01-30",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Von einem Tag auf den anderen beginnt Porco, ein glückliches italienisches Schwein, zu singen. Da hat er Schwein gehabt, denn Lucia und Giovanni, denen der Bauernhof, auf dem Porco lebt, gehört, wollten ihn schon an den Schlachter verkaufen. Jetzt wittern sie das große Geld und wollen Porco, der nur ein einziges Lied be herrscht, auf eine Konzerttour schicken. Doch bei einem Auftritt kann Porco nur Grunzen, was das Publikum empört. Zum Glück bieten zwei Kinder Porco einen Unterschlupf und er flieht zu ihrem Bauernhof. Da hat er noch einmal Schwein gehabt!",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schwein-gehabt/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-01-14-essen-der-glöckner­-von-no",
@@ -7666,30 +8323,419 @@
       "eventType": "concert",
       "date": "2027-01-14",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
-        "fetched": "2026-08-18T05:52:21.427063"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-musikalische"
+        "musikalische"
       ],
       "soloistPersonIds": [
-        "person-sena-shirae",
-        "person-compagnie-des-aalto-ballett-essen",
-        "person-armen-hakobyan",
-        "person-ramon-ivars",
-        "person-armen-hakobyan",
-        "person-roger-orra",
-        "person-laura-bruckner"
-      ]
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-15-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-01-15",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-01-24-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-07-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-02-07",
+      "startTime": "16:30",
+      "endTime": "18:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-21-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-02-21",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-02-26-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-02-26",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-21-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-24-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-03-24",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-28-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-03-28",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-02-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-04-02",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-04-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-04-04",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-18-essen-der-glöckner­-von-no",
+      "title": "Der Glöckner­ von Notre-Dame",
+      "eventType": "concert",
+      "date": "2027-06-18",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "sena-shirae",
+        "armen-hakobyan",
+        "ramon-ivars",
+        "armen-hakobyan",
+        "roger-orra",
+        "laura-bruckner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Paris, 1482. Im Schatten der Kathedrale Notre-Dame, einsam und lediglich umgeben von Glockenseilen und steinernen Wasserspeiern, lebt der Glöckner Quasimodo. Verborgen vor dem Rest der Welt verfolgt er vom Glockenturm aus das Treiben der Menschen und verliebt sich in Esmeralda. Doch auch Frollo, ein Geistlicher und der Ziehvater des Glöckners, hat ein Auge auf die schöne Tänzerin geworfen, die selbst den Soldaten Phoebus liebt. Als der eifersüchtige Frollo seinen Widersacher ersticht, wird Esmeralda des Mordes beschuldigt und zum Tode verurteilt. Quasimodo bringt sie in die schützende Kathedrale, wo Frollo die beiden erwartet. So entspinnt sich zwischen den Mauern von Notre-Dame ein Konflikt um Liebe und Eifersucht, um innere Zerrissenheit und dunkle Begierden. Mit seinem Roman „Notre-Dame de Paris“ schuf Victor Hugo 1831 ein Stück Weltliteratur. In dessen Zentrum: die geschichtsträchtige Kathedrale Notre-Dame, in deren Inneren sich dunkle Leidenschaften und unerfüllte Sehnsüchte verbergen. Armen Hakobyan, Co-Intendant des Aalto Ballett Essen, zeichnet in seinem ersten abendfüllenden Handlungsballett die Geschichte zweier Außenseiter, voller Verlangen nach Nähe und Furcht vor Enttäuschung. Mit einer teils zeitgenössisch-abstrakten, teils klassisch geprägten Tanzsprache führt er in das Seelenleben der Figuren und entwirft mit seinem Tanz zwischen Licht und Schatten eine Welt, in der Schönheit und Hässlichkeit untrennbar miteinander verknüpft sind. Zu (spät-)romantischen Kompositionen u. a. von Rachmaninow und Korngold führt das Aalto Ballett Essen in ein gleichermaßen lebendiges wie grausames mittelalterliches Paris und erzählt von Einsamkeit, dem Verlangen nach Liebe und der Unentrinnbarkeit des Schicksals. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/der-gloeckner-von-notre-dame/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-01-17-essen-bartók-&-brahms",
@@ -7697,49 +8743,59 @@
       "eventType": "concert",
       "date": "2027-01-17",
       "startTime": "11:00",
-      "endTime": null,
+      "endTime": "13:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "sebastian-gaesslein",
+        "kevin-treiber",
+        "florian-hoheisel"
+      ],
       "program": [],
+      "seriesId": null,
+      "description": "Eigentlich wollte Brahms mit dem Streichquintett op. 111 seine kompositorische Laufbahn beenden, wie er seinem Verleger Simrock mitteilte. Hatte Brahms sein letztes Wort gesagt? Keineswegs - denn solche Grübeleien waren bei ihm keine Seltenheit. Im Gegenteil fungiert das in Bad Ischl geschriebene Quintett aus dem Jahr 1890 als Vorläufer des Klarinettenquintetts: Ein insgesamt besonders kontrastreiches Kammermusikstück, das durch seinen elegischen Ton, seine Eleganz, hohe Expressivität und Dramatik sofort in den Bann zieht, von der ausdrucksstarken, vom Cello vorgetragenen Melodie des Kopfsatzes, über das romanzenhafte, \"wunderbar knappe\" Adagio (wie Joseph Joachim sagte) bis hin zur tänzerischen Stimmung des finalen Csárdás. Béla Bartóks sechs Streichquartette entstanden zwischen 1908 und 1939 und bedienen sich völlig unterschiedlicher Stile - in allen lässt sich jedoch seine kompositorische Entwicklung erkennen. \"Das fünfsätzige Werk zeigt den ungarischen Meister auf seiner selbst bei ihm kaum erwarteten Höhe seines Schaffens\" sagte Ernst Krenek über das fünfte Streichquartett Bartóks, das 1934 als Auftragswerk der amerikanischen Mäzenin Elizabeth Sprague-Coolidge komponiert wurde. Ein symmetrisches Stück, geprägt von elektrisierender Intensität und von grausamen, grellen Farben, die besonders im ersten Satz herrschen. Die starken Dissonanzen und die repetitiven Motive erinnern an Balkanmelodien - so etwa das \"Scherzo alla bulgarese\", unter dem unverkennbaren Einfluss der Volksmusik -, und immer wieder tauchen spielerische und tänzerische Momente auf, bevor Bartók das technisch besonders anspruchsvolle Stück mit einem Augenzwinkern abschließt.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/bartok--brahms-163782/",
-        "fetched": "2026-08-18T05:52:21.427117"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "soloistPersonIds": [
-        "person-sebastian-gaesslein",
-        "person-kevin-treiber",
-        "person-florian-hoheisel"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-01-21-essen-meeresrauschen",
       "title": "Meeresrauschen",
       "eventType": "concert",
       "date": "2027-01-21",
-      "startTime": "19:00",
-      "endTime": null,
+      "startTime": "19:30",
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/meeresrauschen-153638/",
-        "fetched": "2026-08-18T05:52:21.427147"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-patrick-lange"
+        "patrick-lange"
       ],
       "soloistPersonIds": [
-        "person-bettina-ranch",
-        "person-essener-philharmoniker"
-      ]
+        "bettina-ranch"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Eine kleine Meeressinfonie: Brittens \"Four sea interludes\" sind vier atmosphärische Orchesterzwischenspiele - \"Dämmerung\", \"Sonntagmorgen\", \"Mondschein\" und \"Sturm\" - aus seiner fesselnden Krimioper \"Peter Grimes\". Nicht nur bei \"Grimes\", sondern auch im \"Poème de l’amour et de la mer\" gestaltet sich das Meer als treibende Urkraft und entscheidendes Element: lebensspendend und gleichzeitig lebensbedrohlich. Besonders poetisch, nostalgisch, gefühl- und sehnsuchtsvoll klingt dieser impressionistisch gefärbte Orchesterliedzyklus, den Ernest Chausson - Schüler von Massenetund Franck - nach den träumerischen Gedichten von Maurice Bouchor kurz vor der Jahrhundertwende komponierte. Das Programm ergänzt Schumanns vierte Sinfonie, ein Werk, dessen \"schöne, freie und anmutige Bewegung\" von Johannes Brahms gelobt wurde.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/meeresrauschen-153638/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-01-22-essen-meeresrauschen",
@@ -7747,51 +8803,59 @@
       "eventType": "concert",
       "date": "2027-01-22",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/meeresrauschen-153638/",
-        "fetched": "2026-08-18T05:52:21.427171"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-patrick-lange"
+        "patrick-lange"
       ],
       "soloistPersonIds": [
-        "person-bettina-ranch",
-        "person-essener-philharmoniker"
-      ]
+        "bettina-ranch"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Eine kleine Meeressinfonie: Brittens \"Four sea interludes\" sind vier atmosphärische Orchesterzwischenspiele - \"Dämmerung\", \"Sonntagmorgen\", \"Mondschein\" und \"Sturm\" - aus seiner fesselnden Krimioper \"Peter Grimes\". Nicht nur bei \"Grimes\", sondern auch im \"Poème de l’amour et de la mer\" gestaltet sich das Meer als treibende Urkraft und entscheidendes Element: lebensspendend und gleichzeitig lebensbedrohlich. Besonders poetisch, nostalgisch, gefühl- und sehnsuchtsvoll klingt dieser impressionistisch gefärbte Orchesterliedzyklus, den Ernest Chausson - Schüler von Massenetund Franck - nach den träumerischen Gedichten von Maurice Bouchor kurz vor der Jahrhundertwende komponierte. Das Programm ergänzt Schumanns vierte Sinfonie, ein Werk, dessen \"schöne, freie und anmutige Bewegung\" von Johannes Brahms gelobt wurde.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/meeresrauschen-153638/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-02-11-essen-beethoven-7",
       "title": "Beethoven 7",
       "eventType": "concert",
       "date": "2027-02-11",
-      "startTime": "19:00",
-      "endTime": null,
+      "startTime": "19:30",
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/beethoven-7-153377/",
-        "fetched": "2026-08-18T05:52:21.427195"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-marc-albrecht"
+        "marc-albrecht"
       ],
       "soloistPersonIds": [
-        "person-alexander-gadjiev",
-        "person-essener-philharmoniker"
-      ]
+        "alexander-gadjiev"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Meilenstein und pianistisches Feuerwerk: Rachmaninows zweites Klavierkonzert, in dem typische Elemente seiner Musik zu finden sind - wehmütige Melodien, Schmelz und Pathos, spätromantische harmonische Wendungen und ein höchst anspruchsvoller Klavierpart. Nach dem sensationellen Erfolg dieses Werks gelang es Rachmaninow mithilfe seines Nervenarztes, dem das Konzert gewidmet ist, aus der tiefen Lebenskrise herauszukommen. Wagner nanntesie \"die Apotheose des Tanzes\": Beethovens kontrastreiche Siebte von 1813, deren Herz im zweiten Satz schlägt, bleibt bis heute besonders beliebt für ihre Anmut, Lebenskraft und \"klassische\" Schönheit. Vor allem aber für Beethovens radikales Verständnis für Rhythmus sowie seine Fähigkeit, die ganze Menschheit in Bewegung zu bringen. Das Orchester leitet der weltweit gefragte Dirigent und Leiter des Antwerp Symphony Orchestra Marc Albrecht.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/beethoven-7-153377/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-02-12-essen-beethoven-7",
@@ -7799,25 +8863,29 @@
       "eventType": "concert",
       "date": "2027-02-12",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/beethoven-7-153377/",
-        "fetched": "2026-08-18T05:52:21.427219"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-marc-albrecht"
+        "marc-albrecht"
       ],
       "soloistPersonIds": [
-        "person-alexander-gadjiev",
-        "person-essener-philharmoniker"
-      ]
+        "alexander-gadjiev"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Meilenstein und pianistisches Feuerwerk: Rachmaninows zweites Klavierkonzert, in dem typische Elemente seiner Musik zu finden sind - wehmütige Melodien, Schmelz und Pathos, spätromantische harmonische Wendungen und ein höchst anspruchsvoller Klavierpart. Nach dem sensationellen Erfolg dieses Werks gelang es Rachmaninow mithilfe seines Nervenarztes, dem das Konzert gewidmet ist, aus der tiefen Lebenskrise herauszukommen. Wagner nanntesie \"die Apotheose des Tanzes\": Beethovens kontrastreiche Siebte von 1813, deren Herz im zweiten Satz schlägt, bleibt bis heute besonders beliebt für ihre Anmut, Lebenskraft und \"klassische\" Schönheit. Vor allem aber für Beethovens radikales Verständnis für Rhythmus sowie seine Fähigkeit, die ganze Menschheit in Bewegung zu bringen. Das Orchester leitet der weltweit gefragte Dirigent und Leiter des Antwerp Symphony Orchestra Marc Albrecht.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/beethoven-7-153377/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-02-21-essen-gesang-der-vögel",
@@ -7825,36 +8893,162 @@
       "eventType": "concert",
       "date": "2027-02-21",
       "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "liliana-de-sousa",
+        "olivier-girardin",
+        "karla-m",
+        "harald-hendrichs",
+        "tristan-von-den-driesch",
+        "klaus-goessmann",
+        "clemens-ratajczak",
+        "juliane-lopper",
+        "maximilian-weller",
+        "stefan-kellner"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Waldklänge, rhythmische Energie und Naturpoesie prägen dieses außergewöhnliche Konzertprogramm, das im Rahmen von \"Orchester des Wandels\" gestaltet wird. Katherine Hoovers Solowerk \"Kokopeli\" lässt die geheimnisvolle Gestalt der Pueblo-Mythologie - den spirituellen Überlieferungen indigener Gemeinschaften im Südwesten Nordamerikas - in virtuosen Flötenklängen lebendig werden. Mit Mason Bates' \"Life of Birds\" entfaltet sich eine farbenreiche Klangwelt zwischen Naturbeobachtung und moderner Tonsprache. Südamerikanische Klangfarben bestimmen die Suite des brasilianischen Komponisten Radamés Gnattali, bevor Heitor Villa-Lobos, ebenfalls aus Brasilien stammend, mit \"Floresta do Amazonas\" den Zauber des Regenwaldes musikalisch einfängt und ein eindrucksvolles Panorama aus pulsierenden Rhythmen, exotischen Farben und atmosphärischen Klangbildern entstehen lässt.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/gesang-der-voegel-163811/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-04-essen-barocke-opulenz",
+      "title": "Barocke Opulenz",
+      "eventType": "concert",
+      "date": "2027-03-04",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "jiayu-jin",
+        "dorothee-oberlinger",
+        "susanne-rump"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke komponierender Frauen aus dem 17. und 18. Jahrhundert sowie aus drei verschiedenen europäischen Sprachräumen stehen bei diesem Konzert im Fokus. Neben betörend schöner Musik besticht das Programm durch seine Bandbreite an Formen: Von Liedern, Arien und Cavatinen über Tänze, einem Marsch bis hin zur Sonate, dem Oratorium, Schäferspiel oder der Tragédie lyrique zeigt sich das Können und die Vielseitigkeit der Komponistinnen des Barock. Den musiktheatralen Werken für Stimme haucht Sopranistin Jiayu Jin das Leben ein, Blockflötistin Dorothee Oberlinger wirkt als Solistin gleichermaßen wie als Dirigentin. Die Essener Philharmoniker blicken mittlerweile auf langjährige Erfahrung mit der Aufführung von Komponistinnen-Werken zurück und bringen dabei Entdeckerlust mit. Dieses Konzert ist Teil des Komponistinnenfestivals \"her:voice\".",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/barocke-opulenz-153406/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-05-essen-barocke-opulenz",
+      "title": "Barocke Opulenz",
+      "eventType": "concert",
+      "date": "2027-03-05",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "jiayu-jin",
+        "dorothee-oberlinger",
+        "susanne-rump"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke komponierender Frauen aus dem 17. und 18. Jahrhundert sowie aus drei verschiedenen europäischen Sprachräumen stehen bei diesem Konzert im Fokus. Neben betörend schöner Musik besticht das Programm durch seine Bandbreite an Formen: Von Liedern, Arien und Cavatinen über Tänze, einem Marsch bis hin zur Sonate, dem Oratorium, Schäferspiel oder der Tragédie lyrique zeigt sich das Können und die Vielseitigkeit der Komponistinnen des Barock. Den musiktheatralen Werken für Stimme haucht Sopranistin Jiayu Jin das Leben ein, Blockflötistin Dorothee Oberlinger wirkt als Solistin gleichermaßen wie als Dirigentin. Die Essener Philharmoniker blicken mittlerweile auf langjährige Erfahrung mit der Aufführung von Komponistinnen-Werken zurück und bringen dabei Entdeckerlust mit. Dieses Konzert ist Teil des Komponistinnenfestivals \"her:voice\".",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/barocke-opulenz-153406/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-03-06-essen-revolution-und-kunst",
+      "title": "Revolution und Kunst",
+      "eventType": "concert",
+      "date": "2027-03-06",
+      "startTime": "16:00",
       "endTime": null,
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
       "program": [],
+      "seriesId": null,
+      "description": "Sopranistin Sarah Wegener interpretiert Musik von Wilhelmine Schröder-Devrient (1804–1860), die vor allem für ihre Gesangs- und Schauspielkünste bekannt war und damit zur Entwicklung des Stils des dramatischen Gesangs beitrug.",
       "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/gesang-der-voegel-163811/",
-        "fetched": "2026-08-18T05:52:21.427244"
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/revolution-und-kunst/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "soloistPersonIds": [
-        "person-liliana-de-sousa",
-        "person-olivier-girardin",
-        "person-karla-m",
-        "person-harald-hendrichs",
-        "person-tristan-von-den-driesch",
-        "person-klaus-goessmann",
-        "person-clemens-ratajczak",
-        "person-juliane-lopper",
-        "person-maximilian-weller",
-        "person-stefan-kellner"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
-      "id": "event-2027-04-08-essen-schumann-cellokonzer",
-      "title": "Schumann Cellokonzert",
+      "id": "event-2027-03-08-essen-klassiklounge",
+      "title": "KlassikLounge",
       "eventType": "concert",
-      "date": "2027-04-08",
+      "date": "2027-03-08",
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "florian-geldsetzer",
+        "annette-meier-kr",
+        "almuth-hett"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Die KlassikLounge der Essener Philharmoniker - dieses außergewöhnliche Konzertformat ist längst eine große Marke. Unterschiedliche Kammermusik-Ensembles unseres Orchesters präsentieren im Café Central des Grillo-Theaters spannende musikalische Mischungen, umrahmt von DJ-Sounds. Im Anschluss kann sich das Publikum in lockerer Atmosphäre mit den beteiligten Musiker*innen austauschen. Auch in der Spielzeit 2026/2027 sind die Musiker*innen vier Mal zu Gast. Die konkreten Termine werden rechtzeitig in unseren digitalen und gedruckten Publikationen bekannt gegeben.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/klassiklounge-168026/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-03-essen-primavera---ein-musi",
+      "title": "Primavera - Ein musikalischer Frühlingsgruß",
+      "eventType": "concert",
+      "date": "2027-04-03",
       "startTime": "19:00",
       "endTime": null,
       "status": "scheduled",
@@ -7862,19 +9056,87 @@
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schumann-cellokonzert-153435/",
-        "fetched": "2026-08-18T05:52:21.427299"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-andrea-sanguineti"
+        "musikalische"
       ],
       "soloistPersonIds": [
-        "person-anastasia-kobekina",
-        "person-essener-philharmoniker"
-      ]
+        "astrik-khanamiryan",
+        "henry-ross",
+        "thorsten-stepath"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Während draußen Narzissen, Tulpen und Hyazinthen blühen, zieht auch im Aalto-Theater der Frühling ein. Solist*innen und Gäste des Aalto Musiktheaters, die Damen des Opernchores des Aalto-Theaters sowie die Essener Philharmoniker laden unter der Leitung von Wolfram-Maria Märtig zu einem moderierten Konzertabend ein. Mit beschwingter Musik und frühlingshaften Klängen verspricht das Programm einen stimmungsvollen Auftakt in die neue Jahreszeit.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/primavera-ein-musikalischer-fruehlingsgruss/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-09-essen-primavera---ein-musi",
+      "title": "Primavera - Ein musikalischer Frühlingsgruß",
+      "eventType": "concert",
+      "date": "2027-05-09",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "musikalische"
+      ],
+      "soloistPersonIds": [
+        "astrik-khanamiryan",
+        "henry-ross",
+        "thorsten-stepath"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Während draußen Narzissen, Tulpen und Hyazinthen blühen, zieht auch im Aalto-Theater der Frühling ein. Solist*innen und Gäste des Aalto Musiktheaters, die Damen des Opernchores des Aalto-Theaters sowie die Essener Philharmoniker laden unter der Leitung von Wolfram-Maria Märtig zu einem moderierten Konzertabend ein. Mit beschwingter Musik und frühlingshaften Klängen verspricht das Programm einen stimmungsvollen Auftakt in die neue Jahreszeit.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/primavera-ein-musikalischer-fruehlingsgruss/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-04-08-essen-schumann-cellokonzer",
+      "title": "Schumann Cellokonzert",
+      "eventType": "concert",
+      "date": "2027-04-08",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "andrea-sanguineti"
+      ],
+      "soloistPersonIds": [
+        "anastasia-kobekina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "\"Von welchem Wohlklang und tiefer Empfindung sind all die Gesangsstellen darin!\", schwärmte Clara über das Cellokonzert von Robert Schumann. Das fantastisch-fantasievolle Virtuosenstück lotet und leuchtet nun Anastasia Kobekina aus, der in dieser Spielzeit eine facettenreiche Porträtreihe gewidmet ist. Umrahmt wird Schumanns Herzensstück (er feilte daran bis kurz vor seinem Zusammenbruch) im Sinfoniekonzert der Essener Philharmoniker unter der Leitung von GMD Andrea Sanguineti von zwei weiteren Wunderwerken der Romantik. Den Auftakt macht Brahms' kunstvoll Studentenlieder verarbeitende \"Akademische Festouvertüre\". Den Abschluss bildet Mahlers erste Sinfonie, die schon alles Wesentliche seiner Klangwelt birgt: das Naturhafte, Sehnsuchtsvolle, Tragische, Schöne, Groteske und Himmelstürmende.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schumann-cellokonzert-153435/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-04-09-essen-schumann-cellokonzer",
@@ -7882,25 +9144,29 @@
       "eventType": "concert",
       "date": "2027-04-09",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schumann-cellokonzert-153435/",
-        "fetched": "2026-08-18T05:52:21.427324"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-andrea-sanguineti"
+        "andrea-sanguineti"
       ],
       "soloistPersonIds": [
-        "person-anastasia-kobekina",
-        "person-essener-philharmoniker"
-      ]
+        "anastasia-kobekina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "\"Von welchem Wohlklang und tiefer Empfindung sind all die Gesangsstellen darin!\", schwärmte Clara über das Cellokonzert von Robert Schumann. Das fantastisch-fantasievolle Virtuosenstück lotet und leuchtet nun Anastasia Kobekina aus, der in dieser Spielzeit eine facettenreiche Porträtreihe gewidmet ist. Umrahmt wird Schumanns Herzensstück (er feilte daran bis kurz vor seinem Zusammenbruch) im Sinfoniekonzert der Essener Philharmoniker unter der Leitung von GMD Andrea Sanguineti von zwei weiteren Wunderwerken der Romantik. Den Auftakt macht Brahms' kunstvoll Studentenlieder verarbeitende \"Akademische Festouvertüre\". Den Abschluss bildet Mahlers erste Sinfonie, die schon alles Wesentliche seiner Klangwelt birgt: das Naturhafte, Sehnsuchtsvolle, Tragische, Schöne, Groteske und Himmelstürmende.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schumann-cellokonzert-153435/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-04-11-essen-kammerkonzert-der-or",
@@ -7908,18 +9174,27 @@
       "eventType": "concert",
       "date": "2027-04-11",
       "startTime": "11:00",
-      "endTime": null,
+      "endTime": "13:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "stipendiat"
+      ],
       "program": [],
+      "seriesId": null,
+      "description": "Erleben Sie unsere Stipendiat*innen in Aktion: Das traditionelle Konzert der Orchesterakademie bietet Anregungen, Begegnungen und besondere Erlebnisse. Junge, hochbegabte Musiker*innen, die mit Offenheit, Spiellust und Virtuosität gemeinsam musizieren, gestalten jedes Jahr ein eigenes, facettenreiches Programm und präsentieren sich in verschiedenen Kammermusikbesetzungen im Foyer des Aalto-Theaters. Das Programm wird rechtzeitig bekannt gegeben.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/kammerkonzert-der-orchesterakademie-165758/",
-        "fetched": "2026-08-18T05:52:21.427349"
-      }
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-04-16-essen-götterfunken-i",
@@ -7927,21 +9202,27 @@
       "eventType": "concert",
       "date": "2027-04-16",
       "startTime": "10:00",
-      "endTime": null,
+      "endTime": "11:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "lea-katharina-fischer"
+      ],
+      "soloistPersonIds": [],
       "program": [],
+      "seriesId": null,
+      "description": "Der Dirigent Leonard Bernstein hat einmal demonstriert, wie viele Anläufe Ludwig van Beethoven zur Komposition des zweiten Satzes seiner Sinfonie Nr. 5 benötigt hat. Es sind Vierzehn! Die Skizzenbücher dazu stapeln sich. Alle sind sie Schlachtfelder seines unermüdlichen Kampfes mit der Musik und der musikalischen Materie. Die Widmung seiner \"Eroica\"-Sinfonie Nr. 3 zerreißt er, als er von der Selbstkrönung \"seines\" Helden Napoleon hört. Und in manchen von Beethovens Konzerten, \"Akademien\" genannt, ist es damals so kalt, dass die Zähne des Publikums den Kontrapunkt zu seinen Werken klappern. Im Jahr von Beethovens 200. Todestag berichten wir Spannendes und Hintergründiges über den Titan, der auch im Privaten mit dem Schicksal gehadert und unter Taubheit und Liebeskummer gelitten hat. Ein Beethoven-Porträt für die ganze Familie, musiziert von den Essener Philharmonikern.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/goetterfunken-i-163778/",
-        "fetched": "2026-08-18T05:52:21.427365"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "conductorPersonIds": [
-        "person-lea-katharina-fischer"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-04-17-essen-götterfunken-ii",
@@ -7949,21 +9230,27 @@
       "eventType": "concert",
       "date": "2027-04-17",
       "startTime": "11:00",
-      "endTime": null,
+      "endTime": "12:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "lea-katharina-fischer"
+      ],
+      "soloistPersonIds": [],
       "program": [],
+      "seriesId": null,
+      "description": "Der Dirigent Leonard Bernstein hat einmal demonstriert, wie viele Anläufe Ludwig van Beethoven zur Komposition des zweiten Satzes seiner Sinfonie Nr. 5 benötigt hat. Es sind Vierzehn! Die Skizzenbücher dazu stapeln sich. Alle sind sie Schlachtfelder seines unermüdlichen Kampfes mit der Musik und der musikalischen Materie. Die Widmung seiner \"Eroica\"-Sinfonie Nr. 3 zerreißt er, als er von der Selbstkrönung \"seines\" Helden Napoleon hört. Und in manchen von Beethovens Konzerten, \"Akademien\" genannt, ist es damals so kalt, dass die Zähne des Publikums den Kontrapunkt zu seinen Werken klappern. Im Jahr von Beethovens 200. Todestag berichten wir Spannendes und Hintergründiges über den Titan, der auch im Privaten mit dem Schicksal gehadert und unter Taubheit und Liebeskummer gelitten hat. Ein Beethoven-Porträt für die ganze Familie, musiziert von den Essener Philharmonikern.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/goetterfunken-ii-163780/",
-        "fetched": "2026-08-18T05:52:21.427385"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "conductorPersonIds": [
-        "person-lea-katharina-fischer"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-04-25-essen-serenaden",
@@ -7971,59 +9258,69 @@
       "eventType": "concert",
       "date": "2027-04-25",
       "startTime": "11:00",
-      "endTime": null,
+      "endTime": "13:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "julien-flor",
+        "federico-aluffi",
+        "marcin-sikorski",
+        "markus-mayr",
+        "clemens-ratajczak",
+        "jannis-hoesch",
+        "florian-hoheisel",
+        "eduardo-rodriguez-romanos",
+        "atsuko-ota"
+      ],
       "program": [],
+      "seriesId": null,
+      "description": "\"Sera\" (Abend), \"sereno\" (heiter), \"al sereno\" (im Freien): Diese Wörter liegen der Gattung \"Serenade\" zugrunde. Werke dieses Namens zeichnen sich häufig durch einen sanglichen, leichten Charakter aus und wurden traditionell gerne im Freien und in den Abendstunden aufgeführt. Während Alfredo Casellas \"Serenade, op. 46\" mit ihrer Leichtigkeit an laue italienische Nächte erinnert, entfaltet Carl Nielsens \"Serenata in Vano\" die Weite der nordischen Landschaft. Einen kontrastreichen Gegenpol bilden die dramatischen \"4 petites pièces\" von Charles Koechlin sowie Astor Piazzollas \"Invierno Porteño\". Mit Bohuslav Martin?s jazzinspirierter \"La revue de cuisine\" und Gernot Wolfgangs \"Impressions\" öffnet sich das Programm schließlich auch moderneren Klangwelten.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/serenaden-163812/",
-        "fetched": "2026-08-18T05:52:21.427406"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "soloistPersonIds": [
-        "person-julien-flor",
-        "person-federico-aluffi",
-        "person-marcin-sikorski",
-        "person-markus-mayr",
-        "person-clemens-ratajczak",
-        "person-jannis-hoesch",
-        "person-florian-hoheisel",
-        "person-eduardo-rodriguez-romanos",
-        "person-atsuko-ota"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-04-29-essen-elias",
       "title": "Elias",
       "eventType": "concert",
       "date": "2027-04-29",
-      "startTime": "19:00",
-      "endTime": null,
+      "startTime": "19:30",
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/elias-153464/",
-        "fetched": "2026-08-18T05:52:21.427452"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-constantin-trinks"
+        "constantin-trinks"
       ],
       "soloistPersonIds": [
-        "person-derek-welton",
-        "person-idil-kutay",
-        "person-bettina-ranch",
-        "person-david-fischer",
-        "person-philharmonischer-chor-essen",
-        "person-patrick-jaskolka"
-      ]
+        "derek-welton",
+        "idil-kutay",
+        "bettina-ranch",
+        "david-fischer",
+        "patrick-jaskolka"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Felix Mendelssohn Bartholdys Schaffen fächert sich zwischen seinen zwei berühmtesten Oratorien \"Paulus\", einer frühen Komposition, und dem \"Elias\", der kurz vor dem Tod des Komponisten entstand, auf. 1846 in Großbritannien in englischer Sprache uraufgeführt, erlebte Mendelssohn die deutsche Erstaufführung nicht mehr. In seinem weltberühmten Oratorium zeichnet er zusammen mit Textdichter Julius Schubring, einem dessauischen mit Mendelssohn befreundeten Theologen, den vielseitigen Charakter des alttestamentarischen Propheten Elias nach. Wie der Namensgebende selbst changiert auch die Musik zwischen dramatischen, kraftvollen Momenten auf der einen Seite und versöhnenden, warmen auf der anderen Seite. Der Dirigent Constantin Trinks führt die Essener Philharmoniker und das hochkarätige Solist*innenensemble, darunter Derek Welton als Elias, durch den Abend.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/elias-153464/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-04-30-essen-elias",
@@ -8031,29 +9328,62 @@
       "eventType": "concert",
       "date": "2027-04-30",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/elias-153464/",
-        "fetched": "2026-08-18T05:52:21.427490"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-constantin-trinks"
+        "constantin-trinks"
       ],
       "soloistPersonIds": [
-        "person-derek-welton",
-        "person-idil-kutay",
-        "person-bettina-ranch",
-        "person-david-fischer",
-        "person-philharmonischer-chor-essen",
-        "person-patrick-jaskolka"
-      ]
+        "derek-welton",
+        "idil-kutay",
+        "bettina-ranch",
+        "david-fischer",
+        "patrick-jaskolka"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Felix Mendelssohn Bartholdys Schaffen fächert sich zwischen seinen zwei berühmtesten Oratorien \"Paulus\", einer frühen Komposition, und dem \"Elias\", der kurz vor dem Tod des Komponisten entstand, auf. 1846 in Großbritannien in englischer Sprache uraufgeführt, erlebte Mendelssohn die deutsche Erstaufführung nicht mehr. In seinem weltberühmten Oratorium zeichnet er zusammen mit Textdichter Julius Schubring, einem dessauischen mit Mendelssohn befreundeten Theologen, den vielseitigen Charakter des alttestamentarischen Propheten Elias nach. Wie der Namensgebende selbst changiert auch die Musik zwischen dramatischen, kraftvollen Momenten auf der einen Seite und versöhnenden, warmen auf der anderen Seite. Der Dirigent Constantin Trinks führt die Essener Philharmoniker und das hochkarätige Solist*innenensemble, darunter Derek Welton als Elias, durch den Abend.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/elias-153464/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-07-essen-jazz-im-aalto",
+      "title": "Jazz im Aalto",
+      "eventType": "concert",
+      "date": "2027-05-07",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "ks.-christina-clark",
+        "michael-giesen"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Schon lange ist es eine beliebte Tradition, unterschiedliche Orte des Aalto-Theaters ein paar Mal im Jahr einen Abend lang in einen Jazz-Club zu verwandeln, in dem sich Mitglieder des Gesangsensembles oder der Essener Philharmoniker gemeinsam mit Musiker*innen aus der Freien Szene musikalisch von einer anderen Seite präsentieren. Es wird gejazzt und gejammt, was das Zeug hält.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/jazz-im-aalto-spring-jazz/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-05-21-essen-schwanen­see",
@@ -8061,44 +9391,133 @@
       "eventType": "concert",
       "date": "2027-05-21",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "22:15",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
       "program": [],
+      "seriesId": null,
+      "description": "Auf seiner Geburtstagsfeier lernt der Prinz zwei fremde Mädchen kennen, die ihn zutiefst beeindrucken. Da ist zum einen die geheimnisvolle und schüchterne Odette und zum anderen die verführerische, aber hochnäsige Odile, die in Begleitung eines Fremden namens Rotbart ist. Völlig erschöpft schläft der Prinz nach dem Fest ein und träumt: Er erwacht mitten im Wald und da sieht er sie wieder – Odette in Gestalt eines weißen Schwans! Sogleich verliebt sich Siegfried in Odette, doch auf ihr lastet ein Fluch des Magiers Rotbart, der nur durch wahre Liebe gebrochen werden kann. Von dunkler Macht verführt, versagt Siegfried im entscheidenden Moment und schwört einem Trugbild seine Treue. Kann die Liebe den verhängnisvollen Zauber brechen? Wer kennt sie nicht, die tragische Liebesgeschichte der Schwanenprinzessin, die bis heute die Welt des klassischen Balletts begeistert? Kaum zu glauben, dass ausgerechnet dieses Ballett zur größten Enttäuschung in Tschaikowskys Karriere wurde, fiel doch das Werk bei der Uraufführung 1877 am Moskauer Bolschoi-Theater gnadenlos durch. Erst 18 Jahre nach der gescheiterten Premiere begann in der Choreografie von Marius Petipa die märchenhafte Auferstehung von „Schwanensee“ am St. Petersburger Mariinski-Theater. Tschaikowsky selbst konnte diesen Erfolg nicht mehr miterleben. Ben Van Cauwenbergh erweckt mit der Compagnie des Aalto Ballett Essen die über 100 Jahre alte Choreografie von Marius Petipa zu neuem Leben und zeigt seine Interpretation des Schwanen-Mythos. Im Orchestergraben bringen die Essener Philharmoniker Tschaikowskys unverwechselbare, märchenhafte Musik zum Klingen. Tauchen Sie ein in eine traumhafte Fantasiewelt und lassen Sie sich verzaubern! Im Juni 2027 wird die Aalto-Compagnie mit „Schwanensee“ für vier Vorstellungen in Valencia (Spanien) zu Gast sein. Mit der Compagnie des Aalto Ballett Essen sowie den Essener Philharmonikern Mehr anzeigen Weniger anzeigen",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schwanensee/",
-        "fetched": "2026-08-18T05:52:21.427529"
-      }
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-23-essen-schwanen­see",
+      "title": "Schwanen­see",
+      "eventType": "concert",
+      "date": "2027-05-23",
+      "startTime": "16:30",
+      "endTime": "19:15",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Auf seiner Geburtstagsfeier lernt der Prinz zwei fremde Mädchen kennen, die ihn zutiefst beeindrucken. Da ist zum einen die geheimnisvolle und schüchterne Odette und zum anderen die verführerische, aber hochnäsige Odile, die in Begleitung eines Fremden namens Rotbart ist. Völlig erschöpft schläft der Prinz nach dem Fest ein und träumt: Er erwacht mitten im Wald und da sieht er sie wieder – Odette in Gestalt eines weißen Schwans! Sogleich verliebt sich Siegfried in Odette, doch auf ihr lastet ein Fluch des Magiers Rotbart, der nur durch wahre Liebe gebrochen werden kann. Von dunkler Macht verführt, versagt Siegfried im entscheidenden Moment und schwört einem Trugbild seine Treue. Kann die Liebe den verhängnisvollen Zauber brechen? Wer kennt sie nicht, die tragische Liebesgeschichte der Schwanenprinzessin, die bis heute die Welt des klassischen Balletts begeistert? Kaum zu glauben, dass ausgerechnet dieses Ballett zur größten Enttäuschung in Tschaikowskys Karriere wurde, fiel doch das Werk bei der Uraufführung 1877 am Moskauer Bolschoi-Theater gnadenlos durch. Erst 18 Jahre nach der gescheiterten Premiere begann in der Choreografie von Marius Petipa die märchenhafte Auferstehung von „Schwanensee“ am St. Petersburger Mariinski-Theater. Tschaikowsky selbst konnte diesen Erfolg nicht mehr miterleben. Ben Van Cauwenbergh erweckt mit der Compagnie des Aalto Ballett Essen die über 100 Jahre alte Choreografie von Marius Petipa zu neuem Leben und zeigt seine Interpretation des Schwanen-Mythos. Im Orchestergraben bringen die Essener Philharmoniker Tschaikowskys unverwechselbare, märchenhafte Musik zum Klingen. Tauchen Sie ein in eine traumhafte Fantasiewelt und lassen Sie sich verzaubern! Im Juni 2027 wird die Aalto-Compagnie mit „Schwanensee“ für vier Vorstellungen in Valencia (Spanien) zu Gast sein. Mit der Compagnie des Aalto Ballett Essen sowie den Essener Philharmonikern Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schwanensee/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-05-29-essen-schwanen­see",
+      "title": "Schwanen­see",
+      "eventType": "concert",
+      "date": "2027-05-29",
+      "startTime": "19:00",
+      "endTime": "21:45",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Auf seiner Geburtstagsfeier lernt der Prinz zwei fremde Mädchen kennen, die ihn zutiefst beeindrucken. Da ist zum einen die geheimnisvolle und schüchterne Odette und zum anderen die verführerische, aber hochnäsige Odile, die in Begleitung eines Fremden namens Rotbart ist. Völlig erschöpft schläft der Prinz nach dem Fest ein und träumt: Er erwacht mitten im Wald und da sieht er sie wieder – Odette in Gestalt eines weißen Schwans! Sogleich verliebt sich Siegfried in Odette, doch auf ihr lastet ein Fluch des Magiers Rotbart, der nur durch wahre Liebe gebrochen werden kann. Von dunkler Macht verführt, versagt Siegfried im entscheidenden Moment und schwört einem Trugbild seine Treue. Kann die Liebe den verhängnisvollen Zauber brechen? Wer kennt sie nicht, die tragische Liebesgeschichte der Schwanenprinzessin, die bis heute die Welt des klassischen Balletts begeistert? Kaum zu glauben, dass ausgerechnet dieses Ballett zur größten Enttäuschung in Tschaikowskys Karriere wurde, fiel doch das Werk bei der Uraufführung 1877 am Moskauer Bolschoi-Theater gnadenlos durch. Erst 18 Jahre nach der gescheiterten Premiere begann in der Choreografie von Marius Petipa die märchenhafte Auferstehung von „Schwanensee“ am St. Petersburger Mariinski-Theater. Tschaikowsky selbst konnte diesen Erfolg nicht mehr miterleben. Ben Van Cauwenbergh erweckt mit der Compagnie des Aalto Ballett Essen die über 100 Jahre alte Choreografie von Marius Petipa zu neuem Leben und zeigt seine Interpretation des Schwanen-Mythos. Im Orchestergraben bringen die Essener Philharmoniker Tschaikowskys unverwechselbare, märchenhafte Musik zum Klingen. Tauchen Sie ein in eine traumhafte Fantasiewelt und lassen Sie sich verzaubern! Im Juni 2027 wird die Aalto-Compagnie mit „Schwanensee“ für vier Vorstellungen in Valencia (Spanien) zu Gast sein. Mit der Compagnie des Aalto Ballett Essen sowie den Essener Philharmonikern Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schwanensee/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-13-essen-schwanen­see",
+      "title": "Schwanen­see",
+      "eventType": "concert",
+      "date": "2027-06-13",
+      "startTime": "18:00",
+      "endTime": "20:45",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Auf seiner Geburtstagsfeier lernt der Prinz zwei fremde Mädchen kennen, die ihn zutiefst beeindrucken. Da ist zum einen die geheimnisvolle und schüchterne Odette und zum anderen die verführerische, aber hochnäsige Odile, die in Begleitung eines Fremden namens Rotbart ist. Völlig erschöpft schläft der Prinz nach dem Fest ein und träumt: Er erwacht mitten im Wald und da sieht er sie wieder – Odette in Gestalt eines weißen Schwans! Sogleich verliebt sich Siegfried in Odette, doch auf ihr lastet ein Fluch des Magiers Rotbart, der nur durch wahre Liebe gebrochen werden kann. Von dunkler Macht verführt, versagt Siegfried im entscheidenden Moment und schwört einem Trugbild seine Treue. Kann die Liebe den verhängnisvollen Zauber brechen? Wer kennt sie nicht, die tragische Liebesgeschichte der Schwanenprinzessin, die bis heute die Welt des klassischen Balletts begeistert? Kaum zu glauben, dass ausgerechnet dieses Ballett zur größten Enttäuschung in Tschaikowskys Karriere wurde, fiel doch das Werk bei der Uraufführung 1877 am Moskauer Bolschoi-Theater gnadenlos durch. Erst 18 Jahre nach der gescheiterten Premiere begann in der Choreografie von Marius Petipa die märchenhafte Auferstehung von „Schwanensee“ am St. Petersburger Mariinski-Theater. Tschaikowsky selbst konnte diesen Erfolg nicht mehr miterleben. Ben Van Cauwenbergh erweckt mit der Compagnie des Aalto Ballett Essen die über 100 Jahre alte Choreografie von Marius Petipa zu neuem Leben und zeigt seine Interpretation des Schwanen-Mythos. Im Orchestergraben bringen die Essener Philharmoniker Tschaikowskys unverwechselbare, märchenhafte Musik zum Klingen. Tauchen Sie ein in eine traumhafte Fantasiewelt und lassen Sie sich verzaubern! Im Juni 2027 wird die Aalto-Compagnie mit „Schwanensee“ für vier Vorstellungen in Valencia (Spanien) zu Gast sein. Mit der Compagnie des Aalto Ballett Essen sowie den Essener Philharmonikern Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/schwanensee/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-05-27-essen-sacre",
       "title": "Sacre",
       "eventType": "concert",
       "date": "2027-05-27",
-      "startTime": "19:00",
-      "endTime": null,
+      "startTime": "19:30",
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sacre-153493/",
-        "fetched": "2026-08-18T05:52:21.427541"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-andrea-sanguineti"
+        "andrea-sanguineti"
       ],
       "soloistPersonIds": [
-        "person-rudolf-buchbinder",
-        "person-essener-philharmoniker"
-      ]
+        "rudolf-buchbinder"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Den Kernpunkt dieses Konzertprogramms bildet der größte Musikskandal des 20. Jahrhunderts: \"Le sacre du printemps\", laut Strawinskys Aussagen \"ein musikalisch-choreografisches Werk\", traf die Musikwelt wie ein Blitz, hatte eine unmittelbare Schockwirkung auf das Publikum und übt mit seinem archaischen Avantgardismus eine bis heute unübertroffene Faszination aus. Das Programm ergänzt die \"Tragische Ouvertüre\" des polnischen Komponisten und Dirigenten Andrzej Panufnik, ein dramatisches und bewegendes Werk, das sich mit tragischen Folgen des Zweiten Weltkriegs auseinandersetzt. Dazu das ebenfalls düstere, aber bei Pianist*innen besonders beliebte d-Moll-Konzert KV 466 von Mozart, gespielt vom Ausnahmepianisten und langjährigen Konzertpartner der Essener Philharmoniker Rudolf Buchbinder.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sacre-153493/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-05-28-essen-sacre",
@@ -8106,25 +9525,29 @@
       "eventType": "concert",
       "date": "2027-05-28",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sacre-153493/",
-        "fetched": "2026-08-18T05:52:21.427571"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-andrea-sanguineti"
+        "andrea-sanguineti"
       ],
       "soloistPersonIds": [
-        "person-rudolf-buchbinder",
-        "person-essener-philharmoniker"
-      ]
+        "rudolf-buchbinder"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Den Kernpunkt dieses Konzertprogramms bildet der größte Musikskandal des 20. Jahrhunderts: \"Le sacre du printemps\", laut Strawinskys Aussagen \"ein musikalisch-choreografisches Werk\", traf die Musikwelt wie ein Blitz, hatte eine unmittelbare Schockwirkung auf das Publikum und übt mit seinem archaischen Avantgardismus eine bis heute unübertroffene Faszination aus. Das Programm ergänzt die \"Tragische Ouvertüre\" des polnischen Komponisten und Dirigenten Andrzej Panufnik, ein dramatisches und bewegendes Werk, das sich mit tragischen Folgen des Zweiten Weltkriegs auseinandersetzt. Dazu das ebenfalls düstere, aber bei Pianist*innen besonders beliebte d-Moll-Konzert KV 466 von Mozart, gespielt vom Ausnahmepianisten und langjährigen Konzertpartner der Essener Philharmoniker Rudolf Buchbinder.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sacre-153493/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-05-30-essen-mit-götz-alsmann-ins",
@@ -8132,24 +9555,29 @@
       "eventType": "concert",
       "date": "2027-05-30",
       "startTime": "11:00",
-      "endTime": null,
+      "endTime": "12:15",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/mit-goetz-alsmann-ins-konzert-164749/",
-        "fetched": "2026-08-18T05:52:21.427597"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-tommaso-turchetta"
+        "tommaso-turchetta"
       ],
       "soloistPersonIds": [
-        "person-goetz-alsmann"
-      ]
+        "goetz-alsmann"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Götz Alsmann ist ein Phänomen: Als origineller Entertainer begeistert er sein Publikum in Hörfunk und Fernsehen. Auch in dieser Spielzeit präsentiert der promovierte Musikwissenschaftler gemeinsam mit den Essener Philharmonikern berühmte Werke aus dem aktuellen Spielplan. Mit viel Charme und Humor zeigt Alsmann, dass der Hörgenuss mit der Kenntnis steigt - und man trotzdem kein Gelehrter sein muss, um Spaß an klassischer Musik zu haben.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/mit-goetz-alsmann-ins-konzert-164749/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-06-06-essen-aquarelles",
@@ -8157,25 +9585,31 @@
       "eventType": "concert",
       "date": "2027-06-06",
       "startTime": "11:00",
-      "endTime": null,
+      "endTime": "13:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "olivier-girardin",
+        "tristan-von-den-driesch",
+        "clemens-ratajczak",
+        "sampo-korkeala",
+        "boris-gurevich"
+      ],
       "program": [],
+      "seriesId": null,
+      "description": "Philippe Gaubert studierte Geige, Flöte, Komposition und Dirigieren, bevor er Soloflötist der Pariser Oper wurde - so wundert es kaum, dass er zahlreiche Stücke für Flöte hinterließ. Seine drei \"Aquarelles\" entstanden 1915, als er in der französischen Armee im Ersten Weltkrieg diente, diese Stücke erzählen allerdings nichts von der Grausamkeit des Krieges. Im Großen Krieg diente auch Maurice Ravel - seine zunächst als Klavierzyklus konzipierte Suite der \"Mutter Gans\" erklingt in diesem kontrastreichen Kammerkonzert in einer fantasievollen Bearbeitung für Harfe, Flöte und Streichtrio. Carl Frühlings Trio a-Moll wurde 1925 veröffentlicht und verrät eine stilistische Nähe zu Brahms, dessen Klarinettentrio op. 114 vor ca. 30 Jahren entstand. In Wien wurde 1920 die Orchestersuite \"Der Bürger als Edelmann\" von Strauss uraufgeführt, bestehend aus Nummern aus der ursprünglichen gleichnamigen Ballettkomödie von 1912. Ein Meister der Instrumentation, bezog sich Strauss einerseits auf direkte Vorlagen Lullys, kombinierte andererseits die Barockstilelemente mit neoklassizistisch-spätromantischen Klängen. Das Ergebnis: Eine besonders theatralische, humorvolle Darstellung der Abenteuer des ungebildeten, aber sehr sympathischen Jourdain, der \"seit 40 Jahren Prosa geredet [hat], ohne es zu wissen.\"",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/aquarelles-163813/",
-        "fetched": "2026-08-18T05:52:21.427621"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "soloistPersonIds": [
-        "person-olivier-girardin",
-        "person-tristan-von-den-driesch",
-        "person-clemens-ratajczak",
-        "person-sampo-korkeala",
-        "person-boris-gurevich"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-06-07-essen-klassiklounge",
@@ -8183,45 +9617,57 @@
       "eventType": "concert",
       "date": "2027-06-07",
       "startTime": "20:00",
-      "endTime": null,
+      "endTime": "22:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "sebastian-gaesslein",
+        "kevin-treiber",
+        "florian-hoheisel"
+      ],
       "program": [],
+      "seriesId": null,
+      "description": "Die KlassikLounge der Essener Philharmoniker - dieses außergewöhnliche Konzertformat ist längst eine große Marke. Unterschiedliche Kammermusik-Ensembles unseres Orchesters präsentieren im Café Central des Grillo-Theaters spannende musikalische Mischungen, umrahmt von DJ-Sounds. Im Anschluss kann sich das Publikum in lockerer Atmosphäre mit den beteiligten Musiker*innen austauschen. Auch in der Spielzeit 2026/2027 sind die Musiker*innen vier Mal zu Gast. Die konkreten Termine werden rechtzeitig in unseren digitalen und gedruckten Publikationen bekannt gegeben.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/klassiklounge-168027/",
-        "fetched": "2026-08-18T05:52:21.427654"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "soloistPersonIds": [
-        "person-sebastian-gaesslein",
-        "person-kevin-treiber",
-        "person-florian-hoheisel"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-06-24-essen-dichtungen-aus-musik",
       "title": "Dichtungen aus Musik",
       "eventType": "concert",
       "date": "2027-06-24",
-      "startTime": "19:00",
-      "endTime": null,
+      "startTime": "19:30",
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "andrea-sanguineti"
+      ],
+      "soloistPersonIds": [],
       "program": [],
+      "seriesId": null,
+      "description": "Nachdem Ottorino Respighi 1913 auf einen Leerstuhl am Conservatorium in Rom berufen wurde, komponierte er \"Fontane di Roma\" (Brunnen von Rom), die erste von insgesamt drei sinfonischen Dichtungen, die ihre programmatische Inspiration aus der \"ewigen Stadt\" zogen. \"Pini di Roma\" (Pinien von Rom), die zweite sinfonische Dichtung, entstand acht Jahre später und ist schon deutlich mehr durch eine modernere Tonsprache geprägt. In seiner ersten Spielzeit als Generalmusikdirektor der Essener Philharmoniker präsentierte Andrea Sanguineti bereits \"Feste Romane\" (Römische Feste), den letzten Teil der Trilogie. Rund 20 Jahre vor Respighis \"Trilogia romana\", römische Trilogie, schrieb Richard Strauss mit \"Tod und Verklärung\" eine Programmmusik für großes Orchester, die einem Gedicht seines Freundes Alexander Richter folgt. Hierin lässt ein Künstler kurz vor dem Tod sein Leben Revue passieren.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/dichtungen-aus-musik-153522/",
-        "fetched": "2026-08-18T05:52:21.427685"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "conductorPersonIds": [
-        "person-andrea-sanguineti"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-06-25-essen-dichtungen-aus-musik",
@@ -8229,21 +9675,131 @@
       "eventType": "concert",
       "date": "2027-06-25",
       "startTime": "19:30",
-      "endTime": null,
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [
+        "andrea-sanguineti"
+      ],
+      "soloistPersonIds": [],
       "program": [],
+      "seriesId": null,
+      "description": "Nachdem Ottorino Respighi 1913 auf einen Leerstuhl am Conservatorium in Rom berufen wurde, komponierte er \"Fontane di Roma\" (Brunnen von Rom), die erste von insgesamt drei sinfonischen Dichtungen, die ihre programmatische Inspiration aus der \"ewigen Stadt\" zogen. \"Pini di Roma\" (Pinien von Rom), die zweite sinfonische Dichtung, entstand acht Jahre später und ist schon deutlich mehr durch eine modernere Tonsprache geprägt. In seiner ersten Spielzeit als Generalmusikdirektor der Essener Philharmoniker präsentierte Andrea Sanguineti bereits \"Feste Romane\" (Römische Feste), den letzten Teil der Trilogie. Rund 20 Jahre vor Respighis \"Trilogia romana\", römische Trilogie, schrieb Richard Strauss mit \"Tod und Verklärung\" eine Programmmusik für großes Orchester, die einem Gedicht seines Freundes Alexander Richter folgt. Hierin lässt ein Künstler kurz vor dem Tod sein Leben Revue passieren.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/dichtungen-aus-musik-153522/",
-        "fetched": "2026-08-18T05:52:21.427705"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "conductorPersonIds": [
-        "person-andrea-sanguineti"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-30-essen-jazz-im-aalto",
+      "title": "Jazz im Aalto",
+      "eventType": "concert",
+      "date": "2027-06-30",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Schon lange ist es eine beliebte Tradition, unterschiedliche Orte des Aalto-Theaters ein paar Mal im Jahr einen Abend lang in einen Jazz-Club zu verwandeln, in dem sich Mitglieder des Gesangsensembles oder der Essener Philharmoniker gemeinsam mit Musiker*innen aus der Freien Szene musikalisch von einer anderen Seite präsentieren. Es wird gejazzt und gejammt, was das Zeug hält.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/summer-jazz/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-06-30-essen-bilder-einer-ausstel",
+      "title": "Bilder einer Ausstellung",
+      "eventType": "concert",
+      "date": "2027-06-30",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Auf einen Ausstellungsbesuch mit Mussorgski, den Essener Philharmonikern und Malte Arkona: Der bekannte Zyklus „Bilder einer Ausstellung“ wurde 1874 komponiert – ein buntes und fantasievolles musikalisches Gemälde, bestehend unter anderem aus dem „Ballett der Küken“, dem „Tor von Kiew“ und den „Abenteuern von Goldenberg und Schmuyle“, alles durch die Promenade miteinander verbunden. Während Mussorgski von den Kunstwerken seines verstorbenen Freundes Viktor Hartmann inspiriert war und „Bilder einer Ausstellung“ komponierte, wird für unsere moderierte Version am Aalto-Theater ein Livezeichner Mussorgskis Musik auf Papier bringen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/bilder-einer-ausstellung/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-04-essen-bilder-einer-ausstel",
+      "title": "Bilder einer Ausstellung",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Auf einen Ausstellungsbesuch mit Mussorgski, den Essener Philharmonikern und Malte Arkona: Der bekannte Zyklus „Bilder einer Ausstellung“ wurde 1874 komponiert – ein buntes und fantasievolles musikalisches Gemälde, bestehend unter anderem aus dem „Ballett der Küken“, dem „Tor von Kiew“ und den „Abenteuern von Goldenberg und Schmuyle“, alles durch die Promenade miteinander verbunden. Während Mussorgski von den Kunstwerken seines verstorbenen Freundes Viktor Hartmann inspiriert war und „Bilder einer Ausstellung“ komponierte, wird für unsere moderierte Version am Aalto-Theater ein Livezeichner Mussorgskis Musik auf Papier bringen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/bilder-einer-ausstellung/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2027-07-06-essen-bilder-einer-ausstel",
+      "title": "Bilder einer Ausstellung",
+      "eventType": "concert",
+      "date": "2027-07-06",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "essener-philharmoniker"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Auf einen Ausstellungsbesuch mit Mussorgski, den Essener Philharmonikern und Malte Arkona: Der bekannte Zyklus „Bilder einer Ausstellung“ wurde 1874 komponiert – ein buntes und fantasievolles musikalisches Gemälde, bestehend unter anderem aus dem „Ballett der Küken“, dem „Tor von Kiew“ und den „Abenteuern von Goldenberg und Schmuyle“, alles durch die Promenade miteinander verbunden. Während Mussorgski von den Kunstwerken seines verstorbenen Freundes Viktor Hartmann inspiriert war und „Bilder einer Ausstellung“ komponierte, wird für unsere moderierte Version am Aalto-Theater ein Livezeichner Mussorgskis Musik auf Papier bringen. Mehr anzeigen Weniger anzeigen",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/bilder-einer-ausstellung/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-07-04-essen-zypressen",
@@ -8251,24 +9807,30 @@
       "eventType": "concert",
       "date": "2027-07-04",
       "startTime": "11:00",
-      "endTime": null,
+      "endTime": "13:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "ilka-wagner",
+        "mira-nauer",
+        "ruth-herrmann",
+        "almuth-hett"
+      ],
       "program": [],
+      "seriesId": null,
+      "description": "Nicht nur im Beethoven-Jahr 2027, sondern generell auf den Konzertprogrammen nehmen Werke des großen Meisters einen hervorragenden Platz ein. In seinen sechs Quartetten op. 18, die er Fürst Lobkowitz widmete, lässt sich seine Orientierung an Haydn deutlich erkennen, aber auch der Wunsch, eigene Wege zu gehen. Zur gleichen Zeit hatte sich der mährische Komponist und Zeitgenosse Beethovens Franz Krommer einen Namen gemacht, sein Werk geriet aber nach seinem Tod in Vergessenheit. Sein elegantes und heiteres Quartett op. 46 erklingt im Konzert. Dvoráks Kammermusik wurzelt in der klassischen Kammermusik-Tradition von Haydn, Mozart und Beethoven, und für das Streichquartett insbesondere hatte er eine Vorliebe. Der \"Zypressen\"-Zyklus ist eine Umarbeitung der 1865 komponierten Lieder nach Texten von Gustav Pfleger-Moravský. Selbst der Titel \"Zypressen\" weist auf die Trauer, den Tod und den Verlust hin und nimmt den Kerncharakter der Komposition vorweg: zart, nachdenklich, melancholisch und lyrisch, denn diese Lieder waren ein Echo einer verlorenen, aber nicht vergessenen Liebe Dvoráks: Josefine Tschermak.",
       "source": {
         "url": "https://www.theater-essen.de/programm/spielzeit-26-27/zypressen-163149/",
-        "fetched": "2026-08-18T05:52:21.427725"
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
       },
-      "soloistPersonIds": [
-        "person-ilka-wagner",
-        "person-mira-nauer",
-        "person-ruth-herrmann",
-        "person-almuth-hett"
-      ]
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-07-10-essen-open-air-im-grugapar",
@@ -8276,76 +9838,89 @@
       "eventType": "concert",
       "date": "2027-07-10",
       "startTime": "19:00",
-      "endTime": null,
+      "endTime": "21:00",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/open-air-im-grugapark-167171/",
-        "fetched": "2026-08-18T05:52:21.427756"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-wolfram-maria-maertig"
+        "wolfram-maria-maertig"
       ],
       "soloistPersonIds": [
-        "person-thorsten-stepath"
-      ]
+        "thorsten-stepath"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/open-air-im-grugapark-167171/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-07-15-essen-sommertanz",
       "title": "Sommertanz",
       "eventType": "concert",
       "date": "2027-07-15",
-      "startTime": "21:30",
-      "endTime": null,
+      "startTime": "19:30",
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sommertanz-153580/",
-        "fetched": "2026-08-18T05:52:21.427781"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-martijn-dendievel"
+        "martijn-dendievel"
       ],
       "soloistPersonIds": [
-        "person-eduardo-rodriguez-romanos",
-        "person-essener-philharmoniker"
-      ]
+        "eduardo-rodriguez-romanos"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Ein \"Foxtrott für Orchester\" ist Adams’ \"The Chairman Dances\". Das seiner Oper \"Nixon in China\" entlehnte Werk handelt vom chinesischen Staatschef Mao Zedong und seiner Ehefrau, die in Erinnerungen an vergangene Zeiten schwelgen - komponiert im Stil der Minimal Music mit jeder Menge Rhythmus und Energie. Im \"Divertimento Concertante\" lässt Nino Rota, u. a. bekannt für seine Filmmusik zu \"Der Pate\", den Kontrabass tanzen und schuf eines der wenigen Werke für diese außergewöhnliche Besetzung. Eduardo Rodríguez Romanos, Solo-Bassist der Essener Philharmoniker, stellt die Qualitäten des größten Streichinstruments unter Beweis. Das letzte Orchesterwerk Rachmaninows schenkt schönste Klangfarben und Effekte, lässt ein Thema aus der 1. Sinfonie des Russen anklingen sowie das in seinen Kompositionen häufig präsente \"Dies irae\" - eine musikalische Reflexion am Ende eines Lebens.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sommertanz-153580/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     },
     {
       "id": "event-2027-07-16-essen-sommertanz",
       "title": "Sommertanz",
       "eventType": "concert",
       "date": "2027-07-16",
-      "startTime": "19:00",
-      "endTime": null,
+      "startTime": "19:30",
+      "endTime": "21:30",
       "status": "scheduled",
       "ensembleIds": [
         "essener-philharmoniker"
       ],
       "venueId": "philharmonie-essen",
-      "cityId": "city-essen",
-      "program": [],
-      "source": {
-        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sommertanz-153580/",
-        "fetched": "2026-08-18T05:52:21.427808"
-      },
+      "cityId": "essen",
       "conductorPersonIds": [
-        "person-martijn-dendievel"
+        "martijn-dendievel"
       ],
       "soloistPersonIds": [
-        "person-eduardo-rodriguez-romanos",
-        "person-essener-philharmoniker"
-      ]
+        "eduardo-rodriguez-romanos"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Ein \"Foxtrott für Orchester\" ist Adams’ \"The Chairman Dances\". Das seiner Oper \"Nixon in China\" entlehnte Werk handelt vom chinesischen Staatschef Mao Zedong und seiner Ehefrau, die in Erinnerungen an vergangene Zeiten schwelgen - komponiert im Stil der Minimal Music mit jeder Menge Rhythmus und Energie. Im \"Divertimento Concertante\" lässt Nino Rota, u. a. bekannt für seine Filmmusik zu \"Der Pate\", den Kontrabass tanzen und schuf eines der wenigen Werke für diese außergewöhnliche Besetzung. Eduardo Rodríguez Romanos, Solo-Bassist der Essener Philharmoniker, stellt die Qualitäten des größten Streichinstruments unter Beweis. Das letzte Orchesterwerk Rachmaninows schenkt schönste Klangfarben und Effekte, lässt ein Thema aus der 1. Sinfonie des Russen anklingen sowie das in seinen Kompositionen häufig präsente \"Dies irae\" - eine musikalische Reflexion am Ende eines Lebens.",
+      "source": {
+        "url": "https://www.theater-essen.de/programm/spielzeit-26-27/sommertanz-153580/",
+        "name": "Theater und Philharmonie Essen",
+        "retrievedAt": "2026-08-18"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-18"
     }
   ]
 }

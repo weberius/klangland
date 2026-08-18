@@ -757,6 +757,14 @@
         "from": 1971,
         "to": null
       }
+    },
+    {
+      "id": "benjamin-britten",
+      "name": "Benjamin Britten",
+      "life": {
+        "from": 1913,
+        "to": 1976
+      }
     }
   ]
 }

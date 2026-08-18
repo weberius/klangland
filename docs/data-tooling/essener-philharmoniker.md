@@ -86,31 +86,42 @@ r'(\d{2}):(\d{2})'
 
 | Venue Pattern | ID |
 |---------------|----|
-| Philharmonie Essen / Philharmonie-Essen | `venue-philharmonie-essen` |
-| Gruga-Saal | `venue-gruga-saal-essen` |
-| Licht-Hof | `venue-licht-hof-essen` |
-| Bethanien | `venue-bethanien-essen` |
-| Aalto Musiktheater | `venue-aalto-musiktheater-essen` |
+| Philharmonie Essen / Philharmonie-Essen | `philharmonie-essen` |
+| Gruga-Saal | `gruga-saal-essen` |
+| Licht-Hof | `licht-hof-essen` |
+| Bethanien | `bethanien-essen` |
+| Aalto Musiktheater | `aalto-musiktheater-essen` |
 
-**Standard:** `venue-philharmonie-essen` (wenn keine andere Venue erwähnt)
+**Standard:** `philharmonie-essen` (wenn keine andere Venue erwähnt)
 
 #### Programme (Werke)
 
 **Pattern:**  
+Die Seite liefert das Programm meist nur im `<meta name="description">`, typischerweise als:
 ```
-Werke von: {composer names and titles}
-Musik von: {similar}
+{Titel}, Werke von {Komponist:innen}, Besetzung: ...
+```
+oder
+```
+{Titel}, Musik von {Komponist:innen}, Besetzung: ...
 ```
 
-**Regex:**
+**Primäre Quellen:**
 ```python
-r'(?:Werke von|Musik von|Komposition)[:—\s]+([^<]{20,500})'
+# Kurzprogramm / Besetzung
+r'<meta\s+name="description"\s+content="([^"]+)"'
+
+# Langtext / Werkeinführung
+r'<div class="page-outer page-outer--richtext --margintop-none --marginbottom-xxlarge">(.*?)</div>\s*</div>'
 ```
 
 **Behandlung:**  
 - Program-Text wird als HTML-Entity dekodiert (unescape)
+- Das Kurzprogramm wird vom Besetzungsanteil getrennt
+- Wenn vorhanden, wird der ausführliche Richtext-Block als `description` übernommen
 - Verwendet **generische Beschreibung** (Programm wird nicht automatisch in einzelne Werke zerlegt)
-- Für bekannte Produktionen können Werk-IDs manuell in `PROGRAM` dict gemappt werden
+- Für bekannte Produktionen werden Werk-IDs manuell in `PROGRAM` dict gemappt
+  (aktuell u. a. `Bruckner 3`, `Eroica`)
 
 #### Besetzung (Cast)
 
@@ -129,7 +140,9 @@ r'Besetzung[:—\s]+([^<]{20,500})'
 - Detect Conductor-Rollen: "Dirigent", "Leitung", "Künstlerische Leitung"
 - Detect Soloist-Rollen: Instrument names (Sopran, Violine, Klavier, etc.)
 - Name extraction: vor der Rolle oder nach `:` Separator
-- Person-ID-Generierung: `person-{folded_name}`
+- Person-IDs werden aus dem gefalteten Namen erzeugt und mit bestehenden Personen
+  dedupliziert
+- Kollektive wie Orchester, Chor oder Ballett-Compagnien werden übersprungen
 
 **Folding-Regeln:**
 ```python
@@ -145,14 +158,16 @@ Spaces → hyphens
 - Existing events.json
 
 **Idempotenzlogik:**
-- Alte Essener Philharmoniker Events werden NICHT automatisch gelöscht
-  (da Source-URL Filterung nicht implementiert)
+- Alte Essener Philharmoniker Events werden vor dem Merge über die Source-URL entfernt
 - Duplikate sind aufgrund eindeutiger Event-IDs (`event-{date}-{city}-{title[:20]}`) nicht möglich
 
 **Output:** Updated data/events.json mit:
 - Neue Event-Records
-- Neue Person-Records (conductors, soloists)
-- Neue Work/Composer-Records (falls in PROGRAM dict definiert)
+- Neue Person-Records in `people.json` für bislang unbekannte Dirigent:innen und
+  Solist:innen
+- Neue Werk-/Komponist:innen-Stammdaten für manuell gemappte Programme
+- Arrays/Nullable-Felder werden auch bei leeren Werten explizit geschrieben
+- Werkreferenzen werden nur übernommen, wenn die referenzierten `workId`s bereits existieren
 
 ## Datenqualität und Bekannte Limitationen
 
@@ -210,25 +225,25 @@ python3 docs/data-tooling/ingest_essener.py
    [20/207] Scanned 20 events, found X Essener Philharmoniker events...
    ...
    Found 44 Essener Philharmoniker events
-   Extracted 45 performances total
+   Extracted 91 performances total
 
 3. Loading existing data...
    Existing events: 203
 
 4. Adding new performances...
-   Added 45 new events
+   Added 87 new events
 
 5. Saving updated data...
    Saved to data/events.json
 
-✓ Ingest complete: 45 new Essener Philharmoniker events
+✓ Ingest complete: 87 new Essener Philharmoniker events
 ```
 
 **Änderungen an den Dateien:**
-- `data/events.json` — 45 neue Events hinzugefügt
-- `data/people.json` — ~40 neue Personen (Dirigenten, Solisten)
-- `data/venues.json` — Ggf. neue Venues
-- `data/works.json` / `data/composers.json` — Nur wenn in `PROGRAM` dict definiert
+- `data/events.json` — 87 neue Events hinzugefügt
+- `data/people.json` — unbekannte Dirigent:innen und Solist:innen werden automatisch angelegt
+- `data/venues.json` — keine Änderungen im aktuellen Lauf
+- `data/works.json` / `data/composers.json` — keine Änderungen im aktuellen Lauf
 
 ### Validierung
 
@@ -237,7 +252,7 @@ Siehe auch: [`docs/validation/validate.md`](../validation/validate.md)
 ```bash
 # Typische Validierungschecks:
 python3 -m json.tool data/events.json > /dev/null  # JSON valide?
-grep -c "essener-philharmoniker" data/events.json   # 45+ Einträge
+grep -c "essener-philharmoniker" data/events.json   # 87+ Einträge
 ```
 
 ## Erweiterung und Wartung
@@ -267,7 +282,7 @@ grep -c "essener-philharmoniker" data/events.json   # 45+ Einträge
 
 | Datum | Aktion | Details |
 |-------|--------|---------|
-| 2026-08-17 | Initial Ingest | 44 Events, 45 Performances, ~40 Personen |
+| 2026-08-17 | Initial Ingest | 44 Produktionen, 87 Aufführungstermine, automatische Person-Anlage |
 
 ## Verwandte Ingest-Skripte
 

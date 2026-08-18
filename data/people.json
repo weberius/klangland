@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.2",
-    "lastUpdated": "2026-08-17",
+    "lastUpdated": "2026-08-18",
     "language": "de",
     "notes": "Personen sind reine Identitätsdatensätze. Die Funktion einer Person ergibt sich aus der referenzierenden Entität: Ensemble (Chefdirigent:in) bzw. Event (conductorPersonIds/soloistPersonIds)."
   },
@@ -841,6 +841,346 @@
     {
       "id": "michael-sanderling",
       "name": "Michael Sanderling"
+    },
+    {
+      "id": "bertrand-de-billy",
+      "name": "Bertrand de Billy"
+    },
+    {
+      "id": "tommaso-turchetta",
+      "name": "Tommaso Turchetta"
+    },
+    {
+      "id": "goetz-alsmann",
+      "name": "Götz Alsmann"
+    },
+    {
+      "id": "sarah-koenen",
+      "name": "Sarah Koenen"
+    },
+    {
+      "id": "sebastian-b",
+      "name": "Sebastian B"
+    },
+    {
+      "id": "miriam-klaeger",
+      "name": "Miriam Klaeger"
+    },
+    {
+      "id": "eduardo-rodriguez-romanos",
+      "name": "Eduardo Rodriguez Romanos"
+    },
+    {
+      "id": "anja-renczikowski",
+      "name": "Anja Renczikowski"
+    },
+    {
+      "id": "liza-ferschtman",
+      "name": "Liza Ferschtman"
+    },
+    {
+      "id": "andreas-gosling",
+      "name": "Andreas Gosling"
+    },
+    {
+      "id": "julien-flor",
+      "name": "Julien Flor"
+    },
+    {
+      "id": "joachim-graf",
+      "name": "Joachim Graf"
+    },
+    {
+      "id": "musikalische",
+      "name": "Musikalische"
+    },
+    {
+      "id": "youri-vamos",
+      "name": "Youri Vamos"
+    },
+    {
+      "id": "martin-cerny",
+      "name": "Martin Cerny"
+    },
+    {
+      "id": "marian-thienel",
+      "name": "Marian Thienel"
+    },
+    {
+      "id": "joyce-couco",
+      "name": "Joyce Couco"
+    },
+    {
+      "id": "savina-kationi",
+      "name": "Savina Kationi"
+    },
+    {
+      "id": "daniel-cohen",
+      "name": "Daniel Cohen"
+    },
+    {
+      "id": "ava-polheim",
+      "name": "Ava Polheim"
+    },
+    {
+      "id": "tobias-nayda",
+      "name": "Tobias Nayda"
+    },
+    {
+      "id": "judith-nayda",
+      "name": "Judith Nayda"
+    },
+    {
+      "id": "santiago-cavanagh",
+      "name": "Santiago Cavanagh"
+    },
+    {
+      "id": "patrick-jaskolka",
+      "name": "Patrick Jaskolka"
+    },
+    {
+      "id": "clemens-ratajczak",
+      "name": "Clemens Ratajczak"
+    },
+    {
+      "id": "christopher-bruckman",
+      "name": "Christopher Bruckman"
+    },
+    {
+      "id": "aljoscha-lennert",
+      "name": "Aljoscha Lennert"
+    },
+    {
+      "id": "natalia-labourdette",
+      "name": "Natalia Labourdette"
+    },
+    {
+      "id": "liliana-de-sousa",
+      "name": "Liliana de Sousa"
+    },
+    {
+      "id": "mykhailo-kushlyk",
+      "name": "Mykhailo Kushlyk"
+    },
+    {
+      "id": "baurzhan-anderzhanov",
+      "name": "Baurzhan Anderzhanov"
+    },
+    {
+      "id": "idil-kutay",
+      "name": "Idil Kutay"
+    },
+    {
+      "id": "bettina-ranch",
+      "name": "Bettina Ranch"
+    },
+    {
+      "id": "tilmann-unger",
+      "name": "Tilmann Unger"
+    },
+    {
+      "id": "andrei-nicoara",
+      "name": "Andrei Nicoara"
+    },
+    {
+      "id": "sena-shirae",
+      "name": "Sena Shirae"
+    },
+    {
+      "id": "armen-hakobyan",
+      "name": "Armen Hakobyan"
+    },
+    {
+      "id": "ramon-ivars",
+      "name": "Ramon Ivars"
+    },
+    {
+      "id": "roger-orra",
+      "name": "Roger Orra"
+    },
+    {
+      "id": "laura-bruckner",
+      "name": "Laura Bruckner"
+    },
+    {
+      "id": "sebastian-gaesslein",
+      "name": "Sebastian Gäßlein"
+    },
+    {
+      "id": "kevin-treiber",
+      "name": "Kevin Treiber"
+    },
+    {
+      "id": "florian-hoheisel",
+      "name": "Florian Hoheisel"
+    },
+    {
+      "id": "patrick-lange",
+      "name": "Patrick Lange"
+    },
+    {
+      "id": "marc-albrecht",
+      "name": "Marc Albrecht"
+    },
+    {
+      "id": "alexander-gadjiev",
+      "name": "Alexander Gadjiev"
+    },
+    {
+      "id": "olivier-girardin",
+      "name": "Olivier Girardin"
+    },
+    {
+      "id": "karla-m",
+      "name": "Karla M"
+    },
+    {
+      "id": "harald-hendrichs",
+      "name": "Harald Hendrichs"
+    },
+    {
+      "id": "tristan-von-den-driesch",
+      "name": "Tristan von den Driesch"
+    },
+    {
+      "id": "klaus-goessmann",
+      "name": "Klaus Gößmann"
+    },
+    {
+      "id": "juliane-lopper",
+      "name": "Juliane Lopper"
+    },
+    {
+      "id": "maximilian-weller",
+      "name": "Maximilian Weller"
+    },
+    {
+      "id": "stefan-kellner",
+      "name": "Stefan Kellner"
+    },
+    {
+      "id": "lea-katharina-fischer",
+      "name": "Lea Katharina Fischer"
+    },
+    {
+      "id": "federico-aluffi",
+      "name": "Federico Aluffi"
+    },
+    {
+      "id": "marcin-sikorski",
+      "name": "Marcin Sikorski"
+    },
+    {
+      "id": "markus-mayr",
+      "name": "Markus Mayr"
+    },
+    {
+      "id": "jannis-hoesch",
+      "name": "Jannis Hoesch"
+    },
+    {
+      "id": "atsuko-ota",
+      "name": "Atsuko Ota"
+    },
+    {
+      "id": "constantin-trinks",
+      "name": "Constantin Trinks"
+    },
+    {
+      "id": "derek-welton",
+      "name": "Derek Welton"
+    },
+    {
+      "id": "david-fischer",
+      "name": "David Fischer"
+    },
+    {
+      "id": "rudolf-buchbinder",
+      "name": "Rudolf Buchbinder"
+    },
+    {
+      "id": "sampo-korkeala",
+      "name": "Sampo Korkeala"
+    },
+    {
+      "id": "boris-gurevich",
+      "name": "Boris Gurevich"
+    },
+    {
+      "id": "ilka-wagner",
+      "name": "Ilka Wagner"
+    },
+    {
+      "id": "mira-nauer",
+      "name": "Mira Nauer"
+    },
+    {
+      "id": "ruth-herrmann",
+      "name": "Ruth Herrmann"
+    },
+    {
+      "id": "almuth-hett",
+      "name": "Almuth Hett"
+    },
+    {
+      "id": "wolfram-maria-maertig",
+      "name": "Wolfram-Maria Märtig"
+    },
+    {
+      "id": "thorsten-stepath",
+      "name": "Thorsten Stepath"
+    },
+    {
+      "id": "martijn-dendievel",
+      "name": "Martijn Dendievel"
+    },
+    {
+      "id": "stipendiat",
+      "name": "Stipendiat"
+    },
+    {
+      "id": "malte-arkona",
+      "name": "Malte Arkona"
+    },
+    {
+      "id": "ks.-christina-clark",
+      "name": "KS. Christina Clark"
+    },
+    {
+      "id": "florian-esch",
+      "name": "Florian Esch"
+    },
+    {
+      "id": "jiayu-jin",
+      "name": "Jiayu Jin"
+    },
+    {
+      "id": "dorothee-oberlinger",
+      "name": "Dorothee Oberlinger"
+    },
+    {
+      "id": "susanne-rump",
+      "name": "Susanne Rump"
+    },
+    {
+      "id": "florian-geldsetzer",
+      "name": "Florian Geldsetzer"
+    },
+    {
+      "id": "annette-meier-kr",
+      "name": "Annette Meier-Kr"
+    },
+    {
+      "id": "astrik-khanamiryan",
+      "name": "Astrik Khanamiryan"
+    },
+    {
+      "id": "henry-ross",
+      "name": "Henry Ross"
+    },
+    {
+      "id": "michael-giesen",
+      "name": "Michael Giesen"
     }
   ]
 }

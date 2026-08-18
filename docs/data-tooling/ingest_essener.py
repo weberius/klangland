@@ -47,26 +47,83 @@ CONDUCTOR_ROLES = {"Dirigent", "Leitung", "Künstlerische Leitung", "conductor"}
 SOLOIST_KEYWORDS = {"Sopran", "Alt", "Tenor", "Bass", "Violine", "Viola", "Violoncello", "Cello", 
                     "Klavier", "Orgel", "Flöte", "Oboe", "Klarinette", "Fagott", "Horn", "Trompete",
                     "Posaune", "Tuba", "Harfe", "Gitarre", "Vokal", "vocal", "solo"}
+SKIP_PERSON_KEYWORDS = {
+    "philharmoniker", "orchester", "ballett", "chor", "ensemble", "compagnie", "company", "musiktheater",
+}
 
-# Program mapping: slug -> [(work_id, notes)]
+# Program mapping: slug -> structured program items.
 PROGRAM = {
-    # Hören Sie die Neugierde: Größe Sinfonische Konzerte
-    "hoehner-classic-160438": [("work-schumann-symphony-3", "")],
-    
-    # Don Giovanni (Oper)
-    "don-giovanni": [("work-mozart-don-giovanni", "")],
-    
-    # Bruckner 3
-    "bruckner-3-153256": [("work-bruckner-symphony-3", ""), ("work-wagner-rienzi-overture", "")],
-    
-    # Weitere Produktionen - wird mit generischer Beschreibung markiert
+    "bruckner-3-153256": [
+        {"workId": "wagner-siegfried-idyll"},
+        {"workId": "bruckner-sinfonie-3", "version": "3. Fassung"},
+    ],
+    "eroica-153285": [
+        {"workId": "brahms-tragische-ouvertuere"},
+        {"workId": "britten-violinkonzert-d-moll"},
+        {"workId": "beethoven-sinfonie-3-eroica"},
+    ],
 }
 
 # New composers to add
-NEW_COMPOSERS = {}
+NEW_COMPOSERS = {
+    "benjamin-britten": {
+        "id": "benjamin-britten",
+        "name": "Benjamin Britten",
+        "life": {"from": 1913, "to": 1976},
+    },
+}
 
 # New works to add
-NEW_WORKS = {}
+NEW_WORKS = {
+    "bruckner-sinfonie-3": {
+        "id": "bruckner-sinfonie-3",
+        "composerId": "anton-bruckner",
+        "title": "Sinfonie Nr. 3 d-Moll",
+        "catalogue": [],
+        "yearComposed": {"from": 1873, "to": 1889},
+        "genre": "symphony",
+        "durationMinutes": None,
+        "version": None,
+        "scoring": None,
+        "description": None,
+    },
+    "brahms-tragische-ouvertuere": {
+        "id": "brahms-tragische-ouvertuere",
+        "composerId": "johannes-brahms",
+        "title": "Tragische Ouvertüre d-Moll",
+        "catalogue": [{"system": "Opus", "number": "81"}],
+        "yearComposed": {"from": 1880, "to": 1880},
+        "genre": "overture",
+        "durationMinutes": 14,
+        "version": None,
+        "scoring": None,
+        "description": None,
+    },
+    "britten-violinkonzert-d-moll": {
+        "id": "britten-violinkonzert-d-moll",
+        "composerId": "benjamin-britten",
+        "title": "Violinkonzert d-Moll",
+        "catalogue": [{"system": "Opus", "number": "15"}],
+        "yearComposed": {"from": 1938, "to": 1939},
+        "genre": "concerto",
+        "durationMinutes": 32,
+        "version": None,
+        "scoring": None,
+        "description": None,
+    },
+    "beethoven-sinfonie-3-eroica": {
+        "id": "beethoven-sinfonie-3-eroica",
+        "composerId": "ludwig-van-beethoven",
+        "title": "Sinfonie Nr. 3 Es-Dur »Eroica«",
+        "catalogue": [{"system": "Opus", "number": "55"}],
+        "yearComposed": {"from": 1802, "to": 1804},
+        "genre": "symphony",
+        "durationMinutes": 48,
+        "version": None,
+        "scoring": None,
+        "description": None,
+    },
+}
 
 def fetch_url(url: str, timeout: int = 15) -> Optional[str]:
     """Fetch URL and return HTML content."""
@@ -147,28 +204,30 @@ def parse_time_string(time_str: str) -> Optional[str]:
     return None
 
 
+def extract_meta_description(event_html: str) -> str:
+    """Extract the HTML meta description content."""
+    match = re.search(r'<meta\s+name="description"\s+content="([^"]+)"', event_html, re.IGNORECASE)
+    return unescape(match.group(1)).strip() if match else ""
+
+
+def extract_richtext_description(event_html: str) -> str:
+    """Extract the long-form richtext body for an event detail page."""
+    match = re.search(
+        r'<div class="page-outer page-outer--richtext --margintop-none --marginbottom-xxlarge">(.*?)</div>\s*</div>',
+        event_html,
+        re.DOTALL,
+    )
+    if not match:
+        return ""
+    text = re.sub(r'<br\s*/?>', '\n', match.group(1))
+    text = re.sub(r'<[^>]+>', ' ', text)
+    return re.sub(r'\s+', ' ', unescape(text)).strip()
+
+
 def extract_performances(event_html: str, slug: str) -> List[Dict[str, Any]]:
     """Extract performance data from event detail page."""
     performances = []
-    
-    # Extract dates from German format patterns like "Donnerstag 17. September 2026"
-    date_pattern = r'(?:Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag)?\s*(\d{1,2})\.\s+(September|Oktober|November|Dezember|Januar|Februar|März|April|Mai|Juni|Juli|August)\s+(202[67])'
-    date_matches = re.finditer(date_pattern, event_html)
-    
-    dates = []
-    for match in date_matches:
-        day, month, year = match.groups()
-        iso_date = parse_date_string(f"{day}. {month} {year}")
-        if iso_date:
-            dates.append(iso_date)
-    
-    # Remove duplicates while preserving order
-    dates = list(dict.fromkeys(dates))
-    
-    # Extract times from "HH:MM" pattern
-    time_matches = re.findall(r'(\d{2}):(\d{2})', event_html)
-    times = [f"{h}:{m}" for h, m in time_matches] if time_matches else ["20:00"]
-    
+
     # Extract venue
     venue_id = "philharmonie-essen"  # Default
     for venue_pattern, venue_id_mapped in VENUES_MAP.items():
@@ -176,39 +235,98 @@ def extract_performances(event_html: str, slug: str) -> List[Dict[str, Any]]:
             venue_id = venue_id_mapped
             break
     
-    # Extract program/works
+    # Extract program/works and cast from meta description first.
     program_text = ""
-    program_match = re.search(
-        r'(?:Werke von|Musik von|Komposition)[:—\s]+([^<]{20,500})',
-        event_html, re.IGNORECASE
-    )
-    if program_match:
-        program_text = unescape(program_match.group(1).strip())
-    
-    # Extract cast
     cast_text = ""
-    cast_match = re.search(r'Besetzung[:—\s]+([^<]{20,500})', event_html)
-    if cast_match:
-        cast_text = unescape(cast_match.group(1).strip())
-    
-    # Create performances from dates
-    # Each date gets paired with a time (round-robin if there are multiple times)
-    if dates:
-        for i, date in enumerate(dates):
-            time = times[i % len(times)]  # Cycle through available times
+    meta_description = extract_meta_description(event_html)
+    richtext_description = extract_richtext_description(event_html)
+    if meta_description:
+        head, sep, tail = meta_description.partition("Besetzung:")
+        head = head.strip(" ,")
+        if ", Werke von " in head:
+            program_text = f"Werke von {head.split(', Werke von ', 1)[1].strip(' ,')}"
+        elif ", Musik von " in head:
+            program_text = f"Musik von {head.split(', Musik von ', 1)[1].strip(' ,')}"
+        elif head.startswith("Werke von ") or head.startswith("Musik von "):
+            program_text = head
+
+        if sep:
+            cast_text = tail.strip(" ,")
+
+    if not program_text:
+        program_match = re.search(
+            r'(?:Werke von|Musik von|Komposition)[:—\s]+([^<]{20,500})',
+            event_html, re.IGNORECASE
+        )
+        if program_match:
+            program_text = unescape(program_match.group(1).strip())
+
+    if not cast_text:
+        cast_match = re.search(r'Besetzung[:—\s]+([^<]{20,500})', event_html)
+        if cast_match:
+            cast_text = unescape(cast_match.group(1).strip())
+
+    # Prefer the explicit next-performance blocks; they contain accurate start/end times.
+    block_pattern = re.compile(
+        r'<div class="nextperformance__date">([^<]+)</div>.*?'
+        r'<div class="nextperformance__time[^"]*[^>]*>.*?'
+        r'<meta itemprop="startDate" content="([^"]+)">([^<]*)</div>',
+        re.DOTALL,
+    )
+    blocks = block_pattern.findall(event_html)
+    if blocks:
+        for date_text, start_iso, time_text in blocks:
+            start = start_iso.strip()
+            date = start[:10]
+            start_time = start[11:16] if len(start) >= 16 else None
+            end_time = None
+            time_match = re.search(r'(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})', unescape(time_text))
+            if time_match:
+                start_time = time_match.group(1)
+                end_time = time_match.group(2)
+
             try:
                 dt = datetime.fromisoformat(date)
                 if SEASON_START <= dt <= SEASON_END:
-                    performance = {
+                    performances.append({
                         'date': date,
-                        'time': time,
+                        'time': start_time or '20:00',
+                        'end_time': end_time,
                         'venue': venue_id,
                         'program': program_text,
+                        'description': richtext_description or program_text,
                         'cast': cast_text,
-                    }
-                    performances.append(performance)
-            except:
-                pass
+                    })
+            except ValueError:
+                continue
+        return performances
+
+    # Fallback: extract dates from German format patterns like "Donnerstag 17. September 2026"
+    date_pattern = r'(?:Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag)?\s*(\d{1,2})\.\s+(September|Oktober|November|Dezember|Januar|Februar|März|April|Mai|Juni|Juli|August)\s+(202[67])'
+    dates = []
+    for match in re.finditer(date_pattern, event_html):
+        day, month, year = match.groups()
+        iso_date = parse_date_string(f"{day}. {month} {year}")
+        if iso_date:
+            dates.append(iso_date)
+    dates = list(dict.fromkeys(dates))
+    time_matches = re.findall(r'(\d{2}):(\d{2})', event_html)
+    times = [f"{h}:{m}" for h, m in time_matches] if time_matches else ["20:00"]
+    for i, date in enumerate(dates):
+        try:
+            dt = datetime.fromisoformat(date)
+            if SEASON_START <= dt <= SEASON_END:
+                performances.append({
+                    'date': date,
+                    'time': times[i % len(times)],
+                    'end_time': None,
+                    'venue': venue_id,
+                    'program': program_text,
+                    'description': richtext_description or program_text,
+                    'cast': cast_text,
+                })
+        except ValueError:
+            continue
     
     return performances
 
@@ -226,7 +344,7 @@ def fold_name(name: str) -> str:
 
 
 def extract_persons_from_cast(cast_text: str) -> Tuple[List[str], List[str]]:
-    """Extract conductor and soloist person IDs from cast text."""
+    """Extract conductor and soloist names from cast text."""
     conductors = []
     soloists = []
     
@@ -253,14 +371,69 @@ def extract_persons_from_cast(cast_text: str) -> Tuple[List[str], List[str]]:
         if name_match:
             name = name_match.group(1).strip()
             if name and len(name) > 2:
-                person_id = f"person-{fold_name(name).lower().replace(' ', '-')}"
-                
                 if is_conductor:
-                    conductors.append(person_id)
+                    conductors.append(name)
                 else:
-                    soloists.append(person_id)
+                    soloists.append(name)
     
     return conductors, soloists
+
+
+def ensure_person(name: str, people: Dict[str, Any], people_by_id: Dict[str, Dict[str, str]],
+                  people_id_by_name: Dict[str, str]) -> Optional[str]:
+    """Create or reuse a person record and return its ID."""
+    clean_name = re.sub(r"\s+", " ", name).strip(" ,;:")
+    if not clean_name:
+        return None
+    lower_name = clean_name.lower()
+    if any(keyword in lower_name for keyword in SKIP_PERSON_KEYWORDS):
+        return None
+
+    key = lower_name
+    if key in people_id_by_name:
+        return people_id_by_name[key]
+
+    person_id = fold_name(clean_name).lower().replace(' ', '-')
+    base = person_id
+    suffix = 2
+    while person_id in people_by_id and people_by_id[person_id]['name'].strip().lower() != key:
+        person_id = f"{base}-{suffix}"
+        suffix += 1
+
+    if person_id not in people_by_id:
+        record = {'id': person_id, 'name': clean_name}
+        people['people'].append(record)
+        people_by_id[person_id] = record
+        people_id_by_name[key] = person_id
+
+    return person_id
+
+
+def ensure_composer(composer_id: str, composers: Dict[str, Any], composer_ids: set[str]) -> Optional[str]:
+    """Create or reuse a composer record and return its ID."""
+    if composer_id in composer_ids:
+        return composer_id
+    record = NEW_COMPOSERS.get(composer_id)
+    if not record:
+        return None
+    composers['composers'].append(record)
+    composer_ids.add(composer_id)
+    return composer_id
+
+
+def ensure_work(work_id: str, works: Dict[str, Any], work_ids: set[str], composers: Dict[str, Any],
+                composer_ids: set[str]) -> Optional[str]:
+    """Create or reuse a work record and return its ID."""
+    if work_id in work_ids:
+        return work_id
+    record = NEW_WORKS.get(work_id)
+    if not record:
+        return None
+    if not ensure_composer(record['composerId'], composers, composer_ids):
+        return None
+    works['works'].append(record)
+    work_ids.add(work_id)
+    return work_id
 
 
 def generate_event_id(date: str, city: str, title: str) -> str:
@@ -367,6 +540,10 @@ def main():
     print(f"\n3. Loading existing data...")
     events, people, works, composers, venues = load_existing_data(repo_root)
     print(f"   Existing events: {len(events)}")
+    existing_work_ids = {work['id'] for work in works.get('works', [])}
+    composer_ids = {composer['id'] for composer in composers.get('composers', [])}
+    people_by_id = {person['id']: person for person in people.get('people', [])}
+    people_id_by_name = {person['name'].strip().lower(): person['id'] for person in people.get('people', [])}
     
     # Remove old Essener events (idempotent)
     old_count = len(events)
@@ -394,31 +571,46 @@ def main():
             'eventType': 'concert',
             'date': perf['date'],
             'startTime': perf.get('time', '20:00'),
-            'endTime': None,
+            'endTime': perf.get('end_time'),
             'status': 'scheduled',
             'ensembleIds': [ENSEMBLE_ID],
-            'venueId': perf.get('venue', 'venue-philharmonie-essen'),
-            'cityId': 'city-essen',
+            'venueId': perf.get('venue', 'philharmonie-essen'),
+            'cityId': 'essen',
+            'conductorPersonIds': [],
+            'soloistPersonIds': [],
             'program': [],
+            'seriesId': None,
+            'description': perf.get('description') or perf.get('program') or None,
             'source': {
                 'url': perf['url'],
-                'fetched': datetime.now().isoformat()
-            }
+                'name': 'Theater und Philharmonie Essen',
+                'retrievedAt': datetime.now().strftime('%Y-%m-%d'),
+            },
+            'ticketUrl': None,
+            'lastVerified': datetime.now().strftime('%Y-%m-%d'),
         }
         
         # Add program works if mapped
         if perf['slug'] in PROGRAM:
-            event['program'] = [
-                {'workId': wid, 'notes': notes}
-                for wid, notes in PROGRAM[perf['slug']]
-            ]
+            program_items = []
+            for item in PROGRAM[perf['slug']]:
+                work_id = ensure_work(item['workId'], works, existing_work_ids, composers, composer_ids)
+                if not work_id:
+                    continue
+                program_item = {'workId': work_id}
+                if item.get('version'):
+                    program_item['version'] = item['version']
+                program_items.append(program_item)
+            event['program'] = program_items
         
         # Add cast
-        conductors, soloists = extract_persons_from_cast(perf.get('cast', ''))
-        if conductors:
-            event['conductorPersonIds'] = conductors
-        if soloists:
-            event['soloistPersonIds'] = soloists
+        conductor_names, soloist_names = extract_persons_from_cast(perf.get('cast', ''))
+        event['conductorPersonIds'] = [
+            pid for pid in (ensure_person(name, people, people_by_id, people_id_by_name) for name in conductor_names) if pid
+        ]
+        event['soloistPersonIds'] = [
+            pid for pid in (ensure_person(name, people, people_by_id, people_id_by_name) for name in soloist_names) if pid
+        ]
         
         events.append(event)
         new_event_count += 1

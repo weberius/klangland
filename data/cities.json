@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.1",
-    "lastUpdated": "2026-08-17",
+    "lastUpdated": "2026-08-18",
     "language": "de",
     "notes": "Normalisierte Ortsreferenzen. Enthält alle Sitzorte der erfassten Institutionen, Ensembles und Spielstätten sowie die von Events referenzierten Orte."
   },
@@ -109,11 +109,6 @@
     {
       "id": "coesfeld",
       "name": "Coesfeld",
-      "country": "Deutschland"
-    },
-    {
-      "id": "city-essen",
-      "name": "Essen",
       "country": "Deutschland"
     }
   ]

@@ -16,7 +16,7 @@
       @if (statusLabel()) {
         <p class="status-{{ event()!.status }}">{{ statusLabel() }}</p>
       }
-      @if (event()!.description) { <p class="muted">{{ event()!.description }}</p> }
+      @if (headerDescription()) { <p class="muted">{{ headerDescription() }}</p> }
       @if (event()!.ticketUrl) {
         <p><a class="btn btn-primary" [href]="event()!.ticketUrl" target="_blank" rel="noopener">Tickets</a></p>
       }
@@ -69,8 +69,10 @@
 
     <section class="card detail-block">
       <h2>Programm</h2>
-      @if (program().length === 0) {
+      @if (program().length === 0 && !programFallbackText()) {
         <p class="muted">Kein Programm erfasst.</p>
+      } @else if (program().length === 0) {
+        <p>{{ programFallbackText() }}</p>
       } @else {
         <ol class="program">
           @for (p of program(); track $index) {
