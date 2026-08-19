@@ -33,7 +33,7 @@ from typing import Any, Dict, List, Optional, Tuple
 BASE = "https://www.beethoven-orchester.de"
 ARCHIVE = f"{BASE}/archiv/26-27/"
 DETAIL_BASE = f"{BASE}/konzerte/"
-CALENDAR_URL = f"{BASE}/konzerte/"
+CALENDAR_URL = f"{BASE}/archiv/26-27/"
 SOURCE_HOST = "beethoven-orchester.de"
 SOURCE_NAME = "Beethoven Orchester Bonn"
 ENSEMBLE_ID = "beethoven-orchester-bonn"

@@ -39,7 +39,7 @@ from typing import Any, Dict, List, Optional, Tuple
 BASE = "https://www.bochumer-symphoniker.de"
 SEARCH_ENDPOINT = f"{BASE}/programm?type=1691066967"
 DETAIL_BASE = f"{BASE}/programm/detail/"
-CALENDAR_URL = f"{BASE}/programm"
+CALENDAR_URL = f"{BASE}/programm/search////0//1"
 SOURCE_HOST = "bochumer-symphoniker.de"
 SOURCE_NAME = "Bochumer Symphoniker"
 ENSEMBLE_ID = "bochumer-symphoniker"
