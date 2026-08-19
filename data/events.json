@@ -29674,6 +29674,3497 @@
       },
       "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
       "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-13-duesseldorf-aeolus-wettbewerb",
+      "title": "Aeolus Wettbewerb",
+      "eventType": "concert",
+      "date": "2026-09-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "kyrian-friedenberg"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "david-concertino-fuer-posaune"
+        },
+        {
+          "workId": "boehme-konzert-fuer-trompete-f-moll"
+        },
+        {
+          "workId": "williams-konzert-fuer-basstuba-und-orchester-f-mo"
+        }
+      ],
+      "seriesId": null,
+      "description": "Posaune, Trompete, Tuba",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/komet/19859-aeolus-wettbewerb",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229710236671&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-18-duesseldorf-dvorak-9",
+      "title": "Dvořák 9",
+      "eventType": "concert",
+      "date": "2026-09-18",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [
+        "igor-levit"
+      ],
+      "program": [
+        {
+          "workId": "lehar-ouvertuere-zu-paganini"
+        },
+        {
+          "workId": "bartok-konzert-fuer-klavier-und-orchester-nr-3"
+        },
+        {
+          "workId": "dvorak-sinfonie-9-neue-welt"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20785-dvorak-9",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229664706981&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-20-duesseldorf-dvorak-9",
+      "title": "Dvořák 9",
+      "eventType": "concert",
+      "date": "2026-09-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [
+        "igor-levit"
+      ],
+      "program": [
+        {
+          "workId": "lehar-ouvertuere-zu-paganini"
+        },
+        {
+          "workId": "bartok-konzert-fuer-klavier-und-orchester-nr-3"
+        },
+        {
+          "workId": "dvorak-sinfonie-9-neue-welt"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20785-dvorak-9",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229664706981&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-21-duesseldorf-dvorak-9",
+      "title": "Dvořák 9",
+      "eventType": "concert",
+      "date": "2026-09-21",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [
+        "igor-levit"
+      ],
+      "program": [
+        {
+          "workId": "lehar-ouvertuere-zu-paganini"
+        },
+        {
+          "workId": "bartok-konzert-fuer-klavier-und-orchester-nr-3"
+        },
+        {
+          "workId": "dvorak-sinfonie-9-neue-welt"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20785-dvorak-9",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229664706981&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-27-duesseldorf-flake-konzert-i",
+      "title": "Flake geht ins Konzert I",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "tianyi-lu"
+      ],
+      "soloistPersonIds": [
+        "martynas-levickis"
+      ],
+      "program": [
+        {
+          "workId": "shaw-entracte"
+        },
+        {
+          "workId": "ravel-le-tombeau-de-couperin"
+        },
+        {
+          "workId": "gershwin-rhapsody-in-blue"
+        },
+        {
+          "workId": "bartok-tanzsuite"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/comedy-geht-ins-konzert/20821-flake-geht-ins-konzert-i",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670599770&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-02-duesseldorf-mahler-3",
+      "title": "Mahler 3",
+      "eventType": "concert",
+      "date": "2026-10-02",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [
+        "catriona-morison"
+      ],
+      "program": [
+        {
+          "workId": "korngold-vier-kleine-karikaturen-fuer-kinder"
+        },
+        {
+          "workId": "mahler-symphonie-nr-3-d-moll-fuer-alt-knabencho"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Damen des Städtischen Musikvereins zu Düsseldorf, Jugendchor der Akademie für Chor und Musiktheater.",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20788-mahler-3",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670792586&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-04-duesseldorf-mahler-3",
+      "title": "Mahler 3",
+      "eventType": "concert",
+      "date": "2026-10-04",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [
+        "catriona-morison"
+      ],
+      "program": [
+        {
+          "workId": "korngold-vier-kleine-karikaturen-fuer-kinder"
+        },
+        {
+          "workId": "mahler-symphonie-nr-3-d-moll-fuer-alt-knabencho"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Damen des Städtischen Musikvereins zu Düsseldorf, Jugendchor der Akademie für Chor und Musiktheater.",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20788-mahler-3",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670792586&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-05-duesseldorf-mahler-3",
+      "title": "Mahler 3",
+      "eventType": "concert",
+      "date": "2026-10-05",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [
+        "catriona-morison"
+      ],
+      "program": [
+        {
+          "workId": "korngold-vier-kleine-karikaturen-fuer-kinder"
+        },
+        {
+          "workId": "mahler-symphonie-nr-3-d-moll-fuer-alt-knabencho"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Damen des Städtischen Musikvereins zu Düsseldorf, Jugendchor der Akademie für Chor und Musiktheater.",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20788-mahler-3",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670792586&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-09-duesseldorf-sternschnuppe-fuer-grundschulen",
+      "title": "Sternschnuppe für Grundschulen",
+      "eventType": "concert",
+      "date": "2026-10-09",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "tina-el-fayoumy",
+        "simon-labhart",
+        "simon-rummel",
+        "michael-griener",
+        "oliver-el-fayoumy"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was verschwindet«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/tonhalle-macht-schule-i/22049-sternschnuppe-fuer-grundschulen",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-09-duesseldorf-plutino-fuer-4-6-jahre",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2026-10-09",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "franzisca-kussmaul",
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was verschwindet«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21544-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509834&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-10-duesseldorf-ente-tod-tulpe",
+      "title": "»Ente, Tod und Tulpe«",
+      "eventType": "concert",
+      "date": "2026-10-10",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "tina-el-fayoumy",
+        "simon-labhart",
+        "simon-rummel",
+        "michael-griener",
+        "oliver-el-fayoumy"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienkonzert in der Familienmusikwoche Oktober",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternschnuppen/21480-ente-tod-und-tulpe",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229673143353&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-10-duesseldorf-plutino-fuer-4-6-jahre",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2026-10-10",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "franzisca-kussmaul",
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was verschwindet«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21544-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509834&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-11-duesseldorf-plutino-fuer-4-6-jahre",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "franzisca-kussmaul",
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was verschwindet«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21544-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509834&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-11-duesseldorf-plutino-fuer-4-6-jahre-1130",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "franzisca-kussmaul",
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was verschwindet«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21544-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509834&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-12-duesseldorf-plutino-fuer-kitas-fuer-4",
+      "title": "Plutino für Kitas - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2026-10-12",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "franzisca-kussmaul",
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was verschwindet«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21548-plutino-fuer-kitas-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-12-duesseldorf-plutino-fuer-foerderschulen",
+      "title": "Plutino für Förderschulen",
+      "eventType": "concert",
+      "date": "2026-10-12",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "franzisca-kussmaul",
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was verschwindet«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21549-plutino-fuer-foerderschulen",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-13-duesseldorf-plutino-fuer-kitas-fuer-4",
+      "title": "Plutino für Kitas - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2026-10-13",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "franzisca-kussmaul",
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was verschwindet«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21548-plutino-fuer-kitas-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-13-duesseldorf-relaxed-performance-fuer-familien",
+      "title": "Relaxed Performance für Familien",
+      "eventType": "concert",
+      "date": "2026-10-13",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "franzisca-kussmaul",
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was verschwindet«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21551-relaxed-performance-fuer-familien",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/account/login",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-14-duesseldorf-plutino-fuer-kitas-fuer-4",
+      "title": "Plutino für Kitas - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2026-10-14",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "franzisca-kussmaul",
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was verschwindet«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21548-plutino-fuer-kitas-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-06-duesseldorf-enigma",
+      "title": "Enigma",
+      "eventType": "concert",
+      "date": "2026-11-06",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adrien-perruchon"
+      ],
+      "soloistPersonIds": [
+        "alena-baeva"
+      ],
+      "program": [
+        {
+          "workId": "bliss-hymn-to-apollo"
+        },
+        {
+          "workId": "prokofjew-violinkonzert-2"
+        },
+        {
+          "workId": "ades-maerchentaenze-fuer-violine-und-orcheste"
+        },
+        {
+          "workId": "elgar-enigma-variationen"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20791-enigma",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671017586&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-08-duesseldorf-enigma",
+      "title": "Enigma",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adrien-perruchon"
+      ],
+      "soloistPersonIds": [
+        "alena-baeva"
+      ],
+      "program": [
+        {
+          "workId": "bliss-hymn-to-apollo"
+        },
+        {
+          "workId": "prokofjew-violinkonzert-2"
+        },
+        {
+          "workId": "ades-maerchentaenze-fuer-violine-und-orcheste"
+        },
+        {
+          "workId": "elgar-enigma-variationen"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20791-enigma",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671017586&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-08-duesseldorf-junior-sternzeichen-freundschaft-toenen",
+      "title": "Junior-Sternzeichen: Freundschaft in Tönen",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adrien-perruchon"
+      ],
+      "soloistPersonIds": [
+        "lorna-bowden"
+      ],
+      "program": [
+        {
+          "workId": "elgar-enigma-variationen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Konzerteinführungen für alle ab 9 Jahren",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/junior-sternzeichen/21522-junior-sternzeichen-freundschaft-toenen",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509865&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-09-duesseldorf-enigma",
+      "title": "Enigma",
+      "eventType": "concert",
+      "date": "2026-11-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adrien-perruchon"
+      ],
+      "soloistPersonIds": [
+        "alena-baeva"
+      ],
+      "program": [
+        {
+          "workId": "bliss-hymn-to-apollo"
+        },
+        {
+          "workId": "prokofjew-violinkonzert-2"
+        },
+        {
+          "workId": "ades-maerchentaenze-fuer-violine-und-orcheste"
+        },
+        {
+          "workId": "elgar-enigma-variationen"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20791-enigma",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671017586&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-24-duesseldorf-ignition-junge-tonhalle",
+      "title": "#IGNITION - Junge Tonhalle",
+      "eventType": "concert",
+      "date": "2026-11-24",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "gordon-hamilton"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/ignition/21491-ignition-junge-tonhalle",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671692091&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-11-duesseldorf-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-12-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "holly-choe"
+      ],
+      "soloistPersonIds": [
+        "lilja-steininger"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-nussknacker-suite"
+        },
+        {
+          "workId": "nielsen-konzert-fuer-floete-und-orchester"
+        },
+        {
+          "workId": "smyth-serenade"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20794-der-nussknacker",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670623995&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-13-duesseldorf-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "holly-choe"
+      ],
+      "soloistPersonIds": [
+        "lilja-steininger"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-nussknacker-suite"
+        },
+        {
+          "workId": "nielsen-konzert-fuer-floete-und-orchester"
+        },
+        {
+          "workId": "smyth-serenade"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20794-der-nussknacker",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670623995&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-14-duesseldorf-nussknacker",
+      "title": "Der Nussknacker",
+      "eventType": "concert",
+      "date": "2026-12-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "holly-choe"
+      ],
+      "soloistPersonIds": [
+        "lilja-steininger"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-nussknacker-suite"
+        },
+        {
+          "workId": "nielsen-konzert-fuer-floete-und-orchester"
+        },
+        {
+          "workId": "smyth-serenade"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20794-der-nussknacker",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670623995&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-19-duesseldorf-anke-duesy",
+      "title": "Anke & DüSy",
+      "eventType": "concert",
+      "date": "2026-12-19",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "martin-fratz"
+      ],
+      "soloistPersonIds": [
+        "anke-engelke"
+      ],
+      "program": [
+        {
+          "workId": "ljadow-polonaise-c-dur"
+        },
+        {
+          "workId": "tschaikowsky-nussknacker-suite-auszuege"
+        },
+        {
+          "workId": "humperdinck-vorspiel-zu-haensel-und-gretel"
+        },
+        {
+          "workId": "anderson-sleigh-ride"
+        },
+        {
+          "workId": "williams-kevin-allein-zu-haus"
+        },
+        {
+          "workId": "martin-have-yourself-a-little-christmas-arr-mar"
+        },
+        {
+          "workId": "svoboda-drei-haselnuesse-fuer-aschenbroedel-arr-"
+        },
+        {
+          "workId": "elgar-pomp-and-circumstance-march-no-1"
+        }
+      ],
+      "seriesId": null,
+      "description": "Benefizkonzert zugunsten von action medeor",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternstunden/21503-anke-duesy",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229719053181&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-01-duesseldorf-neujahrskonzert-i",
+      "title": "Neujahrskonzert I",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "bar-avni"
+      ],
+      "soloistPersonIds": [
+        "christoph-sietzen"
+      ],
+      "program": [
+        {
+          "workId": "bizet-carmen-suite-nr-1-und-2-auszuege"
+        },
+        {
+          "workId": "schtschedrin-carmen-suite-fuer-schlagzeug-und-streich"
+        },
+        {
+          "workId": "anderson-the-typewriter"
+        },
+        {
+          "workId": "dorman-frozen-in-time-fuer-schlagzeug-und-orche"
+        },
+        {
+          "workId": "reich-clapping-music"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/fixsterne/21498-neujahrskonzert-i",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670792601&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-01-duesseldorf-neujahrskonzert-i-1930",
+      "title": "Neujahrskonzert I",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "bar-avni"
+      ],
+      "soloistPersonIds": [
+        "christoph-sietzen"
+      ],
+      "program": [
+        {
+          "workId": "bizet-carmen-suite-nr-1-und-2-auszuege"
+        },
+        {
+          "workId": "schtschedrin-carmen-suite-fuer-schlagzeug-und-streich"
+        },
+        {
+          "workId": "anderson-the-typewriter"
+        },
+        {
+          "workId": "dorman-frozen-in-time-fuer-schlagzeug-und-orche"
+        },
+        {
+          "workId": "reich-clapping-music"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/fixsterne/21498-neujahrskonzert-i",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670792601&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-15-duesseldorf-brahms",
+      "title": "Brahms",
+      "eventType": "concert",
+      "date": "2027-01-15",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "michael-sanderling"
+      ],
+      "soloistPersonIds": [
+        "yoav-levanon"
+      ],
+      "program": [
+        {
+          "workId": "debussy-clair-de-lune-orchesterfassung-von-andre"
+        },
+        {
+          "workId": "liszt-konzert-fuer-klavier-und-orchester-nr-2-"
+        },
+        {
+          "workId": "brahms-klavierquartett-nr-1-g-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20797-brahms",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671641470&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-17-duesseldorf-brahms",
+      "title": "Brahms",
+      "eventType": "concert",
+      "date": "2027-01-17",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "michael-sanderling"
+      ],
+      "soloistPersonIds": [
+        "yoav-levanon"
+      ],
+      "program": [
+        {
+          "workId": "debussy-clair-de-lune-orchesterfassung-von-andre"
+        },
+        {
+          "workId": "liszt-konzert-fuer-klavier-und-orchester-nr-2-"
+        },
+        {
+          "workId": "brahms-klavierquartett-nr-1-g-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20797-brahms",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671641470&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-18-duesseldorf-brahms",
+      "title": "Brahms",
+      "eventType": "concert",
+      "date": "2027-01-18",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "michael-sanderling"
+      ],
+      "soloistPersonIds": [
+        "yoav-levanon"
+      ],
+      "program": [
+        {
+          "workId": "debussy-clair-de-lune-orchesterfassung-von-andre"
+        },
+        {
+          "workId": "liszt-konzert-fuer-klavier-und-orchester-nr-2-"
+        },
+        {
+          "workId": "brahms-klavierquartett-nr-1-g-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20797-brahms",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671641470&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-24-duesseldorf-flake-konzert-ii",
+      "title": "Flake geht ins Konzert II",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "matthias-hoefs"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/comedy-geht-ins-konzert/20823-flake-geht-ins-konzert-ii",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670792593&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-26-duesseldorf-ignition-junge-tonhalle",
+      "title": "#IGNITION - Junge Tonhalle",
+      "eventType": "concert",
+      "date": "2027-01-26",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "gordon-hamilton"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/ignition/21492-ignition-junge-tonhalle",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671692092&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-05-duesseldorf-karnevalskonzert",
+      "title": "Karnevalskonzert",
+      "eventType": "concert",
+      "date": "2027-02-05",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/fixsterne/21501-karnevalskonzert",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671692097&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-14-duesseldorf-valentinskonzert",
+      "title": "Valentinskonzert",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alpesh-chauhan"
+      ],
+      "soloistPersonIds": [
+        "madison-nonoa"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/fixsterne/21500-valentinskonzert",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671018010&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-19-duesseldorf-unvollendete",
+      "title": "Unvollendete",
+      "eventType": "concert",
+      "date": "2027-02-19",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-nr-1-es-dur"
+        },
+        {
+          "workId": "schubert-sinfonie-7-unvollendete"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-2-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "mit der Verleihung des Menschenrechtspreises 2027",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20800-unvollendete",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670623997&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-21-duesseldorf-unvollendete",
+      "title": "Unvollendete",
+      "eventType": "concert",
+      "date": "2027-02-21",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-nr-1-es-dur"
+        },
+        {
+          "workId": "schubert-sinfonie-7-unvollendete"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-2-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "mit der Verleihung des Menschenrechtspreises 2027",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20800-unvollendete",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670623997&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-22-duesseldorf-unvollendete",
+      "title": "Unvollendete",
+      "eventType": "concert",
+      "date": "2027-02-22",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "adam-fischer"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-sinfonie-nr-1-es-dur"
+        },
+        {
+          "workId": "schubert-sinfonie-7-unvollendete"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-2-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "mit der Verleihung des Menschenrechtspreises 2027",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20800-unvollendete",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670623997&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-01-duesseldorf-plutino-fuer-kitas-fuer-4",
+      "title": "Plutino für Kitas - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-01",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21581-plutino-fuer-kitas-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-02-duesseldorf-plutino-fuer-kitas-fuer-4",
+      "title": "Plutino für Kitas - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-02",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21581-plutino-fuer-kitas-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-03-duesseldorf-sterntaler-fuer-kitas-fuer-2",
+      "title": "Sterntaler für Kitas - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-03",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21571-sterntaler-fuer-kitas-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-03-duesseldorf-plutino-fuer-kitas-fuer-4",
+      "title": "Plutino für Kitas - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-03",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21581-plutino-fuer-kitas-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-03-duesseldorf-sterntaler-fuer-2-4-jahre",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-03",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21572-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509813&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-04-duesseldorf-sterntaler-fuer-kitas-fuer-2",
+      "title": "Sterntaler für Kitas - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-04",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21571-sterntaler-fuer-kitas-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-04-duesseldorf-plutino-fuer-foerderschulen",
+      "title": "Plutino für Förderschulen",
+      "eventType": "concert",
+      "date": "2027-03-04",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21584-plutino-fuer-foerderschulen",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-04-duesseldorf-sterntaler-fuer-2-4-jahre",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-04",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21572-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509813&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-04-duesseldorf-relaxed-performance-fuer-familien",
+      "title": "Relaxed Performance für Familien",
+      "eventType": "concert",
+      "date": "2027-03-04",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21588-relaxed-performance-fuer-familien",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/account/login",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-05-duesseldorf-sterntaler-fuer-kitas-fuer-2",
+      "title": "Sterntaler für Kitas - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-05",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21571-sterntaler-fuer-kitas-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-05-duesseldorf-sterntaler-fuer-2-4-jahre",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-05",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21572-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509813&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-05-duesseldorf-plutino-fuer-4-6-jahre",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-05",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21585-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509852&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-06-duesseldorf-sterntaler-fuer-2-4-jahre",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-06",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21572-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509813&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-06-duesseldorf-sterntaler-fuer-2-4-jahre-1500",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-06",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21572-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509813&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-06-duesseldorf-plutino-fuer-4-6-jahre",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-06",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21585-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509852&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-07-duesseldorf-sterntaler-fuer-2-4-jahre",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "14:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21572-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509813&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-07-duesseldorf-plutino-fuer-4-6-jahre",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "14:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21585-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509852&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-07-duesseldorf-sterntaler-fuer-2-4-jahre-1630",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21572-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509813&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-07-duesseldorf-plutino-fuer-4-6-jahre-1630",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was wiederkehrt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21585-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509852&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-12-duesseldorf-le-sacre",
+      "title": "Le sacre",
+      "eventType": "concert",
+      "date": "2027-03-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alpesh-chauhan"
+      ],
+      "soloistPersonIds": [
+        "stephen-hough"
+      ],
+      "program": [
+        {
+          "workId": "britten-sinfonia-da-requiem"
+        },
+        {
+          "workId": "hough-klavierkonzert-the-world-of-yesterday"
+        },
+        {
+          "workId": "strawinsky-le-sacre-du-printemps"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20803-le-sacre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670599765&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-14-duesseldorf-junior-sternzeichen-fruehlingserwachen",
+      "title": "Junior-Sternzeichen: Frühlingserwachen",
+      "eventType": "concert",
+      "date": "2027-03-14",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alpesh-chauhan"
+      ],
+      "soloistPersonIds": [
+        "samira-memarzadeh"
+      ],
+      "program": [
+        {
+          "workId": "strawinsky-le-sacre-du-printemps"
+        }
+      ],
+      "seriesId": null,
+      "description": "Konzerteinführungen für alle ab 9 Jahren",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/junior-sternzeichen/21523-junior-sternzeichen-fruehlingserwachen",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509866&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-14-duesseldorf-le-sacre",
+      "title": "Le sacre",
+      "eventType": "concert",
+      "date": "2027-03-14",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alpesh-chauhan"
+      ],
+      "soloistPersonIds": [
+        "stephen-hough"
+      ],
+      "program": [
+        {
+          "workId": "britten-sinfonia-da-requiem"
+        },
+        {
+          "workId": "hough-klavierkonzert-the-world-of-yesterday"
+        },
+        {
+          "workId": "strawinsky-le-sacre-du-printemps"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20803-le-sacre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670599765&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-15-duesseldorf-le-sacre",
+      "title": "Le sacre",
+      "eventType": "concert",
+      "date": "2027-03-15",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alpesh-chauhan"
+      ],
+      "soloistPersonIds": [
+        "stephen-hough"
+      ],
+      "program": [
+        {
+          "workId": "britten-sinfonia-da-requiem"
+        },
+        {
+          "workId": "hough-klavierkonzert-the-world-of-yesterday"
+        },
+        {
+          "workId": "strawinsky-le-sacre-du-printemps"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20803-le-sacre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670599765&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-21-duesseldorf-schafroth-konzert-ii",
+      "title": "Schafroth geht ins Konzert II",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "kristian-sallinen"
+      ],
+      "soloistPersonIds": [
+        "alena-baeva"
+      ],
+      "program": [
+        {
+          "workId": "kodaly-taenze-aus-galanta"
+        },
+        {
+          "workId": "bartok-rumaenische-volkstaenze-arr-fuer-violine"
+        },
+        {
+          "workId": "bartok-konzert-fuer-violine-und-orchester-nr-1-"
+        },
+        {
+          "workId": "ligeti-concert-romanesc"
+        },
+        {
+          "workId": "ravel-tzigane"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/comedy-geht-ins-konzert/20824-schafroth-geht-ins-konzert-ii",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670792594&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-09-duesseldorf-tschaikowsky-4",
+      "title": "Tschaikowsky 4",
+      "eventType": "concert",
+      "date": "2027-04-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alpesh-chauhan"
+      ],
+      "soloistPersonIds": [
+        "johannes-moser"
+      ],
+      "program": [
+        {
+          "workId": "ades-shanty-over-the-sea"
+        },
+        {
+          "workId": "dvorak-cellokonzert"
+        },
+        {
+          "workId": "tschaikowsky-symphonie-nr-4-f-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20806-tschaikowsky-4",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670599766&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-11-duesseldorf-tschaikowsky-4",
+      "title": "Tschaikowsky 4",
+      "eventType": "concert",
+      "date": "2027-04-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alpesh-chauhan"
+      ],
+      "soloistPersonIds": [
+        "johannes-moser"
+      ],
+      "program": [
+        {
+          "workId": "ades-shanty-over-the-sea"
+        },
+        {
+          "workId": "dvorak-cellokonzert"
+        },
+        {
+          "workId": "tschaikowsky-symphonie-nr-4-f-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20806-tschaikowsky-4",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670599766&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-12-duesseldorf-tschaikowsky-4",
+      "title": "Tschaikowsky 4",
+      "eventType": "concert",
+      "date": "2027-04-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alpesh-chauhan"
+      ],
+      "soloistPersonIds": [
+        "johannes-moser"
+      ],
+      "program": [
+        {
+          "workId": "ades-shanty-over-the-sea"
+        },
+        {
+          "workId": "dvorak-cellokonzert"
+        },
+        {
+          "workId": "tschaikowsky-symphonie-nr-4-f-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20806-tschaikowsky-4",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670599766&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-30-duesseldorf-symphonie-fantastique",
+      "title": "Symphonie fantastique",
+      "eventType": "concert",
+      "date": "2027-04-30",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "kahchun-wong"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ifukube-tanz-der-sieben-schleier-aus-dem-ballett"
+        },
+        {
+          "workId": "say-neues-werk-fuer-klaviertrio-und-orcheste"
+        },
+        {
+          "workId": "berlioz-symphonie-fantastique"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Trio Vecando.",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20809-symphonie-fantastique",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671017588&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-02-duesseldorf-symphonie-fantastique",
+      "title": "Symphonie fantastique",
+      "eventType": "concert",
+      "date": "2027-05-02",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "kahchun-wong"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ifukube-tanz-der-sieben-schleier-aus-dem-ballett"
+        },
+        {
+          "workId": "say-neues-werk-fuer-klaviertrio-und-orcheste"
+        },
+        {
+          "workId": "berlioz-symphonie-fantastique"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Trio Vecando.",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20809-symphonie-fantastique",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671017588&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-03-duesseldorf-symphonie-fantastique",
+      "title": "Symphonie fantastique",
+      "eventType": "concert",
+      "date": "2027-05-03",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "kahchun-wong"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ifukube-tanz-der-sieben-schleier-aus-dem-ballett"
+        },
+        {
+          "workId": "say-neues-werk-fuer-klaviertrio-und-orcheste"
+        },
+        {
+          "workId": "berlioz-symphonie-fantastique"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Trio Vecando.",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20809-symphonie-fantastique",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671017588&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-21-duesseldorf-rutter-magnificat",
+      "title": "Rutter Magnificat",
+      "eventType": "concert",
+      "date": "2027-05-21",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "david-reiland"
+      ],
+      "soloistPersonIds": [
+        "stefan-dohr"
+      ],
+      "program": [
+        {
+          "workId": "brahms-schicksalslied"
+        },
+        {
+          "workId": "salonen-konzert-fuer-horn-und-orchester"
+        },
+        {
+          "workId": "rutter-magnificat"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Chor des Städtischen Musikvereins zu Düsseldorf.",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20812-rutter-magnificat",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670624000&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-23-duesseldorf-rutter-magnificat",
+      "title": "Rutter Magnificat",
+      "eventType": "concert",
+      "date": "2027-05-23",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "david-reiland"
+      ],
+      "soloistPersonIds": [
+        "stefan-dohr"
+      ],
+      "program": [
+        {
+          "workId": "brahms-schicksalslied"
+        },
+        {
+          "workId": "salonen-konzert-fuer-horn-und-orchester"
+        },
+        {
+          "workId": "rutter-magnificat"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Chor des Städtischen Musikvereins zu Düsseldorf.",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20812-rutter-magnificat",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670624000&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-24-duesseldorf-rutter-magnificat",
+      "title": "Rutter Magnificat",
+      "eventType": "concert",
+      "date": "2027-05-24",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "david-reiland"
+      ],
+      "soloistPersonIds": [
+        "stefan-dohr"
+      ],
+      "program": [
+        {
+          "workId": "brahms-schicksalslied"
+        },
+        {
+          "workId": "salonen-konzert-fuer-horn-und-orchester"
+        },
+        {
+          "workId": "rutter-magnificat"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Chor des Städtischen Musikvereins zu Düsseldorf.",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20812-rutter-magnificat",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670624000&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-18-duesseldorf-alpensinfonie",
+      "title": "Alpensinfonie",
+      "eventType": "concert",
+      "date": "2027-06-18",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alexandre-bloch"
+      ],
+      "soloistPersonIds": [
+        "steven-isserlis"
+      ],
+      "program": [
+        {
+          "workId": "webern-passacaglia"
+        },
+        {
+          "workId": "schumann-violoncellokonzert-a-moll"
+        },
+        {
+          "workId": "strauss-eine-alpensinfonie"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20815-alpensinfonie",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670792591&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-20-duesseldorf-junior-sternzeichen-berg-ruft",
+      "title": "Junior-Sternzeichen: Der Berg ruft",
+      "eventType": "concert",
+      "date": "2027-06-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alexandre-bloch"
+      ],
+      "soloistPersonIds": [
+        "katrin-sedlbauer"
+      ],
+      "program": [
+        {
+          "workId": "strauss-eine-alpensinfonie"
+        }
+      ],
+      "seriesId": null,
+      "description": "Konzerteinführungen für alle ab 9 Jahren",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/junior-sternzeichen/21524-junior-sternzeichen-der-berg-ruft",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509867&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-20-duesseldorf-alpensinfonie",
+      "title": "Alpensinfonie",
+      "eventType": "concert",
+      "date": "2027-06-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alexandre-bloch"
+      ],
+      "soloistPersonIds": [
+        "steven-isserlis"
+      ],
+      "program": [
+        {
+          "workId": "webern-passacaglia"
+        },
+        {
+          "workId": "schumann-violoncellokonzert-a-moll"
+        },
+        {
+          "workId": "strauss-eine-alpensinfonie"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20815-alpensinfonie",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670792591&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-21-duesseldorf-alpensinfonie",
+      "title": "Alpensinfonie",
+      "eventType": "concert",
+      "date": "2027-06-21",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "alexandre-bloch"
+      ],
+      "soloistPersonIds": [
+        "steven-isserlis"
+      ],
+      "program": [
+        {
+          "workId": "webern-passacaglia"
+        },
+        {
+          "workId": "schumann-violoncellokonzert-a-moll"
+        },
+        {
+          "workId": "strauss-eine-alpensinfonie"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20815-alpensinfonie",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229670792591&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-24-duesseldorf-ignition-junge-tonhalle",
+      "title": "#IGNITION - Junge Tonhalle",
+      "eventType": "concert",
+      "date": "2027-06-24",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "gordon-hamilton"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/ignition/21493-ignition-junge-tonhalle",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671692093&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-27-duesseldorf-symphonische-palais",
+      "title": "Das symphonische Palais",
+      "eventType": "concert",
+      "date": "2027-06-27",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/das-symphonische-palais/21521-das-symphonische-palais",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-28-duesseldorf-plutino-fuer-kitas-fuer-4",
+      "title": "Plutino für Kitas - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-06-28",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21600-plutino-fuer-kitas-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-28-duesseldorf-plutino-fuer-kitas-fuer-4-1130",
+      "title": "Plutino für Kitas - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-06-28",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21600-plutino-fuer-kitas-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-29-duesseldorf-plutino-fuer-foerderschulen",
+      "title": "Plutino für Förderschulen",
+      "eventType": "concert",
+      "date": "2027-06-29",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21603-plutino-fuer-foerderschulen",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-29-duesseldorf-plutino-fuer-4-6-jahre",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-06-29",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21602-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509859&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-30-duesseldorf-sterntaler-fuer-kitas-fuer-2",
+      "title": "Sterntaler für Kitas - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-06-30",
+      "startTime": "09:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21590-sterntaler-fuer-kitas-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-30-duesseldorf-plutino-fuer-kitas-fuer-4",
+      "title": "Plutino für Kitas - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-06-30",
+      "startTime": "09:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21600-plutino-fuer-kitas-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-30-duesseldorf-sterntaler-fuer-2-4-jahre",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-06-30",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21591-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509823&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-01-duesseldorf-sterntaler-fuer-kitas-fuer-2",
+      "title": "Sterntaler für Kitas - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-01",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21590-sterntaler-fuer-kitas-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-01-duesseldorf-sterntaler-fuer-2-4-jahre",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-01",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21591-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509823&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-02-duesseldorf-sterntaler-fuer-kitas-fuer-2",
+      "title": "Sterntaler für Kitas - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-02",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21590-sterntaler-fuer-kitas-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-02-duesseldorf-sternschnuppe-fuer-grundschulen",
+      "title": "Sternschnuppe für Grundschulen",
+      "eventType": "concert",
+      "date": "2027-07-02",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "barbara-dragan"
+      ],
+      "soloistPersonIds": [
+        "ayse-deniz-birdal",
+        "alireza-meghrazi-solouklou",
+        "samira-memarzadeh"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/tonhalle-macht-schule-i/22051-sternschnuppe-fuer-grundschulen",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-02-duesseldorf-plutino-fuer-4-6-jahre",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-02",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21602-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509859&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-02-duesseldorf-sterntaler-fuer-2-4-jahre",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-02",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21591-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509823&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-03-duesseldorf-plutino-fuer-4-6-jahre",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-03",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21602-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509859&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-03-duesseldorf-sterntaler-fuer-2-4-jahre",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-03",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21591-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509823&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-03-duesseldorf-plutino-fuer-4-6-jahre-1500",
+      "title": "Plutino - für 4-6 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-03",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21602-plutino-fuer-4-6-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509859&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-03-duesseldorf-sterntaler-fuer-2-4-jahre-1500",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-03",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21591-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509823&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-04-duesseldorf-sterntaler-fuer-2-4-jahre",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21591-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509823&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-04-duesseldorf-sternschnuppe-ab-6-jahren",
+      "title": "Sternschnuppe - ab 6 Jahren",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "barbara-dragan"
+      ],
+      "soloistPersonIds": [
+        "ayse-deniz-birdal",
+        "alireza-meghrazi-solouklou",
+        "samira-memarzadeh"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternschnuppen/21482-sternschnuppe-ab-6-jahren",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229673143355&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-04-duesseldorf-sterntaler-fuer-2-4-jahre-1500",
+      "title": "Sterntaler - für 2-4 Jahre",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mira-wickert",
+        "ulrich-kisters",
+        "lorna-bowden"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sterntaler/21591-sterntaler-fuer-2-4-jahre",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229743509823&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-04-duesseldorf-relaxed-performance-fuer-familien",
+      "title": "Relaxed Performance für Familien",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "youssef-laktina"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Familienmusikwoche »Lost & Found: Was bleibt«",
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/plutino/21604-relaxed-performance-fuer-familien",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/account/login",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-09-duesseldorf-mendelssohn-4",
+      "title": "Mendelssohn 4",
+      "eventType": "concert",
+      "date": "2027-07-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "axel-kober"
+      ],
+      "soloistPersonIds": [
+        "otto-katzameier"
+      ],
+      "program": [
+        {
+          "workId": "bartholdy-ouvertuere-die-hebriden-mwv-p-7"
+        },
+        {
+          "workId": "schlingensiepen-in-the-struggle-for-life"
+        },
+        {
+          "workId": "bartholdy-symphonie-nr-4-a-dur-italienische"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20818-mendelssohn-4",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671018005&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-11-duesseldorf-mendelssohn-4",
+      "title": "Mendelssohn 4",
+      "eventType": "concert",
+      "date": "2027-07-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "axel-kober"
+      ],
+      "soloistPersonIds": [
+        "otto-katzameier"
+      ],
+      "program": [
+        {
+          "workId": "bartholdy-ouvertuere-die-hebriden-mwv-p-7"
+        },
+        {
+          "workId": "schlingensiepen-in-the-struggle-for-life"
+        },
+        {
+          "workId": "bartholdy-symphonie-nr-4-a-dur-italienische"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20818-mendelssohn-4",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671018005&lang=de",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-12-duesseldorf-mendelssohn-4",
+      "title": "Mendelssohn 4",
+      "eventType": "concert",
+      "date": "2027-07-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "duesseldorfer-symphoniker"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [
+        "axel-kober"
+      ],
+      "soloistPersonIds": [
+        "otto-katzameier"
+      ],
+      "program": [
+        {
+          "workId": "bartholdy-ouvertuere-die-hebriden-mwv-p-7"
+        },
+        {
+          "workId": "schlingensiepen-in-the-struggle-for-life"
+        },
+        {
+          "workId": "bartholdy-symphonie-nr-4-a-dur-italienische"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.tonhalle.de/veranstaltung/sternzeichen/20818-mendelssohn-4",
+        "name": "Tonhalle Düsseldorf",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671018005&lang=de",
+      "lastVerified": "2026-08-19"
     }
   ]
 }

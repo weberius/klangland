@@ -1667,6 +1667,86 @@
         "from": 1905,
         "to": 1974
       }
+    },
+    {
+      "id": "ferdinand-david",
+      "name": "Ferdinand David",
+      "life": null
+    },
+    {
+      "id": "oskar-boehme",
+      "name": "Oskar Böhme",
+      "life": null
+    },
+    {
+      "id": "franz-lehar",
+      "name": "Franz Lehár",
+      "life": null
+    },
+    {
+      "id": "arthur-bliss",
+      "name": "Arthur Bliss",
+      "life": null
+    },
+    {
+      "id": "engelbert-humperdinck",
+      "name": "Engelbert Humperdinck",
+      "life": null
+    },
+    {
+      "id": "leroy-anderson",
+      "name": "Leroy Anderson",
+      "life": null
+    },
+    {
+      "id": "hugh-martin",
+      "name": "Hugh Martin",
+      "life": null
+    },
+    {
+      "id": "karel-svoboda",
+      "name": "Karel Svoboda",
+      "life": null
+    },
+    {
+      "id": "georges-bizet",
+      "name": "Georges Bizet",
+      "life": null
+    },
+    {
+      "id": "rodion-schtschedrin",
+      "name": "Rodion Schtschedrin",
+      "life": null
+    },
+    {
+      "id": "steve-reich",
+      "name": "Steve Reich",
+      "life": null
+    },
+    {
+      "id": "stephen-hough",
+      "name": "Stephen Hough",
+      "life": null
+    },
+    {
+      "id": "akira-ifukube",
+      "name": "Akira Ifukube",
+      "life": null
+    },
+    {
+      "id": "fazil-say",
+      "name": "Fazil Say",
+      "life": null
+    },
+    {
+      "id": "esa-pekka-salonen",
+      "name": "Esa-Pekka Salonen",
+      "life": null
+    },
+    {
+      "id": "mark-andreas-schlingensiepen",
+      "name": "Mark-Andreas Schlingensiepen",
+      "life": null
     }
   ]
 }

@@ -9403,6 +9403,613 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "david-concertino-fuer-posaune",
+      "composerId": "ferdinand-david",
+      "title": "Concertino für Posaune",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "4"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "boehme-konzert-fuer-trompete-f-moll",
+      "composerId": "oskar-boehme",
+      "title": "Konzert für Trompete f-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "18"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-konzert-fuer-basstuba-und-orchester-f-mo",
+      "composerId": "ralph-vaughan-williams",
+      "title": "Konzert für Basstuba und Orchester f-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "lehar-ouvertuere-zu-paganini",
+      "composerId": "franz-lehar",
+      "title": "Ouvertüre zu »Paganini«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartok-konzert-fuer-klavier-und-orchester-nr-3",
+      "composerId": "bela-bartok",
+      "title": "Konzert für Klavier und Orchester Nr. 3",
+      "catalogue": [
+        {
+          "system": "Sz",
+          "number": "119"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-le-tombeau-de-couperin",
+      "composerId": "maurice-ravel",
+      "title": "Le Tombeau de Couperin",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartok-tanzsuite",
+      "composerId": "bela-bartok",
+      "title": "Tanzsuite",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "korngold-vier-kleine-karikaturen-fuer-kinder",
+      "composerId": "erich-wolfgang-korngold",
+      "title": "Vier kleine Karikaturen für Kinder",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "19"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mahler-symphonie-nr-3-d-moll-fuer-alt-knabencho",
+      "composerId": "gustav-mahler",
+      "title": "Symphonie Nr. 3 d-Moll für Alt, Knabenchor, Frauenchor und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bliss-hymn-to-apollo",
+      "composerId": "arthur-bliss",
+      "title": "Hymn to Apollo",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ades-maerchentaenze-fuer-violine-und-orcheste",
+      "composerId": "thomas-ades",
+      "title": "Märchentänze für Violine und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "elgar-enigma-variationen",
+      "composerId": "edward-elgar",
+      "title": "Enigma-Variationen",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "36"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "smyth-serenade",
+      "composerId": "ethel-mary-smyth",
+      "title": "Serenade",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ljadow-polonaise-c-dur",
+      "composerId": "anatoli-ljadow",
+      "title": "Polonaise C-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "49"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-nussknacker-suite-auszuege",
+      "composerId": "peter-iljitsch-tschaikowsky",
+      "title": "Nussknacker-Suite (Auszüge)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "humperdinck-vorspiel-zu-haensel-und-gretel",
+      "composerId": "engelbert-humperdinck",
+      "title": "Vorspiel zu \"Hänsel und Gretel\"",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "anderson-sleigh-ride",
+      "composerId": "leroy-anderson",
+      "title": "Sleigh Ride",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-kevin-allein-zu-haus",
+      "composerId": "john-williams",
+      "title": "Kevin allein zu Haus",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "martin-have-yourself-a-little-christmas-arr-mar",
+      "composerId": "hugh-martin",
+      "title": "Have Yourself a Little Christmas (arr. Martin Fratz)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "svoboda-drei-haselnuesse-fuer-aschenbroedel-arr-",
+      "composerId": "karel-svoboda",
+      "title": "Drei Haselnüsse für Aschenbrödel (Arr. Martin Hybler)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "elgar-pomp-and-circumstance-march-no-1",
+      "composerId": "edward-elgar",
+      "title": "Pomp and Circumstance. March No.1",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bizet-carmen-suite-nr-1-und-2-auszuege",
+      "composerId": "georges-bizet",
+      "title": "Carmen-Suite Nr. 1 und 2 (Auszüge)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schtschedrin-carmen-suite-fuer-schlagzeug-und-streich",
+      "composerId": "rodion-schtschedrin",
+      "title": "Carmen-Suite für Schlagzeug und Streicher (Auszüge)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "anderson-the-typewriter",
+      "composerId": "leroy-anderson",
+      "title": "The Typewriter",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dorman-frozen-in-time-fuer-schlagzeug-und-orche",
+      "composerId": "avner-dorman",
+      "title": "Frozen in Time für Schlagzeug und Orchester (1. Satz)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "reich-clapping-music",
+      "composerId": "steve-reich",
+      "title": "Clapping Music",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "debussy-clair-de-lune-orchesterfassung-von-andre",
+      "composerId": "claude-debussy",
+      "title": "Clair de lune (Orchesterfassung von André Caplet)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "liszt-konzert-fuer-klavier-und-orchester-nr-2-",
+      "composerId": "franz-liszt",
+      "title": "Konzert für Klavier und Orchester Nr. 2 A-Dur S 125",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "britten-sinfonia-da-requiem",
+      "composerId": "benjamin-britten",
+      "title": "Sinfonia da Requiem",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "20"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "requiem",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hough-klavierkonzert-the-world-of-yesterday",
+      "composerId": "stephen-hough",
+      "title": "Klavierkonzert »The World of Yesterday«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strawinsky-le-sacre-du-printemps",
+      "composerId": "igor-strawinsky",
+      "title": "Le sacre du printemps",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kodaly-taenze-aus-galanta",
+      "composerId": "zoltan-kodaly",
+      "title": "Tänze aus Galánta",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartok-rumaenische-volkstaenze-arr-fuer-violine",
+      "composerId": "bela-bartok",
+      "title": "Rumänische Volkstänze (arr. für Violine und Orchester)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartok-konzert-fuer-violine-und-orchester-nr-1-",
+      "composerId": "bela-bartok",
+      "title": "Konzert für Violine und Orchester Nr. 1 (2. Satz)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ligeti-concert-romanesc",
+      "composerId": "gyoergy-ligeti",
+      "title": "Concert Românesc",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-tzigane",
+      "composerId": "maurice-ravel",
+      "title": "Tzigane",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ades-shanty-over-the-sea",
+      "composerId": "thomas-ades",
+      "title": "Shanty - Over the Sea",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-symphonie-nr-4-f-moll",
+      "composerId": "peter-iljitsch-tschaikowsky",
+      "title": "Symphonie Nr. 4 f-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "36"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ifukube-tanz-der-sieben-schleier-aus-dem-ballett",
+      "composerId": "akira-ifukube",
+      "title": "Tanz der sieben Schleier (aus dem Ballett »Salome«)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "say-neues-werk-fuer-klaviertrio-und-orcheste",
+      "composerId": "fazil-say",
+      "title": "Neues Werk für Klaviertrio und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "salonen-konzert-fuer-horn-und-orchester",
+      "composerId": "esa-pekka-salonen",
+      "title": "Konzert für Horn und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rutter-magnificat",
+      "composerId": "john-rutter",
+      "title": "Magnificat",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "oratorio",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-violoncellokonzert-a-moll",
+      "composerId": "robert-schumann",
+      "title": "Violoncellokonzert a-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "129"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-eine-alpensinfonie",
+      "composerId": "richard-strauss",
+      "title": "Eine Alpensinfonie",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "64"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schlingensiepen-in-the-struggle-for-life",
+      "composerId": "mark-andreas-schlingensiepen",
+      "title": "»... in the struggle for life«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-symphonie-nr-4-a-dur-italienische",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Symphonie Nr. 4 A-Dur \"Italienische\"",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "90"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }
