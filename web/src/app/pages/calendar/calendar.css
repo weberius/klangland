@@ -2,18 +2,27 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   margin-bottom: 0.5rem;
 }
 .month-title {
   margin: 0;
   flex: 1;
-  min-width: 12rem;
+  min-width: 0;
   text-align: center;
   font-size: 1.4rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* Kompakte Blätter-Buttons (nur das Zeichen ‹/›). */
+.btn-nav {
+  flex: 0 0 auto;
+  min-width: 2.5rem;
+  text-align: center;
 }
 .btn-today {
-  margin-left: auto;
+  flex: 0 0 auto;
 }
 .month-summary {
   margin: 0 0 1rem;
@@ -211,8 +220,5 @@
   }
   .agenda {
     display: flex;
-  }
-  .btn-today {
-    margin-left: 0;
   }
 }

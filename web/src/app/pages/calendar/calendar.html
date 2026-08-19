@@ -7,9 +7,9 @@
 </section>
 
 <div class="month-nav" role="group" aria-label="Monatsnavigation">
-  <a class="btn" [routerLink]="prevLink()" rel="prev" aria-label="Vorheriger Monat">‹ Vorheriger</a>
+  <a class="btn btn-nav" [routerLink]="prevLink()" rel="prev" aria-label="Vorheriger Monat"><span aria-hidden="true">&lt;</span></a>
   <h2 class="month-title" aria-live="polite">{{ monthLabel() }}</h2>
-  <a class="btn" [routerLink]="nextLink()" rel="next" aria-label="Nächster Monat">Nächster ›</a>
+  <a class="btn btn-nav" [routerLink]="nextLink()" rel="next" aria-label="Nächster Monat"><span aria-hidden="true">&gt;</span></a>
   <a class="btn btn-today" routerLink="/" aria-label="Zum aktuellen Monat">Heute</a>
 </div>
 

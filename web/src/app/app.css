@@ -65,6 +65,54 @@
   background: var(--color-accent-soft);
   color: var(--color-accent-strong);
 }
+.main-nav a:focus-visible {
+  outline: 2px solid var(--color-highlight);
+  outline-offset: 2px;
+}
+
+/* Burger-Button (nur mobil sichtbar) */
+.nav-toggle {
+  display: none;
+  position: relative;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  cursor: pointer;
+}
+.nav-toggle:hover {
+  background: var(--color-surface-alt);
+}
+.nav-toggle:focus-visible {
+  outline: 2px solid var(--color-highlight);
+  outline-offset: 2px;
+}
+/* Drei Balken ohne Icon-Bibliothek */
+.nav-toggle-icon,
+.nav-toggle-icon::before,
+.nav-toggle-icon::after {
+  position: absolute;
+  left: 50%;
+  width: 1.25rem;
+  height: 2px;
+  background: var(--color-text);
+  transform: translateX(-50%);
+}
+.nav-toggle-icon {
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.nav-toggle-icon::before,
+.nav-toggle-icon::after {
+  content: '';
+}
+.nav-toggle-icon::before {
+  top: -6px;
+}
+.nav-toggle-icon::after {
+  top: 6px;
+}
 
 main {
   flex: 1;
@@ -78,4 +126,34 @@ main {
   color: var(--color-text-muted);
   font-size: 0.85rem;
   padding-block: 1.25rem;
+}
+
+/* Mobile Navigation: gleicher Breakpoint wie Grid/Agenda-Umschaltung */
+@media (max-width: 720px) {
+  .nav-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .main-nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    left: 0;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0.5rem;
+    background: var(--color-surface);
+    border-bottom: 1px solid var(--color-border);
+    box-shadow: 0 8px 16px rgb(0 0 0 / 0.1);
+    z-index: 20;
+  }
+  .main-nav.open {
+    display: flex;
+  }
+  .main-nav a {
+    padding: 0.6rem 0.75rem;
+    border-radius: var(--radius-sm);
+  }
 }

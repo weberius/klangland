@@ -14,5 +14,5 @@ export const APP_CONFIG: AppConfig = {
   // DEMO: Auf '2026-10-01' gesetzt, damit die aktuellen Beispiel-Events (Okt/Nov 2026)
   // beim Öffnen sichtbar sind. Für den Produktivbetrieb auf null setzen
   // (dann wird der tatsächliche aktuelle Monat angezeigt).
-  referenceDate: '2026-10-01',
+  referenceDate: '2026-09-01',
 };

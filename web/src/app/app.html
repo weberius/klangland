@@ -6,10 +6,26 @@
       <span class="brand-mark" aria-hidden="true">♪</span>
       <span class="brand-text">Klangland</span>
     </a>
-    <nav class="main-nav" aria-label="Hauptnavigation">
-      <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Kalender</a>
-      <a routerLink="/ensembles" routerLinkActive="active">Ensembles</a>
-      <a routerLink="/venues" routerLinkActive="active">Spielstätten</a>
+    <button
+      #burgerButton
+      type="button"
+      class="nav-toggle"
+      (click)="toggleMenu()"
+      [attr.aria-expanded]="menuOpen()"
+      aria-controls="main-nav"
+      [attr.aria-label]="menuOpen() ? 'Menü schließen' : 'Menü öffnen'"
+    >
+      <span class="nav-toggle-icon" aria-hidden="true"></span>
+    </button>
+    <nav
+      id="main-nav"
+      class="main-nav"
+      [class.open]="menuOpen()"
+      aria-label="Hauptnavigation"
+    >
+      <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }" (click)="closeMenu()">Kalender</a>
+      <a routerLink="/ensembles" routerLinkActive="active" (click)="closeMenu()">Ensembles</a>
+      <a routerLink="/venues" routerLinkActive="active" (click)="closeMenu()">Spielstätten</a>
     </nav>
   </div>
 </header>
