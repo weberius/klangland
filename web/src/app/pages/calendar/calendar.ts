@@ -1,4 +1,4 @@
-import { Component, computed, inject } from '@angular/core';
+import { Component, computed, effect, inject, signal } from '@angular/core';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { toSignal } from '@angular/core/rxjs-interop';
 
@@ -36,6 +36,39 @@ export class CalendarPage {
   private params = toSignal(this.route.paramMap);
 
   readonly weekdays = WEEKDAYS_SHORT_DE;
+
+  /** Anzahl der im eingeklappten Zustand sichtbaren Termine pro Tageszelle. */
+  protected readonly VISIBLE = 2;
+
+  /** ISO-Daten der aktuell aufgeklappten Tageszellen (Desktop-Tabelle). */
+  private readonly expandedDays = signal<ReadonlySet<string>>(new Set());
+
+  constructor() {
+    // AK 6: Beim Monatswechsel den Aufklapp-Zustand zurücksetzen.
+    let firstRun = true;
+    effect(() => {
+      this.current();
+      if (firstRun) {
+        firstRun = false;
+        return;
+      }
+      this.expandedDays.set(new Set());
+    });
+  }
+
+  isExpanded(iso: string): boolean {
+    return this.expandedDays().has(iso);
+  }
+
+  toggleDay(iso: string): void {
+    const next = new Set(this.expandedDays());
+    if (next.has(iso)) {
+      next.delete(iso);
+    } else {
+      next.add(iso);
+    }
+    this.expandedDays.set(next);
+  }
 
   /** Heutiges Datum (ISO) – konfigurierbares Referenzdatum oder Systemdatum. */
   readonly todayIso = ((): string => {

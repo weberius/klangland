@@ -43,7 +43,7 @@
                 <span [attr.aria-current]="cell.isToday ? 'date' : null">{{ cell.day }}</span>
               </div>
               <ul class="day-events">
-                @for (e of cell.events.slice(0, 2); track e.id) {
+                @for (e of (isExpanded(cell.iso) ? cell.events : cell.events.slice(0, VISIBLE)); track e.id) {
                   <li>
                     <a class="event-chip" [routerLink]="eventLink(e)" [class.cancelled]="e.status === 'cancelled'">
                       @if (time(e)) { <span class="chip-time">{{ time(e) }}</span> }
@@ -52,8 +52,26 @@
                     </a>
                   </li>
                 }
-                @if (cell.events.length > 2) {
-                  <li class="more">+ {{ cell.events.length - 2 }} weitere</li>
+                @if (cell.events.length > VISIBLE) {
+                  <li>
+                    @if (isExpanded(cell.iso)) {
+                      <button
+                        type="button"
+                        class="more"
+                        [attr.aria-expanded]="true"
+                        [attr.aria-label]="'Weniger Termine am ' + cell.day + '. anzeigen'"
+                        (click)="toggleDay(cell.iso)"
+                      >weniger anzeigen</button>
+                    } @else {
+                      <button
+                        type="button"
+                        class="more"
+                        [attr.aria-expanded]="false"
+                        [attr.aria-label]="(cell.events.length - VISIBLE) + ' weitere Termine am ' + cell.day + '. anzeigen'"
+                        (click)="toggleDay(cell.iso)"
+                      >+ {{ cell.events.length - VISIBLE }} weitere</button>
+                    }
+                  </li>
                 }
               </ul>
             </td>
