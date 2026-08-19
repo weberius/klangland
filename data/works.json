@@ -10548,6 +10548,958 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "purcell-suite-aus-king-arthur",
+      "composerId": "henry-purcell",
+      "title": "Suite aus »King Arthur«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "corelli-concerto-grosso-c-moll-nr-3",
+      "composerId": "arcangelo-corelli",
+      "title": "Concerto grosso c-Moll Nr. 3",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "6"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "lully-suite-aus-le-bourgeois-gentilhomme-lwv-4",
+      "composerId": "jean-baptiste-lully",
+      "title": "Suite aus »Le bourgeois gentilhomme«, LWV 43",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-konzert-fuer-violoncello-und-orchester-a",
+      "composerId": "carl-philipp-emmanuel-bach",
+      "title": "Konzert für Violoncello und Orchester A-Dur, Wq 172",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-orchestersuite-nr-3-d-dur",
+      "composerId": "johann-sebastian-bach",
+      "title": "Orchestersuite Nr. 3 D-Dur",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "1068"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "chausson-klaviertrio-g-moll",
+      "composerId": "ernest-chausson",
+      "title": "Klaviertrio g-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "3"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schmitt-suite-en-trois-parties",
+      "composerId": "florent-schmitt",
+      "title": "Suite en trois parties",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "133"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schmitt-fuer-trompete-und-klavier",
+      "composerId": "florent-schmitt",
+      "title": "für Trompete und Klavier",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "turina-klaviertrio-nr-2-h-moll",
+      "composerId": "joaquin-turina",
+      "title": "Klaviertrio Nr. 2 h-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "76"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "saens-septett-es-dur",
+      "composerId": "camille-saint-saens",
+      "title": "Septett Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "65"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-klaviertrio-g-dur",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Klaviertrio G-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "564"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beach-klaviertrio",
+      "composerId": "amy-beach",
+      "title": "Klaviertrio",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "150"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-klaviertrio-nr-3-c-moll",
+      "composerId": "johannes-brahms",
+      "title": "Klaviertrio Nr. 3 c-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "101"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "verdi-luisa-miller",
+      "composerId": "giuseppe-verdi",
+      "title": "Luisa Miller",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hensel-szene-aus-faust-teil-2",
+      "composerId": "fanny-hensel",
+      "title": "Szene aus Faust, Teil 2",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-motetten-und-volkslieder",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Motetten () und Volkslieder",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "39"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "(/)",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "63"
+        },
+        {
+          "system": "WoO",
+          "number": "11"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-ein-tag-sagt-es-dem-andern-mwv-c1-fuer-z",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Ein Tag sagt es dem andern (MWV C1) für zwei Stimmen und Cembalo",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rutter-i-will-sing",
+      "composerId": "john-rutter",
+      "title": "I will sing",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ligeti-sechs-bagatellen-fuer-blaeserquintett",
+      "composerId": "gyoergy-ligeti",
+      "title": "Sechs Bagatellen für Bläserquintett",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "weber-ouvertuere-zu-der-freischuetz",
+      "composerId": "carl-maria-von-weber",
+      "title": "Ouvertüre zu Der Freischütz",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "walton-konzert-fuer-violine-und-orchester",
+      "composerId": "william-walton",
+      "title": "Konzert für Violine und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haendel-sonate-fuer-violine-und-bass-hwv-361",
+      "composerId": "georg-friedrich-haendel",
+      "title": "Sonate für Violine und Bass (HWV 361)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vitali-ciacona-g-moll",
+      "composerId": "tommaso-vitali",
+      "title": "Ciacona g-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-suite-c-dur-fuer-violoncello-solo",
+      "composerId": "johann-sebastian-bach",
+      "title": "Suite C-Dur für Violoncello solo ()",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "1009"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-suite-g-dur-fuer-violoncello-solo",
+      "composerId": "robert-schumann",
+      "title": "Suite G-Dur für Violoncello solo ()",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "1007"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "corelli-folies-d-espagne-fuer-violine-und-bass",
+      "composerId": "arcangelo-corelli",
+      "title": "Folies D’Espagne für Violine und Bass",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-rendering-1-satz",
+      "composerId": "franz-schubert",
+      "title": "»Rendering«, 1. Satz",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruch-konzert-fuer-violine-und-orchester-nr-1-",
+      "composerId": "max-bruch",
+      "title": "Konzert für Violine und Orchester Nr. 1 g-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "26"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-sinfonie-nr-6-c-dur",
+      "composerId": "franz-schubert",
+      "title": "Sinfonie Nr. 6 C-Dur",
+      "catalogue": [
+        {
+          "system": "D",
+          "number": "589"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-franzoesische-suiten-c-moll-und-g-dur",
+      "composerId": "johann-sebastian-bach",
+      "title": "Französische Suiten c-Moll und G-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-und-816",
+      "composerId": "johann-sebastian-bach",
+      "title": "und 816",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "813"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haendel-suite-e-moll-hwv-429-und-chaconne",
+      "composerId": "georg-friedrich-haendel",
+      "title": "Suite e-Moll HWV 429 und Chaconne",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haendel-in-g-hwv-435",
+      "composerId": "georg-friedrich-haendel",
+      "title": "in G HWV 435",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "scarlatti-sonaten-d-moll-k-92-und-64-und",
+      "composerId": "domenico-scarlatti",
+      "title": "Sonaten d-Moll K 92 und 64 und",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "scarlatti-sonate-h-moll-k-87",
+      "composerId": "domenico-scarlatti",
+      "title": "Sonate h-Moll K 87",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "turina-danzas-fantasticas",
+      "composerId": "joaquin-turina",
+      "title": "»Danzas Fantásticas«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "22"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kapfenburg-san-o-zemlji-konzert-fuer-fagott-und-gro",
+      "composerId": "thorsten-schmid-kapfenburg",
+      "title": "»San o zemlji« – Konzert für Fagott und großes Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "lippa-the-addams-family",
+      "composerId": "andrew-lippa",
+      "title": "The Addams Family",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-o-ewigkeit-du-donnerwort-kantate",
+      "composerId": "johann-sebastian-bach",
+      "title": "»O Ewigkeit, du Donnerwort« Kantate",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "60"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "berg-konzert-fuer-violine-und-orchester",
+      "composerId": "alban-berg",
+      "title": "Konzert für Violine und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "berg-dem-andenken-eines-engels",
+      "composerId": "alban-berg",
+      "title": "»Dem Andenken eines Engels«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-sinfonie-nr-8-f-dur",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Sinfonie Nr. 8 F-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "93"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "verdi-la-traviata",
+      "composerId": "giuseppe-verdi",
+      "title": "La Traviata",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "nielsen-helios-ouvertuere",
+      "composerId": "carl-nielsen",
+      "title": "»Helios«-Ouvertüre",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "17"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-streichquartett-c-dur",
+      "composerId": "joseph-haydn",
+      "title": "Streichquartett C-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "76"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-nr-3-hob-iii-77-kaiserquartett",
+      "composerId": "joseph-haydn",
+      "title": "Nr. 3 Hob III:77 »Kaiserquartett«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "offenbach-hoffmanns-erzaehlungen",
+      "composerId": "jacques-offenbach",
+      "title": "Hoffmanns Erzählungen",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "halvorsen-passacaglia-fuer-violine-und-viola-nach-",
+      "composerId": "johan-halvorsen",
+      "title": "Passacaglia für Violine und Viola (nach Händel)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rossini-duett-fuer-violoncello-und-kontrabass-d-",
+      "composerId": "gioachino-rossini",
+      "title": "Duett für Violoncello und Kontrabass D-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-sonate-fuer-violine-und-violoncello",
+      "composerId": "maurice-ravel",
+      "title": "Sonate für Violine und Violoncello",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-streichsextett-d-moll",
+      "composerId": "peter-iljitsch-tschaikowsky",
+      "title": "Streichsextett d-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "70"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-souvenir-de-florence",
+      "composerId": "peter-iljitsch-tschaikowsky",
+      "title": "»Souvenir de Florence«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-ungarische-taenze-nr-1-g-moll-nr-3-f-dur",
+      "composerId": "johannes-brahms",
+      "title": "»Ungarische Tänze« Nr. 1 g-Moll, Nr. 3 F-Dur und Nr. 5 g-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "grimm-zweite-suite-in-canonform-g-dur",
+      "composerId": "julius-otto-grimm",
+      "title": "»Zweite Suite in Canonform« G-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "16"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rota-konzert-fuer-posaune-und-orchester-in-c",
+      "composerId": "nino-rota",
+      "title": "Konzert für Posaune und Orchester in C",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-die-schwaene",
+      "composerId": "peter-iljitsch-tschaikowsky",
+      "title": "Die Schwäne",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "boulanger-d-un-matin-de-printemps-fuer-orchester",
+      "composerId": "lili-boulanger",
+      "title": "»D’un matin de printemps« für Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-la-primavera-aus-le-quattro-stagioni",
+      "composerId": "antonio-vivaldi",
+      "title": "»La Primavera« aus »Le quattro stagioni« ()",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "8"
+        },
+        {
+          "system": "RV",
+          "number": "269"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mussorgski-eine-nacht-auf-dem-kahlen-berge",
+      "composerId": "modest-mussorgski",
+      "title": "»Eine Nacht auf dem kahlen Berge«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-die-erste-walpurgisnacht",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "»Die erste Walpurgisnacht«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "60"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-kantate-fuer-soli-chor-und-orchester",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Kantate für Soli, Chor und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-slawischer-tanz-e-moll-nr-2",
+      "composerId": "antonin-dvorak",
+      "title": "»Slawischer Tanz« e-Moll Nr. 2",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "72"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-sinfonie-nr-8-g-dur",
+      "composerId": "antonin-dvorak",
+      "title": "Sinfonie Nr. 8 G-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "88"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "francaix-klaviertrio-d-dur",
+      "composerId": "jean-francaix",
+      "title": "Klaviertrio D-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-klaviertrio-d-dur-nr-1",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Klaviertrio D-Dur, Nr. 1",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "70"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-geistertrio",
+      "composerId": "ludwig-van-beethoven",
+      "title": "»Geistertrio«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

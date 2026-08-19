@@ -1460,6 +1460,123 @@
       "website": null,
       "type": "other",
       "institutionId": null
+    },
+    {
+      "id": "theater-muenster-grosses-haus",
+      "name": "Theater Münster – Großes Haus",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-muenster-institution"
+    },
+    {
+      "id": "theater-muenster-kleines-haus",
+      "name": "Theater Münster – Kleines Haus",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-muenster-institution"
+    },
+    {
+      "id": "erbdrostenhof-muenster",
+      "name": "Erbdrostenhof",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "theater-muenster-studio",
+      "name": "Theater Münster – Studio",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-muenster-institution"
+    },
+    {
+      "id": "cineplex-muenster",
+      "name": "Cineplex",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "begegnungszentrum-meerwiese-muenster",
+      "name": "Meerwiese Großer Saal",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "theater-muenster-foyer-grosses-haus",
+      "name": "Theater Münster – Foyer Gr. Haus",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": "theater-muenster-institution"
+    },
+    {
+      "id": "theater-im-pumpenhaus-muenster",
+      "name": "Theater im Pumpenhaus",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "aasee-muenster",
+      "name": "Aasee",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
     }
   ]
 }

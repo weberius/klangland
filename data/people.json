@@ -2853,6 +2853,270 @@
     {
       "id": "gabriel-vealle",
       "name": "Gabriel Vealle"
+    },
+    {
+      "id": "paul-goodwin",
+      "name": "Paul Goodwin"
+    },
+    {
+      "id": "phillip-schupelius",
+      "name": "Phillip Schupelius"
+    },
+    {
+      "id": "tobias-krieger",
+      "name": "Tobias Krieger"
+    },
+    {
+      "id": "hiroko-fukushima-adrian-kowollik",
+      "name": "Hiroko Fukushima, Adrian Kowollik"
+    },
+    {
+      "id": "mara-smith",
+      "name": "Mara Smith"
+    },
+    {
+      "id": "lutz-wagner",
+      "name": "Lutz Wagner"
+    },
+    {
+      "id": "hyungju-kim",
+      "name": "Hyungju Kim"
+    },
+    {
+      "id": "deborah-rawlings",
+      "name": "Deborah Rawlings"
+    },
+    {
+      "id": "hiroko-fukushima",
+      "name": "Hiroko Fukushima"
+    },
+    {
+      "id": "marlena-devoe",
+      "name": "Marlena Devoe"
+    },
+    {
+      "id": "garrie-davislim",
+      "name": "Garrie Davislim"
+    },
+    {
+      "id": "kihoon-yoo",
+      "name": "Kihoon Yoo"
+    },
+    {
+      "id": "wioletta-hebrowska",
+      "name": "Wioletta Hebrowska"
+    },
+    {
+      "id": "friederike-wiechert-schuele",
+      "name": "Friederike Wiechert-Schüle"
+    },
+    {
+      "id": "giorgi-kalandarishvili",
+      "name": "Giorgi Kalandarishvili"
+    },
+    {
+      "id": "madeleine-gilet",
+      "name": "Madeleine Gilet"
+    },
+    {
+      "id": "milos-dopsaj",
+      "name": "Miloš Dopsaj"
+    },
+    {
+      "id": "paola-bellmann",
+      "name": "Paola Bellmann"
+    },
+    {
+      "id": "pablo-fernandez-gonzalez",
+      "name": "Pablo Fernández González"
+    },
+    {
+      "id": "christian-fagerstroem",
+      "name": "Christian Fagerström"
+    },
+    {
+      "id": "thorsten-schmid-kapfenburg",
+      "name": "Thorsten Schmid-Kapfenburg"
+    },
+    {
+      "id": "arabella-steinbacher",
+      "name": "Arabella Steinbacher"
+    },
+    {
+      "id": "nach-ruckers-1640-christian-rieger",
+      "name": "(nach Ruckers, 1640) Christian Rieger"
+    },
+    {
+      "id": "gregor-dalal",
+      "name": "Gregor Dalal"
+    },
+    {
+      "id": "jose-maria-moreno",
+      "name": "José María Moreno"
+    },
+    {
+      "id": "carola-von-seckendorff",
+      "name": "Carola von Seckendorff"
+    },
+    {
+      "id": "barbara-braeckelmann",
+      "name": "Barbara Bräckelmann"
+    },
+    {
+      "id": "christian-kai-sander",
+      "name": "Christian Kai Sander"
+    },
+    {
+      "id": "nuno-dehmel",
+      "name": "Nuno Dehmel"
+    },
+    {
+      "id": "vera-lorenz",
+      "name": "Vera Lorenz"
+    },
+    {
+      "id": "henning-ehlert",
+      "name": "Henning Ehlert"
+    },
+    {
+      "id": "arsenis-selalmazidis",
+      "name": "Arsenis Selalmazidis"
+    },
+    {
+      "id": "robyn-allegra-parton",
+      "name": "Robyn Allegra Parton"
+    },
+    {
+      "id": "irene-kugler",
+      "name": "Irene Kugler"
+    },
+    {
+      "id": "yixuan-zhu",
+      "name": "Yixuan Zhu"
+    },
+    {
+      "id": "johan-hyunbong-choi",
+      "name": "Johan Hyunbong Choi"
+    },
+    {
+      "id": "ki-hwan-nam",
+      "name": "Ki-Hwan Nam"
+    },
+    {
+      "id": "yoogeon-hyeon",
+      "name": "Yoogeon Hyeon"
+    },
+    {
+      "id": "enrique-bernardo",
+      "name": "Enrique Bernardo"
+    },
+    {
+      "id": "soyeon-lee",
+      "name": "Soyeon Lee"
+    },
+    {
+      "id": "youn-seong-shim",
+      "name": "Youn-Seong Shim"
+    },
+    {
+      "id": "arsenis-selalmazidis-pablo-fernandez-gonzalez",
+      "name": "Arsenis Selalmazidis, Pablo Fernández González"
+    },
+    {
+      "id": "svenja-ciliberto",
+      "name": "Svenja Ciliberto"
+    },
+    {
+      "id": "simon-degenkolbe",
+      "name": "Simon Degenkolbe"
+    },
+    {
+      "id": "ana-durlovski",
+      "name": "Ana Durlovski"
+    },
+    {
+      "id": "moritz-weiss-klezmer-trio",
+      "name": "Moritz Weiß Klezmer Trio"
+    },
+    {
+      "id": "anna-kaczmarek-kalandarishvili-uta-heidemann-diedrich",
+      "name": "Anna Kaczmarek-Kalandarishvili, Uta Heidemann-Diedrich"
+    },
+    {
+      "id": "mara-smith-magdalena-steiner",
+      "name": "Mara Smith, Magdalena Steiner"
+    },
+    {
+      "id": "shengzhi-guo",
+      "name": "Shengzhi Guo"
+    },
+    {
+      "id": "kit-armstrong",
+      "name": "Kit Armstrong"
+    },
+    {
+      "id": "frederic-belli",
+      "name": "Frederic Belli"
+    },
+    {
+      "id": "arianna-hartanov",
+      "name": "Arianna Hartanov"
+    },
+    {
+      "id": "melina-solkidou",
+      "name": "Melina Solkidou"
+    },
+    {
+      "id": "sebastiano-villa",
+      "name": "Sebastiano Villa"
+    },
+    {
+      "id": "juan-fernando-morales-londono",
+      "name": "Juan Fernando Morales Londoño"
+    },
+    {
+      "id": "enrique-saez-martinez",
+      "name": "Enrique Sáez Martínez"
+    },
+    {
+      "id": "aaron-st-hilaire",
+      "name": "Aaron St. Hilaire"
+    },
+    {
+      "id": "bartlomiej-kowalczyk",
+      "name": "Bartlomiej Kowalczyk"
+    },
+    {
+      "id": "wendel-lima-de-alcantara",
+      "name": "Wendel Lima de Alcantara"
+    },
+    {
+      "id": "valerie-yeo",
+      "name": "Valerie Yeo"
+    },
+    {
+      "id": "hana-kato",
+      "name": "Hana Kato"
+    },
+    {
+      "id": "naho-takeda",
+      "name": "Naho Takeda"
+    },
+    {
+      "id": "camille-thomas",
+      "name": "Camille Thomas"
+    },
+    {
+      "id": "yuki-kimura-zukauskas",
+      "name": "Yuki Kimura-Žukauskas,"
+    },
+    {
+      "id": "giedrius-zukauskas",
+      "name": "Giedrius Žukauskas"
+    },
+    {
+      "id": "risa-adachi",
+      "name": "Risa Adachi"
     }
   ]
 }

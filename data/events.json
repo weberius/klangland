@@ -36497,6 +36497,5079 @@
       },
       "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2664",
       "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-29-muenster-3-familienkonzert",
+      "title": "3. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-06-29",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/6-1159.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-29-muenster-3-familienkonzert-1100",
+      "title": "3. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-06-29",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/6-1159.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-04-muenster-3-familienkonzert",
+      "title": "3. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/6-1159.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-04-muenster-3-familienkonzert-1630",
+      "title": "3. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-07-04",
+      "startTime": "16:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/6-1159.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-04-muenster-8-sinfoniekonzert",
+      "title": "8. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-05-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "paul-goodwin"
+      ],
+      "soloistPersonIds": [
+        "phillip-schupelius"
+      ],
+      "program": [
+        {
+          "workId": "purcell-suite-aus-king-arthur"
+        },
+        {
+          "workId": "corelli-concerto-grosso-c-moll-nr-3"
+        },
+        {
+          "workId": "lully-suite-aus-le-bourgeois-gentilhomme-lwv-4"
+        },
+        {
+          "workId": "bach-konzert-fuer-violoncello-und-orchester-a"
+        },
+        {
+          "workId": "bach-orchestersuite-nr-3-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/8-sinfoniekonzert-1170.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-05-muenster-8-sinfoniekonzert",
+      "title": "8. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-05-05",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "paul-goodwin"
+      ],
+      "soloistPersonIds": [
+        "phillip-schupelius"
+      ],
+      "program": [
+        {
+          "workId": "purcell-suite-aus-king-arthur"
+        },
+        {
+          "workId": "corelli-concerto-grosso-c-moll-nr-3"
+        },
+        {
+          "workId": "lully-suite-aus-le-bourgeois-gentilhomme-lwv-4"
+        },
+        {
+          "workId": "bach-konzert-fuer-violoncello-und-orchester-a"
+        },
+        {
+          "workId": "bach-orchestersuite-nr-3-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/8-sinfoniekonzert-1170.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-20-muenster-directors-preview",
+      "title": "Director's Preview",
+      "eventType": "concert",
+      "date": "2026-09-20",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/director-s-preview-1181.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20608",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-18-muenster-5-kammerkonzert",
+      "title": "5. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2027-04-18",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "tobias-krieger",
+        "hiroko-fukushima-adrian-kowollik",
+        "mara-smith",
+        "lutz-wagner",
+        "hyungju-kim",
+        "deborah-rawlings"
+      ],
+      "program": [
+        {
+          "workId": "chausson-klaviertrio-g-moll"
+        },
+        {
+          "workId": "schmitt-suite-en-trois-parties"
+        },
+        {
+          "workId": "schmitt-fuer-trompete-und-klavier"
+        },
+        {
+          "workId": "turina-klaviertrio-nr-2-h-moll"
+        },
+        {
+          "workId": "saens-septett-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/5-kammerkonzert-1165.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-08-muenster-1-kammerkonzert",
+      "title": "1. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2026-10-08",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "erbdrostenhof-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "hiroko-fukushima",
+        "lutz-wagner",
+        "deborah-rawlings"
+      ],
+      "program": [
+        {
+          "workId": "mozart-klaviertrio-g-dur"
+        },
+        {
+          "workId": "beach-klaviertrio"
+        },
+        {
+          "workId": "schostakowitsch-klaviertrio-1"
+        },
+        {
+          "workId": "brahms-klaviertrio-nr-3-c-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-kammerkonzert-1148.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20165",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-01-muenster-neujahrskonzert",
+      "title": "Neujahrskonzert",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "goetz-alsmann"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/neujahrskonzert-934.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-01-muenster-neujahrskonzert-1930",
+      "title": "Neujahrskonzert",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "goetz-alsmann"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/neujahrskonzert-934.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-02-muenster-neujahrskonzert",
+      "title": "Neujahrskonzert",
+      "eventType": "concert",
+      "date": "2027-01-02",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "goetz-alsmann"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/neujahrskonzert-934.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-21-muenster-luisa-miller",
+      "title": "Luisa Miller",
+      "eventType": "opera",
+      "date": "2027-02-21",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "marlena-devoe",
+        "garrie-davislim",
+        "kihoon-yoo",
+        "wioletta-hebrowska"
+      ],
+      "program": [
+        {
+          "workId": "verdi-luisa-miller"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-06-muenster-luisa-miller",
+      "title": "Luisa Miller",
+      "eventType": "opera",
+      "date": "2027-03-06",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "marlena-devoe",
+        "garrie-davislim",
+        "kihoon-yoo",
+        "wioletta-hebrowska"
+      ],
+      "program": [
+        {
+          "workId": "verdi-luisa-miller"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-13-muenster-luisa-miller",
+      "title": "Luisa Miller",
+      "eventType": "opera",
+      "date": "2027-03-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "marlena-devoe",
+        "garrie-davislim",
+        "kihoon-yoo",
+        "wioletta-hebrowska"
+      ],
+      "program": [
+        {
+          "workId": "verdi-luisa-miller"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-19-muenster-luisa-miller",
+      "title": "Luisa Miller",
+      "eventType": "opera",
+      "date": "2027-03-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "marlena-devoe",
+        "garrie-davislim",
+        "kihoon-yoo",
+        "wioletta-hebrowska"
+      ],
+      "program": [
+        {
+          "workId": "verdi-luisa-miller"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-25-muenster-luisa-miller",
+      "title": "Luisa Miller",
+      "eventType": "opera",
+      "date": "2027-03-25",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "marlena-devoe",
+        "garrie-davislim",
+        "kihoon-yoo",
+        "wioletta-hebrowska"
+      ],
+      "program": [
+        {
+          "workId": "verdi-luisa-miller"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-10-muenster-luisa-miller",
+      "title": "Luisa Miller",
+      "eventType": "opera",
+      "date": "2027-04-10",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "marlena-devoe",
+        "garrie-davislim",
+        "kihoon-yoo",
+        "wioletta-hebrowska"
+      ],
+      "program": [
+        {
+          "workId": "verdi-luisa-miller"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-28-muenster-luisa-miller",
+      "title": "Luisa Miller",
+      "eventType": "opera",
+      "date": "2027-04-28",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "marlena-devoe",
+        "garrie-davislim",
+        "kihoon-yoo",
+        "wioletta-hebrowska"
+      ],
+      "program": [
+        {
+          "workId": "verdi-luisa-miller"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-16-muenster-luisa-miller",
+      "title": "Luisa Miller",
+      "eventType": "opera",
+      "date": "2027-05-16",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "marlena-devoe",
+        "garrie-davislim",
+        "kihoon-yoo",
+        "wioletta-hebrowska"
+      ],
+      "program": [
+        {
+          "workId": "verdi-luisa-miller"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-22-muenster-luisa-miller",
+      "title": "Luisa Miller",
+      "eventType": "opera",
+      "date": "2027-05-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "marlena-devoe",
+        "garrie-davislim",
+        "kihoon-yoo",
+        "wioletta-hebrowska"
+      ],
+      "program": [
+        {
+          "workId": "verdi-luisa-miller"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-22-muenster-luisa-miller",
+      "title": "Luisa Miller",
+      "eventType": "opera",
+      "date": "2027-06-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "marlena-devoe",
+        "garrie-davislim",
+        "kihoon-yoo",
+        "wioletta-hebrowska"
+      ],
+      "program": [
+        {
+          "workId": "verdi-luisa-miller"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-01-muenster-4-erbdrostenhofkonzert",
+      "title": "4. Erbdrostenhofkonzert",
+      "eventType": "concert",
+      "date": "2027-02-01",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "erbdrostenhof-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "hensel-szene-aus-faust-teil-2"
+        },
+        {
+          "workId": "bartholdy-motetten-und-volkslieder"
+        },
+        {
+          "workId": "bartholdy-"
+        },
+        {
+          "workId": "bartholdy-ein-tag-sagt-es-dem-andern-mwv-c1-fuer-z"
+        },
+        {
+          "workId": "rutter-i-will-sing"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/4-erbdrostenhofkonzert-1161.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-03-muenster-6-kammerkonzert",
+      "title": "6. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2027-06-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "friederike-wiechert-schuele",
+        "giorgi-kalandarishvili",
+        "madeleine-gilet",
+        "milos-dopsaj",
+        "paola-bellmann"
+      ],
+      "program": [
+        {
+          "workId": "ligeti-sechs-bagatellen-fuer-blaeserquintett"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/6-kammerkonzert-1167.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-29-muenster-1-sinfoniekonzert",
+      "title": "1. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-09-29",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "frank-peter-zimmermann"
+      ],
+      "program": [
+        {
+          "workId": "weber-ouvertuere-zu-der-freischuetz"
+        },
+        {
+          "workId": "walton-konzert-fuer-violine-und-orchester"
+        },
+        {
+          "workId": "beethoven-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sinfoniekonzert-1150.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20158",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-30-muenster-1-sinfoniekonzert",
+      "title": "1. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-09-30",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "frank-peter-zimmermann"
+      ],
+      "program": [
+        {
+          "workId": "weber-ouvertuere-zu-der-freischuetz"
+        },
+        {
+          "workId": "walton-konzert-fuer-violine-und-orchester"
+        },
+        {
+          "workId": "beethoven-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sinfoniekonzert-1150.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20161",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-04-muenster-1-sinfoniekonzert",
+      "title": "1. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-10-04",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "frank-peter-zimmermann"
+      ],
+      "program": [
+        {
+          "workId": "weber-ouvertuere-zu-der-freischuetz"
+        },
+        {
+          "workId": "walton-konzert-fuer-violine-und-orchester"
+        },
+        {
+          "workId": "beethoven-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sinfoniekonzert-1150.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20162",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-07-muenster-1-sinfoniekonzert",
+      "title": "1. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-10-07",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "frank-peter-zimmermann"
+      ],
+      "program": [
+        {
+          "workId": "weber-ouvertuere-zu-der-freischuetz"
+        },
+        {
+          "workId": "walton-konzert-fuer-violine-und-orchester"
+        },
+        {
+          "workId": "beethoven-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sinfoniekonzert-1150.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-22-muenster-5-erbdrostenhofkonzert",
+      "title": "5. Erbdrostenhofkonzert",
+      "eventType": "concert",
+      "date": "2027-02-22",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "erbdrostenhof-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "pablo-fernandez-gonzalez",
+        "christian-fagerstroem"
+      ],
+      "program": [
+        {
+          "workId": "haendel-sonate-fuer-violine-und-bass-hwv-361"
+        },
+        {
+          "workId": "vitali-ciacona-g-moll"
+        },
+        {
+          "workId": "bach-suite-c-dur-fuer-violoncello-solo"
+        },
+        {
+          "workId": "schumann-suite-g-dur-fuer-violoncello-solo"
+        },
+        {
+          "workId": "corelli-folies-d-espagne-fuer-violine-und-bass"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/5-erbdrostenhofkonzert-1164.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-24-muenster-1-sitzkissenkonzert",
+      "title": "1. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2026-11-24",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sitzkissenkonzert-1206.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-25-muenster-1-sitzkissenkonzert",
+      "title": "1. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2026-11-25",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sitzkissenkonzert-1206.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-25-muenster-1-sitzkissenkonzert-1600",
+      "title": "1. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2026-11-25",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sitzkissenkonzert-1206.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-26-muenster-1-sitzkissenkonzert",
+      "title": "1. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2026-11-26",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sitzkissenkonzert-1206.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-04-muenster-1-sitzkissenkonzert",
+      "title": "1. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2026-12-04",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sitzkissenkonzert-1206.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-04-muenster-1-sitzkissenkonzert-1600",
+      "title": "1. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2026-12-04",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sitzkissenkonzert-1206.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-05-muenster-1-sitzkissenkonzert",
+      "title": "1. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2026-12-05",
+      "startTime": "14:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sitzkissenkonzert-1206.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-05-muenster-1-sitzkissenkonzert-1600",
+      "title": "1. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2026-12-05",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sitzkissenkonzert-1206.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-06-muenster-1-sitzkissenkonzert",
+      "title": "1. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2026-12-06",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sitzkissenkonzert-1206.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-06-muenster-1-sitzkissenkonzert-1200",
+      "title": "1. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2026-12-06",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-sitzkissenkonzert-1206.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-09-muenster-stadtteilkonzert",
+      "title": "Stadtteilkonzert",
+      "eventType": "concert",
+      "date": "2026-10-09",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/stadtteilkonzert-1259.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-07-muenster-directors-preview",
+      "title": "Director's Preview",
+      "eventType": "concert",
+      "date": "2026-09-07",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/director-s-preview-919.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-21-muenster-kinokonzert",
+      "title": "Kinokonzert",
+      "eventType": "concert",
+      "date": "2027-06-21",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "cineplex-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/kinokonzert-468.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-06-muenster-4-sinfoniekonzert",
+      "title": "4. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-12-06",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "arabella-steinbacher"
+      ],
+      "program": [
+        {
+          "workId": "schubert-rendering-1-satz"
+        },
+        {
+          "workId": "bruch-konzert-fuer-violine-und-orchester-nr-1-"
+        },
+        {
+          "workId": "schubert-sinfonie-nr-6-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/4-sinfoniekonzert-1163.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-08-muenster-4-sinfoniekonzert",
+      "title": "4. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-12-08",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "arabella-steinbacher"
+      ],
+      "program": [
+        {
+          "workId": "schubert-rendering-1-satz"
+        },
+        {
+          "workId": "bruch-konzert-fuer-violine-und-orchester-nr-1-"
+        },
+        {
+          "workId": "schubert-sinfonie-nr-6-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/4-sinfoniekonzert-1163.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-09-muenster-4-sinfoniekonzert",
+      "title": "4. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-12-09",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "arabella-steinbacher"
+      ],
+      "program": [
+        {
+          "workId": "schubert-rendering-1-satz"
+        },
+        {
+          "workId": "bruch-konzert-fuer-violine-und-orchester-nr-1-"
+        },
+        {
+          "workId": "schubert-sinfonie-nr-6-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/4-sinfoniekonzert-1163.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-13-muenster-4-sinfoniekonzert",
+      "title": "4. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "arabella-steinbacher"
+      ],
+      "program": [
+        {
+          "workId": "schubert-rendering-1-satz"
+        },
+        {
+          "workId": "bruch-konzert-fuer-violine-und-orchester-nr-1-"
+        },
+        {
+          "workId": "schubert-sinfonie-nr-6-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/4-sinfoniekonzert-1163.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-09-muenster-2-erbdrostenhofkonzert",
+      "title": "2. Erbdrostenhofkonzert",
+      "eventType": "concert",
+      "date": "2026-11-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "erbdrostenhof-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "nach-ruckers-1640-christian-rieger"
+      ],
+      "program": [
+        {
+          "workId": "bach-franzoesische-suiten-c-moll-und-g-dur"
+        },
+        {
+          "workId": "bach-und-816"
+        },
+        {
+          "workId": "haendel-suite-e-moll-hwv-429-und-chaconne"
+        },
+        {
+          "workId": "haendel-in-g-hwv-435"
+        },
+        {
+          "workId": "scarlatti-sonaten-d-moll-k-92-und-64-und"
+        },
+        {
+          "workId": "scarlatti-sonate-h-moll-k-87"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-erbdrostenhofkonzert-1153.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-11-muenster-3-erbdrostenhofkonzert",
+      "title": "3. Erbdrostenhofkonzert",
+      "eventType": "concert",
+      "date": "2027-01-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "erbdrostenhof-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/3-erbdrostenhofkonzert-1157.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-22-muenster-weihnachtskonzert",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-22",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "gregor-dalal"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/weihnachtskonzert-1233.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-22-muenster-weihnachtskonzert-1900",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-22",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "gregor-dalal"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/weihnachtskonzert-1233.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-23-muenster-weihnachtskonzert",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-23",
+      "startTime": "14:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "gregor-dalal"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/weihnachtskonzert-1233.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-23-muenster-weihnachtskonzert-1730",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-23",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "gregor-dalal"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/weihnachtskonzert-1233.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-25-muenster-weihnachtskonzert",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-25",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "gregor-dalal"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/weihnachtskonzert-1233.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-26-muenster-5-sinfoniekonzert",
+      "title": "5. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-01-26",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "jose-maria-moreno"
+      ],
+      "soloistPersonIds": [
+        "milos-dopsaj"
+      ],
+      "program": [
+        {
+          "workId": "turina-danzas-fantasticas"
+        },
+        {
+          "workId": "kapfenburg-san-o-zemlji-konzert-fuer-fagott-und-gro"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/5-sinfoniekonzert-1166.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-27-muenster-5-sinfoniekonzert",
+      "title": "5. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-01-27",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "jose-maria-moreno"
+      ],
+      "soloistPersonIds": [
+        "milos-dopsaj"
+      ],
+      "program": [
+        {
+          "workId": "turina-danzas-fantasticas"
+        },
+        {
+          "workId": "kapfenburg-san-o-zemlji-konzert-fuer-fagott-und-gro"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/5-sinfoniekonzert-1166.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-09-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-09-09",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20113",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-19-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-09-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20114",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-24-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-09-24",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20201",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-02-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-10-02",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20202",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-31-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-10-31",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20203",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-26-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-11-26",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-01-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-12-01",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-10-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-12-10",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-16-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-12-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-18-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-12-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-31-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-12-31",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-31-muenster-addams-family-1930",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2026-12-31",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-15-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2027-01-15",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-17-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2027-01-17",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-24-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2027-01-24",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-30-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2027-01-30",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-14-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2027-02-14",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-27-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2027-02-27",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-14-muenster-addams-family",
+      "title": "The Addams Family",
+      "eventType": "opera",
+      "date": "2027-03-14",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "carola-von-seckendorff",
+        "barbara-braeckelmann",
+        "gregor-dalal",
+        "christian-kai-sander",
+        "nuno-dehmel",
+        "vera-lorenz"
+      ],
+      "program": [
+        {
+          "workId": "lippa-the-addams-family"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-07-muenster-1-stadtteilkonzert",
+      "title": "1. Stadtteilkonzert",
+      "eventType": "concert",
+      "date": "2026-10-07",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-stadtteilkonzert-1231.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-30-muenster-9-sinfoniekonzert",
+      "title": "9. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-05-30",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "arsenis-selalmazidis"
+      ],
+      "program": [
+        {
+          "workId": "bach-o-ewigkeit-du-donnerwort-kantate"
+        },
+        {
+          "workId": "berg-konzert-fuer-violine-und-orchester"
+        },
+        {
+          "workId": "berg-dem-andenken-eines-engels"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-8-f-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/9-sinfoniekonzert-1171.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-01-muenster-9-sinfoniekonzert",
+      "title": "9. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-06-01",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "arsenis-selalmazidis"
+      ],
+      "program": [
+        {
+          "workId": "bach-o-ewigkeit-du-donnerwort-kantate"
+        },
+        {
+          "workId": "berg-konzert-fuer-violine-und-orchester"
+        },
+        {
+          "workId": "berg-dem-andenken-eines-engels"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-8-f-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/9-sinfoniekonzert-1171.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-02-muenster-9-sinfoniekonzert",
+      "title": "9. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-06-02",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "arsenis-selalmazidis"
+      ],
+      "program": [
+        {
+          "workId": "bach-o-ewigkeit-du-donnerwort-kantate"
+        },
+        {
+          "workId": "berg-konzert-fuer-violine-und-orchester"
+        },
+        {
+          "workId": "berg-dem-andenken-eines-engels"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-8-f-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/9-sinfoniekonzert-1171.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-05-muenster-9-sinfoniekonzert",
+      "title": "9. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-06-05",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "begegnungszentrum-meerwiese-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "arsenis-selalmazidis"
+      ],
+      "program": [
+        {
+          "workId": "bach-o-ewigkeit-du-donnerwort-kantate"
+        },
+        {
+          "workId": "berg-konzert-fuer-violine-und-orchester"
+        },
+        {
+          "workId": "berg-dem-andenken-eines-engels"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-8-f-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/9-sinfoniekonzert-1171.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-06-muenster-9-sinfoniekonzert",
+      "title": "9. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-06-06",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "arsenis-selalmazidis"
+      ],
+      "program": [
+        {
+          "workId": "bach-o-ewigkeit-du-donnerwort-kantate"
+        },
+        {
+          "workId": "berg-konzert-fuer-violine-und-orchester"
+        },
+        {
+          "workId": "berg-dem-andenken-eines-engels"
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-8-f-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/9-sinfoniekonzert-1171.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-13-muenster-1-familienkonzert",
+      "title": "1. Familienkonzert",
+      "eventType": "concert",
+      "date": "2026-10-13",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-familienkonzert-1149.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20178",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-13-muenster-1-familienkonzert-1100",
+      "title": "1. Familienkonzert",
+      "eventType": "concert",
+      "date": "2026-10-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-familienkonzert-1149.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20180",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-14-muenster-1-familienkonzert",
+      "title": "1. Familienkonzert",
+      "eventType": "concert",
+      "date": "2026-10-14",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-familienkonzert-1149.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20181",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-14-muenster-1-familienkonzert-1100",
+      "title": "1. Familienkonzert",
+      "eventType": "concert",
+      "date": "2026-10-14",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-familienkonzert-1149.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20182",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-18-muenster-1-familienkonzert",
+      "title": "1. Familienkonzert",
+      "eventType": "concert",
+      "date": "2026-10-18",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-familienkonzert-1149.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20183",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-18-muenster-1-familienkonzert-1200",
+      "title": "1. Familienkonzert",
+      "eventType": "concert",
+      "date": "2026-10-18",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-familienkonzert-1149.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20184",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-12-muenster-1-erbdrostenhofkonzert",
+      "title": "1. Erbdrostenhofkonzert",
+      "eventType": "concert",
+      "date": "2026-10-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "erbdrostenhof-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/1-erbdrostenhofkonzert-1147.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20177",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-03-muenster-akademiekonzert",
+      "title": "Akademiekonzert",
+      "eventType": "concert",
+      "date": "2027-05-03",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-foyer-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/akademiekonzert-907.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-19-muenster-2-familienkonzert",
+      "title": "2. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-01-19",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-familienkonzert-1155.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-19-muenster-2-familienkonzert-1100",
+      "title": "2. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-01-19",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-familienkonzert-1155.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-20-muenster-2-familienkonzert",
+      "title": "2. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-01-20",
+      "startTime": "09:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-familienkonzert-1155.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-20-muenster-2-familienkonzert-1100",
+      "title": "2. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-01-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-familienkonzert-1155.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-24-muenster-2-familienkonzert",
+      "title": "2. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-familienkonzert-1155.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-24-muenster-2-familienkonzert-1200",
+      "title": "2. Familienkonzert",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-familienkonzert-1155.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-27-muenster-la-traviata",
+      "title": "La Traviata",
+      "eventType": "opera",
+      "date": "2026-09-27",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert",
+        "henning-ehlert",
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "robyn-allegra-parton",
+        "wioletta-hebrowska",
+        "irene-kugler",
+        "yixuan-zhu",
+        "garrie-davislim",
+        "johan-hyunbong-choi",
+        "ki-hwan-nam",
+        "gregor-dalal",
+        "yoogeon-hyeon",
+        "kihoon-yoo",
+        "enrique-bernardo",
+        "soyeon-lee",
+        "youn-seong-shim"
+      ],
+      "program": [
+        {
+          "workId": "verdi-la-traviata"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/la-traviata-944.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20243",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-22-muenster-la-traviata",
+      "title": "La Traviata",
+      "eventType": "opera",
+      "date": "2026-10-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert",
+        "henning-ehlert",
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "robyn-allegra-parton",
+        "wioletta-hebrowska",
+        "irene-kugler",
+        "yixuan-zhu",
+        "garrie-davislim",
+        "johan-hyunbong-choi",
+        "ki-hwan-nam",
+        "gregor-dalal",
+        "yoogeon-hyeon",
+        "kihoon-yoo",
+        "enrique-bernardo",
+        "soyeon-lee",
+        "youn-seong-shim"
+      ],
+      "program": [
+        {
+          "workId": "verdi-la-traviata"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/la-traviata-944.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20245",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-24-muenster-la-traviata",
+      "title": "La Traviata",
+      "eventType": "opera",
+      "date": "2026-10-24",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert",
+        "henning-ehlert",
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "robyn-allegra-parton",
+        "wioletta-hebrowska",
+        "irene-kugler",
+        "yixuan-zhu",
+        "garrie-davislim",
+        "johan-hyunbong-choi",
+        "ki-hwan-nam",
+        "gregor-dalal",
+        "yoogeon-hyeon",
+        "kihoon-yoo",
+        "enrique-bernardo",
+        "soyeon-lee",
+        "youn-seong-shim"
+      ],
+      "program": [
+        {
+          "workId": "verdi-la-traviata"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/la-traviata-944.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20246",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-01-muenster-la-traviata",
+      "title": "La Traviata",
+      "eventType": "opera",
+      "date": "2026-11-01",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert",
+        "henning-ehlert",
+        "thorsten-schmid-kapfenburg"
+      ],
+      "soloistPersonIds": [
+        "robyn-allegra-parton",
+        "wioletta-hebrowska",
+        "irene-kugler",
+        "yixuan-zhu",
+        "garrie-davislim",
+        "johan-hyunbong-choi",
+        "ki-hwan-nam",
+        "gregor-dalal",
+        "yoogeon-hyeon",
+        "kihoon-yoo",
+        "enrique-bernardo",
+        "soyeon-lee",
+        "youn-seong-shim"
+      ],
+      "program": [
+        {
+          "workId": "verdi-la-traviata"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/la-traviata-944.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-20-muenster-2-sinfoniekonzert",
+      "title": "2. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-10-20",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "robert-neumann"
+      ],
+      "program": [
+        {
+          "workId": "nielsen-helios-ouvertuere"
+        },
+        {
+          "workId": "grieg-klavierkonzert"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-3-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sinfoniekonzert-1156.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20190",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-21-muenster-2-sinfoniekonzert",
+      "title": "2. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-10-21",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "robert-neumann"
+      ],
+      "program": [
+        {
+          "workId": "nielsen-helios-ouvertuere"
+        },
+        {
+          "workId": "grieg-klavierkonzert"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-3-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sinfoniekonzert-1156.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20191",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-25-muenster-2-sinfoniekonzert",
+      "title": "2. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-10-25",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "robert-neumann"
+      ],
+      "program": [
+        {
+          "workId": "nielsen-helios-ouvertuere"
+        },
+        {
+          "workId": "grieg-klavierkonzert"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-3-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sinfoniekonzert-1156.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20192",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-19-muenster-2-kammerkonzert",
+      "title": "2. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2026-11-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "erbdrostenhof-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "arsenis-selalmazidis-pablo-fernandez-gonzalez",
+        "svenja-ciliberto",
+        "christian-fagerstroem",
+        "simon-degenkolbe"
+      ],
+      "program": [
+        {
+          "workId": "haydn-streichquartett-c-dur"
+        },
+        {
+          "workId": "haydn-nr-3-hob-iii-77-kaiserquartett"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-kammerkonzert-1154.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-25-muenster-hoffmanns-erzaehlungen",
+      "title": "Hoffmanns Erzählungen",
+      "eventType": "opera",
+      "date": "2026-10-25",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "garrie-davislim",
+        "ana-durlovski",
+        "wioletta-hebrowska",
+        "johan-hyunbong-choi",
+        "youn-seong-shim",
+        "kihoon-yoo",
+        "yoogeon-hyeon"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-hoffmanns-erzaehlungen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20232",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-07-muenster-hoffmanns-erzaehlungen",
+      "title": "Hoffmanns Erzählungen",
+      "eventType": "opera",
+      "date": "2026-11-07",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "garrie-davislim",
+        "ana-durlovski",
+        "wioletta-hebrowska",
+        "johan-hyunbong-choi",
+        "youn-seong-shim",
+        "kihoon-yoo",
+        "yoogeon-hyeon"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-hoffmanns-erzaehlungen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-14-muenster-hoffmanns-erzaehlungen",
+      "title": "Hoffmanns Erzählungen",
+      "eventType": "opera",
+      "date": "2026-11-14",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "garrie-davislim",
+        "ana-durlovski",
+        "wioletta-hebrowska",
+        "johan-hyunbong-choi",
+        "youn-seong-shim",
+        "kihoon-yoo",
+        "yoogeon-hyeon"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-hoffmanns-erzaehlungen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-24-muenster-hoffmanns-erzaehlungen",
+      "title": "Hoffmanns Erzählungen",
+      "eventType": "opera",
+      "date": "2026-11-24",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "garrie-davislim",
+        "ana-durlovski",
+        "wioletta-hebrowska",
+        "johan-hyunbong-choi",
+        "youn-seong-shim",
+        "kihoon-yoo",
+        "yoogeon-hyeon"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-hoffmanns-erzaehlungen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-03-muenster-hoffmanns-erzaehlungen",
+      "title": "Hoffmanns Erzählungen",
+      "eventType": "opera",
+      "date": "2026-12-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "garrie-davislim",
+        "ana-durlovski",
+        "wioletta-hebrowska",
+        "johan-hyunbong-choi",
+        "youn-seong-shim",
+        "kihoon-yoo",
+        "yoogeon-hyeon"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-hoffmanns-erzaehlungen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-11-muenster-hoffmanns-erzaehlungen",
+      "title": "Hoffmanns Erzählungen",
+      "eventType": "opera",
+      "date": "2026-12-11",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "garrie-davislim",
+        "ana-durlovski",
+        "wioletta-hebrowska",
+        "johan-hyunbong-choi",
+        "youn-seong-shim",
+        "kihoon-yoo",
+        "yoogeon-hyeon"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-hoffmanns-erzaehlungen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-27-muenster-hoffmanns-erzaehlungen",
+      "title": "Hoffmanns Erzählungen",
+      "eventType": "opera",
+      "date": "2026-12-27",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "garrie-davislim",
+        "ana-durlovski",
+        "wioletta-hebrowska",
+        "johan-hyunbong-choi",
+        "youn-seong-shim",
+        "kihoon-yoo",
+        "yoogeon-hyeon"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-hoffmanns-erzaehlungen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-03-muenster-hoffmanns-erzaehlungen",
+      "title": "Hoffmanns Erzählungen",
+      "eventType": "opera",
+      "date": "2027-01-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "garrie-davislim",
+        "ana-durlovski",
+        "wioletta-hebrowska",
+        "johan-hyunbong-choi",
+        "youn-seong-shim",
+        "kihoon-yoo",
+        "yoogeon-hyeon"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-hoffmanns-erzaehlungen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-14-muenster-hoffmanns-erzaehlungen",
+      "title": "Hoffmanns Erzählungen",
+      "eventType": "opera",
+      "date": "2027-01-14",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "garrie-davislim",
+        "ana-durlovski",
+        "wioletta-hebrowska",
+        "johan-hyunbong-choi",
+        "youn-seong-shim",
+        "kihoon-yoo",
+        "yoogeon-hyeon"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-hoffmanns-erzaehlungen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-05-muenster-hoffmanns-erzaehlungen",
+      "title": "Hoffmanns Erzählungen",
+      "eventType": "opera",
+      "date": "2027-02-05",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "garrie-davislim",
+        "ana-durlovski",
+        "wioletta-hebrowska",
+        "johan-hyunbong-choi",
+        "youn-seong-shim",
+        "kihoon-yoo",
+        "yoogeon-hyeon"
+      ],
+      "program": [
+        {
+          "workId": "offenbach-hoffmanns-erzaehlungen"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-30-muenster-mondaynight-i",
+      "title": "MondayNight I",
+      "eventType": "concert",
+      "date": "2026-11-30",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-im-pumpenhaus-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "moritz-weiss-klezmer-trio"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/mondaynight-i-moritz-weiss-klezmer-trio-929.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-04-muenster-4-kammerkonzert",
+      "title": "4. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2027-02-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "erbdrostenhof-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anna-kaczmarek-kalandarishvili-uta-heidemann-diedrich",
+        "mara-smith-magdalena-steiner",
+        "shengzhi-guo",
+        "hyungju-kim"
+      ],
+      "program": [
+        {
+          "workId": "halvorsen-passacaglia-fuer-violine-und-viola-nach-"
+        },
+        {
+          "workId": "rossini-duett-fuer-violoncello-und-kontrabass-d-"
+        },
+        {
+          "workId": "ravel-sonate-fuer-violine-und-violoncello"
+        },
+        {
+          "workId": "tschaikowsky-streichsextett-d-moll"
+        },
+        {
+          "workId": "tschaikowsky-souvenir-de-florence"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/4-kammerkonzert-1162.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-16-muenster-6-sinfoniekonzert",
+      "title": "6. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-03-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "kit-armstrong"
+      ],
+      "program": [
+        {
+          "workId": "brahms-ungarische-taenze-nr-1-g-moll-nr-3-f-dur"
+        },
+        {
+          "workId": "schumann-klavierkonzert"
+        },
+        {
+          "workId": "grimm-zweite-suite-in-canonform-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/6-sinfoniekonzert-1168.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-17-muenster-6-sinfoniekonzert",
+      "title": "6. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-03-17",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "kit-armstrong"
+      ],
+      "program": [
+        {
+          "workId": "brahms-ungarische-taenze-nr-1-g-moll-nr-3-f-dur"
+        },
+        {
+          "workId": "schumann-klavierkonzert"
+        },
+        {
+          "workId": "grimm-zweite-suite-in-canonform-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/6-sinfoniekonzert-1168.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-21-muenster-6-sinfoniekonzert",
+      "title": "6. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "kit-armstrong"
+      ],
+      "program": [
+        {
+          "workId": "brahms-ungarische-taenze-nr-1-g-moll-nr-3-f-dur"
+        },
+        {
+          "workId": "schumann-klavierkonzert"
+        },
+        {
+          "workId": "grimm-zweite-suite-in-canonform-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/6-sinfoniekonzert-1168.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-06-muenster-10-sinfoniekonzert",
+      "title": "10. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-07-06",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "frederic-belli"
+      ],
+      "program": [
+        {
+          "workId": "rota-konzert-fuer-posaune-und-orchester-in-c"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/10-sinfoniekonzert-1152.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-07-muenster-10-sinfoniekonzert",
+      "title": "10. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-07-07",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "frederic-belli"
+      ],
+      "program": [
+        {
+          "workId": "rota-konzert-fuer-posaune-und-orchester-in-c"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/10-sinfoniekonzert-1152.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-11-muenster-10-sinfoniekonzert",
+      "title": "10. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-07-11",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "frederic-belli"
+      ],
+      "program": [
+        {
+          "workId": "rota-konzert-fuer-posaune-und-orchester-in-c"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/10-sinfoniekonzert-1152.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-13-muenster-2-sitzkissenkonzert",
+      "title": "2. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2027-02-13",
+      "startTime": "14:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sitzkissenkonzert-1207.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-13-muenster-2-sitzkissenkonzert-1600",
+      "title": "2. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2027-02-13",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sitzkissenkonzert-1207.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-14-muenster-2-sitzkissenkonzert",
+      "title": "2. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sitzkissenkonzert-1207.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-14-muenster-2-sitzkissenkonzert-1200",
+      "title": "2. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "12:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sitzkissenkonzert-1207.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-18-muenster-2-sitzkissenkonzert",
+      "title": "2. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2027-02-18",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sitzkissenkonzert-1207.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-18-muenster-2-sitzkissenkonzert-1600",
+      "title": "2. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2027-02-18",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sitzkissenkonzert-1207.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-19-muenster-2-sitzkissenkonzert",
+      "title": "2. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2027-02-19",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sitzkissenkonzert-1207.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-19-muenster-2-sitzkissenkonzert-1600",
+      "title": "2. Sitzkissenkonzert",
+      "eventType": "concert",
+      "date": "2027-02-19",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/2-sitzkissenkonzert-1207.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-17-muenster-aaseerenaden-2027",
+      "title": "Aaseerenaden 2027",
+      "eventType": "concert",
+      "date": "2027-07-17",
+      "startTime": "21:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "aasee-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/aaseerenaden-2027-1172.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-12-muenster-schwaene",
+      "title": "Die Schwäne",
+      "eventType": "opera",
+      "date": "2026-09-12",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert",
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "arianna-hartanov",
+        "melina-solkidou",
+        "sebastiano-villa",
+        "juan-fernando-morales-londono",
+        "enrique-saez-martinez",
+        "aaron-st-hilaire",
+        "bartlomiej-kowalczyk",
+        "wendel-lima-de-alcantara",
+        "valerie-yeo",
+        "hana-kato",
+        "naho-takeda"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-die-schwaene"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/die-schwaene-918.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20116",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-26-muenster-schwaene",
+      "title": "Die Schwäne",
+      "eventType": "opera",
+      "date": "2026-09-26",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert",
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "arianna-hartanov",
+        "melina-solkidou",
+        "sebastiano-villa",
+        "juan-fernando-morales-londono",
+        "enrique-saez-martinez",
+        "aaron-st-hilaire",
+        "bartlomiej-kowalczyk",
+        "wendel-lima-de-alcantara",
+        "valerie-yeo",
+        "hana-kato",
+        "naho-takeda"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-die-schwaene"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/die-schwaene-918.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20117",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-03-muenster-schwaene",
+      "title": "Die Schwäne",
+      "eventType": "opera",
+      "date": "2026-10-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert",
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "arianna-hartanov",
+        "melina-solkidou",
+        "sebastiano-villa",
+        "juan-fernando-morales-londono",
+        "enrique-saez-martinez",
+        "aaron-st-hilaire",
+        "bartlomiej-kowalczyk",
+        "wendel-lima-de-alcantara",
+        "valerie-yeo",
+        "hana-kato",
+        "naho-takeda"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-die-schwaene"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/die-schwaene-918.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20118",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-11-muenster-schwaene",
+      "title": "Die Schwäne",
+      "eventType": "opera",
+      "date": "2026-10-11",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-studio",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "henning-ehlert",
+        "henning-ehlert"
+      ],
+      "soloistPersonIds": [
+        "arianna-hartanov",
+        "melina-solkidou",
+        "sebastiano-villa",
+        "juan-fernando-morales-londono",
+        "enrique-saez-martinez",
+        "aaron-st-hilaire",
+        "bartlomiej-kowalczyk",
+        "wendel-lima-de-alcantara",
+        "valerie-yeo",
+        "hana-kato",
+        "naho-takeda"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowsky-die-schwaene"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/die-schwaene-918.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://theater-muenster.eventim-inhouse.de/webshop/webticket/shop?event=20119",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-04-muenster-7-sinfoniekonzert",
+      "title": "7. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-04-04",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "pablo-fernandez-gonzalez"
+      ],
+      "program": [
+        {
+          "workId": "boulanger-d-un-matin-de-printemps-fuer-orchester"
+        },
+        {
+          "workId": "vivaldi-la-primavera-aus-le-quattro-stagioni"
+        },
+        {
+          "workId": "mussorgski-eine-nacht-auf-dem-kahlen-berge"
+        },
+        {
+          "workId": "bartholdy-die-erste-walpurgisnacht"
+        },
+        {
+          "workId": "bartholdy-kantate-fuer-soli-chor-und-orchester"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/7-sinfoniekonzert-1169.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-06-muenster-7-sinfoniekonzert",
+      "title": "7. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-04-06",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "pablo-fernandez-gonzalez"
+      ],
+      "program": [
+        {
+          "workId": "boulanger-d-un-matin-de-printemps-fuer-orchester"
+        },
+        {
+          "workId": "vivaldi-la-primavera-aus-le-quattro-stagioni"
+        },
+        {
+          "workId": "mussorgski-eine-nacht-auf-dem-kahlen-berge"
+        },
+        {
+          "workId": "bartholdy-die-erste-walpurgisnacht"
+        },
+        {
+          "workId": "bartholdy-kantate-fuer-soli-chor-und-orchester"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/7-sinfoniekonzert-1169.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-07-muenster-7-sinfoniekonzert",
+      "title": "7. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-04-07",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "pablo-fernandez-gonzalez"
+      ],
+      "program": [
+        {
+          "workId": "boulanger-d-un-matin-de-printemps-fuer-orchester"
+        },
+        {
+          "workId": "vivaldi-la-primavera-aus-le-quattro-stagioni"
+        },
+        {
+          "workId": "mussorgski-eine-nacht-auf-dem-kahlen-berge"
+        },
+        {
+          "workId": "bartholdy-die-erste-walpurgisnacht"
+        },
+        {
+          "workId": "bartholdy-kantate-fuer-soli-chor-und-orchester"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/7-sinfoniekonzert-1169.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-11-muenster-7-sinfoniekonzert",
+      "title": "7. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-04-11",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "pablo-fernandez-gonzalez"
+      ],
+      "program": [
+        {
+          "workId": "boulanger-d-un-matin-de-printemps-fuer-orchester"
+        },
+        {
+          "workId": "vivaldi-la-primavera-aus-le-quattro-stagioni"
+        },
+        {
+          "workId": "mussorgski-eine-nacht-auf-dem-kahlen-berge"
+        },
+        {
+          "workId": "bartholdy-die-erste-walpurgisnacht"
+        },
+        {
+          "workId": "bartholdy-kantate-fuer-soli-chor-und-orchester"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: Opernchor des Theater Münster.",
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/7-sinfoniekonzert-1169.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-17-muenster-3-sinfoniekonzert",
+      "title": "3. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-11-17",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "camille-thomas"
+      ],
+      "program": [
+        {
+          "workId": "dvorak-slawischer-tanz-e-moll-nr-2"
+        },
+        {
+          "workId": "dvorak-cellokonzert"
+        },
+        {
+          "workId": "dvorak-sinfonie-nr-8-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/3-sinfoniekonzert-1160.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-18-muenster-3-sinfoniekonzert",
+      "title": "3. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-11-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "camille-thomas"
+      ],
+      "program": [
+        {
+          "workId": "dvorak-slawischer-tanz-e-moll-nr-2"
+        },
+        {
+          "workId": "dvorak-cellokonzert"
+        },
+        {
+          "workId": "dvorak-sinfonie-nr-8-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/3-sinfoniekonzert-1160.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-22-muenster-3-sinfoniekonzert",
+      "title": "3. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-11-22",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-grosses-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "camille-thomas"
+      ],
+      "program": [
+        {
+          "workId": "dvorak-slawischer-tanz-e-moll-nr-2"
+        },
+        {
+          "workId": "dvorak-cellokonzert"
+        },
+        {
+          "workId": "dvorak-sinfonie-nr-8-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/3-sinfoniekonzert-1160.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-23-muenster-geburtstagskonzert",
+      "title": "Geburtstagskonzert",
+      "eventType": "concert",
+      "date": "2027-04-23",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "theater-muenster-kleines-haus",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/geburtstagskonzert-1234.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-17-muenster-3-kammerkonzert",
+      "title": "3. Kammerkonzert",
+      "eventType": "concert",
+      "date": "2026-12-17",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-muenster"
+      ],
+      "venueId": "erbdrostenhof-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "yuki-kimura-zukauskas",
+        "svenja-ciliberto",
+        "giedrius-zukauskas",
+        "risa-adachi"
+      ],
+      "program": [
+        {
+          "workId": "francaix-klaviertrio-d-dur"
+        },
+        {
+          "workId": "beethoven-klaviertrio-d-dur-nr-1"
+        },
+        {
+          "workId": "beethoven-geistertrio"
+        },
+        {
+          "workId": "dvorak-klavierquintett-nr-2-a-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.theater-muenster.com/produktionen/3-kammerkonzert-1158.html",
+        "name": "Theater Münster",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
     }
   ]
 }
