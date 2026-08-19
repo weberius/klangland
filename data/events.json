@@ -33165,6 +33165,3338 @@
       },
       "ticketUrl": "https://webshop.tonhalle.de/api/1/redirect/product/performance?id=10229671018005&lang=de",
       "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-07-moenchengladbach-lounge-club-26-27",
+      "title": "Lounge Club 26/27",
+      "eventType": "concert",
+      "date": "2026-09-07",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/lounge-club-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2694",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-08-moenchengladbach-lounge-club-26-27",
+      "title": "Lounge Club 26/27",
+      "eventType": "concert",
+      "date": "2026-09-08",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/lounge-club-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2695",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-09-moenchengladbach-herbststimmung",
+      "title": "Herbststimmung",
+      "eventType": "concert",
+      "date": "2026-09-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-konzertsaal",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mark-rohde"
+      ],
+      "soloistPersonIds": [
+        "anne-luisa-kramb"
+      ],
+      "program": [
+        {
+          "workId": "pierne-paysages-franciscains"
+        },
+        {
+          "workId": "saens-konzert-nr-3-fuer-violine-und-orchester-"
+        },
+        {
+          "workId": "schumann-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/herbststimmung/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2644",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-10-moenchengladbach-herbststimmung",
+      "title": "Herbststimmung",
+      "eventType": "concert",
+      "date": "2026-09-10",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "kaiser-friedrich-halle-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mark-rohde"
+      ],
+      "soloistPersonIds": [
+        "anne-luisa-kramb"
+      ],
+      "program": [
+        {
+          "workId": "pierne-paysages-franciscains"
+        },
+        {
+          "workId": "saens-konzert-nr-3-fuer-violine-und-orchester-"
+        },
+        {
+          "workId": "schumann-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/herbststimmung/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2645",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-11-krefeld-herbststimmung",
+      "title": "Herbststimmung",
+      "eventType": "concert",
+      "date": "2026-09-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "seidenweberhaus-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mark-rohde"
+      ],
+      "soloistPersonIds": [
+        "anne-luisa-kramb"
+      ],
+      "program": [
+        {
+          "workId": "pierne-paysages-franciscains"
+        },
+        {
+          "workId": "saens-konzert-nr-3-fuer-violine-und-orchester-"
+        },
+        {
+          "workId": "schumann-sinfonie-2"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/herbststimmung/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2646",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-12-moenchengladbach-sitzkissenkonzerte-26-27",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-09-12",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2253",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-12-moenchengladbach-sitzkissenkonzerte-26-27-1100",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-09-12",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2254",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-19-krefeld-sitzkissenkonzerte-26-27",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-09-19",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2384",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-19-krefeld-sitzkissenkonzerte-26-27-1100",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-09-19",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2385",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-20-moenchengladbach-fagottissimo-four-bassoons-talking-and",
+      "title": "Fagottissimo – Four bassoons talking and dancing",
+      "eventType": "concert",
+      "date": "2026-09-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "philipp-nadler",
+        "meret-fiedler",
+        "hoshimi-plener",
+        "adrian-hoerner"
+      ],
+      "program": [
+        {
+          "workId": "stephenson-divertimento-fuer-drei-fagotte-und-kontr"
+        },
+        {
+          "workId": "marsalis-four-bassoons-talking"
+        },
+        {
+          "workId": "keating-dance-hall-suite"
+        },
+        {
+          "workId": "piazzolla-tango-suite"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/fagotissimo-four-bassoons-talking-and-dancing/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2629",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-23-moenchengladbach-krabbelkonzerte-26-27",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-09-23",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2400",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-23-moenchengladbach-krabbelkonzerte-26-27-1130",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-09-23",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2401",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-27-krefeld-fagottissimo-four-bassoons-talking-and",
+      "title": "Fagottissimo – Four bassoons talking and dancing",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "philipp-nadler",
+        "meret-fiedler",
+        "hoshimi-plener",
+        "adrian-hoerner"
+      ],
+      "program": [
+        {
+          "workId": "stephenson-divertimento-fuer-drei-fagotte-und-kontr"
+        },
+        {
+          "workId": "marsalis-four-bassoons-talking"
+        },
+        {
+          "workId": "keating-dance-hall-suite"
+        },
+        {
+          "workId": "piazzolla-tango-suite"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/fagotissimo-four-bassoons-talking-and-dancing/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2628",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-30-krefeld-krabbelkonzerte-26-27",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-09-30",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2392",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-30-krefeld-krabbelkonzerte-26-27-1130",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-09-30",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2393",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-04-krefeld-am-rhein-entlang",
+      "title": "Am Rhein entlang",
+      "eventType": "concert",
+      "date": "2026-10-04",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-grosse-buehne",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "sebastian-engel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/am-rhein-entlang/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2618",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-11-moenchengladbach-am-rhein-entlang",
+      "title": "Am Rhein entlang",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-grosse-buehne",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "sebastian-engel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/am-rhein-entlang/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2619",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-21-moenchengladbach-schatten-macht",
+      "title": "Im Schatten der Macht",
+      "eventType": "concert",
+      "date": "2026-10-21",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-konzertsaal",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "raphaela-gromes"
+      ],
+      "program": [
+        {
+          "workId": "ibert-hommage-a-mozart"
+        },
+        {
+          "workId": "tschaikowsky-variationen-ueber-ein-rokoko-thema-fuer-"
+        },
+        {
+          "workId": "herz-konzert-fuer-violoncello-und-orchester"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-nr-5-d-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/im-schatten-der-macht/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2647",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-22-moenchengladbach-schatten-macht",
+      "title": "Im Schatten der Macht",
+      "eventType": "concert",
+      "date": "2026-10-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "kaiser-friedrich-halle-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "raphaela-gromes"
+      ],
+      "program": [
+        {
+          "workId": "ibert-hommage-a-mozart"
+        },
+        {
+          "workId": "tschaikowsky-variationen-ueber-ein-rokoko-thema-fuer-"
+        },
+        {
+          "workId": "herz-konzert-fuer-violoncello-und-orchester"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-nr-5-d-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/im-schatten-der-macht/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2648",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-23-krefeld-schatten-macht",
+      "title": "Im Schatten der Macht",
+      "eventType": "concert",
+      "date": "2026-10-23",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "seidenweberhaus-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "raphaela-gromes"
+      ],
+      "program": [
+        {
+          "workId": "ibert-hommage-a-mozart"
+        },
+        {
+          "workId": "tschaikowsky-variationen-ueber-ein-rokoko-thema-fuer-"
+        },
+        {
+          "workId": "herz-konzert-fuer-violoncello-und-orchester"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-nr-5-d-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/im-schatten-der-macht/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2649",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-25-moenchengladbach-richtig-romantisch",
+      "title": "Richtig romantisch",
+      "eventType": "concert",
+      "date": "2026-10-25",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "fabian-kircher",
+        "dilyana-slavova",
+        "noh-yun-kwak",
+        "martin-roeder",
+        "laura-krause",
+        "ermanno-niro",
+        "javier-panadero-cano"
+      ],
+      "program": [
+        {
+          "workId": "raff-streichoktett-c-dur"
+        },
+        {
+          "workId": "enescu-streichoktett-c-dur"
+        },
+        {
+          "workId": "schostakowitsch-zwei-stuecke-fuer-streichoktett"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/richtig-romantisch/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2630",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-08-krefeld-richtig-romantisch",
+      "title": "Richtig romantisch",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "fabian-kircher",
+        "dilyana-slavova",
+        "noh-yun-kwak",
+        "martin-roeder",
+        "laura-krause",
+        "ermanno-niro",
+        "javier-panadero-cano"
+      ],
+      "program": [
+        {
+          "workId": "raff-streichoktett-c-dur"
+        },
+        {
+          "workId": "enescu-streichoktett-c-dur"
+        },
+        {
+          "workId": "schostakowitsch-zwei-stuecke-fuer-streichoktett"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/richtig-romantisch/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2631",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-15-krefeld-peter-pan",
+      "title": "Peter Pan",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-grosse-buehne",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "sebastian-engel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/peter-pan/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2620",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-18-krefeld-krabbelkonzerte-26-27",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-11-18",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2394",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-18-krefeld-krabbelkonzerte-26-27-1130",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-11-18",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2395",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-19-moenchengladbach-kuetsons-happy-hour-26-27",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2026-11-19",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2667",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-19-moenchengladbach-kuetsons-happy-hour-26-27-2015",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2026-11-19",
+      "startTime": "20:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2668",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-22-moenchengladbach-peter-pan",
+      "title": "Peter Pan",
+      "eventType": "concert",
+      "date": "2026-11-22",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-grosse-buehne",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "sebastian-engel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/peter-pan/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2621",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-24-krefeld-kuetsons-happy-hour-26-27",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2026-11-24",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "kulturfabrik-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2665",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-24-krefeld-kuetsons-happy-hour-26-27-2015",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2026-11-24",
+      "startTime": "20:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "kulturfabrik-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2666",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-02-moenchengladbach-krabbelkonzerte-26-27",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-12-02",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2402",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-02-moenchengladbach-krabbelkonzerte-26-27-1130",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2026-12-02",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2403",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-07-moenchengladbach-lounge-club-26-27",
+      "title": "Lounge Club 26/27",
+      "eventType": "concert",
+      "date": "2026-12-07",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/lounge-club-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2696",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-08-moenchengladbach-lounge-club-26-27",
+      "title": "Lounge Club 26/27",
+      "eventType": "concert",
+      "date": "2026-12-08",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/lounge-club-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2697",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-09-moenchengladbach-zwischen-eis-ewigkeit",
+      "title": "Zwischen Eis und Ewigkeit",
+      "eventType": "concert",
+      "date": "2026-12-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-konzertsaal",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "markus-l-frank"
+      ],
+      "soloistPersonIds": [
+        "dario-portillo-gavarre"
+      ],
+      "program": [
+        {
+          "workId": "rautavaara-cantus-arcticus"
+        },
+        {
+          "workId": "nielsen-konzert-fuer-floete-und-orchester"
+        },
+        {
+          "workId": "sibelius-der-schwan-von-tuonela-legende-fuer-orch"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/zwischen-eis-und-ewigkeit/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2650",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-10-moenchengladbach-zwischen-eis-ewigkeit",
+      "title": "Zwischen Eis und Ewigkeit",
+      "eventType": "concert",
+      "date": "2026-12-10",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "kaiser-friedrich-halle-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "markus-l-frank"
+      ],
+      "soloistPersonIds": [
+        "dario-portillo-gavarre"
+      ],
+      "program": [
+        {
+          "workId": "rautavaara-cantus-arcticus"
+        },
+        {
+          "workId": "nielsen-konzert-fuer-floete-und-orchester"
+        },
+        {
+          "workId": "sibelius-der-schwan-von-tuonela-legende-fuer-orch"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/zwischen-eis-und-ewigkeit/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2651",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-11-krefeld-zwischen-eis-ewigkeit",
+      "title": "Zwischen Eis und Ewigkeit",
+      "eventType": "concert",
+      "date": "2026-12-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "seidenweberhaus-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "markus-l-frank"
+      ],
+      "soloistPersonIds": [
+        "dario-portillo-gavarre"
+      ],
+      "program": [
+        {
+          "workId": "rautavaara-cantus-arcticus"
+        },
+        {
+          "workId": "nielsen-konzert-fuer-floete-und-orchester"
+        },
+        {
+          "workId": "sibelius-der-schwan-von-tuonela-legende-fuer-orch"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/zwischen-eis-und-ewigkeit/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2652",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-01-moenchengladbach-neujahrskonzert-2027-kuenstlerleben",
+      "title": "Neujahrskonzert 2027 - Künstlerleben",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-grosse-buehne",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke von Johann Strauß Sohn, Emmerich Kálmán u",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/neujahrskonzert-2027-kuenstlerleben/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2679",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-02-krefeld-neujahrskonzert-2027-kuenstlerleben",
+      "title": "Neujahrskonzert 2027 - Künstlerleben",
+      "eventType": "concert",
+      "date": "2027-01-02",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-grosse-buehne",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Werke von Johann Strauß Sohn, Emmerich Kálmán u",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/neujahrskonzert-2027-kuenstlerleben/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2680",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-10-moenchengladbach-mensch-britten",
+      "title": "Mensch, Britten",
+      "eventType": "concert",
+      "date": "2027-01-10",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-grosse-buehne",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "sebastian-engel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/mensch-britten/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2623",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-17-krefeld-mensch-britten",
+      "title": "Mensch, Britten",
+      "eventType": "concert",
+      "date": "2027-01-17",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-grosse-buehne",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "sebastian-engel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/mensch-britten/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2622",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-25-moenchengladbach-lounge-club-26-27",
+      "title": "Lounge Club 26/27",
+      "eventType": "concert",
+      "date": "2027-01-25",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/lounge-club-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2698",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-26-moenchengladbach-lounge-club-26-27",
+      "title": "Lounge Club 26/27",
+      "eventType": "concert",
+      "date": "2027-01-26",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/lounge-club-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2699",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-27-moenchengladbach-charakterkoepfe",
+      "title": "Charakterköpfe",
+      "eventType": "concert",
+      "date": "2027-01-27",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-konzertsaal",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "robert-neumann"
+      ],
+      "program": [
+        {
+          "workId": "nelson-savannah-river-holiday-ouvertuere"
+        },
+        {
+          "workId": "gershwin-concerto-in-f-fuer-klavier-und-orchester"
+        },
+        {
+          "workId": "elgar-enigma-variationen"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/charakterkoepfe/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2653",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-28-moenchengladbach-charakterkoepfe",
+      "title": "Charakterköpfe",
+      "eventType": "concert",
+      "date": "2027-01-28",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "kaiser-friedrich-halle-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "robert-neumann"
+      ],
+      "program": [
+        {
+          "workId": "nelson-savannah-river-holiday-ouvertuere"
+        },
+        {
+          "workId": "gershwin-concerto-in-f-fuer-klavier-und-orchester"
+        },
+        {
+          "workId": "elgar-enigma-variationen"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/charakterkoepfe/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2654",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-29-krefeld-charakterkoepfe",
+      "title": "Charakterköpfe",
+      "eventType": "concert",
+      "date": "2027-01-29",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "seidenweberhaus-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "robert-neumann"
+      ],
+      "program": [
+        {
+          "workId": "nelson-savannah-river-holiday-ouvertuere"
+        },
+        {
+          "workId": "gershwin-concerto-in-f-fuer-klavier-und-orchester"
+        },
+        {
+          "workId": "elgar-enigma-variationen"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/charakterkoepfe/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2655",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-30-moenchengladbach-sitzkissenkonzerte-26-27",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-01-30",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2255",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-30-moenchengladbach-sitzkissenkonzerte-26-27-1100",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-01-30",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2256",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-04-krefeld-kuetsons-happy-hour-26-27",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2027-02-04",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "audi-zentrum-toelke-fischer-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2669",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-04-krefeld-kuetsons-happy-hour-26-27-2015",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2027-02-04",
+      "startTime": "20:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "audi-zentrum-toelke-fischer-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2670",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-06-moenchengladbach-kuetsons-happy-hour-26-27",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2027-02-06",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2671",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-06-moenchengladbach-kuetsons-happy-hour-26-27-2015",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2027-02-06",
+      "startTime": "20:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2672",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-07-moenchengladbach-zupfen-streichen-pusten",
+      "title": "Zupfen, streichen, pusten",
+      "eventType": "concert",
+      "date": "2027-02-07",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "martin-roeder",
+        "jovana-logiewa",
+        "natascha-krumik",
+        "javier-panadero-cano",
+        "stella-farina",
+        "cecilie-marie-schwagers",
+        "cyrill-gussaroff",
+        "berten-claeys"
+      ],
+      "program": [
+        {
+          "workId": "schostakowitsch-praeludium-fuer-trompete-horn-posaune-un"
+        },
+        {
+          "workId": "kirchner-lamento-d-orfeo-fuer-horn-und-harfe-aus-"
+        },
+        {
+          "workId": "klaunzer-longing-for-peace-fuer-posaune-und-harfe"
+        },
+        {
+          "workId": "ravel-streichquartett-f-dur"
+        },
+        {
+          "workId": "natra-music-fuer-harfe-und-blechtrio"
+        },
+        {
+          "workId": "cavallo-the-city-of-the-gods-ua-fuer-trompete-ho"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/zupfen-streichen-pusten/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2632",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-13-krefeld-sitzkissenkonzerte-26-27",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-02-13",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2386",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-13-krefeld-sitzkissenkonzerte-26-27-1100",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-02-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2387",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-14-krefeld-zupfen-streichen-pusten",
+      "title": "Zupfen, streichen, pusten",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "martin-roeder",
+        "jovana-logiewa",
+        "natascha-krumik",
+        "javier-panadero-cano",
+        "stella-farina",
+        "cecilie-marie-schwagers",
+        "cyrill-gussaroff",
+        "berten-claeys"
+      ],
+      "program": [
+        {
+          "workId": "schostakowitsch-praeludium-fuer-trompete-horn-posaune-un"
+        },
+        {
+          "workId": "kirchner-lamento-d-orfeo-fuer-horn-und-harfe-aus-"
+        },
+        {
+          "workId": "klaunzer-longing-for-peace-fuer-posaune-und-harfe"
+        },
+        {
+          "workId": "ravel-streichquartett-f-dur"
+        },
+        {
+          "workId": "natra-music-fuer-harfe-und-blechtrio"
+        },
+        {
+          "workId": "cavallo-the-city-of-the-gods-ua-fuer-trompete-ho"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/zupfen-streichen-pusten/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2633",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-24-moenchengladbach-terra-pax",
+      "title": "In terra pax",
+      "eventType": "concert",
+      "date": "2027-02-24",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-konzertsaal",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "opernchor-des-theaters-krefeld-moenchengladbach-niederrheinischer-konzertchor-michael-preiser"
+      ],
+      "soloistPersonIds": [
+        "jeanne-jansen",
+        "eva-maria-guenschmann",
+        "bettina-schaeffer",
+        "rafael-bruck",
+        "matthias-wippich"
+      ],
+      "program": [
+        {
+          "workId": "schulhoff-menschheit-sinfonie-fuer-altstimme-und-o"
+        },
+        {
+          "workId": "martin-in-terra-pax-oratorio-breve-fuer-fuenf-s"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/in-terra-pax/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2690",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-26-krefeld-terra-pax",
+      "title": "In terra pax",
+      "eventType": "concert",
+      "date": "2027-02-26",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "seidenweberhaus-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "opernchor-des-theaters-krefeld-moenchengladbach-niederrheinischer-konzertchor-michael-preiser"
+      ],
+      "soloistPersonIds": [
+        "jeanne-jansen",
+        "eva-maria-guenschmann",
+        "bettina-schaeffer",
+        "rafael-bruck",
+        "matthias-wippich"
+      ],
+      "program": [
+        {
+          "workId": "schulhoff-menschheit-sinfonie-fuer-altstimme-und-o"
+        },
+        {
+          "workId": "martin-in-terra-pax-oratorio-breve-fuer-fuenf-s"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/in-terra-pax/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2691",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-06-krefeld-sitzkissenkonzerte-26-27",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-03-06",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2388",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-06-krefeld-sitzkissenkonzerte-26-27-1100",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-03-06",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2389",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-13-moenchengladbach-sitzkissenkonzerte-26-27",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-03-13",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2257",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-13-moenchengladbach-sitzkissenkonzerte-26-27-1100",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-03-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2258",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-15-moenchengladbach-lounge-club-26-27",
+      "title": "Lounge Club 26/27",
+      "eventType": "concert",
+      "date": "2027-03-15",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/lounge-club-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2700",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-16-moenchengladbach-lounge-club-26-27",
+      "title": "Lounge Club 26/27",
+      "eventType": "concert",
+      "date": "2027-03-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/lounge-club-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2701",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-17-moenchengladbach-krabbelkonzerte-26-27",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-03-17",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2404",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-17-moenchengladbach-krabbelkonzerte-26-27-1130",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-03-17",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2405",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-17-moenchengladbach-fruehlingsklaenge",
+      "title": "Frühlingsklänge",
+      "eventType": "concert",
+      "date": "2027-03-17",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-konzertsaal",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "lena-neudauer"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-ouvertuere-zu-egmont"
+        },
+        {
+          "workId": "beethoven-konzert-fuer-violine-und-orchester-d-dur"
+        },
+        {
+          "workId": "raff-sinfonie-nr-8-a-dur-fruehlingsklaenge"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/fruehlingsklaenge/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2656",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-18-moenchengladbach-fruehlingsklaenge",
+      "title": "Frühlingsklänge",
+      "eventType": "concert",
+      "date": "2027-03-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "kaiser-friedrich-halle-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "lena-neudauer"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-ouvertuere-zu-egmont"
+        },
+        {
+          "workId": "beethoven-konzert-fuer-violine-und-orchester-d-dur"
+        },
+        {
+          "workId": "raff-sinfonie-nr-8-a-dur-fruehlingsklaenge"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/fruehlingsklaenge/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2657",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-19-krefeld-fruehlingsklaenge",
+      "title": "Frühlingsklänge",
+      "eventType": "concert",
+      "date": "2027-03-19",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "seidenweberhaus-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "lena-neudauer"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-ouvertuere-zu-egmont"
+        },
+        {
+          "workId": "beethoven-konzert-fuer-violine-und-orchester-d-dur"
+        },
+        {
+          "workId": "raff-sinfonie-nr-8-a-dur-fruehlingsklaenge"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/fruehlingsklaenge/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2658",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-24-krefeld-krabbelkonzerte-26-27",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-03-24",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2396",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-24-krefeld-krabbelkonzerte-26-27-1130",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-03-24",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2397",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-08-moenchengladbach-jahreszeiten",
+      "title": "Die Jahreszeiten",
+      "eventType": "concert",
+      "date": "2027-04-08",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "muenster-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "vincent-knueppe"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "haydn-die-jahreszeiten-oratorium"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: NewKammerChor.",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/die-jahreszeiten/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2692",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-11-moenchengladbach-individuum-schicksal-begegnung-stille",
+      "title": "Das Individuum. Schicksal – Begegnung – Stille",
+      "eventType": "concert",
+      "date": "2027-04-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "chisato-yamamoto",
+        "johanna-birnbaum",
+        "richard-weitz",
+        "raffaele-franchini",
+        "enea-cavallo"
+      ],
+      "program": [
+        {
+          "workId": "schostakowitsch-streichquartett-nr-8-c-moll"
+        },
+        {
+          "workId": "cavallo-quintett-fuer-streichquartett-und-harfe-"
+        },
+        {
+          "workId": "beethoven-streichquartett-nr-15-a-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/das-individuum-schicksal-begegnung-stille/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2634",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-11-krefeld-jahreszeiten",
+      "title": "Die Jahreszeiten",
+      "eventType": "concert",
+      "date": "2027-04-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "friedenskirche-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "vincent-knueppe"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "haydn-die-jahreszeiten-oratorium"
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit: NewKammerChor.",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/die-jahreszeiten/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2693",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-18-krefeld-individuum-schicksal-begegnung-stille",
+      "title": "Das Individuum. Schicksal – Begegnung – Stille",
+      "eventType": "concert",
+      "date": "2027-04-18",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "chisato-yamamoto",
+        "johanna-birnbaum",
+        "richard-weitz",
+        "raffaele-franchini",
+        "enea-cavallo"
+      ],
+      "program": [
+        {
+          "workId": "schostakowitsch-streichquartett-nr-8-c-moll"
+        },
+        {
+          "workId": "cavallo-quintett-fuer-streichquartett-und-harfe-"
+        },
+        {
+          "workId": "beethoven-streichquartett-nr-15-a-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/das-individuum-schicksal-begegnung-stille/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2635",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-22-moenchengladbach-helden-leinwand-2027",
+      "title": "Helden der Leinwand 2027",
+      "eventType": "concert",
+      "date": "2027-04-22",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-grosse-buehne",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mareike-joerling"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/helden-der-leinwand-2027/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2677",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-24-krefeld-helden-leinwand-2027",
+      "title": "Helden der Leinwand 2027",
+      "eventType": "concert",
+      "date": "2027-04-24",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-grosse-buehne",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mareike-joerling"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/helden-der-leinwand-2027/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2678",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-25-moenchengladbach-gefluegelten-wesen",
+      "title": "Von geflügelten Wesen",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-grosse-buehne",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "sebastian-engel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/von-gefluegelten-wesen/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2625",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-02-krefeld-gefluegelten-wesen",
+      "title": "Von geflügelten Wesen",
+      "eventType": "concert",
+      "date": "2027-05-02",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-grosse-buehne",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "sebastian-engel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/von-gefluegelten-wesen/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2624",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-12-moenchengladbach-sternenmythen",
+      "title": "Sternenmythen",
+      "eventType": "concert",
+      "date": "2027-05-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-konzertsaal",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "fabio-martino"
+      ],
+      "program": [
+        {
+          "workId": "holmes-andromede-poeme-symphonique"
+        },
+        {
+          "workId": "britten-konzert-fuer-klavier-und-orchester"
+        },
+        {
+          "workId": "holst-die-planeten"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sternenmythen/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2659",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-13-moenchengladbach-sternenmythen",
+      "title": "Sternenmythen",
+      "eventType": "concert",
+      "date": "2027-05-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "kaiser-friedrich-halle-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "fabio-martino"
+      ],
+      "program": [
+        {
+          "workId": "holmes-andromede-poeme-symphonique"
+        },
+        {
+          "workId": "britten-konzert-fuer-klavier-und-orchester"
+        },
+        {
+          "workId": "holst-die-planeten"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sternenmythen/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2660",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-14-krefeld-sternenmythen",
+      "title": "Sternenmythen",
+      "eventType": "concert",
+      "date": "2027-05-14",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "seidenweberhaus-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "fabio-martino"
+      ],
+      "program": [
+        {
+          "workId": "holmes-andromede-poeme-symphonique"
+        },
+        {
+          "workId": "britten-konzert-fuer-klavier-und-orchester"
+        },
+        {
+          "workId": "holst-die-planeten"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sternenmythen/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2661",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-19-moenchengladbach-kuetsons-happy-hour-26-27",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2027-05-19",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2673",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-19-moenchengladbach-kuetsons-happy-hour-26-27-2015",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2027-05-19",
+      "startTime": "20:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2674",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-20-krefeld-kuetsons-happy-hour-26-27",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2027-05-20",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "altes-klaerwerk-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2675",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-20-krefeld-kuetsons-happy-hour-26-27-2015",
+      "title": "Kütsons Happy Hour 26/27",
+      "eventType": "concert",
+      "date": "2027-05-20",
+      "startTime": "20:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "altes-klaerwerk-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kuetsons-happy-hour-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2676",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-22-krefeld-sitzkissenkonzerte-26-27",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-05-22",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2390",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-22-krefeld-sitzkissenkonzerte-26-27-1100",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-05-22",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2391",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-26-moenchengladbach-krabbelkonzerte-26-27",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-05-26",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2406",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-26-moenchengladbach-krabbelkonzerte-26-27-1130",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-05-26",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2407",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-29-moenchengladbach-sitzkissenkonzerte-26-27",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-05-29",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2259",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-29-moenchengladbach-sitzkissenkonzerte-26-27-1100",
+      "title": "Sitzkissenkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-05-29",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Alf Hoffmann (geb",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/sitzkissenkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2260",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-02-krefeld-krabbelkonzerte-26-27",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-06-02",
+      "startTime": "10:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2398",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-02-krefeld-krabbelkonzerte-26-27-1130",
+      "title": "Krabbelkonzerte 26/27",
+      "eventType": "concert",
+      "date": "2027-06-02",
+      "startTime": "11:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/krabbelkonzerte-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2399",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-06-moenchengladbach-cordes-et-cles",
+      "title": "Cordes et clés",
+      "eventType": "concert",
+      "date": "2027-06-06",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-studio",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anna-maria-brodka",
+        "noh-yun-kwak",
+        "natascha-krumik",
+        "lorena-meiners",
+        "yunjin-bae",
+        "hoshimi-plener"
+      ],
+      "program": [
+        {
+          "workId": "devienne-fagottquartett-g-moll-nr-3"
+        },
+        {
+          "workId": "onslow-streichquintett-nr-29-es-dur"
+        },
+        {
+          "workId": "francaix-divertissement-fuer-fagott-und-streichqu"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/cordes-et-cles/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2636",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-11-moenchengladbach-gospel-goes-classic-2027",
+      "title": "Gospel goes Classic 2027",
+      "eventType": "concert",
+      "date": "2027-06-11",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-grosse-buehne",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "gabriel-vealle"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Mit: Family of Peace Gospel Singers, Family of Joy Gospelsingers.",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/gospel-goes-classic-2027/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2681",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-13-krefeld-cordes-et-cles",
+      "title": "Cordes et clés",
+      "eventType": "concert",
+      "date": "2027-06-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-glasfoyer",
+      "cityId": "krefeld",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anna-maria-brodka",
+        "noh-yun-kwak",
+        "natascha-krumik",
+        "lorena-meiners",
+        "yunjin-bae",
+        "hoshimi-plener"
+      ],
+      "program": [
+        {
+          "workId": "devienne-fagottquartett-g-moll-nr-3"
+        },
+        {
+          "workId": "onslow-streichquintett-nr-29-es-dur"
+        },
+        {
+          "workId": "francaix-divertissement-fuer-fagott-und-streichqu"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/cordes-et-cles/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2637",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-17-krefeld-gospel-goes-classic-2027",
+      "title": "Gospel goes Classic 2027",
+      "eventType": "concert",
+      "date": "2027-06-17",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-grosse-buehne",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [
+        "gabriel-vealle"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Mit: Family of Peace Gospel Singers, Family of Joy Gospelsingers.",
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/gospel-goes-classic-2027/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2682",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-20-moenchengladbach-kleine-helden-grosse-gefuehle",
+      "title": "Kleine Helden und große Gefühle",
+      "eventType": "concert",
+      "date": "2027-06-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-grosse-buehne",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "sebastian-engel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kleine-helden-und-grosse-gefuehle/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2627",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-27-krefeld-kleine-helden-grosse-gefuehle",
+      "title": "Kleine Helden und große Gefühle",
+      "eventType": "concert",
+      "date": "2027-06-27",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-kr-grosse-buehne",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "sebastian-engel"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/kleine-helden-und-grosse-gefuehle/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2626",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-28-moenchengladbach-lounge-club-26-27",
+      "title": "Lounge Club 26/27",
+      "eventType": "concert",
+      "date": "2027-06-28",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/lounge-club-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2702",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-29-moenchengladbach-lounge-club-26-27",
+      "title": "Lounge Club 26/27",
+      "eventType": "concert",
+      "date": "2027-06-29",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/lounge-club-26-27/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2703",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-06-30-moenchengladbach-rapsodie-espagnole",
+      "title": "Rapsodie espagnole",
+      "eventType": "concert",
+      "date": "2027-06-30",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "theater-mg-konzertsaal",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "casella-sinfonie-nr-2-c-moll"
+        },
+        {
+          "workId": "ravel-pavane-pour-une-infante-defunte"
+        },
+        {
+          "workId": "ravel-rapsodie-espagnole"
+        },
+        {
+          "workId": "ravel-bolero"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/rapsodie-espagnole/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2662",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-01-moenchengladbach-rapsodie-espagnole",
+      "title": "Rapsodie espagnole",
+      "eventType": "concert",
+      "date": "2027-07-01",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "kaiser-friedrich-halle-moenchengladbach",
+      "cityId": "moenchengladbach",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "casella-sinfonie-nr-2-c-moll"
+        },
+        {
+          "workId": "ravel-pavane-pour-une-infante-defunte"
+        },
+        {
+          "workId": "ravel-rapsodie-espagnole"
+        },
+        {
+          "workId": "ravel-bolero"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/rapsodie-espagnole/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2663",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-07-02-krefeld-rapsodie-espagnole",
+      "title": "Rapsodie espagnole",
+      "eventType": "concert",
+      "date": "2027-07-02",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "niederrheinische-sinfoniker"
+      ],
+      "venueId": "seidenweberhaus-krefeld",
+      "cityId": "krefeld",
+      "conductorPersonIds": [
+        "mihkel-kutson"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "casella-sinfonie-nr-2-c-moll"
+        },
+        {
+          "workId": "ravel-pavane-pour-une-infante-defunte"
+        },
+        {
+          "workId": "ravel-rapsodie-espagnole"
+        },
+        {
+          "workId": "ravel-bolero"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.niederrheinische-sinfoniker.de/spielplan/rapsodie-espagnole/",
+        "name": "Niederrheinische Sinfoniker",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2664",
+      "lastVerified": "2026-08-19"
     }
   ]
 }

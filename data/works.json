@@ -10010,6 +10010,544 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "pierne-paysages-franciscains",
+      "composerId": "gabriel-pierne",
+      "title": "Paysages franciscains",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "43"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "saens-konzert-nr-3-fuer-violine-und-orchester-",
+      "composerId": "camille-saint-saens",
+      "title": "Konzert Nr. 3 für Violine und Orchester h-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "61"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "stephenson-divertimento-fuer-drei-fagotte-und-kontr",
+      "composerId": "allan-stephenson",
+      "title": "Divertimento für drei Fagotte und Kontrafagott",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "marsalis-four-bassoons-talking",
+      "composerId": "wynton-marsalis",
+      "title": "Four Bassoons Talking",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "keating-dance-hall-suite",
+      "composerId": "geoffrey-keating",
+      "title": "Dance Hall Suite",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "piazzolla-tango-suite",
+      "composerId": "astor-piazzolla",
+      "title": "Tango Suite",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ibert-hommage-a-mozart",
+      "composerId": "jacques-ibert",
+      "title": "Hommage à Mozart",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowsky-variationen-ueber-ein-rokoko-thema-fuer-",
+      "composerId": "peter-iljitsch-tschaikowsky",
+      "title": "Variationen über ein Rokoko-Thema für Violoncello und Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "33"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "herz-konzert-fuer-violoncello-und-orchester",
+      "composerId": "maria-herz",
+      "title": "Konzert für Violoncello und Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "10"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "raff-streichoktett-c-dur",
+      "composerId": "joachim-raff",
+      "title": "Streichoktett C-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "176"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "enescu-streichoktett-c-dur",
+      "composerId": "george-enescu",
+      "title": "Streichoktett C-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "7"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-zwei-stuecke-fuer-streichoktett",
+      "composerId": "dmitri-schostakowitsch",
+      "title": "Zwei Stücke für Streichoktett",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "11"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rautavaara-cantus-arcticus",
+      "composerId": "einojuhani-rautavaara",
+      "title": "Cantus arcticus",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sibelius-der-schwan-von-tuonela-legende-fuer-orch",
+      "composerId": "jean-sibelius",
+      "title": "Der Schwan von Tuonela. Legende für Orchester Nr. 2 Sinfonie Nr. 5 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "22"
+        },
+        {
+          "system": "Opus",
+          "number": "82"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "nelson-savannah-river-holiday-ouvertuere",
+      "composerId": "ron-nelson",
+      "title": "Savannah River Holiday. Ouvertüre",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "gershwin-concerto-in-f-fuer-klavier-und-orchester",
+      "composerId": "george-gershwin",
+      "title": "Concerto in F für Klavier und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-praeludium-fuer-trompete-horn-posaune-un",
+      "composerId": "dmitri-schostakowitsch",
+      "title": "Präludium für Trompete, Horn, Posaune und Harfe",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kirchner-lamento-d-orfeo-fuer-horn-und-harfe-aus-",
+      "composerId": "volker-david-kirchner",
+      "title": "Lamento d’Orfeo für Horn und Harfe aus „Tre Poemi“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "klaunzer-longing-for-peace-fuer-posaune-und-harfe",
+      "composerId": "evelyn-klaunzer",
+      "title": "Longing for Peace für Posaune und Harfe",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-streichquartett-f-dur",
+      "composerId": "maurice-ravel",
+      "title": "Streichquartett F-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "35"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "natra-music-fuer-harfe-und-blechtrio",
+      "composerId": "sergiu-natra",
+      "title": "Music für Harfe und Blechtrio",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "cavallo-the-city-of-the-gods-ua-fuer-trompete-ho",
+      "composerId": "enea-cavallo",
+      "title": "The city of the gods (UA) für Trompete, Horn und Posaune",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "22"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schulhoff-menschheit-sinfonie-fuer-altstimme-und-o",
+      "composerId": "erwin-schulhoff",
+      "title": "Menschheit. Sinfonie für Altstimme und Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "28"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "martin-in-terra-pax-oratorio-breve-fuer-fuenf-s",
+      "composerId": "frank-martin",
+      "title": "In terra pax. Oratorio breve für fünf Solostimmen, zwei gemischte Chöre und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-konzert-fuer-violine-und-orchester-d-dur",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Konzert für Violine und Orchester D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "61"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "raff-sinfonie-nr-8-a-dur-fruehlingsklaenge",
+      "composerId": "joachim-raff",
+      "title": "Sinfonie Nr. 8 A-Dur „Frühlingsklänge“",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "205"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-die-jahreszeiten-oratorium",
+      "composerId": "joseph-haydn",
+      "title": "Die Jahreszeiten. Oratorium",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "oratorio",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "cavallo-quintett-fuer-streichquartett-und-harfe-",
+      "composerId": "enea-cavallo",
+      "title": "Quintett für Streichquartett und Harfe (Uraufführung)",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "18"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "holmes-andromede-poeme-symphonique",
+      "composerId": "augusta-holmes",
+      "title": "Andromède. Poème symphonique",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "britten-konzert-fuer-klavier-und-orchester",
+      "composerId": "benjamin-britten",
+      "title": "Konzert für Klavier und Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "13"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "devienne-fagottquartett-g-moll-nr-3",
+      "composerId": "francois-devienne",
+      "title": "Fagottquartett g-Moll Nr. 3",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "73"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "onslow-streichquintett-nr-29-es-dur",
+      "composerId": "george-onslow",
+      "title": "Streichquintett Nr. 29 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "73"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "francaix-divertissement-fuer-fagott-und-streichqu",
+      "composerId": "jean-francaix",
+      "title": "Divertissement für Fagott und Streichquintett",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "casella-sinfonie-nr-2-c-moll",
+      "composerId": "alfredo-casella",
+      "title": "Sinfonie Nr. 2 c-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "12"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-pavane-pour-une-infante-defunte",
+      "composerId": "maurice-ravel",
+      "title": "Pavane pour une infante défunte",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-rapsodie-espagnole",
+      "composerId": "maurice-ravel",
+      "title": "Rapsodie espagnole",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-bolero",
+      "composerId": "maurice-ravel",
+      "title": "Boléro",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

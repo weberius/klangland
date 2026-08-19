@@ -1291,6 +1291,175 @@
       "website": null,
       "type": "concert_hall",
       "institutionId": null
+    },
+    {
+      "id": "theater-moenchengladbach",
+      "name": "Theater Mönchengladbach",
+      "cityIds": [
+        "moenchengladbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-krefeld-moenchengladbach-institution"
+    },
+    {
+      "id": "theater-mg-konzertsaal",
+      "name": "Theater MG – Konzertsaal",
+      "cityIds": [
+        "moenchengladbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": "theater-krefeld-moenchengladbach-institution"
+    },
+    {
+      "id": "kaiser-friedrich-halle-moenchengladbach",
+      "name": "Kaiser-Friedrich-Halle",
+      "cityIds": [
+        "moenchengladbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "seidenweberhaus-krefeld",
+      "name": "Seidenweberhaus",
+      "cityIds": [
+        "krefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "theater-mg-studio",
+      "name": "Theater MG – Studio",
+      "cityIds": [
+        "moenchengladbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-krefeld-moenchengladbach-institution"
+    },
+    {
+      "id": "theater-kr-glasfoyer",
+      "name": "Theater KR – Glasfoyer",
+      "cityIds": [
+        "krefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": "theater-krefeld-moenchengladbach-institution"
+    },
+    {
+      "id": "theater-kr-grosse-buehne",
+      "name": "Theater KR – Große Bühne",
+      "cityIds": [
+        "krefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-krefeld-moenchengladbach-institution"
+    },
+    {
+      "id": "theater-mg-grosse-buehne",
+      "name": "Theater MG – Große Bühne",
+      "cityIds": [
+        "moenchengladbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": "theater-krefeld-moenchengladbach-institution"
+    },
+    {
+      "id": "kulturfabrik-krefeld",
+      "name": "Kulturfabrik",
+      "cityIds": [
+        "krefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "audi-zentrum-toelke-fischer-krefeld",
+      "name": "Audi Zentrum Tölke+Fischer",
+      "cityIds": [
+        "krefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "muenster-moenchengladbach",
+      "name": "Münster",
+      "cityIds": [
+        "moenchengladbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "friedenskirche-krefeld",
+      "name": "Friedenskirche",
+      "cityIds": [
+        "krefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "altes-klaerwerk-krefeld",
+      "name": "Altes Klärwerk Krefeld",
+      "cityIds": [
+        "krefeld"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
     }
   ]
 }

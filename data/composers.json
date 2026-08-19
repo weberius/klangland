@@ -1747,6 +1747,134 @@
       "id": "mark-andreas-schlingensiepen",
       "name": "Mark-Andreas Schlingensiepen",
       "life": null
+    },
+    {
+      "id": "gabriel-pierne",
+      "name": "Gabriel Pierné",
+      "life": {
+        "from": 1863,
+        "to": 1937
+      }
+    },
+    {
+      "id": "allan-stephenson",
+      "name": "Allan Stephenson",
+      "life": {
+        "from": 1949,
+        "to": 2021
+      }
+    },
+    {
+      "id": "wynton-marsalis",
+      "name": "Wynton Marsalis",
+      "life": {
+        "from": 1961,
+        "to": null
+      }
+    },
+    {
+      "id": "geoffrey-keating",
+      "name": "Geoffrey Keating",
+      "life": {
+        "from": 1937,
+        "to": null
+      }
+    },
+    {
+      "id": "maria-herz",
+      "name": "Maria Herz",
+      "life": {
+        "from": 1878,
+        "to": 1950
+      }
+    },
+    {
+      "id": "joachim-raff",
+      "name": "Joachim Raff",
+      "life": {
+        "from": 1822,
+        "to": 1882
+      }
+    },
+    {
+      "id": "george-enescu",
+      "name": "George Enescu",
+      "life": {
+        "from": 1881,
+        "to": 1955
+      }
+    },
+    {
+      "id": "einojuhani-rautavaara",
+      "name": "Einojuhani Rautavaara",
+      "life": {
+        "from": 1928,
+        "to": 2016
+      }
+    },
+    {
+      "id": "ron-nelson",
+      "name": "Ron Nelson",
+      "life": {
+        "from": 1929,
+        "to": 2023
+      }
+    },
+    {
+      "id": "volker-david-kirchner",
+      "name": "Volker David Kirchner",
+      "life": {
+        "from": 1942,
+        "to": 2020
+      }
+    },
+    {
+      "id": "evelyn-klaunzer",
+      "name": "Evelyn Klaunzer",
+      "life": {
+        "from": 1978,
+        "to": null
+      }
+    },
+    {
+      "id": "sergiu-natra",
+      "name": "Sergiu Natra",
+      "life": {
+        "from": 1924,
+        "to": 2021
+      }
+    },
+    {
+      "id": "enea-cavallo",
+      "name": "Enea Cavallo",
+      "life": {
+        "from": 1989,
+        "to": null
+      }
+    },
+    {
+      "id": "frank-martin",
+      "name": "Frank Martin",
+      "life": {
+        "from": 1890,
+        "to": 1974
+      }
+    },
+    {
+      "id": "francois-devienne",
+      "name": "François Devienne",
+      "life": {
+        "from": 1759,
+        "to": 1803
+      }
+    },
+    {
+      "id": "alfredo-casella",
+      "name": "Alfredo Casella",
+      "life": {
+        "from": 1883,
+        "to": 1947
+      }
     }
   ]
 }
