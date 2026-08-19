@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.1",
-    "lastUpdated": "2026-08-17",
+    "lastUpdated": "2026-08-19",
     "language": "de",
     "notes": "Adressen und Koordinaten sind noch nicht recherchiert und daher null."
   },
@@ -952,6 +952,344 @@
       "coordinates": null,
       "website": null,
       "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "rathausplatz-recklinghausen",
+      "name": "Rathausplatz",
+      "cityIds": [
+        "recklinghausen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "matthaeuskirche-gelsenkirchen",
+      "name": "Matthäuskirche",
+      "cityIds": [
+        "gelsenkirchen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "marktplatz-unna",
+      "name": "Marktplatz Unna",
+      "cityIds": [
+        "unna"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "musiktheater-im-revier",
+      "name": "Musiktheater im Revier",
+      "cityIds": [
+        "gelsenkirchen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "opera_house",
+      "institutionId": null
+    },
+    {
+      "id": "heilig-kreuz-kirche-gelsenkirchen",
+      "name": "Heilig-Kreuz-Kirche",
+      "cityIds": [
+        "gelsenkirchen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "ruhrfestspielhaus",
+      "name": "Ruhrfestspielhaus",
+      "cityIds": [
+        "recklinghausen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "konzertaula-kamen",
+      "name": "Konzertaula",
+      "cityIds": [
+        "kamen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "staedtisches-buehnenhaus-wesel",
+      "name": "Städtisches Bühnenhaus Wesel",
+      "cityIds": [
+        "wesel"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "kulturzentrum-herne",
+      "name": "Kulturzentrum",
+      "cityIds": [
+        "herne"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "buergerhaus-sued-recklinghausen",
+      "name": "Bürgerhaus Süd",
+      "cityIds": [
+        "recklinghausen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "haus-opherdicke",
+      "name": "Haus Opherdicke",
+      "cityIds": [
+        "holzwickede"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "rathaus-recklinghausen",
+      "name": "Rathaus Recklinghausen",
+      "cityIds": [
+        "recklinghausen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "kunstmuseum-gelsenkirchen",
+      "name": "Kunstmuseum Gelsenkirchen",
+      "cityIds": [
+        "gelsenkirchen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "propsteikirche-st-peter-recklinghausen",
+      "name": "Propsteikirche St. Peter",
+      "cityIds": [
+        "recklinghausen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "freischuetz-schwerte",
+      "name": "Freischütz",
+      "cityIds": [
+        "schwerte"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "erich-goepfert-stadthalle-unna",
+      "name": "Erich-Göpfert-Stadthalle",
+      "cityIds": [
+        "unna"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "heinz-hilpert-theater",
+      "name": "Heinz-Hilpert-Theater",
+      "cityIds": [
+        "luenen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "christuskirche-recklinghausen",
+      "name": "Christuskirche",
+      "cityIds": [
+        "recklinghausen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "rohrmeisterei-schwerte",
+      "name": "Rohrmeisterei",
+      "cityIds": [
+        "schwerte"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "depot-npw-probenzentrum-recklinghausen",
+      "name": "Depot (NPW-Probenzentrum)",
+      "cityIds": [
+        "recklinghausen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "sparkasse-vest-recklinghausen",
+      "name": "Sparkasse Vest",
+      "cityIds": [
+        "recklinghausen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "theater-marl",
+      "name": "Theater Marl",
+      "cityIds": [
+        "marl"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "aula-der-gesamtschule-froendenberg",
+      "name": "Aula der Gesamtschule",
+      "cityIds": [
+        "froendenberg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "wilhelmshoehe-menden",
+      "name": "Wilhelmshöhe",
+      "cityIds": [
+        "menden"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "stadttheater-lippstadt",
+      "name": "Stadttheater Lippstadt",
+      "cityIds": [
+        "lippstadt"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "stadthalle-ahlen",
+      "name": "Stadthalle Ahlen",
+      "cityIds": [
+        "ahlen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
       "institutionId": null
     }
   ]

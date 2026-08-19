@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.1",
-    "lastUpdated": "2026-08-18",
+    "lastUpdated": "2026-08-19",
     "season": "2026/27",
     "language": "de"
   },
@@ -23543,6 +23543,6137 @@
       },
       "ticketUrl": "https://theaterhagen.eventim-inhouse.de/webshop/webticket/shop?event=12267",
       "lastVerified": "2026-08-18"
+    },
+    {
+      "id": "event-2026-09-04-recklinghausen-baumanns-hitparade-2026",
+      "title": "Baumanns Hitparade 2026",
+      "eventType": "concert",
+      "date": "2026-09-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "rathausplatz-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/baumanns-hitparade-2026/210",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-05-gelsenkirchen-baumanns-hitparade-2026",
+      "title": "Baumanns Hitparade 2026",
+      "eventType": "concert",
+      "date": "2026-09-05",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "matthaeuskirche-gelsenkirchen",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/baumanns-hitparade-2026/211",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-13-unna-baumanns-hitparade-2026",
+      "title": "Baumanns Hitparade 2026",
+      "eventType": "concert",
+      "date": "2026-09-13",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "marktplatz-unna",
+      "cityId": "unna",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/baumanns-hitparade-2026/212",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-19-gelsenkirchen-blau",
+      "title": "Blau",
+      "eventType": "opera",
+      "date": "2026-09-19",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "jan-dvorak"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dvorak-blau"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/blau/286",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-20-gelsenkirchen-1-sonntagskonzert-dostluk-freundschaft",
+      "title": "1. Sonntagskonzert „Dostluk (Freundschaft)“",
+      "eventType": "concert",
+      "date": "2026-09-20",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "heilig-kreuz-kirche-gelsenkirchen",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "erdal-akkaya"
+      ],
+      "program": [
+        {
+          "workId": "mozart-ouvertuere-zu-die-entfuehrung-aus-dem-se"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-sonntagskonzert-dostluk-freundschaft/185",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-20-gelsenkirchen-blau",
+      "title": "Blau",
+      "eventType": "opera",
+      "date": "2026-09-20",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "jan-dvorak"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dvorak-blau"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/blau/287",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-21-gelsenkirchen-1-sinfoniekonzert-hollywood",
+      "title": "1. Sinfoniekonzert „Hollywood“",
+      "eventType": "concert",
+      "date": "2026-09-21",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "kirill-troussov"
+      ],
+      "program": [
+        {
+          "workId": "herrmann-vertigo-suite"
+        },
+        {
+          "workId": "korngold-konzert-fuer-violine-und-orchester-d-dur"
+        },
+        {
+          "workId": "bernstein-sinfonische-suite-aus-on-the-waterfront"
+        },
+        {
+          "workId": "rozsa-thema-variationen-und-finale"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-sinfoniekonzert-hollywood/152",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-22-recklinghausen-1-sinfoniekonzert-hollywood",
+      "title": "1. Sinfoniekonzert „Hollywood“",
+      "eventType": "concert",
+      "date": "2026-09-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "kirill-troussov"
+      ],
+      "program": [
+        {
+          "workId": "herrmann-vertigo-suite"
+        },
+        {
+          "workId": "korngold-konzert-fuer-violine-und-orchester-d-dur"
+        },
+        {
+          "workId": "bernstein-sinfonische-suite-aus-on-the-waterfront"
+        },
+        {
+          "workId": "rozsa-thema-variationen-und-finale"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-sinfoniekonzert-hollywood/153",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-23-kamen-1-sinfoniekonzert-hollywood",
+      "title": "1. Sinfoniekonzert „Hollywood“",
+      "eventType": "concert",
+      "date": "2026-09-23",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "kirill-troussov"
+      ],
+      "program": [
+        {
+          "workId": "herrmann-vertigo-suite"
+        },
+        {
+          "workId": "korngold-konzert-fuer-violine-und-orchester-d-dur"
+        },
+        {
+          "workId": "bernstein-sinfonische-suite-aus-on-the-waterfront"
+        },
+        {
+          "workId": "rozsa-thema-variationen-und-finale"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-sinfoniekonzert-hollywood/154",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-25-wesel-1-sinfoniekonzert-hollywood",
+      "title": "1. Sinfoniekonzert „Hollywood“",
+      "eventType": "concert",
+      "date": "2026-09-25",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "staedtisches-buehnenhaus-wesel",
+      "cityId": "wesel",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "kirill-troussov"
+      ],
+      "program": [
+        {
+          "workId": "herrmann-vertigo-suite"
+        },
+        {
+          "workId": "korngold-konzert-fuer-violine-und-orchester-d-dur"
+        },
+        {
+          "workId": "bernstein-sinfonische-suite-aus-on-the-waterfront"
+        },
+        {
+          "workId": "rozsa-thema-variationen-und-finale"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-sinfoniekonzert-hollywood/155",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-26-gelsenkirchen-blau",
+      "title": "Blau",
+      "eventType": "opera",
+      "date": "2026-09-26",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "jan-dvorak"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dvorak-blau"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/blau/288",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-27-gelsenkirchen-blau",
+      "title": "Blau",
+      "eventType": "opera",
+      "date": "2026-09-27",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "jan-dvorak"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dvorak-blau"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/blau/289",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-27-gelsenkirchen-wozzeck",
+      "title": "Wozzeck",
+      "eventType": "opera",
+      "date": "2026-09-27",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berg-wozzeck"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/wozzeck/291",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-29-herne-1-sinfoniekonzert-hollywood",
+      "title": "1. Sinfoniekonzert „Hollywood“",
+      "eventType": "concert",
+      "date": "2026-09-29",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "kulturzentrum-herne",
+      "cityId": "herne",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "kirill-troussov"
+      ],
+      "program": [
+        {
+          "workId": "herrmann-vertigo-suite"
+        },
+        {
+          "workId": "korngold-konzert-fuer-violine-und-orchester-d-dur"
+        },
+        {
+          "workId": "bernstein-sinfonische-suite-aus-on-the-waterfront"
+        },
+        {
+          "workId": "rozsa-thema-variationen-und-finale"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-sinfoniekonzert-hollywood/156",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-03-gelsenkirchen-1-familienkonzert-kuscheltierkonzert",
+      "title": "1. Familienkonzert „Kuscheltierkonzert“",
+      "eventType": "concert",
+      "date": "2026-10-03",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-familienkonzert-kuscheltierkonzert/259",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-03-recklinghausen-1-familienkonzert-kuscheltierkonzert",
+      "title": "1. Familienkonzert „Kuscheltierkonzert“",
+      "eventType": "concert",
+      "date": "2026-10-03",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "buergerhaus-sued-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-familienkonzert-kuscheltierkonzert/260",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-03-gelsenkirchen-blau",
+      "title": "Blau",
+      "eventType": "opera",
+      "date": "2026-10-03",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "jan-dvorak"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dvorak-blau"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/blau/290",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-04-recklinghausen-1-sonntagskonzert-dostluk-freundschaft",
+      "title": "1. Sonntagskonzert „Dostluk (Freundschaft)“",
+      "eventType": "concert",
+      "date": "2026-10-04",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "buergerhaus-sued-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "erdal-akkaya"
+      ],
+      "program": [
+        {
+          "workId": "mozart-ouvertuere-zu-die-entfuehrung-aus-dem-se"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-sonntagskonzert-dostluk-freundschaft/186",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-04-gelsenkirchen-wozzeck",
+      "title": "Wozzeck",
+      "eventType": "opera",
+      "date": "2026-10-04",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berg-wozzeck"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/wozzeck/292",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-09-holzwickede-kammermusik-haus-opherdicke-um",
+      "title": "Kammermusik auf Haus Opherdicke „Um die halbe Welt“",
+      "eventType": "concert",
+      "date": "2026-10-09",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "haus-opherdicke",
+      "cityId": "holzwickede",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kathrin-joeris",
+        "eric-quirante-kneba",
+        "jie-zhou"
+      ],
+      "program": [
+        {
+          "workId": "bax-elagiac-trio-fuer-floete-viola-und-harfe"
+        },
+        {
+          "workId": "genzmer-trio-fuer-floete-viola-und-harfe"
+        },
+        {
+          "workId": "takemitsu-towards-the-sea-iii-fuer-altfloete-und-h"
+        },
+        {
+          "workId": "ravel-sonatine-nach-einer-bearbeitung-fuer-flo"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/kammermusik-auf-haus-opherdicke-um-die-halbe-welt/15",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-10-gelsenkirchen-pettersson-findus-hahn-korb",
+      "title": "Pettersson und Findus und der Hahn im Korb (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-10-10",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "askan-geisler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/pettersson-und-findus-und-der-hahn-im-korb-wiederaufnahme/300",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-11-gelsenkirchen-foyerkonzert-musikalische-freundschaften",
+      "title": "Foyerkonzert „Musikalische Freundschaften“",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "istvan-karacsonyi",
+        "gabriella-karacsonyi"
+      ],
+      "program": [
+        {
+          "workId": "dietrich-f-a-e-sonate-fuer-violine-und-klavier"
+        },
+        {
+          "workId": "schumann-sonate-a-moll-fuer-violine-und-klavier"
+        },
+        {
+          "workId": "schumann-drei-romanzen-fuer-violine-und-klavier"
+        },
+        {
+          "workId": "brahms-violinsonate-nr-3-d-moll-fuer-violine-un"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/foyerkonzert-musikalische-freundschaften/247",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-11-gelsenkirchen-wozzeck",
+      "title": "Wozzeck",
+      "eventType": "opera",
+      "date": "2026-10-11",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berg-wozzeck"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/wozzeck/293",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-12-gelsenkirchen-2-sinfoniekonzert-lieben-sie",
+      "title": "2. Sinfoniekonzert „Lieben Sie Brahms?“",
+      "eventType": "concert",
+      "date": "2026-10-12",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "annika-treutler"
+      ],
+      "program": [
+        {
+          "workId": "brahms-serenade-nr-1-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-sinfoniekonzert-lieben-sie-brahms/157",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-13-gelsenkirchen-pettersson-findus-hahn-korb",
+      "title": "Pettersson und Findus und der Hahn im Korb (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-10-13",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "askan-geisler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/pettersson-und-findus-und-der-hahn-im-korb-wiederaufnahme/301",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-13-recklinghausen-2-sinfoniekonzert-lieben-sie",
+      "title": "2. Sinfoniekonzert „Lieben Sie Brahms?“",
+      "eventType": "concert",
+      "date": "2026-10-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "annika-treutler"
+      ],
+      "program": [
+        {
+          "workId": "brahms-serenade-nr-1-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-sinfoniekonzert-lieben-sie-brahms/158",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-14-gelsenkirchen-pettersson-findus-hahn-korb",
+      "title": "Pettersson und Findus und der Hahn im Korb (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-10-14",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "askan-geisler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/pettersson-und-findus-und-der-hahn-im-korb-wiederaufnahme/302",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-14-kamen-2-sinfoniekonzert-lieben-sie",
+      "title": "2. Sinfoniekonzert „Lieben Sie Brahms?“",
+      "eventType": "concert",
+      "date": "2026-10-14",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [
+        "golo-berg"
+      ],
+      "soloistPersonIds": [
+        "annika-treutler"
+      ],
+      "program": [
+        {
+          "workId": "brahms-serenade-nr-1-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-sinfoniekonzert-lieben-sie-brahms/159",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-18-recklinghausen-rathauskonzert-fjorde-waelder",
+      "title": "Rathauskonzert „Fjorde und Wälder“",
+      "eventType": "concert",
+      "date": "2026-10-18",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "rathaus-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "natasha-elvin-schmitt",
+        "chorong-hwang",
+        "sae-ito",
+        "francois-marie-lhuissier"
+      ],
+      "program": [
+        {
+          "workId": "sibelius-streichquartett-d-moll-voces-intimae"
+        },
+        {
+          "workId": "grieg-streichquartett-nr-1-g-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/rathauskonzert-fjorde-und-walder/251",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-18-gelsenkirchen-pettersson-findus-hahn-korb",
+      "title": "Pettersson und Findus und der Hahn im Korb (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-10-18",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "askan-geisler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/pettersson-und-findus-und-der-hahn-im-korb-wiederaufnahme/303",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-18-gelsenkirchen-tosca",
+      "title": "Tosca",
+      "eventType": "opera",
+      "date": "2026-10-18",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "puccini-tosca"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/tosca/310",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-23-gelsenkirchen-tosca",
+      "title": "Tosca",
+      "eventType": "opera",
+      "date": "2026-10-23",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "puccini-tosca"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/tosca/311",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-24-gelsenkirchen-pettersson-findus-hahn-korb",
+      "title": "Pettersson und Findus und der Hahn im Korb (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-10-24",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "askan-geisler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/pettersson-und-findus-und-der-hahn-im-korb-wiederaufnahme/304",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-25-gelsenkirchen-monty-pythons-not-messiah",
+      "title": "Monty Python's Not The Messiah (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-10-25",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "prez-monty-python-s-not-the-messiah"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/monty-pythons-not-the-messiah-wiederaufnahme/317",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-31-gelsenkirchen-wozzeck",
+      "title": "Wozzeck",
+      "eventType": "opera",
+      "date": "2026-10-31",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berg-wozzeck"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/wozzeck/294",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-01-gelsenkirchen-tosca",
+      "title": "Tosca",
+      "eventType": "opera",
+      "date": "2026-11-01",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "puccini-tosca"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/tosca/312",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-03-recklinghausen-3-1-sinfoniekonzert-lichtblick",
+      "title": "3.1 Sinfoniekonzert „Lichtblick“",
+      "eventType": "concert",
+      "date": "2026-11-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "elisabeth-strake"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bartholdy-der-42-psalm-wie-der-hirsch-schreit"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/31-sinfoniekonzert-lichtblick/160",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-07-gelsenkirchen-tosca",
+      "title": "Tosca",
+      "eventType": "opera",
+      "date": "2026-11-07",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "puccini-tosca"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/tosca/313",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-08-gelsenkirchen-kammermusik-kunstmuseum-gelsenkirchen-deutsch",
+      "title": "Kammermusik im Kunstmuseum Gelsenkirchen „Von Deutschland nach Hollywood“",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "kunstmuseum-gelsenkirchen",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "misha-nodelman",
+        "sebastian-dinu",
+        "andreas-kosinski",
+        "lydia-keymling"
+      ],
+      "program": [
+        {
+          "workId": "schumann-klavierquintett-es-dur"
+        },
+        {
+          "workId": "gubarenko-streichquartett-c-dur"
+        },
+        {
+          "workId": "korngold-klavierquintett-e-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/kammermusik-im-kunstmuseum-gelsenkirchen-von-deutschland-nach-hollywood/255",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-08-recklinghausen-ruhepol-kurzkonzerte-rahmen-recklinghausen",
+      "title": "Ruhepol - Kurzkonzerte im Rahmen von \"Recklinghausen leuchtet\"",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "propsteikirche-st-peter-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/ruhepol-kurzkonzerte-im-rahmen-von-recklinghausen-leuchtet/213",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-08-gelsenkirchen-monty-pythons-not-messiah",
+      "title": "Monty Python's Not The Messiah (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-11-08",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "prez-monty-python-s-not-the-messiah"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/monty-pythons-not-the-messiah-wiederaufnahme/318",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-09-gelsenkirchen-3-2-sinfoniekonzert-sternenreise",
+      "title": "3.2 Sinfoniekonzert „Sternenreise",
+      "eventType": "concert",
+      "date": "2026-11-09",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "felix-drake"
+      ],
+      "program": [
+        {
+          "workId": "williams-thema-aus-star-wars-episode-iv-a-new-hop"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/32-sinfoniekonzert-sternenreise/161",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-13-gelsenkirchen-wozzeck",
+      "title": "Wozzeck",
+      "eventType": "opera",
+      "date": "2026-11-13",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berg-wozzeck"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/wozzeck/295",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-14-schwerte-3-3-sinfoniekonzert-gloria",
+      "title": "3.3 Sinfoniekonzert „Gloria Hoch3\"",
+      "eventType": "concert",
+      "date": "2026-11-14",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "freischuetz-schwerte",
+      "cityId": "schwerte",
+      "conductorPersonIds": [
+        "maik-morgner"
+      ],
+      "soloistPersonIds": [
+        "annika-rioux",
+        "andreas-elias-post"
+      ],
+      "program": [
+        {
+          "workId": "vivaldi-gloria-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/33-sinfoniekonzert-gloria-hoch3/162",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-15-recklinghausen-rathauskonzert-zwischen-poesie-tiefe",
+      "title": "Rathauskonzert „Zwischen Poesie und Tiefe - Romantische Klangwelten von Glinka bis Brahms“",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "rathaus-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "norbert-goeller",
+        "francois-marie-lhuissier",
+        "julia-golkhovaya"
+      ],
+      "program": [
+        {
+          "workId": "glinka-trio-pathetique-fuer-klarinette-violonce"
+        },
+        {
+          "workId": "chopin-ballade-nr-4-f-moll"
+        },
+        {
+          "workId": "schumann-adagio-und-allegro-as-dur"
+        },
+        {
+          "workId": "brahms-trio-a-moll-fuer-klarinette-violoncello-"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/rathauskonzert-zwischen-poesie-und-tiefe-romantische-klangwelten-von-glinka-bis-brahms/252",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-15-kamen-3-3-sinfoniekonzert-gloria",
+      "title": "3.3 Sinfoniekonzert „Gloria Hoch3\"",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "annika-rioux"
+      ],
+      "program": [
+        {
+          "workId": "vivaldi-gloria-d-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/33-sinfoniekonzert-gloria-hoch3/163",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-15-gelsenkirchen-npw-barock-da-spalla",
+      "title": "NPW Barock „Da Spalla\"",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "matthaeuskirche-gelsenkirchen",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "sergey-malov"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "hasse-sinfonia-a-quattro-nr-1-d-dur-konzert-fu"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/npw-barock-da-spalla/194",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-16-unna-1-schulkonzert-peter-wolf",
+      "title": "1. Schulkonzert „Peter und der Wolf“",
+      "eventType": "concert",
+      "date": "2026-11-16",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "erich-goepfert-stadthalle-unna",
+      "cityId": "unna",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [
+        "roland-vesper"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-schulkonzert-peter-und-der-wolf/268",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-16-coesfeld-npw-barock-da-spalla",
+      "title": "NPW Barock „Da Spalla\"",
+      "eventType": "concert",
+      "date": "2026-11-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzert-theater-coesfeld",
+      "cityId": "coesfeld",
+      "conductorPersonIds": [
+        "sergey-malov"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "hasse-sinfonia-a-quattro-nr-1-d-dur-konzert-fu"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/npw-barock-da-spalla/196",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-17-luenen-1-schulkonzert-peter-wolf",
+      "title": "1. Schulkonzert „Peter und der Wolf“",
+      "eventType": "concert",
+      "date": "2026-11-17",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "heinz-hilpert-theater",
+      "cityId": "luenen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [
+        "roland-vesper"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-schulkonzert-peter-und-der-wolf/269",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-18-recklinghausen-npw-barock-da-spalla",
+      "title": "NPW Barock „Da Spalla\"",
+      "eventType": "concert",
+      "date": "2026-11-18",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "christuskirche-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "sergey-malov"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "hasse-sinfonia-a-quattro-nr-1-d-dur-konzert-fu"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/npw-barock-da-spalla/195",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-19-recklinghausen-1-schulkonzert-peter-wolf",
+      "title": "1. Schulkonzert „Peter und der Wolf“",
+      "eventType": "concert",
+      "date": "2026-11-19",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [
+        "roland-vesper"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-schulkonzert-peter-und-der-wolf/270",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-20-schwerte-1-schulkonzert-peter-wolf",
+      "title": "1. Schulkonzert „Peter und der Wolf“",
+      "eventType": "concert",
+      "date": "2026-11-20",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "rohrmeisterei-schwerte",
+      "cityId": "schwerte",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [
+        "roland-vesper"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-schulkonzert-peter-und-der-wolf/271",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-21-recklinghausen-geschichten-toenen-konzert-zum",
+      "title": "Geschichten in Tönen - Konzert zum bundesweiten Vorlesetag",
+      "eventType": "concert",
+      "date": "2026-11-21",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "depot-npw-probenzentrum-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/geschichten-in-tonen-konzert-zum-bundesweiten-vorlesetag/267",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-21-gelsenkirchen-tosca",
+      "title": "Tosca",
+      "eventType": "opera",
+      "date": "2026-11-21",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "puccini-tosca"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/tosca/314",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-22-recklinghausen-2-sonntagskonzert-diabolus-musica",
+      "title": "2. Sonntagskonzert „Diabolus in Musica“",
+      "eventType": "concert",
+      "date": "2026-11-22",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "sparkasse-vest-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "thomas-zehetmair"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "boccherini-sinfonie-nr-6-d-moll-la-casa-del-diavolo"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-sonntagskonzert-diabolus-in-musica/187",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-22-gelsenkirchen-foyerkonzert-npw-express-musikalische",
+      "title": "Foyerkonzert „NPW-Express–Eine musikalische Zugreise“",
+      "eventType": "concert",
+      "date": "2026-11-22",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "mechthild-drop",
+        "johannes-potzel",
+        "peter-loreck",
+        "gerd-schnackenberg",
+        "lasse-kirst"
+      ],
+      "program": [
+        {
+          "workId": "bach-contrapunctus-ix-aus-die-kunst-der-fuge"
+        },
+        {
+          "workId": "beethoven-tuerkischer-marsch-aus-die-ruinen-von-at"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/foyerkonzert-npw-express-eine-musikalische-zugreise/248",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-24-gelsenkirchen-1-schulkonzert-peter-wolf",
+      "title": "1. Schulkonzert „Peter und der Wolf“",
+      "eventType": "concert",
+      "date": "2026-11-24",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [
+        "roland-vesper"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-schulkonzert-peter-und-der-wolf/272",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-26-kamen-1-schulkonzert-peter-wolf",
+      "title": "1. Schulkonzert „Peter und der Wolf“",
+      "eventType": "concert",
+      "date": "2026-11-26",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [
+        "roland-vesper"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/1-schulkonzert-peter-und-der-wolf/273",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-28-gelsenkirchen-mir-goes-pop-back",
+      "title": "MiR goes POP: Back to the 90s",
+      "eventType": "concert",
+      "date": "2026-11-28",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "viviane-essig",
+        "bonita-niessen",
+        "henrik-wager"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/mir-goes-pop-back-to-the-90s/199",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-29-gelsenkirchen-2-sonntagskonzert-diabolus-musica",
+      "title": "2. Sonntagskonzert „Diabolus in Musica“",
+      "eventType": "concert",
+      "date": "2026-11-29",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "heilig-kreuz-kirche-gelsenkirchen",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "thomas-zehetmair"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "boccherini-sinfonie-nr-6-d-moll-la-casa-del-diavolo"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-sonntagskonzert-diabolus-in-musica/188",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-29-gelsenkirchen-monty-pythons-not-messiah",
+      "title": "Monty Python's Not The Messiah (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-11-29",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "prez-monty-python-s-not-the-messiah"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/monty-pythons-not-the-messiah-wiederaufnahme/319",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-05-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2026-12-05",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/324",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-06-gelsenkirchen-monty-pythons-not-messiah",
+      "title": "Monty Python's Not The Messiah (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-12-06",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "prez-monty-python-s-not-the-messiah"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/monty-pythons-not-the-messiah-wiederaufnahme/320",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-07-gelsenkirchen-4-sinfoniekonzert-ueberraschendes",
+      "title": "4. Sinfoniekonzert „ÜberraschendEs“",
+      "eventType": "concert",
+      "date": "2026-12-07",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "ruben-gazarian"
+      ],
+      "soloistPersonIds": [
+        "sharon-kam"
+      ],
+      "program": [
+        {
+          "workId": "lachner-festival-ouvertuere-es-dur"
+        },
+        {
+          "workId": "weber-klarinettenkonzert-2"
+        },
+        {
+          "workId": "farrenc-ouvertuere-nr-2-es-dur"
+        },
+        {
+          "workId": "bruch-sinfonie-nr-1-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/4-sinfoniekonzert-uberraschendes/164",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-08-recklinghausen-4-sinfoniekonzert-ueberraschendes",
+      "title": "4. Sinfoniekonzert „ÜberraschendEs“",
+      "eventType": "concert",
+      "date": "2026-12-08",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "ruben-gazarian"
+      ],
+      "soloistPersonIds": [
+        "sharon-kam"
+      ],
+      "program": [
+        {
+          "workId": "lachner-festival-ouvertuere-es-dur"
+        },
+        {
+          "workId": "weber-klarinettenkonzert-2"
+        },
+        {
+          "workId": "farrenc-ouvertuere-nr-2-es-dur"
+        },
+        {
+          "workId": "bruch-sinfonie-nr-1-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/4-sinfoniekonzert-uberraschendes/165",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-09-gelsenkirchen-pettersson-findus-hahn-korb",
+      "title": "Pettersson und Findus und der Hahn im Korb (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-12-09",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "askan-geisler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/pettersson-und-findus-und-der-hahn-im-korb-wiederaufnahme/305",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-09-kamen-4-sinfoniekonzert-ueberraschendes",
+      "title": "4. Sinfoniekonzert „ÜberraschendEs“",
+      "eventType": "concert",
+      "date": "2026-12-09",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [
+        "ruben-gazarian"
+      ],
+      "soloistPersonIds": [
+        "sharon-kam"
+      ],
+      "program": [
+        {
+          "workId": "lachner-festival-ouvertuere-es-dur"
+        },
+        {
+          "workId": "weber-klarinettenkonzert-2"
+        },
+        {
+          "workId": "farrenc-ouvertuere-nr-2-es-dur"
+        },
+        {
+          "workId": "bruch-sinfonie-nr-1-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/4-sinfoniekonzert-uberraschendes/166",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-11-gelsenkirchen-pettersson-findus-hahn-korb",
+      "title": "Pettersson und Findus und der Hahn im Korb (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-12-11",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "askan-geisler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/pettersson-und-findus-und-der-hahn-im-korb-wiederaufnahme/306",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-11-gelsenkirchen-fliegende-hollaender-wiederaufnahme",
+      "title": "Der fliegende Holländer (Wiederaufnahme)",
+      "eventType": "concert",
+      "date": "2026-12-11",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-fliegende-hollander-wiederaufnahme/338",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-13-gelsenkirchen-pettersson-findus-hahn-korb",
+      "title": "Pettersson und Findus und der Hahn im Korb (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-12-13",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "askan-geisler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/pettersson-und-findus-und-der-hahn-im-korb-wiederaufnahme/307",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-13-gelsenkirchen-wozzeck",
+      "title": "Wozzeck",
+      "eventType": "opera",
+      "date": "2026-12-13",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berg-wozzeck"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/wozzeck/296",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-15-gelsenkirchen-pettersson-findus-hahn-korb",
+      "title": "Pettersson und Findus und der Hahn im Korb (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-12-15",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "askan-geisler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/pettersson-und-findus-und-der-hahn-im-korb-wiederaufnahme/308",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-16-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2026-12-16",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/325",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-17-gelsenkirchen-pettersson-findus-hahn-korb",
+      "title": "Pettersson und Findus und der Hahn im Korb (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-12-17",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "askan-geisler"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/pettersson-und-findus-und-der-hahn-im-korb-wiederaufnahme/309",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-17-gelsenkirchen-monty-pythons-not-messiah",
+      "title": "Monty Python's Not The Messiah (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2026-12-17",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "prez-monty-python-s-not-the-messiah"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/monty-pythons-not-the-messiah-wiederaufnahme/321",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-17-unna-weihnachtskonzert",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-17",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "erich-goepfert-stadthalle-unna",
+      "cityId": "unna",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/weihnachtskonzert/215",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-18-gelsenkirchen-fliegende-hollaender-wiederaufnahme",
+      "title": "Der fliegende Holländer (Wiederaufnahme)",
+      "eventType": "concert",
+      "date": "2026-12-18",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-fliegende-hollander-wiederaufnahme/339",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-19-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2026-12-19",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/326",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-20-gelsenkirchen-weihnachtskonzert",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-20",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/weihnachtskonzert/216",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-20-gelsenkirchen-weihnachtskonzert-1800",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-20",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/weihnachtskonzert/217",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-22-dortmund-filmkonzert-drei-haselnuesse-fuer",
+      "title": "Filmkonzert „Drei Haselnüsse für Aschenbrödel“",
+      "eventType": "concert",
+      "date": "2026-12-22",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-drei-haselnusse-fur-aschenbrodel/243",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-22-marl-weihnachtskonzert",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-22",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "theater-marl",
+      "cityId": "marl",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/weihnachtskonzert/218",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-22-dortmund-filmkonzert-drei-haselnuesse-fuer-1830",
+      "title": "Filmkonzert „Drei Haselnüsse für Aschenbrödel“",
+      "eventType": "concert",
+      "date": "2026-12-22",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-drei-haselnusse-fur-aschenbrodel/244",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-23-recklinghausen-weihnachtskonzert",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-23",
+      "startTime": "14:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/weihnachtskonzert/219",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-23-recklinghausen-weihnachtskonzert-1800",
+      "title": "Weihnachtskonzert",
+      "eventType": "concert",
+      "date": "2026-12-23",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/weihnachtskonzert/220",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-23-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2026-12-23",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/327",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-27-dortmund-filmkonzert-drei-haselnuesse-fuer",
+      "title": "Filmkonzert „Drei Haselnüsse für Aschenbrödel“",
+      "eventType": "concert",
+      "date": "2026-12-27",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-drei-haselnusse-fur-aschenbrodel/245",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-27-gelsenkirchen-tosca",
+      "title": "Tosca",
+      "eventType": "opera",
+      "date": "2026-12-27",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "puccini-tosca"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/tosca/315",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-27-dortmund-filmkonzert-drei-haselnuesse-fuer-1830",
+      "title": "Filmkonzert „Drei Haselnüsse für Aschenbrödel“",
+      "eventType": "concert",
+      "date": "2026-12-27",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-drei-haselnusse-fur-aschenbrodel/246",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-29-froendenberg-silvesterkonzert-reisefieber",
+      "title": "Silvesterkonzert „Reisefieber“",
+      "eventType": "concert",
+      "date": "2026-12-29",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "aula-der-gesamtschule-froendenberg",
+      "cityId": "froendenberg",
+      "conductorPersonIds": [
+        "florian-ziemen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/silvesterkonzert-reisefieber/221",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-30-gelsenkirchen-wozzeck",
+      "title": "Wozzeck",
+      "eventType": "opera",
+      "date": "2026-12-30",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berg-wozzeck"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/wozzeck/297",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-30-menden-silvesterkonzert-reisefieber",
+      "title": "Silvesterkonzert „Reisefieber“",
+      "eventType": "concert",
+      "date": "2026-12-30",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "wilhelmshoehe-menden",
+      "cityId": "menden",
+      "conductorPersonIds": [
+        "florian-ziemen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/silvesterkonzert-reisefieber/282",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-31-lippstadt-silvesterkonzert-reisefieber",
+      "title": "Silvesterkonzert „Reisefieber“",
+      "eventType": "concert",
+      "date": "2026-12-31",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "stadttheater-lippstadt",
+      "cityId": "lippstadt",
+      "conductorPersonIds": [
+        "florian-ziemen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/silvesterkonzert-reisefieber/283",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-01-ahlen-neujahrskonzert-reisefieber",
+      "title": "Neujahrskonzert „Reisefieber“",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "stadthalle-ahlen",
+      "cityId": "ahlen",
+      "conductorPersonIds": [
+        "florian-ziemen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/neujahrskonzert-reisefieber/284",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-01-gelsenkirchen-neujahrskonzert-reisefieber",
+      "title": "Neujahrskonzert „Reisefieber“",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "florian-ziemen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/neujahrskonzert-reisefieber/222",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-02-koeln-filmkonzert-kevin-allein-haus",
+      "title": "Filmkonzert „Kevin–Allein zu Haus“",
+      "eventType": "concert",
+      "date": "2027-01-02",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-kevin-allein-zu-haus/239",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-02-koeln-filmkonzert-kevin-allein-haus-2000",
+      "title": "Filmkonzert „Kevin–Allein zu Haus“",
+      "eventType": "concert",
+      "date": "2027-01-02",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-kevin-allein-zu-haus/240",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-03-recklinghausen-neujahrskonzert-reisefieber",
+      "title": "Neujahrskonzert „Reisefieber“",
+      "eventType": "concert",
+      "date": "2027-01-03",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "buergerhaus-sued-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "florian-ziemen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/neujahrskonzert-reisefieber/224",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-03-gelsenkirchen-fliegende-hollaender-wiederaufnahme",
+      "title": "Der fliegende Holländer (Wiederaufnahme)",
+      "eventType": "concert",
+      "date": "2027-01-03",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-fliegende-hollander-wiederaufnahme/340",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-04-luenen-neujahrskonzert-reisefieber",
+      "title": "Neujahrskonzert „Reisefieber“",
+      "eventType": "concert",
+      "date": "2027-01-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "heinz-hilpert-theater",
+      "cityId": "luenen",
+      "conductorPersonIds": [
+        "florian-ziemen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/neujahrskonzert-reisefieber/225",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-04-koeln-filmkonzert-ocean-concert",
+      "title": "Filmkonzert „Ocean in Concert“",
+      "eventType": "concert",
+      "date": "2027-01-04",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-ocean-in-concert/227",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-07-recklinghausen-neujahrskonzert-reisefieber",
+      "title": "Neujahrskonzert „Reisefieber“",
+      "eventType": "concert",
+      "date": "2027-01-07",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "florian-ziemen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/neujahrskonzert-reisefieber/226",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-09-gelsenkirchen-mir-goes-pop-back",
+      "title": "MiR goes POP: Back to the 90s",
+      "eventType": "concert",
+      "date": "2027-01-09",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "viviane-essig",
+        "bonita-niessen",
+        "henrik-wager"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/mir-goes-pop-back-to-the-90s/200",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-10-gelsenkirchen-tosca",
+      "title": "Tosca",
+      "eventType": "opera",
+      "date": "2027-01-10",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "puccini-tosca"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/tosca/316",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-16-gelsenkirchen-neujahrskonzert-reisefieber",
+      "title": "Neujahrskonzert „Reisefieber“",
+      "eventType": "concert",
+      "date": "2027-01-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "florian-ziemen"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/neujahrskonzert-reisefieber/223",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-17-gelsenkirchen-wozzeck",
+      "title": "Wozzeck",
+      "eventType": "opera",
+      "date": "2027-01-17",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berg-wozzeck"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/wozzeck/298",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-18-gelsenkirchen-5-sinfoniekonzert-heimat",
+      "title": "5. Sinfoniekonzert „Heimat“",
+      "eventType": "concert",
+      "date": "2027-01-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "marcus-bosch"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "smetana-ma-vlast-mein-vaterland"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/5-sinfoniekonzert-heimat/167",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-19-recklinghausen-smetana-turnschuhen-ma-vlast",
+      "title": "Smetana in Turnschuhen: Má vlast (Mein Vaterland)",
+      "eventType": "concert",
+      "date": "2027-01-19",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "smetana-ma-vlast-mein-vaterland"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/smetana-in-turnschuhen-ma-vlast-mein-vaterland/280",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-19-recklinghausen-5-sinfoniekonzert-heimat",
+      "title": "5. Sinfoniekonzert „Heimat“",
+      "eventType": "concert",
+      "date": "2027-01-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "marcus-bosch"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "smetana-ma-vlast-mein-vaterland"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/5-sinfoniekonzert-heimat/168",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-20-kamen-5-sinfoniekonzert-heimat",
+      "title": "5. Sinfoniekonzert „Heimat“",
+      "eventType": "concert",
+      "date": "2027-01-20",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [
+        "marcus-bosch"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "smetana-ma-vlast-mein-vaterland"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/5-sinfoniekonzert-heimat/169",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-21-duesseldorf-filmkonzert-sound-of-james",
+      "title": "Filmkonzert „The Sound of James Bond“",
+      "eventType": "concert",
+      "date": "2027-01-21",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "tonhalle-duesseldorf",
+      "cityId": "duesseldorf",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-the-sound-of-james-bond/229",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-23-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2027-01-23",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/328",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-24-gelsenkirchen-mir-goes-pop-back",
+      "title": "MiR goes POP: Back to the 90s",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "viviane-essig",
+        "bonita-niessen",
+        "henrik-wager"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/mir-goes-pop-back-to-the-90s/201",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-30-gelsenkirchen-look-up-were-watching",
+      "title": "Look up, we're watching (AT)",
+      "eventType": "opera",
+      "date": "2027-01-30",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/look-up-were-watching-at/377",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-31-recklinghausen-rathauskonzert-hear-story",
+      "title": "Rathauskonzert „He(a)r Story“",
+      "eventType": "concert",
+      "date": "2027-01-31",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "rathaus-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "lydia-keymling",
+        "constance-vogel"
+      ],
+      "program": [
+        {
+          "workId": "liebmann-grande-sonate-b-dur"
+        },
+        {
+          "workId": "bosmans-sonate-fuer-violoncello-und-klavier-a-mo"
+        },
+        {
+          "workId": "clarke-i-ll-bid-my-heart-be-still-passacaglia-o"
+        },
+        {
+          "workId": "beau-fuenf-stuecke"
+        },
+        {
+          "workId": "bonis-serenade"
+        },
+        {
+          "workId": "bonis-meditation"
+        },
+        {
+          "workId": "boulanger-trois-pieces"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/rathauskonzert-hear-story/253",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-31-gelsenkirchen-erlebniskonzert-magische-melodien-anime",
+      "title": "Erlebniskonzert „Magische Melodien: Anime und Ghibli Live“",
+      "eventType": "concert",
+      "date": "2027-01-31",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "mateo-penaloza-cecconi"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/erlebniskonzert-magische-melodien-anime-und-ghibli-live/265",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-04-gelsenkirchen-look-up-were-watching",
+      "title": "Look up, we're watching (AT)",
+      "eventType": "opera",
+      "date": "2027-02-04",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/look-up-were-watching-at/378",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-05-gelsenkirchen-la-clemenza-di-tito",
+      "title": "La clemenza di Tito",
+      "eventType": "opera",
+      "date": "2027-02-05",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-la-clemenza-di-tito"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/la-clemenza-di-tito/341",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-06-gelsenkirchen-look-up-were-watching",
+      "title": "Look up, we're watching (AT)",
+      "eventType": "opera",
+      "date": "2027-02-06",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/look-up-were-watching-at/379",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-07-recklinghausen-erlebniskonzert-magische-melodien-anime",
+      "title": "Erlebniskonzert „Magische Melodien: Anime und Ghibli Live“",
+      "eventType": "concert",
+      "date": "2027-02-07",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "mateo-penaloza-cecconi"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/erlebniskonzert-magische-melodien-anime-und-ghibli-live/266",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-07-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2027-02-07",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/329",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-12-gelsenkirchen-mir-goes-pop-back",
+      "title": "MiR goes POP: Back to the 90s",
+      "eventType": "concert",
+      "date": "2027-02-12",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "viviane-essig",
+        "bonita-niessen",
+        "henrik-wager"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/mir-goes-pop-back-to-the-90s/202",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-13-gelsenkirchen-mir-goes-pop-back",
+      "title": "MiR goes POP: Back to the 90s",
+      "eventType": "concert",
+      "date": "2027-02-13",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "viviane-essig",
+        "bonita-niessen",
+        "henrik-wager"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/mir-goes-pop-back-to-the-90s/203",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-14-gelsenkirchen-foyerkonzert-zuckerhut-eiffelturm",
+      "title": "Foyerkonzert „Zuckerhut und Eiffelturm“",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kathrin-joeris",
+        "gioele-coco",
+        "kerstin-hauschild",
+        "tania-garcia-crespo",
+        "cordula-hacke"
+      ],
+      "program": [
+        {
+          "workId": "debussy-syrinx-fuer-solofloete"
+        },
+        {
+          "workId": "debussy-prelude-a-l-apres-midi-d-un-faune-fuer-f"
+        },
+        {
+          "workId": "lobos-fantaisie-concertante-fuer-klarinette-fa"
+        },
+        {
+          "workId": "caplet-quintett-fuer-klavier-floete-oboe-klarin"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/foyerkonzert-zuckerhut-und-eiffelturm/249",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-14-gelsenkirchen-la-clemenza-di-tito",
+      "title": "La clemenza di Tito",
+      "eventType": "opera",
+      "date": "2027-02-14",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-la-clemenza-di-tito"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/la-clemenza-di-tito/342",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-15-gelsenkirchen-6-sinfoniekonzert-per-aspera",
+      "title": "6. Sinfoniekonzert „Per aspera ad astra“",
+      "eventType": "concert",
+      "date": "2027-02-15",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "fabio-martino"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-ouvertuere-zu-egmont"
+        },
+        {
+          "workId": "bortkiewicz-konzert-fuer-klavier-und-orchester-nr-3-"
+        },
+        {
+          "workId": "bruckner-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/6-sinfoniekonzert-per-aspera-ad-astra/170",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-16-recklinghausen-6-sinfoniekonzert-per-aspera",
+      "title": "6. Sinfoniekonzert „Per aspera ad astra“",
+      "eventType": "concert",
+      "date": "2027-02-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "fabio-martino"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-ouvertuere-zu-egmont"
+        },
+        {
+          "workId": "bortkiewicz-konzert-fuer-klavier-und-orchester-nr-3-"
+        },
+        {
+          "workId": "bruckner-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/6-sinfoniekonzert-per-aspera-ad-astra/171",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-17-kamen-6-sinfoniekonzert-per-aspera",
+      "title": "6. Sinfoniekonzert „Per aspera ad astra“",
+      "eventType": "concert",
+      "date": "2027-02-17",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "fabio-martino"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-ouvertuere-zu-egmont"
+        },
+        {
+          "workId": "bortkiewicz-konzert-fuer-klavier-und-orchester-nr-3-"
+        },
+        {
+          "workId": "bruckner-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/6-sinfoniekonzert-per-aspera-ad-astra/172",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-20-wesel-6-sinfoniekonzert-per-aspera",
+      "title": "6. Sinfoniekonzert „Per aspera ad astra“",
+      "eventType": "concert",
+      "date": "2027-02-20",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "staedtisches-buehnenhaus-wesel",
+      "cityId": "wesel",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "fabio-martino"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-ouvertuere-zu-egmont"
+        },
+        {
+          "workId": "bortkiewicz-konzert-fuer-klavier-und-orchester-nr-3-"
+        },
+        {
+          "workId": "bruckner-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/6-sinfoniekonzert-per-aspera-ad-astra/173",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-21-gelsenkirchen-la-clemenza-di-tito",
+      "title": "La clemenza di Tito",
+      "eventType": "opera",
+      "date": "2027-02-21",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-la-clemenza-di-tito"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/la-clemenza-di-tito/343",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-25-gelsenkirchen-wozzeck",
+      "title": "Wozzeck",
+      "eventType": "opera",
+      "date": "2027-02-25",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "berg-wozzeck"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/wozzeck/299",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-27-gelsenkirchen-monty-pythons-not-messiah",
+      "title": "Monty Python's Not The Messiah (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2027-02-27",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "prez-monty-python-s-not-the-messiah"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/monty-pythons-not-the-messiah-wiederaufnahme/322",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-28-recklinghausen-3-sonntagskonzert-goldenen-zwanziger",
+      "title": "3. Sonntagskonzert „Die Goldenen Zwanziger“",
+      "eventType": "concert",
+      "date": "2027-02-28",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "sparkasse-vest-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kris-garfitt"
+      ],
+      "program": [
+        {
+          "workId": "mozart-serenade-nr-6-serenata-notturna"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/3-sonntagskonzert-die-goldenen-zwanziger/189",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-28-gelsenkirchen-look-up-were-watching",
+      "title": "Look up, we're watching (AT)",
+      "eventType": "opera",
+      "date": "2027-02-28",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/look-up-were-watching-at/380",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-05-gelsenkirchen-mir-goes-film-besten",
+      "title": "MiR goes FILM: Die besten Filmsongs",
+      "eventType": "concert",
+      "date": "2027-03-05",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "viviane-essig",
+        "henrik-wager"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/mir-goes-film-die-besten-filmsongs/206",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-06-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2027-03-06",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/330",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-07-gelsenkirchen-3-sonntagskonzert-goldenen-zwanziger",
+      "title": "3. Sonntagskonzert „Die Goldenen Zwanziger“",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "heilig-kreuz-kirche-gelsenkirchen",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kris-garfitt"
+      ],
+      "program": [
+        {
+          "workId": "mozart-serenade-nr-6-serenata-notturna"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/3-sonntagskonzert-die-goldenen-zwanziger/190",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-07-gelsenkirchen-monty-pythons-not-messiah",
+      "title": "Monty Python's Not The Messiah (Wiederaufnahme)",
+      "eventType": "opera",
+      "date": "2027-03-07",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "prez-monty-python-s-not-the-messiah"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/monty-pythons-not-the-messiah-wiederaufnahme/323",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-07-gelsenkirchen-3-sonntagskonzert-goldenen-zwanziger-1800",
+      "title": "3. Sonntagskonzert „Die Goldenen Zwanziger“",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "matthaeuskirche-gelsenkirchen",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "kris-garfitt"
+      ],
+      "program": [
+        {
+          "workId": "mozart-serenade-nr-6-serenata-notturna"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/3-sonntagskonzert-die-goldenen-zwanziger/191",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-12-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2027-03-12",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/331",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-13-marl-marler-debuet",
+      "title": "Marler Debüt",
+      "eventType": "concert",
+      "date": "2027-03-13",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "theater-marl",
+      "cityId": "marl",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/marler-debut/214",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-14-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2027-03-14",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/332",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-15-gelsenkirchen-7-sinfoniekonzert-kurzgeschichten",
+      "title": "7. Sinfoniekonzert „Kurzgeschichten“",
+      "eventType": "concert",
+      "date": "2027-03-15",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "takashi-bernhoeft",
+        "tony-clark"
+      ],
+      "program": [
+        {
+          "workId": "boulanger-dun-matin-de-printemps"
+        },
+        {
+          "workId": "bernhoeft-nowpast-fuer-violine-shakuhachi-und-orch"
+        },
+        {
+          "workId": "schubert-sinfonie-nr-7-h-moll-unvollendete"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-7-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/7-sinfoniekonzert-kurzgeschichten/174",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-15-unna-npw-goes-film-besten",
+      "title": "NPW goes FILM: Die besten Filmsongs",
+      "eventType": "concert",
+      "date": "2027-03-15",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "erich-goepfert-stadthalle-unna",
+      "cityId": "unna",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "viviane-essig",
+        "henrik-wager"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/npw-goes-film-die-besten-filmsongs/204",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-16-gelsenkirchen-7-sinfoniekonzert-kurzgeschichten",
+      "title": "7. Sinfoniekonzert „Kurzgeschichten“",
+      "eventType": "concert",
+      "date": "2027-03-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "takashi-bernhoeft",
+        "tony-clark"
+      ],
+      "program": [
+        {
+          "workId": "boulanger-dun-matin-de-printemps"
+        },
+        {
+          "workId": "bernhoeft-nowpast-fuer-violine-shakuhachi-und-orch"
+        },
+        {
+          "workId": "schubert-sinfonie-nr-7-h-moll-unvollendete"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-7-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/7-sinfoniekonzert-kurzgeschichten/175",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-17-kamen-schubert-turnschuhen-sinfonie-nr",
+      "title": "Schubert in Turnschuhen: Sinfonie Nr. 7 in h-Moll D759 „Unvollendete“",
+      "eventType": "concert",
+      "date": "2027-03-17",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schubert-sinfonie-nr-7-h-moll-unvollendete"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/schubert-in-turnschuhen-sinfonie-nr-7-in-h-moll-d759-unvollendete/281",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-17-kamen-7-sinfoniekonzert-kurzgeschichten",
+      "title": "7. Sinfoniekonzert „Kurzgeschichten“",
+      "eventType": "concert",
+      "date": "2027-03-17",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "takashi-bernhoeft",
+        "tony-clark"
+      ],
+      "program": [
+        {
+          "workId": "boulanger-dun-matin-de-printemps"
+        },
+        {
+          "workId": "bernhoeft-nowpast-fuer-violine-shakuhachi-und-orch"
+        },
+        {
+          "workId": "schubert-sinfonie-nr-7-h-moll-unvollendete"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-7-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/7-sinfoniekonzert-kurzgeschichten/176",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-18-holzwickede-kammermusik-haus-opherdicke-zweisamkeit",
+      "title": "Kammermusik auf Haus Opherdicke „Zweisamkeit“",
+      "eventType": "concert",
+      "date": "2027-03-18",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "haus-opherdicke",
+      "cityId": "holzwickede",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "misha-nodelman",
+        "anna-nodelman"
+      ],
+      "program": [
+        {
+          "workId": "paert-spiegel-im-spiegel"
+        },
+        {
+          "workId": "mozart-violinsonate-g-dur-fuer-violine-und-klav"
+        },
+        {
+          "workId": "schnittke-suite-im-alten-stil-fuer-violine-und-kla"
+        },
+        {
+          "workId": "kaminski-juedisches-gebet-fuer-violine-solo"
+        },
+        {
+          "workId": "bloch-baal-shem"
+        },
+        {
+          "workId": "sarasate-zigeunerweisen"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/kammermusik-auf-haus-opherdicke-zweisamkeit/257",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-19-wesel-7-sinfoniekonzert-kurzgeschichten",
+      "title": "7. Sinfoniekonzert „Kurzgeschichten“",
+      "eventType": "concert",
+      "date": "2027-03-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "staedtisches-buehnenhaus-wesel",
+      "cityId": "wesel",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "takashi-bernhoeft",
+        "tony-clark"
+      ],
+      "program": [
+        {
+          "workId": "boulanger-dun-matin-de-printemps"
+        },
+        {
+          "workId": "bernhoeft-nowpast-fuer-violine-shakuhachi-und-orch"
+        },
+        {
+          "workId": "schubert-sinfonie-nr-7-h-moll-unvollendete"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-7-c-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/7-sinfoniekonzert-kurzgeschichten/177",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-20-gelsenkirchen-la-clemenza-di-tito",
+      "title": "La clemenza di Tito",
+      "eventType": "opera",
+      "date": "2027-03-20",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-la-clemenza-di-tito"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/la-clemenza-di-tito/344",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-21-gelsenkirchen-look-up-were-watching",
+      "title": "Look up, we're watching (AT)",
+      "eventType": "opera",
+      "date": "2027-03-21",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/look-up-were-watching-at/381",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-21-gelsenkirchen-mir-goes-film-besten",
+      "title": "MiR goes FILM: Die besten Filmsongs",
+      "eventType": "concert",
+      "date": "2027-03-21",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "viviane-essig",
+        "henrik-wager"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/mir-goes-film-die-besten-filmsongs/207",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-27-dortmund-filmkonzert-sound-of-hans",
+      "title": "Filmkonzert „The Sound of Hans Zimmer & John Williams“",
+      "eventType": "concert",
+      "date": "2027-03-27",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-the-sound-of-hans-zimmer-john-williams/233",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-27-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2027-03-27",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/333",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-27-dortmund-filmkonzert-sound-of-hans-1930",
+      "title": "Filmkonzert „The Sound of Hans Zimmer & John Williams“",
+      "eventType": "concert",
+      "date": "2027-03-27",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzerthaus-dortmund",
+      "cityId": "dortmund",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-the-sound-of-hans-zimmer-john-williams/234",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-29-koeln-filmkonzert-sound-of-hans",
+      "title": "Filmkonzert „The Sound of Hans Zimmer & John Williams“",
+      "eventType": "concert",
+      "date": "2027-03-29",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-the-sound-of-hans-zimmer-john-williams/235",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-29-koeln-filmkonzert-sound-of-hans-2000",
+      "title": "Filmkonzert „The Sound of Hans Zimmer & John Williams“",
+      "eventType": "concert",
+      "date": "2027-03-29",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/filmkonzert-the-sound-of-hans-zimmer-john-williams/236",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-03-gelsenkirchen-my-fair-lady",
+      "title": "My Fair Lady",
+      "eventType": "opera",
+      "date": "2027-04-03",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "loewe-my-fair-lady"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/my-fair-lady/350",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-08-gelsenkirchen-my-fair-lady",
+      "title": "My Fair Lady",
+      "eventType": "opera",
+      "date": "2027-04-08",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "loewe-my-fair-lady"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/my-fair-lady/351",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-09-gelsenkirchen-dark-fall",
+      "title": "Dark Fall",
+      "eventType": "opera",
+      "date": "2027-04-09",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "thomalla-dark-fall"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/dark-fall/363",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-11-gelsenkirchen-my-fair-lady",
+      "title": "My Fair Lady",
+      "eventType": "opera",
+      "date": "2027-04-11",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "loewe-my-fair-lady"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/my-fair-lady/352",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-11-gelsenkirchen-look-up-were-watching",
+      "title": "Look up, we're watching (AT)",
+      "eventType": "opera",
+      "date": "2027-04-11",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/look-up-were-watching-at/382",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-13-recklinghausen-8-sinfoniekonzert-wunschkonzert",
+      "title": "8. Sinfoniekonzert „Wunschkonzert“",
+      "eventType": "concert",
+      "date": "2027-04-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "ruhrfestspielhaus",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "johannes-wildner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/8-sinfoniekonzert-wunschkonzert/178",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-14-kamen-8-sinfoniekonzert-wunschkonzert",
+      "title": "8. Sinfoniekonzert „Wunschkonzert“",
+      "eventType": "concert",
+      "date": "2027-04-14",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [
+        "johannes-wildner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/8-sinfoniekonzert-wunschkonzert/179",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://ticketservice.kreis-unna.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-16-gelsenkirchen-dark-fall",
+      "title": "Dark Fall",
+      "eventType": "opera",
+      "date": "2027-04-16",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "thomalla-dark-fall"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/dark-fall/364",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-17-recklinghausen-2-familienkonzert-kleine-prinz",
+      "title": "2. Familienkonzert „Der kleine Prinz“",
+      "eventType": "concert",
+      "date": "2027-04-17",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "buergerhaus-sued-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [
+        "roc-fargas-i-castells"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-familienkonzert-der-kleine-prinz/261",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-17-gelsenkirchen-la-clemenza-di-tito",
+      "title": "La clemenza di Tito",
+      "eventType": "opera",
+      "date": "2027-04-17",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-la-clemenza-di-tito"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/la-clemenza-di-tito/345",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-18-recklinghausen-rathauskonzert-alte-klaenge-neue",
+      "title": "Rathauskonzert „Alte Klänge–Neue Welten“",
+      "eventType": "concert",
+      "date": "2027-04-18",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "rathaus-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "josu-ferreras-zulueta",
+        "tania-garcia-crespo",
+        "jie-zhou"
+      ],
+      "program": [
+        {
+          "workId": "leclair-triosonate-d-dur-nr-2"
+        },
+        {
+          "workId": "boismortier-9-petites-sonates-et-chaconne-fuer-floet"
+        },
+        {
+          "workId": "lobos-o-canto-do-cisne-cegro-w122-song-of-the-"
+        },
+        {
+          "workId": "debussy-bilitis-fuer-floete-und-harfe"
+        },
+        {
+          "workId": "jolivet-pastorales-de-noel-fuer-floete-fagott-un"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/rathauskonzert-alte-klange-neue-welten/254",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://stadt-re-webshop.tkt-datacenter.net/de/tickets",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-18-gelsenkirchen-2-familienkonzert-kleine-prinz",
+      "title": "2. Familienkonzert „Der kleine Prinz“",
+      "eventType": "concert",
+      "date": "2027-04-18",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "roc-fargas-i-castells"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-familienkonzert-der-kleine-prinz/262",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-18-muelheim-an-der-ruhr-8-sinfoniekonzert-wunschkonzert",
+      "title": "8. Sinfoniekonzert „Wunschkonzert“",
+      "eventType": "concert",
+      "date": "2027-04-18",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "stadthalle-muelheim",
+      "cityId": "muelheim-an-der-ruhr",
+      "conductorPersonIds": [
+        "johannes-wildner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/8-sinfoniekonzert-wunschkonzert/180",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-19-gelsenkirchen-8-sinfoniekonzert-wunschkonzert",
+      "title": "8. Sinfoniekonzert „Wunschkonzert“",
+      "eventType": "concert",
+      "date": "2027-04-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "johannes-wildner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/8-sinfoniekonzert-wunschkonzert/181",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-23-gelsenkirchen-la-clemenza-di-tito",
+      "title": "La clemenza di Tito",
+      "eventType": "opera",
+      "date": "2027-04-23",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-la-clemenza-di-tito"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/la-clemenza-di-tito/346",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-24-gelsenkirchen-my-fair-lady",
+      "title": "My Fair Lady",
+      "eventType": "opera",
+      "date": "2027-04-24",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "loewe-my-fair-lady"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/my-fair-lady/353",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-24-essen-npw-goes-dj-synth",
+      "title": "NPW goes DJ: Synth Happens!",
+      "eventType": "concert",
+      "date": "2027-04-24",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "philharmonie-essen",
+      "cityId": "essen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "andreas-henneber"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/npw-goes-dj-synth-happens/5",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-25-gelsenkirchen-raeuber-hotzenplotz",
+      "title": "Der Räuber Hotzenplotz",
+      "eventType": "opera",
+      "date": "2027-04-25",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "schwab-der-raeuber-hotzenplotz"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/der-rauber-hotzenplotz/334",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-25-gelsenkirchen-dark-fall",
+      "title": "Dark Fall",
+      "eventType": "opera",
+      "date": "2027-04-25",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "thomalla-dark-fall"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/dark-fall/365",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-04-30-gelsenkirchen-mir-goes-film-besten",
+      "title": "MiR goes FILM: Die besten Filmsongs",
+      "eventType": "concert",
+      "date": "2027-04-30",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "rasmus-baumann"
+      ],
+      "soloistPersonIds": [
+        "viviane-essig",
+        "henrik-wager"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/mir-goes-film-die-besten-filmsongs/208",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-02-gelsenkirchen-kammermusik-kunstmuseum-gelsenkirchen-alte",
+      "title": "Kammermusik im Kunstmuseum Gelsenkirchen „Alte Klänge–Neue Welten“",
+      "eventType": "concert",
+      "date": "2027-05-02",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "kunstmuseum-gelsenkirchen",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "josu-ferreras-zulueta",
+        "tania-garcia-crespo",
+        "jie-zhou"
+      ],
+      "program": [
+        {
+          "workId": "leclair-triosonate-d-dur-nr-2"
+        },
+        {
+          "workId": "boismortier-9-petites-sonates-et-chaconne-fuer-floet"
+        },
+        {
+          "workId": "lobos-o-canto-do-cisne-cegro-w122-song-of-the-"
+        },
+        {
+          "workId": "debussy-bilitis-fuer-floete-und-harfe"
+        },
+        {
+          "workId": "jolivet-pastorales-de-noel-fuer-floete-fagott-un"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/kammermusik-im-kunstmuseum-gelsenkirchen-alte-klange-neue-welten/256",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-02-gelsenkirchen-my-fair-lady",
+      "title": "My Fair Lady",
+      "eventType": "opera",
+      "date": "2027-05-02",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "loewe-my-fair-lady"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/my-fair-lady/354",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-04-schwerte-2-schulkonzert-gir-power",
+      "title": "2. Schulkonzert „Gir Power: Komponistinnen“",
+      "eventType": "concert",
+      "date": "2027-05-04",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "rohrmeisterei-schwerte",
+      "cityId": "schwerte",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-schulkonzert-gir-power-komponistinnen/274",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-05-gelsenkirchen-2-schulkonzert-gir-power",
+      "title": "2. Schulkonzert „Gir Power: Komponistinnen“",
+      "eventType": "concert",
+      "date": "2027-05-05",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-schulkonzert-gir-power-komponistinnen/275",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-07-gelsenkirchen-my-fair-lady",
+      "title": "My Fair Lady",
+      "eventType": "opera",
+      "date": "2027-05-07",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "loewe-my-fair-lady"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/my-fair-lady/355",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-09-gelsenkirchen-foyerkonzert-schuberts-klangwelten",
+      "title": "Foyerkonzert „Schuberts Klangwelten“",
+      "eventType": "concert",
+      "date": "2027-05-09",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "satoko-iwabuchi",
+        "sophia-hilger",
+        "francois-marie-lhuissier",
+        "atsuhiko-iwabuchi",
+        "raimu-satoh"
+      ],
+      "program": [
+        {
+          "workId": "schubert-klaviertrio-b-dur-d-28-sonatensatz"
+        },
+        {
+          "workId": "schubert-streichtrio-d581"
+        },
+        {
+          "workId": "schubert-klavierquintett-a-dur-forellenquintett"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/foyerkonzert-schuberts-klangwelten/250",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-09-gelsenkirchen-la-clemenza-di-tito",
+      "title": "La clemenza di Tito",
+      "eventType": "opera",
+      "date": "2027-05-09",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-la-clemenza-di-tito"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/la-clemenza-di-tito/347",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-10-kamen-2-schulkonzert-gir-power",
+      "title": "2. Schulkonzert „Gir Power: Komponistinnen“",
+      "eventType": "concert",
+      "date": "2027-05-10",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "konzertaula-kamen",
+      "cityId": "kamen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-schulkonzert-gir-power-komponistinnen/276",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-11-luenen-2-schulkonzert-gir-power",
+      "title": "2. Schulkonzert „Gir Power: Komponistinnen“",
+      "eventType": "concert",
+      "date": "2027-05-11",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "heinz-hilpert-theater",
+      "cityId": "luenen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-schulkonzert-gir-power-komponistinnen/277",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-12-recklinghausen-2-schulkonzert-gir-power",
+      "title": "2. Schulkonzert „Gir Power: Komponistinnen“",
+      "eventType": "concert",
+      "date": "2027-05-12",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "buergerhaus-sued-recklinghausen",
+      "cityId": "recklinghausen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-schulkonzert-gir-power-komponistinnen/278",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-14-unna-2-schulkonzert-gir-power",
+      "title": "2. Schulkonzert „Gir Power: Komponistinnen“",
+      "eventType": "concert",
+      "date": "2027-05-14",
+      "startTime": "10:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "erich-goepfert-stadthalle-unna",
+      "cityId": "unna",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/2-schulkonzert-gir-power-komponistinnen/279",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-14-gelsenkirchen-dark-fall",
+      "title": "Dark Fall",
+      "eventType": "opera",
+      "date": "2027-05-14",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "thomalla-dark-fall"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/dark-fall/366",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-15-gelsenkirchen-la-clemenza-di-tito",
+      "title": "La clemenza di Tito",
+      "eventType": "opera",
+      "date": "2027-05-15",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "john-warner"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mozart-la-clemenza-di-tito"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/la-clemenza-di-tito/348",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-05-16-gelsenkirchen-my-fair-lady",
+      "title": "My Fair Lady",
+      "eventType": "opera",
+      "date": "2027-05-16",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "neue-philharmonie-westfalen"
+      ],
+      "venueId": "musiktheater-im-revier",
+      "cityId": "gelsenkirchen",
+      "conductorPersonIds": [
+        "lukas-ziesche"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "loewe-my-fair-lady"
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.neue-philharmonie-westfalen.de/concert/my-fair-lady/356",
+        "name": "Neue Philharmonie Westfalen",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://shop-neu.musiktheater-im-revier.de/webshop/webticket/eventlist",
+      "lastVerified": "2026-08-19"
     }
   ]
 }

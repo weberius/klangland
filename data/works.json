@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "lastUpdated": "2026-08-17",
+    "lastUpdated": "2026-08-19",
     "language": "de",
     "notes": "Werkstammdaten für die ersten Event-Beispiele. Aufführungsdaten stehen ausschließlich in events.json."
   },
@@ -8389,6 +8389,1016 @@
       ],
       "yearComposed": null,
       "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dvorak-blau",
+      "composerId": "jan-dvorak",
+      "title": "Blau",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-ouvertuere-zu-die-entfuehrung-aus-dem-se",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Ouvertüre zu „Die Entführung aus dem Serail“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "herrmann-vertigo-suite",
+      "composerId": "bernard-herrmann",
+      "title": "„Vertigo Suite“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bernstein-sinfonische-suite-aus-on-the-waterfront",
+      "composerId": "leonard-bernstein",
+      "title": "Sinfonische Suite aus „On the Waterfront“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "rozsa-thema-variationen-und-finale",
+      "composerId": "miklos-rozsa",
+      "title": "Thema, Variationen und Finale",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "13"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "berg-wozzeck",
+      "composerId": "alban-berg",
+      "title": "Wozzeck",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bax-elagiac-trio-fuer-floete-viola-und-harfe",
+      "composerId": "arnold-bax",
+      "title": "„Elagiac“ – Trio für Flöte, Viola und Harfe",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "genzmer-trio-fuer-floete-viola-und-harfe",
+      "composerId": "harald-genzmer",
+      "title": "Trio für Flöte, Viola und Harfe",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "takemitsu-towards-the-sea-iii-fuer-altfloete-und-h",
+      "composerId": "toro-takemitsu",
+      "title": "„Towards the Sea III“ für Altflöte und Harfe",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-sonatine-nach-einer-bearbeitung-fuer-flo",
+      "composerId": "maurice-ravel",
+      "title": "Sonatine nach einer Bearbeitung für Flöte, Viola und Harfe von Carlos Salzedo",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ramdohr-pettersson-und-findus-und-der-hahn-im-ko",
+      "composerId": "niclas-ramdohr",
+      "title": "Pettersson und Findus und der Hahn im Korb",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dietrich-f-a-e-sonate-fuer-violine-und-klavier",
+      "composerId": "albert-dietrich",
+      "title": "F.A.E.-Sonate für Violine und Klavier",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-sonate-a-moll-fuer-violine-und-klavier",
+      "composerId": "robert-schumann",
+      "title": "Sonate a-Moll für Violine und Klavier",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "105"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-drei-romanzen-fuer-violine-und-klavier",
+      "composerId": "clara-schumann",
+      "title": "Drei Romanzen für Violine und Klavier",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "22"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-violinsonate-nr-3-d-moll-fuer-violine-un",
+      "composerId": "johannes-brahms",
+      "title": "Violinsonate Nr. 3 d-Moll für Violine und Klavier",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "108"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-serenade-nr-1-d-dur",
+      "composerId": "johannes-brahms",
+      "title": "Serenade Nr. 1 D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "11"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sibelius-streichquartett-d-moll-voces-intimae",
+      "composerId": "jean-sibelius",
+      "title": "Streichquartett d-Moll „Voces intimae“",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "56"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "grieg-streichquartett-nr-1-g-moll",
+      "composerId": "edvard-grieg",
+      "title": "Streichquartett Nr. 1 g-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "27"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "puccini-tosca",
+      "composerId": "giacomo-puccini",
+      "title": "Tosca",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "prez-monty-python-s-not-the-messiah",
+      "composerId": "eric-idle-john-du-prez",
+      "title": "Monty Python's Not The Messiah",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-der-42-psalm-wie-der-hirsch-schreit",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Der 42. Psalm „Wie der Hirsch schreit“",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "42"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "oratorio",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "gubarenko-streichquartett-c-dur",
+      "composerId": "vitaly-gubarenko",
+      "title": "Streichquartett C-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-thema-aus-star-wars-episode-iv-a-new-hop",
+      "composerId": "john-williams",
+      "title": "Thema aus „Star Wars Episode IV: A New Hope“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "vivaldi-gloria-d-dur",
+      "composerId": "antonio-vivaldi",
+      "title": "Gloria D-Dur",
+      "catalogue": [
+        {
+          "system": "RV",
+          "number": "589"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "oratorio",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "glinka-trio-pathetique-fuer-klarinette-violonce",
+      "composerId": "michail-iwanowitsch-glinka",
+      "title": "„Trio pathétique“ für Klarinette, Violoncello und Klavier",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "chopin-ballade-nr-4-f-moll",
+      "composerId": "frederic-chopin",
+      "title": "Ballade Nr. 4 f-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "52"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schumann-adagio-und-allegro-as-dur",
+      "composerId": "robert-schumann",
+      "title": "Adagio und Allegro As-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "70"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-trio-a-moll-fuer-klarinette-violoncello-",
+      "composerId": "johannes-brahms",
+      "title": "Trio a-Moll für Klarinette, Violoncello und Klavier",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "114"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hasse-sinfonia-a-quattro-nr-1-d-dur-konzert-fu",
+      "composerId": "johann-adolf-hasse",
+      "title": "Sinfonia a quattro Nr. 1 D-Dur Konzert für Violoncello da spalla, Streicher und Basso continuo D-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "5"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "boccherini-sinfonie-nr-6-d-moll-la-casa-del-diavolo",
+      "composerId": "luigi-boccherini",
+      "title": "Sinfonie Nr. 6 d-Moll „La Casa del Diavolo“",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "12"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-contrapunctus-ix-aus-die-kunst-der-fuge",
+      "composerId": "johann-sebastian-bach",
+      "title": "Contrapunctus IX aus „Die Kunst der Fuge“",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "1080"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-tuerkischer-marsch-aus-die-ruinen-von-at",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Türkischer Marsch aus „Die Ruinen von Athen“",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "113"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schwab-der-raeuber-hotzenplotz",
+      "composerId": "sebastian-schwab",
+      "title": "Der Räuber Hotzenplotz",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "lachner-festival-ouvertuere-es-dur",
+      "composerId": "franz-lachner",
+      "title": "Festival Ouvertüre Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "129"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "farrenc-ouvertuere-nr-2-es-dur",
+      "composerId": "louise-farrenc",
+      "title": "Ouvertüre Nr. 2 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "24"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruch-sinfonie-nr-1-es-dur",
+      "composerId": "max-bruch",
+      "title": "Sinfonie Nr. 1 Es-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "28"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "smetana-ma-vlast-mein-vaterland",
+      "composerId": "bedrich-smetana",
+      "title": "„Má vlast“ („Mein Vaterland“)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "liebmann-grande-sonate-b-dur",
+      "composerId": "helene-liebmann",
+      "title": "Grande Sonate B-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "11"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bosmans-sonate-fuer-violoncello-und-klavier-a-mo",
+      "composerId": "henriette-bosmans",
+      "title": "Sonate für Violoncello und Klavier a-Moll",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "clarke-i-ll-bid-my-heart-be-still-passacaglia-o",
+      "composerId": "rebecca-clarke",
+      "title": "„I’ll bid my heart be still“ Passacaglia on an English Tune",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beau-fuenf-stuecke",
+      "composerId": "louise-aldolpha-le-beau",
+      "title": "Fünf Stücke",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "24"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bonis-serenade",
+      "composerId": "mel-bonis",
+      "title": "Sérénade",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "46"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bonis-meditation",
+      "composerId": "mel-bonis",
+      "title": "Méditation",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "33/2"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "boulanger-trois-pieces",
+      "composerId": "nadia-boulanger",
+      "title": "Trois pièces",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-la-clemenza-di-tito",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "La clemenza di Tito",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "debussy-syrinx-fuer-solofloete",
+      "composerId": "claude-debussy",
+      "title": "„Syrinx“ für Soloflöte",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "debussy-prelude-a-l-apres-midi-d-un-faune-fuer-f",
+      "composerId": "claude-debussy",
+      "title": "„Prélude à l’après-midi d’un faune“für Flöte, Klarinette und Klavier (Arr. Michael Webster)",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "lobos-fantaisie-concertante-fuer-klarinette-fa",
+      "composerId": "heitor-villa-lobos",
+      "title": "„Fantaisie concertante“ für Klarinette, Fagott und Klavier",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "caplet-quintett-fuer-klavier-floete-oboe-klarin",
+      "composerId": "andre-leon-caplet",
+      "title": "Quintett für Klavier, Flöte, Oboe, Klarinette und Fagott",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "8"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-ouvertuere-zu-egmont",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Ouvertüre zu „Egmont“",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "84"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bortkiewicz-konzert-fuer-klavier-und-orchester-nr-3-",
+      "composerId": "sergei-eduardowitsch-bortkiewicz",
+      "title": "Konzert für Klavier und Orchester Nr. 3 „Per aspera ad astra“",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "32"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-serenade-nr-6-serenata-notturna",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Serenade Nr. 6 „Serenata notturna“",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "239"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bernhoeft-nowpast-fuer-violine-shakuhachi-und-orch",
+      "composerId": "takashi-bernhoeft",
+      "title": "„NowPast“ für Violine, Shakuhachi und Orchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-sinfonie-nr-7-h-moll-unvollendete",
+      "composerId": "franz-schubert",
+      "title": "Sinfonie Nr. 7 h-Moll „Unvollendete“",
+      "catalogue": [
+        {
+          "system": "D",
+          "number": "759"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sibelius-sinfonie-nr-7-c-dur",
+      "composerId": "jean-sibelius",
+      "title": "Sinfonie Nr. 7 C-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "105"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "paert-spiegel-im-spiegel",
+      "composerId": "arvo-paert",
+      "title": "„Spiegel im Spiegel“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-violinsonate-g-dur-fuer-violine-und-klav",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Violinsonate G-Dur für Violine und Klavier",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "301"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schnittke-suite-im-alten-stil-fuer-violine-und-kla",
+      "composerId": "alfred-schnittke",
+      "title": "„Suite im alten Stil“ für Violine und Klavier",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kaminski-juedisches-gebet-fuer-violine-solo",
+      "composerId": "mark-kaminski",
+      "title": "„Jüdisches Gebet“ für Violine Solo",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bloch-baal-shem",
+      "composerId": "ernest-bloch",
+      "title": "„Baal Shem“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sarasate-zigeunerweisen",
+      "composerId": "pablo-de-sarasate",
+      "title": "„Zigeunerweisen“",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "20"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "loewe-my-fair-lady",
+      "composerId": "frederick-loewe",
+      "title": "My Fair Lady",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "thomalla-dark-fall",
+      "composerId": "hans-thomalla",
+      "title": "Dark Fall",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "opera",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "leclair-triosonate-d-dur-nr-2",
+      "composerId": "jean-marie-leclair",
+      "title": "Triosonate D-Dur Nr. 2",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "8"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "boismortier-9-petites-sonates-et-chaconne-fuer-floet",
+      "composerId": "j-bodin-de-boismortier",
+      "title": "9 Petites Sonates et Chaconne für Flöte und Fagott",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "66"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "lobos-o-canto-do-cisne-cegro-w122-song-of-the-",
+      "composerId": "heitor-villa-lobos",
+      "title": "„O canto do cisne cegro“ W122 („Song of the Black Swan“) für Fagott und Harfe",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "debussy-bilitis-fuer-floete-und-harfe",
+      "composerId": "claude-debussy",
+      "title": "„Bilitis“ für Flöte und Harfe",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "jolivet-pastorales-de-noel-fuer-floete-fagott-un",
+      "composerId": "andre-jolivet",
+      "title": "Pastorales de Noël für Flöte, Fagott und Harfe",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-klaviertrio-b-dur-d-28-sonatensatz",
+      "composerId": "franz-schubert",
+      "title": "Klaviertrio B-Dur D. 28 „Sonatensatz“",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-klavierquintett-a-dur-forellenquintett",
+      "composerId": "franz-schubert",
+      "title": "Klavierquintett A-Dur „Forellenquintett“",
+      "catalogue": [
+        {
+          "system": "D",
+          "number": "667"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
       "durationMinutes": null,
       "version": null,
       "scoring": null,

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.1",
-    "lastUpdated": "2026-08-18",
+    "lastUpdated": "2026-08-19",
     "language": "de",
     "notes": "Normalisierte Ortsreferenzen. Enthält alle Sitzorte der erfassten Institutionen, Ensembles und Spielstätten sowie die von Events referenzierten Orte."
   },
@@ -109,6 +109,71 @@
     {
       "id": "coesfeld",
       "name": "Coesfeld",
+      "country": "Deutschland"
+    },
+    {
+      "id": "gelsenkirchen",
+      "name": "Gelsenkirchen",
+      "country": "Deutschland"
+    },
+    {
+      "id": "unna",
+      "name": "Unna",
+      "country": "Deutschland"
+    },
+    {
+      "id": "kamen",
+      "name": "Kamen",
+      "country": "Deutschland"
+    },
+    {
+      "id": "wesel",
+      "name": "Wesel",
+      "country": "Deutschland"
+    },
+    {
+      "id": "herne",
+      "name": "Herne",
+      "country": "Deutschland"
+    },
+    {
+      "id": "holzwickede",
+      "name": "Holzwickede",
+      "country": "Deutschland"
+    },
+    {
+      "id": "schwerte",
+      "name": "Schwerte",
+      "country": "Deutschland"
+    },
+    {
+      "id": "luenen",
+      "name": "Lünen",
+      "country": "Deutschland"
+    },
+    {
+      "id": "marl",
+      "name": "Marl",
+      "country": "Deutschland"
+    },
+    {
+      "id": "froendenberg",
+      "name": "Fröndenberg",
+      "country": "Deutschland"
+    },
+    {
+      "id": "menden",
+      "name": "Menden",
+      "country": "Deutschland"
+    },
+    {
+      "id": "lippstadt",
+      "name": "Lippstadt",
+      "country": "Deutschland"
+    },
+    {
+      "id": "ahlen",
+      "name": "Ahlen",
       "country": "Deutschland"
     }
   ]
