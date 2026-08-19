@@ -34,3 +34,13 @@ Veranstaltungen. Siehe auch [Contract](../contracts/ensembles.feature).
 
 - **ENS-9** (ereignisgesteuert): WENN im Profil eine Veranstaltung ausgewählt wird, MUSS das
   Ensembleprofil zur Detailseite dieser Veranstaltung wechseln.
+
+## Klassifikation
+
+- **ENS-10** (ubiquitär): Das Ensembleprofil MUSS den Grundtyp des Ensembles anzeigen.
+
+- **ENS-11** (zustandsgesteuert): SOLANGE einem Ensemble Rollen zugeordnet sind, MUSS das
+  Ensembleprofil alle zugeordneten Rollen anzeigen.
+
+- **ENS-12** (zustandsgesteuert): SOLANGE einem Ensemble musikalische Profile zugeordnet
+  sind, MUSS das Ensembleprofil diese anzeigen.

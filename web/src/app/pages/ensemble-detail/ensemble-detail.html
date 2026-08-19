@@ -15,9 +15,9 @@
         @if (ensemble()!.description) {
           <p class="lead">{{ ensemble()!.description }}</p>
         }
-        @if (ensemble()!.artisticProfile.length) {
+        @if (profileLabels().length) {
           <p class="tags">
-            @for (p of ensemble()!.artisticProfile; track p) { <span class="tag">{{ p }}</span> }
+            @for (p of profileLabels(); track p) { <span class="tag">{{ p }}</span> }
           </p>
         }
       </div>
@@ -30,6 +30,10 @@
           }
           <dt>Sitz</dt>
           <dd>{{ cityName() }}</dd>
+          @if (roleLabels().length) {
+            <dt>{{ roleLabels().length === 1 ? 'Rolle' : 'Rollen' }}</dt>
+            <dd>{{ roleLabels().join(' · ') }}</dd>
+          }
           @if (homeVenue(); as v) {
             <dt>Stammsaal</dt>
             <dd><a [routerLink]="['/venues', v.id]">{{ v.name }}</a></dd>

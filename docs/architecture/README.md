@@ -19,6 +19,7 @@ umgesetzt wurden. Ergänzender Kontext steht im [PRD](../product/prd.md), im
 | [ADR-004](ADR-004-angular-als-frontend-framework.md) | Angular und TypeScript als Frontend-Framework | accepted |
 | [ADR-005](ADR-005-idempotente-python-ingest-skripte.md) | Datenerfassung über idempotente Ingest-Skripte je Quelle | accepted |
 | [ADR-006](ADR-006-datensync-als-build-artefakt.md) | Datenbereitstellung an die App als Build-Artefakt | accepted |
+| [ADR-007](ADR-007-ensemble-klassifikationsmodell.md) | Facettiertes Klassifikationsmodell für Ensembles | accepted |
 
 ## Konventionen
 

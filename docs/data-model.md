@@ -147,8 +147,9 @@ mindestens prüfen:
   jede referenzierte ID existiert in der Zieldatei;
 - Konsistenz der Doppelbeziehungen (jede `institutions.ensembleIds`-Referenz existiert,
   jede `venues.institutionId`-Referenz existiert);
-- kontrollierte Werte (`type`, `role`, `genre`, `status`, `eventType`) liegen im
-  erlaubten Wertebereich;
+- kontrollierte Werte (`type`, `roles`, `musicalProfiles`, `genre`, `status`, `eventType`)
+  liegen im erlaubten Wertebereich; die maßgeblichen Ensemble-Wertelisten (`type`, `roles`,
+  `musicalProfiles`) stehen in [entities/ensembles.md](entities/ensembles.md);
 - keine verwaisten Stammdaten werden hart gelöscht (nur als Warnung gemeldet).
 
 Details zu den entitätsspezifischen Regeln stehen in der jeweiligen Detaildoku.

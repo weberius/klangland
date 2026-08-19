@@ -20,12 +20,14 @@ sind Stammdaten und enthalten keine Konzerttermine; Termine stehen ausschließli
 {
   "id": "wdr-sinfonieorchester",
   "name": "WDR Sinfonieorchester",
-  "type": "radio_orchestra",
+  "type": "orchestra",
+  "professional": true,
+  "roles": ["radio_orchestra", "symphony_orchestra"],
+  "musicalProfiles": ["contemporary", "new_music"],
   "cityIds": ["koeln"],
   "region": null,
   "country": "Deutschland",
   "chiefConductorPersonId": "marie-jacquot",
-  "artisticProfile": ["Sinfonik", "20. Jahrhundert", "Neue Musik", "Uraufführungen"],
   "description": "Internationales Spitzenniveau mit Schwerpunkt auf Musik des 20. und 21. Jahrhunderts …",
   "website": "https://www1.wdr.de/orchester-und-chor/sinfonieorchester/",
   "venueId": "koelner-philharmonie",
@@ -39,12 +41,14 @@ sind Stammdaten und enthalten keine Konzerttermine; Termine stehen ausschließli
 | --- | --- | --- | --- |
 | `id` | ja | string | Stabile Klangland-ID (`kebab-case`). |
 | `name` | ja | string | Offizieller Name des Ensembles. |
-| `type` | ja | enum | Art des Ensembles. |
+| `type` | ja | enum | Grundtyp des Ensembles (was für ein Ensemble es ist). Kontrolliert, s. u. |
+| `professional` | ja | boolean | Ob es sich um ein professionelles Ensemble handelt. |
+| `roles` | ja | string[] | Institutionelle/funktionale Rolle(n); kontrolliert, s. u. Mehrfachwerte erlaubt; darf `[]` sein. |
+| `musicalProfiles` | ja | string[] | Musikalische Schwerpunkte; kontrolliert, s. u. Mehrfachwerte erlaubt; darf `[]` sein. |
 | `cityIds` | ja | string[] | Sitzort(e); Referenz(en) auf [`cities.id`](cities.md). Doppelsitze als zwei Einträge. |
 | `region` | ja | string \| null | Übergeordnete Region als Freitext (z. B. `Ruhrgebiet`, `Südwestfalen`), falls zutreffend; sonst `null`. Keine City. |
 | `country` | ja | string | Land, derzeit stets `Deutschland`. |
 | `chiefConductorPersonId` | ja | string \| null | Chefdirigent:in; Referenz auf [`people.id`](people.md). |
-| `artisticProfile` | ja | string[] | Schlagworte zum künstlerischen Profil (für Filter/Anzeige). |
 | `description` | ja | string \| null | Kurzbeschreibung für das Ensembleprofil. |
 | `website` | ja | string \| null | Offizielle Website. |
 | `venueId` | ja | string \| null | Stammsaal/wichtigste Spielstätte; Referenz auf [`venues.id`](venues.md). |
@@ -53,7 +57,31 @@ sind Stammdaten und enthalten keine Konzerttermine; Termine stehen ausschließli
 `null` ist bei `chiefConductorPersonId`, `description`, `website`, `venueId` und `source`
 zulässig, wenn die Angabe noch nicht recherchiert ist.
 
+## Trennung von `type`, `roles` und `musicalProfiles`
+
+`type`, `roles` und `musicalProfiles` werden bewusst getrennt modelliert, da sie
+unterschiedliche Sachverhalte beschreiben:
+
+- `type` beschreibt, **was für ein Ensemble** es ist (genau ein Wert).
+- `roles` beschreibt, **welche institutionelle bzw. funktionale Aufgabe** es erfüllt.
+- `musicalProfiles` beschreibt, **welche musikalischen Schwerpunkte** es besitzt.
+
+Ein Ensemble kann mehrere Rollen und Profile gleichzeitig besitzen. Die Werte sind
+kontrollierte Wertelisten, damit sie konsistent für Filter, Suche und Auswertungen
+verwendet werden können.
+
 ## Kontrollierte Werte: `type`
+
+| Wert | Bedeutung |
+| --- | --- |
+| `orchestra` | Orchester |
+| `chamber_orchestra` | Kammerorchester |
+| `ensemble` | Ensemble |
+| `big_band` | Big Band |
+| `chorus` | Chor |
+| `vocal_ensemble` | Vokalensemble |
+
+## Kontrollierte Werte: `roles`
 
 | Wert | Bedeutung |
 | --- | --- |
@@ -61,8 +89,32 @@ zulässig, wenn die Angabe noch nicht recherchiert ist.
 | `philharmonic_orchestra` | Philharmonisches Orchester |
 | `radio_orchestra` | Rundfunkorchester |
 | `opera_orchestra` | Opernorchester |
+| `theater_orchestra` | Theaterorchester |
+| `state_orchestra` | Landesorchester |
 
-Weitere Werte (z. B. `chamber_orchestra`, `choir`) werden bei Bedarf ergänzt.
+## Kontrollierte Werte: `musicalProfiles`
+
+| Wert | Bedeutung |
+| --- | --- |
+| `classical` | Klassik |
+| `romantic` | Romantik |
+| `baroque` | Barock |
+| `early_music` | Alte Musik |
+| `historically_informed_performance` | Historische Aufführungspraxis |
+| `contemporary` | Zeitgenössische Musik |
+| `new_music` | Neue Musik |
+| `opera` | Oper |
+| `musical` | Musical |
+| `film_music` | Filmmusik |
+| `game_music` | Spielemusik |
+| `jazz` | Jazz |
+| `crossover` | Crossover |
+| `entertainment` | Unterhaltung |
+| `choral` | Chormusik |
+| `vocal` | Vokalmusik |
+
+Weitere Werte werden bei Bedarf ergänzt und müssen zugleich in `models.ts`, `labels.ts`
+und dieser Doku gepflegt werden.
 
 ## Beziehungen
 
@@ -78,9 +130,11 @@ Weitere Werte (z. B. `chamber_orchestra`, `choir`) werden bei Bedarf ergänzt.
 
 ## Pflege und Validierung
 
-- `id` eindeutig; `name`, `type`, `country` gesetzt; `cityIds` und `region` vorhanden
+- `id` eindeutig; `name`, `type`, `professional`, `country` gesetzt; `roles` und
+  `musicalProfiles` vorhanden (dürfen `[]` sein); `cityIds` und `region` vorhanden
   (`region` darf `null` sein).
-- `type` liegt im kontrollierten Wertebereich.
+- `type` liegt im kontrollierten Wertebereich; jeder Wert in `roles` und in
+  `musicalProfiles` liegt im jeweils kontrollierten Wertebereich.
 - Referenzielle Integrität: jede ID in `cityIds` existiert in `cities.json`;
   `chiefConductorPersonId` (falls gesetzt) existiert in `people.json`; `venueId` (falls
   gesetzt) existiert in `venues.json`.

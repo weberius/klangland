@@ -5,7 +5,9 @@ import { toSignal } from '@angular/core/rxjs-interop';
 import { DataService } from '../../core/data.service';
 import { EventList } from '../../shared/event-list';
 import { Ensemble, Institution, Venue } from '../../models/models';
-import { ENSEMBLE_TYPE_LABELS, INSTITUTION_TYPE_LABELS, label } from '../../core/labels';
+import {
+  ENSEMBLE_ROLE_LABELS, ENSEMBLE_TYPE_LABELS, INSTITUTION_TYPE_LABELS, MUSICAL_PROFILE_LABELS, label,
+} from '../../core/labels';
 
 @Component({
   selector: 'app-ensemble-detail',
@@ -26,6 +28,14 @@ export class EnsembleDetailPage {
   readonly typeLabel = computed(() => {
     const e = this.ensemble();
     return e ? label(ENSEMBLE_TYPE_LABELS, e.type) : '';
+  });
+  readonly roleLabels = computed(() => {
+    const e = this.ensemble();
+    return e ? e.roles.map((r) => label(ENSEMBLE_ROLE_LABELS, r)) : [];
+  });
+  readonly profileLabels = computed(() => {
+    const e = this.ensemble();
+    return e ? e.musicalProfiles.map((p) => label(MUSICAL_PROFILE_LABELS, p)) : [];
   });
   readonly cityName = computed(() => {
     const e = this.ensemble();

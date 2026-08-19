@@ -49,3 +49,21 @@ Funktionalität: Ensembles
     Szenario: Direkter Deep-Link auf ein Ensembleprofil
       Wenn ich die Adresse "/ensembles/duesseldorfer-symphoniker" aufrufe
       Dann sehe ich das Profil von "Düsseldorfer Symphoniker"
+
+  Rule: Das Ensembleprofil zeigt Grundtyp, Rollen und musikalische Schwerpunkte
+
+    Szenario: Grundtyp und Rollen eines Ensembles
+      Angenommen es gibt das Ensemble "Beethoven Orchester Bonn"
+      Wenn ich das Profil von "Beethoven Orchester Bonn" öffne
+      Dann sehe ich den Grundtyp "Orchester"
+      Und die Rollen "Sinfonieorchester" und "Opernorchester"
+
+    Szenario: Musikalische Schwerpunkte werden angezeigt
+      Angenommen es gibt das Ensemble "Beethoven Orchester Bonn"
+      Wenn ich das Profil von "Beethoven Orchester Bonn" öffne
+      Dann sehe ich seine musikalischen Schwerpunkte
+
+    Szenario: Ein Ensemble mit mehreren Rollen zeigt alle Rollen
+      Angenommen es gibt ein Ensemble mit mehreren Rollen
+      Wenn ich sein Profil öffne
+      Dann sehe ich alle zugeordneten Rollen

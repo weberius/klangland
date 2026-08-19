@@ -11,12 +11,15 @@
       <a class="card ensemble-card" [routerLink]="['/ensembles', e.id]">
         <h2 class="ensemble-name">{{ e.name }}</h2>
         <p class="muted ensemble-meta">{{ cityName(e) }} · {{ typeLabel(e) }}</p>
+        @if (roleLabels(e).length) {
+          <p class="muted ensemble-roles">{{ roleLabels(e).join(' · ') }}</p>
+        }
         @if (conductorName(e)) {
           <p class="conductor">Chefdirigent:in: {{ conductorName(e) }}</p>
         }
-        @if (e.artisticProfile.length) {
+        @if (profileLabels(e).length) {
           <p class="tags">
-            @for (p of e.artisticProfile.slice(0, 3); track p) { <span class="tag">{{ p }}</span> }
+            @for (p of profileLabels(e).slice(0, 3); track p) { <span class="tag">{{ p }}</span> }
           </p>
         }
         <p class="muted count">

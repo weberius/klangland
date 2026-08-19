@@ -37,21 +37,54 @@ export interface Institution {
   ensembleIds: string[];
 }
 
+// Grundtyp – was für ein Ensemble es ist (genau ein Wert).
 export type EnsembleType =
+  | 'orchestra'
+  | 'chamber_orchestra'
+  | 'ensemble'
+  | 'big_band'
+  | 'chorus'
+  | 'vocal_ensemble';
+
+// Institutionelle bzw. funktionale Rolle(n) eines Ensembles (0..n).
+export type EnsembleRole =
   | 'symphony_orchestra'
   | 'philharmonic_orchestra'
   | 'radio_orchestra'
-  | 'opera_orchestra';
+  | 'opera_orchestra'
+  | 'theater_orchestra'
+  | 'state_orchestra';
+
+// Musikalische Schwerpunkte eines Ensembles (0..n).
+export type MusicalProfile =
+  | 'classical'
+  | 'romantic'
+  | 'baroque'
+  | 'early_music'
+  | 'historically_informed_performance'
+  | 'contemporary'
+  | 'new_music'
+  | 'opera'
+  | 'musical'
+  | 'film_music'
+  | 'game_music'
+  | 'jazz'
+  | 'crossover'
+  | 'entertainment'
+  | 'choral'
+  | 'vocal';
 
 export interface Ensemble {
   id: string;
   name: string;
   type: EnsembleType;
+  professional: boolean;
+  roles: EnsembleRole[];
+  musicalProfiles: MusicalProfile[];
   cityIds: string[];
   region: string | null;
   country: string;
   chiefConductorPersonId: string | null;
-  artisticProfile: string[];
   description: string | null;
   website: string | null;
   venueId: string | null;
