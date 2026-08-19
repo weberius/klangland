@@ -110,6 +110,13 @@
   color: var(--color-accent-strong);
   margin-right: 0.25rem;
 }
+/* In der Kalender-Kachel stehen Zeit, Titel und Ensemble jeweils in eigener
+   Zeile (US-007). Auf die geteilte .chip-time wirkt das nur hier, damit die
+   mobile Agenda unverändert bleibt. */
+.event-chip .chip-time {
+  display: block;
+  margin-right: 0;
+}
 .chip-title {
   font-weight: 600;
   display: block;
@@ -117,9 +124,7 @@
 .chip-sub {
   display: block;
   color: var(--color-text-muted);
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  overflow-wrap: anywhere;
 }
 .more {
   display: inline-block;
