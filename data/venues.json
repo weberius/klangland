@@ -1577,6 +1577,84 @@
       "website": null,
       "type": "other",
       "institutionId": null
+    },
+    {
+      "id": "immanuelskirche-wuppertal",
+      "name": "Immanuelskirche Wuppertal",
+      "cityIds": [
+        "wuppertal"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "thomaskirche-wuppertal",
+      "name": "Thomaskirche Wuppertal",
+      "cityIds": [
+        "wuppertal"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "citykirche-elberfeld",
+      "name": "CityKirche Elberfeld",
+      "cityIds": [
+        "wuppertal"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "permakulturhof-vorm-eichholz",
+      "name": "Permakulturhof Vorm Eichholz",
+      "cityIds": [
+        "wuppertal"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "insel-wuppertal",
+      "name": "INSEL",
+      "cityIds": [
+        "wuppertal"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "nachbarschaftsheim-wuppertal",
+      "name": "Nachbarschaftsheim Wuppertal",
+      "cityIds": [
+        "wuppertal"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
     }
   ]
 }

@@ -11500,6 +11500,927 @@
       "version": null,
       "scoring": null,
       "description": null
+    },
+    {
+      "id": "rodriguez-la-cumparsita",
+      "composerId": "gerardo-matos-rodriguez",
+      "title": "»La cumparsita«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "piazzolla-milonga-del-angel",
+      "composerId": "astor-piazzolla",
+      "title": "»Milonga del Ángel«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "piazzolla-libertango",
+      "composerId": "astor-piazzolla",
+      "title": "»Libertango«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "piazzolla-alfonsina-y-el-mar",
+      "composerId": "astor-piazzolla",
+      "title": "»Alfonsina y el mar«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "piazzolla-adios-nonino",
+      "composerId": "astor-piazzolla",
+      "title": "»Adiós Nonino«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "piazzolla-fuga-y-misterio",
+      "composerId": "astor-piazzolla",
+      "title": "»Fuga y misterio«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "villoldo-el-choclo",
+      "composerId": "angel-villoldo",
+      "title": "»El Choclo«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "stamponi-flor-de-lino",
+      "composerId": "hector-stamponi",
+      "title": "»Flor de Lino«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "filiberto-quejas-de-bandoneon",
+      "composerId": "juan-de-dios-filiberto",
+      "title": "»Quejas de bandoneón«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "piazzolla-oblivion",
+      "composerId": "astor-piazzolla",
+      "title": "»Oblivion«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "laurenz-milonga-de-mis-amores",
+      "composerId": "pedro-laurenz",
+      "title": "»Milonga de mis amores«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mayer-faust-ouvertuere",
+      "composerId": "emilie-mayer",
+      "title": "»Faust«-Ouvertüre",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "46"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartok-tanzsuite-in-sechs-saetzen",
+      "composerId": "bela-bartok",
+      "title": "Tanzsuite in sechs Sätzen",
+      "catalogue": [
+        {
+          "system": "Sz",
+          "number": "77"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-klavierkonzert-nr-2-b-dur",
+      "composerId": "johannes-brahms",
+      "title": "Klavierkonzert Nr. 2 B-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "83"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "grieg-peer-gynt-suite-nr-2",
+      "composerId": "edvard-grieg",
+      "title": "»Peer Gynt«-Suite Nr. 2",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "55"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "nielsen-violinkonzert",
+      "composerId": "carl-nielsen",
+      "title": "Violinkonzert",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "33"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "reinvere-schoss-des-ungeheuren-lichts",
+      "composerId": "jueri-reinvere",
+      "title": "»Schoß des ungeheuren Lichts«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 2022,
+        "to": 2022
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-tripelkonzert-c-dur",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Tripelkonzert C-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "56"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tarrodi-liguria",
+      "composerId": "andrea-tarrodi",
+      "title": "»Liguria«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 2012,
+        "to": 2012
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "falla-der-dreispitz-suiten-nr-1-und-nr-2",
+      "composerId": "manuel-de-falla",
+      "title": "»Der Dreispitz«, Suiten Nr. 1 und Nr. 2",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "respighi-fontane-di-roma",
+      "composerId": "ottorino-respighi",
+      "title": "»Fontane di Roma«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "farrenc-ouvertuere-nr-1-e-moll",
+      "composerId": "louise-farrenc",
+      "title": "Ouvertüre Nr. 1 e-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "23"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "finzi-klarinettenkonzert-c-moll",
+      "composerId": "gerald-finzi",
+      "title": "Klarinettenkonzert c-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "31"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-sinfonie-nr-8-c-moll",
+      "composerId": "dmitri-schostakowitsch",
+      "title": "Sinfonie Nr. 8 c-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "65"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "blacher-orchestervariationen-ueber-ein-thema-von-paganini",
+      "composerId": "boris-blacher",
+      "title": "Orchestervariationen über ein Thema von Paganini",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "26"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowski-klavierkonzert-nr-1-b-moll",
+      "composerId": "pjotr-i-tschaikowski",
+      "title": "Klavierkonzert Nr. 1 b-Moll",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "23"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-ouvertuere-zu-der-schauspieldirektor",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Ouvertüre zu »Der Schauspieldirektor«",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "486"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-vier-letzte-lieder",
+      "composerId": "richard-strauss",
+      "title": "»Vier letzte Lieder«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowski-fantasie-ouvertuere-romeo-und-julia",
+      "composerId": "pjotr-i-tschaikowski",
+      "title": "Fantasie-Ouvertüre »Romeo und Julia«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-hedwig-s-theme-aus-harry-potter",
+      "composerId": "john-williams",
+      "title": "»Hedwig's Theme« aus Harry Potter",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-somewhere-in-my-memory-aus-kevin-allein-zu-haus",
+      "composerId": "john-williams",
+      "title": "»Somewhere in My Memory« aus Kevin – Allein zu Haus",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-harry-s-wondrous-world-aus-harry-potter",
+      "composerId": "john-williams",
+      "title": "»Harry's Wondrous World« aus Harry Potter",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "silvestri-polar-express",
+      "composerId": "alan-silvestri",
+      "title": "»Polar Express«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "eilenberg-petersburger-schlittenfahrt",
+      "composerId": "richard-eilenberg",
+      "title": "»Petersburger Schlittenfahrt«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-merry-christmas-merry-christmas",
+      "composerId": "john-williams",
+      "title": "»Merry Christmas, Merry Christmas«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-main-theme-aus-star-wars",
+      "composerId": "john-williams",
+      "title": "»Main Theme« aus Star Wars",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "williams-duel-of-the-fates-aus-star-wars",
+      "composerId": "john-williams",
+      "title": "»Duel of the Fates« aus Star Wars",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "shore-der-herr-der-ringe-die-gefaehrten-suite",
+      "composerId": "howard-shore",
+      "title": "»Der Herr der Ringe: Die Gefährten« Suite",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "morricone-gabriel-s-oboe-aus-the-mission",
+      "composerId": "ennio-morricone",
+      "title": "»Gabriel's Oboe« aus The Mission",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "svoboda-drei-haselnuesse-fuer-aschenbroedel",
+      "composerId": "karel-svoboda",
+      "title": "»Drei Haselnüsse für Aschenbrödel«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bartholdy-hark-the-herald-angels-sing",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "»Hark! The Herald Angels Sing«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bizet-l-arlesienne-suite-nr-1",
+      "composerId": "georges-bizet",
+      "title": "»L'Arlésienne«-Suite Nr. 1",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tschaikowski-dornroeschen-suite",
+      "composerId": "pjotr-i-tschaikowski",
+      "title": "»Dornröschen«-Suite",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "66a"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-an-der-schoenen-blauen-donau",
+      "composerId": "johann-strauss",
+      "title": "»An der schönen blauen Donau«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-divertimento-d-dur",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Divertimento D-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "136"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "tartini-sonate-g-moll-teufelstriller-sonate",
+      "composerId": "giuseppe-tartini",
+      "title": "Sonate g-Moll »Teufelstriller-Sonate«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "janacek-idyll-fuer-streichorchester",
+      "composerId": "leos-janacek",
+      "title": "Idyll für Streichorchester",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-streichquintett-g-moll",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Streichquintett g-Moll",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "516"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "reger-serenade-g-dur-fuer-floete-violine-und-viola",
+      "composerId": "max-reger",
+      "title": "Serenade G-Dur für Flöte, Violine und Viola",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "141a"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-streichsextett-g-dur",
+      "composerId": "johannes-brahms",
+      "title": "Streichsextett G-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "36"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hesse-klarinettenquintett-sons-de-la-soiree",
+      "composerId": "lutz-werner-hesse",
+      "title": "Klarinettenquintett »Sons de la soirée«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "87"
+        }
+      ],
+      "yearComposed": {
+        "from": 2021,
+        "to": 2021
+      },
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schostakowitsch-streichquartett-nr-5-b-dur",
+      "composerId": "dmitri-schostakowitsch",
+      "title": "Streichquartett Nr. 5 B-Dur",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "92"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-klarinettenquintett-a-dur",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Klarinettenquintett A-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "581"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "netzel-preludio-e-fughetta",
+      "composerId": "laura-netzel",
+      "title": "Preludio e Fughetta",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "68"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bonis-suite-en-trio",
+      "composerId": "mel-bonis",
+      "title": "Suite en Trio",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "59"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "smith-klaviertrio-cornwall",
+      "composerId": "julia-frances-smith",
+      "title": "Klaviertrio »Cornwall«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sakar-wind-touch",
+      "composerId": "elif-ebru-sakar",
+      "title": "»Wind touch«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beamish-stone-salt-and-sky",
+      "composerId": "sally-beamish",
+      "title": "»Stone, Salt and Sky«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "chernin-spirit-and-the-maiden",
+      "composerId": "elena-kats-chernin",
+      "title": "»Spirit and the Maiden«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "larsen-four-on-the-floor",
+      "composerId": "libby-larsen",
+      "title": "»Four on the Floor«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "arriaga-streichquartett-nr-2-a-dur",
+      "composerId": "juan-crisostomo-de-arriaga",
+      "title": "Streichquartett Nr. 2 A-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "albeniz-cordoba-aus-cantos-de-espana",
+      "composerId": "isaac-albeniz",
+      "title": "»Cordoba« aus »Cantos de España«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "232"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "falla-danza-espanola-nr-1-aus-la-vida-breve",
+      "composerId": "manuel-de-falla",
+      "title": "Danza española Nr. 1 aus »La vida breve«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "albeniz-asturias-aus-der-suite-espanola",
+      "composerId": "isaac-albeniz",
+      "title": "»Asturias« aus der Suite española",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "47"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "falla-danza-ritual-del-fuego-aus-el-amor-brujo",
+      "composerId": "manuel-de-falla",
+      "title": "Danza ritual del fuego aus »El amor brujo«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "ravel-tzigane-fantaisie-de-concert",
+      "composerId": "maurice-ravel",
+      "title": "»Tzigane« Fantaisie de concert",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
     }
   ]
 }

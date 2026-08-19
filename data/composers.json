@@ -1960,6 +1960,190 @@
         "from": 1827,
         "to": 1903
       }
+    },
+    {
+      "id": "gerardo-matos-rodriguez",
+      "name": "Gerardo Matos Rodríguez",
+      "life": {
+        "from": 1897,
+        "to": 1948
+      }
+    },
+    {
+      "id": "angel-villoldo",
+      "name": "Ángel Villoldo",
+      "life": {
+        "from": 1861,
+        "to": 1919
+      }
+    },
+    {
+      "id": "hector-stamponi",
+      "name": "Héctor Stamponi",
+      "life": {
+        "from": 1916,
+        "to": 1997
+      }
+    },
+    {
+      "id": "juan-de-dios-filiberto",
+      "name": "Juan de Dios Filiberto",
+      "life": {
+        "from": 1885,
+        "to": 1964
+      }
+    },
+    {
+      "id": "pedro-laurenz",
+      "name": "Pedro Laurenz",
+      "life": {
+        "from": 1902,
+        "to": 1972
+      }
+    },
+    {
+      "id": "emilie-mayer",
+      "name": "Emilie Mayer",
+      "life": {
+        "from": 1812,
+        "to": 1883
+      }
+    },
+    {
+      "id": "ottorino-respighi",
+      "name": "Ottorino Respighi",
+      "life": {
+        "from": 1879,
+        "to": 1936
+      }
+    },
+    {
+      "id": "gerald-finzi",
+      "name": "Gerald Finzi",
+      "life": {
+        "from": 1901,
+        "to": 1956
+      }
+    },
+    {
+      "id": "boris-blacher",
+      "name": "Boris Blacher",
+      "life": {
+        "from": 1903,
+        "to": 1975
+      }
+    },
+    {
+      "id": "jueri-reinvere",
+      "name": "Jüri Reinvere",
+      "life": {
+        "from": 1971,
+        "to": null
+      }
+    },
+    {
+      "id": "lutz-werner-hesse",
+      "name": "Lutz-Werner Hesse",
+      "life": {
+        "from": 1955,
+        "to": null
+      }
+    },
+    {
+      "id": "giuseppe-tartini",
+      "name": "Giuseppe Tartini",
+      "life": {
+        "from": 1692,
+        "to": 1770
+      }
+    },
+    {
+      "id": "isaac-albeniz",
+      "name": "Isaac Albéniz",
+      "life": {
+        "from": 1860,
+        "to": 1909
+      }
+    },
+    {
+      "id": "laura-netzel",
+      "name": "Laura Netzel",
+      "life": {
+        "from": 1839,
+        "to": 1927
+      }
+    },
+    {
+      "id": "julia-frances-smith",
+      "name": "Julia Frances Smith",
+      "life": {
+        "from": 1905,
+        "to": 1989
+      }
+    },
+    {
+      "id": "elif-ebru-sakar",
+      "name": "Elif Ebru Sakar",
+      "life": {
+        "from": null,
+        "to": null
+      }
+    },
+    {
+      "id": "sally-beamish",
+      "name": "Sally Beamish",
+      "life": {
+        "from": 1956,
+        "to": null
+      }
+    },
+    {
+      "id": "elena-kats-chernin",
+      "name": "Elena Kats-Chernin",
+      "life": {
+        "from": 1957,
+        "to": null
+      }
+    },
+    {
+      "id": "libby-larsen",
+      "name": "Libby Larsen",
+      "life": {
+        "from": 1950,
+        "to": null
+      }
+    },
+    {
+      "id": "alan-silvestri",
+      "name": "Alan Silvestri",
+      "life": {
+        "from": 1950,
+        "to": null
+      }
+    },
+    {
+      "id": "richard-eilenberg",
+      "name": "Richard Eilenberg",
+      "life": {
+        "from": 1848,
+        "to": 1927
+      }
+    },
+    {
+      "id": "howard-shore",
+      "name": "Howard Shore",
+      "life": {
+        "from": 1946,
+        "to": null
+      }
+    },
+    {
+      "id": "ennio-morricone",
+      "name": "Ennio Morricone",
+      "life": {
+        "from": 1928,
+        "to": 2020
+      }
     }
   ]
 }

@@ -41570,6 +41570,1820 @@
       },
       "ticketUrl": null,
       "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-04-wuppertal-tango",
+      "title": "Tango",
+      "eventType": "concert",
+      "date": "2026-09-04",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "immanuelskirche-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "cecilia-castagneto"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "rodriguez-la-cumparsita"
+        },
+        {
+          "workId": "piazzolla-milonga-del-angel"
+        },
+        {
+          "workId": "piazzolla-libertango"
+        },
+        {
+          "workId": "piazzolla-alfonsina-y-el-mar"
+        },
+        {
+          "workId": "piazzolla-adios-nonino"
+        },
+        {
+          "workId": "piazzolla-fuga-y-misterio"
+        },
+        {
+          "workId": "villoldo-el-choclo"
+        },
+        {
+          "workId": "stamponi-flor-de-lino"
+        },
+        {
+          "workId": "filiberto-quejas-de-bandoneon"
+        },
+        {
+          "workId": "piazzolla-oblivion"
+        },
+        {
+          "workId": "laurenz-milonga-de-mis-amores"
+        }
+      ],
+      "seriesId": null,
+      "description": "Uptown Classics /1.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/tango/5897",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2521263",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-05-wuppertal-tango",
+      "title": "Tango",
+      "eventType": "concert",
+      "date": "2026-09-05",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "thomaskirche-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "cecilia-castagneto"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "rodriguez-la-cumparsita"
+        },
+        {
+          "workId": "piazzolla-milonga-del-angel"
+        },
+        {
+          "workId": "piazzolla-libertango"
+        },
+        {
+          "workId": "piazzolla-alfonsina-y-el-mar"
+        },
+        {
+          "workId": "piazzolla-adios-nonino"
+        },
+        {
+          "workId": "piazzolla-fuga-y-misterio"
+        },
+        {
+          "workId": "villoldo-el-choclo"
+        },
+        {
+          "workId": "stamponi-flor-de-lino"
+        },
+        {
+          "workId": "filiberto-quejas-de-bandoneon"
+        },
+        {
+          "workId": "piazzolla-oblivion"
+        },
+        {
+          "workId": "laurenz-milonga-de-mis-amores"
+        }
+      ],
+      "seriesId": null,
+      "description": "Uptown Classics /1.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/tango/5898",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2538243",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-12-wuppertal-ohrenoeffner-komponistinnen",
+      "title": "Späte Renaissance: Komponistinnen",
+      "eventType": "concert",
+      "date": "2026-09-12",
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "citykirche-elberfeld",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Ohrenöffner-Gesprächskonzert über komponierende Frauen der späten Renaissance. Moderation: Bjørn Woll; Gesprächsgast: Prof. Dr. Lutz-Werner Hesse. Eintritt frei.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/spate-renaissance-komponistinnen/5915",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-13-wuppertal-brahms-klavierkonzert-2",
+      "title": "Brahms zweites Klavierkonzert",
+      "eventType": "concert",
+      "date": "2026-09-13",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "kevin-griffiths"
+      ],
+      "soloistPersonIds": [
+        "fabian-mueller"
+      ],
+      "program": [
+        {
+          "workId": "mayer-faust-ouvertuere"
+        },
+        {
+          "workId": "bartok-tanzsuite-in-sechs-saetzen"
+        },
+        {
+          "workId": "brahms-klavierkonzert-nr-2-b-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "1. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/brahms-zweites-klavierkonzert/5841",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2536919",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-14-wuppertal-brahms-klavierkonzert-2",
+      "title": "Brahms zweites Klavierkonzert",
+      "eventType": "concert",
+      "date": "2026-09-14",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "kevin-griffiths"
+      ],
+      "soloistPersonIds": [
+        "fabian-mueller"
+      ],
+      "program": [
+        {
+          "workId": "mayer-faust-ouvertuere"
+        },
+        {
+          "workId": "bartok-tanzsuite-in-sechs-saetzen"
+        },
+        {
+          "workId": "brahms-klavierkonzert-nr-2-b-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "1. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/brahms-zweites-klavierkonzert/5842",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545493",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-20-wuppertal-orgel-akzent-atem-raum-klang",
+      "title": "Atem, Raum und Klang",
+      "eventType": "concert",
+      "date": "2026-09-20",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "hannah-schlubeck",
+        "joachim-neugart"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "1. Orgel-Akzent für Panflöte und Orgel.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/atem-raum-und-klang/5834",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543492",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-21-wuppertal-kammerkonzert-spuren-der-romantik",
+      "title": "Spuren der Romantik",
+      "eventType": "concert",
+      "date": "2026-09-21",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "liviu-neagu-gruber",
+        "axel-hess",
+        "matthias-neumann",
+        "jens-brockmann",
+        "joel-woepke",
+        "karin-nijssen-neumeister",
+        "udo-mertens"
+      ],
+      "program": [
+        {
+          "workId": "mozart-streichquintett-g-moll"
+        },
+        {
+          "workId": "reger-serenade-g-dur-fuer-floete-violine-und-viola"
+        },
+        {
+          "workId": "brahms-streichsextett-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "1. Kammerkonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/spuren-der-romantik/5832",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2536989",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-26-wuppertal-wandelkonzert-permakulturhof",
+      "title": "WANDELKONZERT IM PERMAKULTURHOF",
+      "eventType": "concert",
+      "date": "2026-09-26",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "permakulturhof-vorm-eichholz",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Wandelkonzert mit Mitgliedern des Sinfonieorchesters Wuppertal (»Orchester des Wandels«) auf dem Permakulturhof Vorm Eichholz e. V. Eintritt frei.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/wandelkonzert-im-permakulturhof/5936",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-09-27-wuppertal-familienkonzert-carmen",
+      "title": "Carmen",
+      "eventType": "concert",
+      "date": "2026-09-27",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "koji-ishizaka"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Georges Bizet. Familienkonzert (ab 6 Jahren); Moderation: Juri Tetzlaff.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/carmen/5831",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2521106",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-03-wuppertal-benefizkonzert",
+      "title": "Benefizkonzert",
+      "eventType": "concert",
+      "date": "2026-10-03",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "johannes-witt"
+      ],
+      "soloistPersonIds": [
+        "francesca-chiejina",
+        "jaha-lee"
+      ],
+      "program": [
+        {
+          "workId": "mozart-ouvertuere-zu-der-schauspieldirektor"
+        },
+        {
+          "workId": "sibelius-konzert-fuer-violine-und-orchester-d-mol"
+        },
+        {
+          "workId": "strauss-vier-letzte-lieder"
+        },
+        {
+          "workId": "tschaikowski-fantasie-ouvertuere-romeo-und-julia"
+        }
+      ],
+      "seriesId": null,
+      "description": "Benefizkonzert zum Tag der deutschen Einheit zugunsten des Fördervereins Frauenberatung Wuppertal e. V. Sopran: Francesca Chiejina (a. G.); Violine: Jaha Lee.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/benefizkonzert-3/5889",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2522447",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-18-wuppertal-sibelius-fuenf",
+      "title": "Sibelius Fünf",
+      "eventType": "concert",
+      "date": "2026-10-18",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "cornelius-meister"
+      ],
+      "soloistPersonIds": [
+        "baiba-skride"
+      ],
+      "program": [
+        {
+          "workId": "grieg-peer-gynt-suite-nr-2"
+        },
+        {
+          "workId": "nielsen-violinkonzert"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-5-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "2. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/sibelius-funf/5853",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2536922",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-19-wuppertal-sibelius-fuenf",
+      "title": "Sibelius Fünf",
+      "eventType": "concert",
+      "date": "2026-10-19",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "cornelius-meister"
+      ],
+      "soloistPersonIds": [
+        "baiba-skride"
+      ],
+      "program": [
+        {
+          "workId": "grieg-peer-gynt-suite-nr-2"
+        },
+        {
+          "workId": "nielsen-violinkonzert"
+        },
+        {
+          "workId": "sibelius-sinfonie-nr-5-es-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "2. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/sibelius-funf/5854",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545519",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-10-26-wuppertal-kammerkonzert-sons-de-la-soiree",
+      "title": "Sons de la Soirée",
+      "eventType": "concert",
+      "date": "2026-10-26",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "selina-lohmueller",
+        "georg-sarkisjan",
+        "francesco-punturo",
+        "florian-glocker",
+        "joel-woepke"
+      ],
+      "program": [
+        {
+          "workId": "hesse-klarinettenquintett-sons-de-la-soiree"
+        },
+        {
+          "workId": "schostakowitsch-streichquartett-nr-5-b-dur"
+        },
+        {
+          "workId": "mozart-klarinettenquintett-a-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "2. Kammerkonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/sons-de-la-soiree/5850",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2536993",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-03-wuppertal-schulkonzert-moldau-0930",
+      "title": "Die Moldau – Wenn Wasser fliegen lernt",
+      "eventType": "concert",
+      "date": "2026-11-03",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "tommaso-turchetta"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Bedřich Smetana, Ludwig van Beethoven und John Adams. Schulkonzert für Grundschulen; Moderation: Kristin Susan Catalán.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/die-moldau-wenn-wasser-fliegen-lernt/5835",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-03-wuppertal-schulkonzert-moldau-1115",
+      "title": "Die Moldau – Wenn Wasser fliegen lernt",
+      "eventType": "concert",
+      "date": "2026-11-03",
+      "startTime": "11:15",
+      "endTime": "12:15",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "tommaso-turchetta"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Bedřich Smetana, Ludwig van Beethoven und John Adams. Schulkonzert für Grundschulen; Moderation: Kristin Susan Catalán.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/die-moldau-wenn-wasser-fliegen-lernt/5836",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-04-wuppertal-schulkonzert-moldau-0930",
+      "title": "Die Moldau – Wenn Wasser fliegen lernt",
+      "eventType": "concert",
+      "date": "2026-11-04",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "tommaso-turchetta"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Bedřich Smetana, Ludwig van Beethoven und John Adams. Schulkonzert für Grundschulen; Moderation: Kristin Susan Catalán.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/die-moldau-wenn-wasser-fliegen-lernt/5837",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-04-wuppertal-schulkonzert-moldau-1115",
+      "title": "Die Moldau – Wenn Wasser fliegen lernt",
+      "eventType": "concert",
+      "date": "2026-11-04",
+      "startTime": "11:15",
+      "endTime": "12:15",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "tommaso-turchetta"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Bedřich Smetana, Ludwig van Beethoven und John Adams. Schulkonzert für Grundschulen; Moderation: Kristin Susan Catalán.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/die-moldau-wenn-wasser-fliegen-lernt/5838",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-15-wuppertal-pastorale",
+      "title": "Pastorale",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "kristiina-poska"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "reinvere-schoss-des-ungeheuren-lichts"
+        },
+        {
+          "workId": "beethoven-tripelkonzert-c-dur"
+        },
+        {
+          "workId": "beethoven-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": "3. Sinfoniekonzert. Solisten im Tripelkonzert: ATOS Trio.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/pastorale/5864",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2536937",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-15-wuppertal-ohrenkitzel-pastorale",
+      "title": "Ohrenkitzel im 3. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-11-15",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "beethoven-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": "Musikpraktische Konzerteinführung für Kinder (6–10 Jahre) zum 3. Sinfoniekonzert unter Leitung von Kristin Susan Catalán.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/ohrenkitzel-im-3-sinfoniekonzert/5921",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-16-wuppertal-pastorale",
+      "title": "Pastorale",
+      "eventType": "concert",
+      "date": "2026-11-16",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "kristiina-poska"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "reinvere-schoss-des-ungeheuren-lichts"
+        },
+        {
+          "workId": "beethoven-tripelkonzert-c-dur"
+        },
+        {
+          "workId": "beethoven-sinfonie-6"
+        }
+      ],
+      "seriesId": null,
+      "description": "3. Sinfoniekonzert. Solisten im Tripelkonzert: ATOS Trio.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/pastorale/5865",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545523",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-20-wuppertal-schulkonzert-moldau-0930",
+      "title": "Die Moldau – Wenn Wasser fliegen lernt",
+      "eventType": "concert",
+      "date": "2026-11-20",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "tommaso-turchetta"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Bedřich Smetana, Ludwig van Beethoven und John Adams. Schulkonzert für Grundschulen; Moderation: Kristin Susan Catalán.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/die-moldau-wenn-wasser-fliegen-lernt/5839",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-20-wuppertal-schulkonzert-moldau-1115",
+      "title": "Die Moldau – Wenn Wasser fliegen lernt",
+      "eventType": "concert",
+      "date": "2026-11-20",
+      "startTime": "11:15",
+      "endTime": "12:15",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "tommaso-turchetta"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Bedřich Smetana, Ludwig van Beethoven und John Adams. Schulkonzert für Grundschulen; Moderation: Kristin Susan Catalán.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/die-moldau-wenn-wasser-fliegen-lernt/5840",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-11-21-wuppertal-ohrenoeffner-schostakowitsch",
+      "title": "Komponieren in der Diktatur: Dmitri Schostakowitsch",
+      "eventType": "concert",
+      "date": "2026-11-21",
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "citykirche-elberfeld",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Ohrenöffner-Gesprächskonzert »Komponieren in der Diktatur: Dmitri Schostakowitsch«. Moderation: Bjørn Woll; Gesprächsgast: Martin Schacht. Eintritt frei.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/komponieren-in-der-diktatur-dmitri-schostakowitsch/5916",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-06-wuppertal-familienkonzert-schneemann",
+      "title": "Der Schneemann",
+      "eventType": "concert",
+      "date": "2026-12-06",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "maximilian-otto"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Erich Wolfgang Korngold. Familienkonzert (ab 6 Jahren); Moderation: Malte Arkona.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/der-schneemann/5849",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2521175",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-13-wuppertal-bolero",
+      "title": "Boléro",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "kerem-hasan"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "tarrodi-liguria"
+        },
+        {
+          "workId": "falla-der-dreispitz-suiten-nr-1-und-nr-2"
+        },
+        {
+          "workId": "respighi-fontane-di-roma"
+        },
+        {
+          "workId": "ravel-bolero"
+        }
+      ],
+      "seriesId": null,
+      "description": "4. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/bolero/5875",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2537005",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-14-wuppertal-bolero",
+      "title": "Boléro",
+      "eventType": "concert",
+      "date": "2026-12-14",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "kerem-hasan"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "tarrodi-liguria"
+        },
+        {
+          "workId": "falla-der-dreispitz-suiten-nr-1-und-nr-2"
+        },
+        {
+          "workId": "respighi-fontane-di-roma"
+        },
+        {
+          "workId": "ravel-bolero"
+        }
+      ],
+      "seriesId": null,
+      "description": "4. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/bolero/5876",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545533",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-12-25-wuppertal-christmas-at-the-movies",
+      "title": "Christmas at the movies",
+      "eventType": "concert",
+      "date": "2026-12-25",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "derrick-morgan"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "williams-hedwig-s-theme-aus-harry-potter"
+        },
+        {
+          "workId": "williams-somewhere-in-my-memory-aus-kevin-allein-zu-haus"
+        },
+        {
+          "workId": "williams-harry-s-wondrous-world-aus-harry-potter"
+        },
+        {
+          "workId": "silvestri-polar-express"
+        },
+        {
+          "workId": "eilenberg-petersburger-schlittenfahrt"
+        },
+        {
+          "workId": "williams-merry-christmas-merry-christmas"
+        },
+        {
+          "workId": "williams-main-theme-aus-star-wars"
+        },
+        {
+          "workId": "williams-duel-of-the-fates-aus-star-wars"
+        },
+        {
+          "workId": "shore-der-herr-der-ringe-die-gefaehrten-suite"
+        },
+        {
+          "workId": "morricone-gabriel-s-oboe-aus-the-mission"
+        },
+        {
+          "workId": "svoboda-drei-haselnuesse-fuer-aschenbroedel"
+        },
+        {
+          "workId": "bartholdy-hark-the-herald-angels-sing"
+        }
+      ],
+      "seriesId": null,
+      "description": "Weihnachtskonzert mit dem Ratinger Kammerchor und dem Konzertchor Wuppertal.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/christmas-at-the-movies/5922",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-01-wuppertal-rhapsody-in-blue",
+      "title": "Rhapsody in blue",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "johannes-pell"
+      ],
+      "soloistPersonIds": [
+        "makoto-ozone"
+      ],
+      "program": [
+        {
+          "workId": "beethoven-leonore-ouvertuere-3"
+        },
+        {
+          "workId": "gershwin-rhapsody-in-blue"
+        },
+        {
+          "workId": "bizet-l-arlesienne-suite-nr-1"
+        },
+        {
+          "workId": "tschaikowski-dornroeschen-suite"
+        },
+        {
+          "workId": "strauss-an-der-schoenen-blauen-donau"
+        }
+      ],
+      "seriesId": null,
+      "description": "Neujahrskonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/rhapsody-in-blue/5896",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2554862",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-10-wuppertal-schostakowitsch-acht",
+      "title": "Schostakowitsch acht",
+      "eventType": "concert",
+      "date": "2027-01-10",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "ana-maria-patino-osorio"
+      ],
+      "soloistPersonIds": [
+        "shelly-ezra"
+      ],
+      "program": [
+        {
+          "workId": "farrenc-ouvertuere-nr-1-e-moll"
+        },
+        {
+          "workId": "finzi-klarinettenkonzert-c-moll"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-nr-8-c-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": "5. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/schostakowitsch-acht/5878",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2537006",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-11-wuppertal-schostakowitsch-acht",
+      "title": "Schostakowitsch acht",
+      "eventType": "concert",
+      "date": "2027-01-11",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "ana-maria-patino-osorio"
+      ],
+      "soloistPersonIds": [
+        "shelly-ezra"
+      ],
+      "program": [
+        {
+          "workId": "farrenc-ouvertuere-nr-1-e-moll"
+        },
+        {
+          "workId": "finzi-klarinettenkonzert-c-moll"
+        },
+        {
+          "workId": "schostakowitsch-sinfonie-nr-8-c-moll"
+        }
+      ],
+      "seriesId": null,
+      "description": "5. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/schostakowitsch-acht/5879",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545565",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-16-wuppertal-teufelstriller-sonate",
+      "title": "Teufelstriller Sonate",
+      "eventType": "concert",
+      "date": "2027-01-16",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "insel-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "jaha-lee"
+      ],
+      "soloistPersonIds": [
+        "bernadette-pihusch"
+      ],
+      "program": [
+        {
+          "workId": "mozart-divertimento-d-dur"
+        },
+        {
+          "workId": "tartini-sonate-g-moll-teufelstriller-sonate"
+        },
+        {
+          "workId": "janacek-idyll-fuer-streichorchester"
+        }
+      ],
+      "seriesId": null,
+      "description": "Uptown Classics /2. Musikalische Leitung: Jaha Lee.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/teufelstriller-sonate/5899",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2521308",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-17-wuppertal-teufelstriller-sonate",
+      "title": "Teufelstriller Sonate",
+      "eventType": "concert",
+      "date": "2027-01-17",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "nachbarschaftsheim-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "jaha-lee"
+      ],
+      "soloistPersonIds": [
+        "bernadette-pihusch"
+      ],
+      "program": [
+        {
+          "workId": "mozart-divertimento-d-dur"
+        },
+        {
+          "workId": "tartini-sonate-g-moll-teufelstriller-sonate"
+        },
+        {
+          "workId": "janacek-idyll-fuer-streichorchester"
+        }
+      ],
+      "seriesId": null,
+      "description": "Uptown Classics /2. Musikalische Leitung: Jaha Lee.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/teufelstriller-sonate/5900",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2538247",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-24-wuppertal-dvorak-acht",
+      "title": "Dvořák acht",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "pietari-inkinen"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "blacher-orchestervariationen-ueber-ein-thema-von-paganini"
+        },
+        {
+          "workId": "hindemith-mathis-der-maler-sinfonie"
+        },
+        {
+          "workId": "dvorak-sinfonie-nr-8-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "6. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/dvorak-acht/5881",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2537007",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-24-wuppertal-ohrenkitzel-dvorak",
+      "title": "Ohrenkitzel im 6. Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "dvorak-sinfonie-nr-8-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "Musikpraktische Konzerteinführung für Kinder (6–10 Jahre) zum 6. Sinfoniekonzert unter Leitung von Kristin Susan Catalán.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/1498-ohrenkitzel-im-6-sinfoniekonzert/5920",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-25-wuppertal-dvorak-acht",
+      "title": "Dvořák acht",
+      "eventType": "concert",
+      "date": "2027-01-25",
+      "startTime": "19:30",
+      "endTime": "21:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "pietari-inkinen"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "blacher-orchestervariationen-ueber-ein-thema-von-paganini"
+        },
+        {
+          "workId": "hindemith-mathis-der-maler-sinfonie"
+        },
+        {
+          "workId": "dvorak-sinfonie-nr-8-g-dur"
+        }
+      ],
+      "seriesId": null,
+      "description": "6. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/dvorak-acht/5882",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545571",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-01-30-wuppertal-ohrenoeffner-die-stimme",
+      "title": "Der Körper als Instrument: Die Stimme",
+      "eventType": "concert",
+      "date": "2027-01-30",
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "citykirche-elberfeld",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Ohrenöffner-Gesprächskonzert »Der Körper als Instrument: Die Stimme«. Moderation: Bjørn Woll; Gesprächsgast: Rebekah Rota. Eintritt frei.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/der-korper-als-instrument-die-stimme/5917",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-01-wuppertal-kammerkonzert-spiritus-feminae",
+      "title": "Spiritus Feminae",
+      "eventType": "concert",
+      "date": "2027-02-01",
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "ulrike-siebler",
+        "eva-hoegel",
+        "anne-yumino-weber",
+        "rayle-ernest-bligh",
+        "jee-young-philips"
+      ],
+      "program": [
+        {
+          "workId": "netzel-preludio-e-fughetta"
+        },
+        {
+          "workId": "bonis-suite-en-trio"
+        },
+        {
+          "workId": "smith-klaviertrio-cornwall"
+        },
+        {
+          "workId": "sakar-wind-touch"
+        },
+        {
+          "workId": "beamish-stone-salt-and-sky"
+        },
+        {
+          "workId": "chernin-spirit-and-the-maiden"
+        },
+        {
+          "workId": "larsen-four-on-the-floor"
+        }
+      ],
+      "seriesId": null,
+      "description": "3. Kammerkonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/spiritus-feminae/5856",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2536998",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-07-wuppertal-familienkonzert-karnevals-knaller",
+      "title": "Juris Karnevals-Klassik-Knaller",
+      "eventType": "concert",
+      "date": "2027-02-07",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "juya-shin"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Johann Strauss, John Williams und weiteren. Familienkonzert (ab 6 Jahren); Moderation: Juri Tetzlaff.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/juris-karnevals-klassik-knaller/5855",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2521247",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-07-wuppertal-orgel-akzent-transkription",
+      "title": "Orgel-Transkription",
+      "eventType": "concert",
+      "date": "2027-02-07",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "zuzana-ferjencikova"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "2. Orgel-Akzent mit Orgel-Transkriptionen.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/orgel-transkription/5914",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543501",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-14-wuppertal-tschaikowski-klavierkonzert-1",
+      "title": "Tschaikowskis erstes Klavierkonzert",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "carl-st-clair"
+      ],
+      "soloistPersonIds": [
+        "claire-huangci"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowski-klavierkonzert-nr-1-b-moll"
+        },
+        {
+          "workId": "bruckner-sinfonie-7"
+        }
+      ],
+      "seriesId": null,
+      "description": "7. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/tschaikowskis-erstes-klavierkonzert/5883",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2537008",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-15-wuppertal-tschaikowski-klavierkonzert-1",
+      "title": "Tschaikowskis erstes Klavierkonzert",
+      "eventType": "concert",
+      "date": "2027-02-15",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "carl-st-clair"
+      ],
+      "soloistPersonIds": [
+        "claire-huangci"
+      ],
+      "program": [
+        {
+          "workId": "tschaikowski-klavierkonzert-nr-1-b-moll"
+        },
+        {
+          "workId": "bruckner-sinfonie-7"
+        }
+      ],
+      "seriesId": null,
+      "description": "7. Sinfoniekonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/tschaikowskis-erstes-klavierkonzert/5884",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545575",
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-18-wuppertal-schulkonzert-peer-gynt-0930",
+      "title": "Peer Gynt",
+      "eventType": "concert",
+      "date": "2027-02-18",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "koji-ishizaka"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Edvard Grieg. Schulkonzert für die 5. und 6. Klasse; Moderation: Nadja Karasjew.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/peer-gynt/5851",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-02-18-wuppertal-schulkonzert-peer-gynt-1145",
+      "title": "Peer Gynt",
+      "eventType": "concert",
+      "date": "2027-02-18",
+      "startTime": "11:45",
+      "endTime": "12:45",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "koji-ishizaka"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Edvard Grieg. Schulkonzert für die 5. und 6. Klasse; Moderation: Nadja Karasjew.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/peer-gynt/5852",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-02-wuppertal-schulkonzert-karneval-der-tiere-0930",
+      "title": "Karneval der Tiere",
+      "eventType": "concert",
+      "date": "2027-03-02",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "yorgos-ziavras"
+      ],
+      "soloistPersonIds": [
+        "vincent-heeren",
+        "lea-maria-terziyska"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Camille Saint-Saëns. Schulkonzert für Grundschulen; Konzept: Gerald Hacke, Nicola Hammer, Andreas Heimann.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/1494-karneval-der-tiere/5858",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-02-wuppertal-schulkonzert-karneval-der-tiere-1115",
+      "title": "Karneval der Tiere",
+      "eventType": "concert",
+      "date": "2027-03-02",
+      "startTime": "11:15",
+      "endTime": "12:15",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "yorgos-ziavras"
+      ],
+      "soloistPersonIds": [
+        "vincent-heeren",
+        "lea-maria-terziyska"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Camille Saint-Saëns. Schulkonzert für Grundschulen; Konzept: Gerald Hacke, Nicola Hammer, Andreas Heimann.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/1494-karneval-der-tiere/5859",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-03-wuppertal-schulkonzert-karneval-der-tiere-0930",
+      "title": "Karneval der Tiere",
+      "eventType": "concert",
+      "date": "2027-03-03",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "yorgos-ziavras"
+      ],
+      "soloistPersonIds": [
+        "vincent-heeren",
+        "lea-maria-terziyska"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Camille Saint-Saëns. Schulkonzert für Grundschulen; Konzept: Gerald Hacke, Nicola Hammer, Andreas Heimann.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/1494-karneval-der-tiere/5860",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-03-wuppertal-schulkonzert-karneval-der-tiere-1115",
+      "title": "Karneval der Tiere",
+      "eventType": "concert",
+      "date": "2027-03-03",
+      "startTime": "11:15",
+      "endTime": "12:15",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "yorgos-ziavras"
+      ],
+      "soloistPersonIds": [
+        "vincent-heeren",
+        "lea-maria-terziyska"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Camille Saint-Saëns. Schulkonzert für Grundschulen; Konzept: Gerald Hacke, Nicola Hammer, Andreas Heimann.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/1494-karneval-der-tiere/5861",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-04-wuppertal-schulkonzert-karneval-der-tiere-0930",
+      "title": "Karneval der Tiere",
+      "eventType": "concert",
+      "date": "2027-03-04",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "yorgos-ziavras"
+      ],
+      "soloistPersonIds": [
+        "vincent-heeren",
+        "lea-maria-terziyska"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Camille Saint-Saëns. Schulkonzert für Grundschulen; Konzept: Gerald Hacke, Nicola Hammer, Andreas Heimann.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/1494-karneval-der-tiere/5862",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-04-wuppertal-schulkonzert-karneval-der-tiere-1115",
+      "title": "Karneval der Tiere",
+      "eventType": "concert",
+      "date": "2027-03-04",
+      "startTime": "11:15",
+      "endTime": "12:15",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [
+        "yorgos-ziavras"
+      ],
+      "soloistPersonIds": [
+        "vincent-heeren",
+        "lea-maria-terziyska"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Musik von Camille Saint-Saëns. Schulkonzert für Grundschulen; Konzept: Gerald Hacke, Nicola Hammer, Andreas Heimann.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/1494-karneval-der-tiere/5863",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2027-03-08-wuppertal-kammerkonzert-cantos-y-danzas",
+      "title": "Cantos y Danzas",
+      "eventType": "concert",
+      "date": "2027-03-08",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "status": "scheduled",
+      "ensembleIds": [
+        "sinfonieorchester-wuppertal"
+      ],
+      "venueId": "historische-stadthalle-wuppertal",
+      "cityId": "wuppertal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "liviu-neagu-gruber",
+        "axel-hess",
+        "ayane-koga",
+        "joel-woepke",
+        "manuela-randlinger",
+        "soeren-alexander-golz"
+      ],
+      "program": [
+        {
+          "workId": "arriaga-streichquartett-nr-2-a-dur"
+        },
+        {
+          "workId": "albeniz-cordoba-aus-cantos-de-espana"
+        },
+        {
+          "workId": "falla-danza-espanola-nr-1-aus-la-vida-breve"
+        },
+        {
+          "workId": "albeniz-asturias-aus-der-suite-espanola"
+        },
+        {
+          "workId": "falla-danza-ritual-del-fuego-aus-el-amor-brujo"
+        },
+        {
+          "workId": "ravel-tzigane-fantaisie-de-concert"
+        }
+      ],
+      "seriesId": null,
+      "description": "4. Kammerkonzert.",
+      "source": {
+        "url": "https://www.sinfonieorchester-wuppertal.de/konzerte/detailansicht-auffuehrung/cantos-y-danzas/5867",
+        "name": "Sinfonieorchester Wuppertal",
+        "retrievedAt": "2026-08-19"
+      },
+      "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2537000",
+      "lastVerified": "2026-08-19"
     }
   ]
 }
