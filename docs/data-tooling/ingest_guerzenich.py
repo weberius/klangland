@@ -21,6 +21,7 @@ import argparse, datetime, html, json, os, re, sys, unicodedata, urllib.request
 
 SRC_HOST = "guerzenich-orchester.de"
 SRC_NAME = "Gürzenich-Orchester Köln"
+CALENDAR_URL = f"https://www.{SRC_HOST}/de/konzerte"
 ENSEMBLE_ID = "guerzenich-orchester-koeln"
 
 SITEMAP = "https://www.guerzenich-orchester.de/de/sitemap.xml"
@@ -540,7 +541,7 @@ for e in season:
             "venueId":vid,"cityId":"koeln","conductorPersonIds":list(conductors),
             "soloistPersonIds":list(soloists),"program":list(prog),"seriesId":None,
             "description":description,
-            "source":{"url":f"https://www.{SRC_HOST}/de/event-detail/{slug}","name":SRC_NAME,"retrievedAt":TODAY},
+            "source":{"url":f"https://www.{SRC_HOST}/de/event-detail/{slug}","calendarUrl":CALENDAR_URL,"name":SRC_NAME,"retrievedAt":TODAY},
             "ticketUrl":perf.get("ticket"),"lastVerified":TODAY,
         })
 

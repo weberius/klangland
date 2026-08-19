@@ -33,6 +33,7 @@ from typing import Any, Dict, List, Optional, Tuple
 BASE = "https://www.beethoven-orchester.de"
 ARCHIVE = f"{BASE}/archiv/26-27/"
 DETAIL_BASE = f"{BASE}/konzerte/"
+CALENDAR_URL = f"{BASE}/konzerte/"
 SOURCE_HOST = "beethoven-orchester.de"
 SOURCE_NAME = "Beethoven Orchester Bonn"
 ENSEMBLE_ID = "beethoven-orchester-bonn"
@@ -489,7 +490,7 @@ def main() -> int:
             "conductorPersonIds": info.get("conductors", []),
             "soloistPersonIds": info.get("soloists", []),
             "program": info.get("program", []), "seriesId": None, "description": None,
-            "source": {"url": DETAIL_BASE + e["slug"] + "/", "name": SOURCE_NAME, "retrievedAt": RETRIEVED_AT},
+            "source": {"url": DETAIL_BASE + e["slug"] + "/", "calendarUrl": CALENDAR_URL, "name": SOURCE_NAME, "retrievedAt": RETRIEVED_AT},
             "ticketUrl": e["ticket"], "lastVerified": RETRIEVED_AT,
         })
 

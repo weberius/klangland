@@ -161,6 +161,7 @@ export type EventType = 'concert' | 'opera' | 'festival';
 
 export interface EventSource {
   url: string;
+  calendarUrl: string | null;
   name: string;
   retrievedAt: string;
 }

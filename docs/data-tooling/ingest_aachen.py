@@ -29,6 +29,7 @@ from typing import Any, Dict, List
 
 SOURCE_HOST = "theateraachen.de"
 SOURCE_NAME = "Theater Aachen"
+CALENDAR_URL = "https://www.theateraachen.de/de/seiten/konzerte-2627.html"
 ENSEMBLE_ID = "sinfonieorchester-aachen"
 CITY_ID = "aachen"
 VENUE_ID = "eurogress-aachen"
@@ -423,6 +424,7 @@ def main() -> int:
                 "description": c["description"],
                 "source": {
                     "url": detail_url(c["slug"]),
+                    "calendarUrl": CALENDAR_URL,
                     "name": SOURCE_NAME,
                     "retrievedAt": RETRIEVED_AT,
                 },

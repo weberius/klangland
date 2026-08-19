@@ -66,9 +66,24 @@ Das erlaubt unterschiedliche Uhrzeiten, Spielstätten, Besetzungen und Statuswer
 | `program[].movement` / `movements` | optional aufgeführter Satz oder Sätze |
 | `program[].version` | optional aufgeführte Fassung |
 | `seriesId` | vorbereitete Referenz auf eine spätere Reihen-Entität |
-| `source` | ursprüngliche Quelle und Abrufdatum |
+| `source` | Herkunftsobjekt mit `url`, `calendarUrl`, `name` und `retrievedAt` |
+| `source.url` | konkrete Veranstaltungsseite des Events (Pflicht) |
+| `source.calendarUrl` | Kalender-/Übersichtsseite, über die das Event recherchiert wurde; darf `null` sein |
+| `source.name` | Organisation bzw. Anbieter der primären Quelle |
+| `source.retrievedAt` | Datum des letzten Abrufs bzw. der Recherche |
 | `lastVerified` | letzte fachliche Prüfung des Events |
-| `ticketUrl` | optionaler Ticketlink |
+| `ticketUrl` | optionaler direkter Ticketlink, sofern vorhanden |
+
+Ein `source`-Objekt sieht damit z. B. so aus:
+
+```json
+{
+  "url": "https://www.koelner-philharmonie.de/de/konzerte/aufbruch-marie-jacquot-yulianna-avdeeva/9250",
+  "calendarUrl": "https://www1.wdr.de/orchester-und-chor/sinfonieorchester/konzerte/termine",
+  "name": "Kölner Philharmonie",
+  "retrievedAt": "2026-08-17"
+}
+```
 
 ## Werke und Programm
 
@@ -113,7 +128,7 @@ Das Datenpflegewerkzeug soll mindestens prüfen:
 - gültige ISO-Daten und `HH:MM`-Uhrzeiten;
 - vorhandene Referenzen auf Ensembles, Venues, Cities und Personen;
 - erlaubte Status- und Eventtypwerte;
-- vorhandene Quelle und `lastVerified`;
+- vorhandene Quelle und `lastVerified`; `source.url` ist Pflicht, `source.calendarUrl` ist optional (`null` zulässig);
 - keine versehentliche Zusammenfassung mehrerer Aufführungen in einem Event.
 
 Abgesagte oder verschobene Veranstaltungen werden nicht gelöscht. Ihr Status wird aktualisiert, damit die Änderungshistorie über Git nachvollziehbar bleibt.

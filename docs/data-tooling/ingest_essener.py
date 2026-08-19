@@ -583,6 +583,7 @@ def main():
             'description': perf.get('description') or perf.get('program') or None,
             'source': {
                 'url': perf['url'],
+                'calendarUrl': SEASON_URL,
                 'name': 'Theater und Philharmonie Essen',
                 'retrievedAt': datetime.now().strftime('%Y-%m-%d'),
             },

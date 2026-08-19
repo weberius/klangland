@@ -430,7 +430,7 @@ def main() -> int:
             "conductorPersonIds": info.get("conductors", []),
             "soloistPersonIds": info.get("soloists", []),
             "program": info.get("program", []), "seriesId": None, "description": None,
-            "source": {"url": BASE + it["detail"], "name": SOURCE_NAME, "retrievedAt": RETRIEVED_AT},
+            "source": {"url": BASE + it["detail"], "calendarUrl": CALENDAR, "name": SOURCE_NAME, "retrievedAt": RETRIEVED_AT},
             "ticketUrl": it["ticket"], "lastVerified": RETRIEVED_AT,
         })
 

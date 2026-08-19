@@ -35,6 +35,7 @@ from typing import Any, Dict, List, Optional, Tuple
 
 BASE = "https://www.theaterdo.de"
 CALENDAR = f"{BASE}/kalender/?tx_solr%5Bpage%5D="
+CALENDAR_URL = f"{BASE}/kalender/"
 DETAIL_BASE = f"{BASE}/produktionen/detail/"
 SOURCE_HOST = "theaterdo.de"
 SOURCE_NAME = "Theater Dortmund / Dortmunder Philharmoniker"
@@ -473,7 +474,7 @@ def main() -> int:
             "program": info.get("program", []),
             "seriesId": None,
             "description": None,
-            "source": {"url": DETAIL_BASE + p["slug"] + "/", "name": SOURCE_NAME, "retrievedAt": RETRIEVED_AT},
+            "source": {"url": DETAIL_BASE + p["slug"] + "/", "calendarUrl": CALENDAR_URL, "name": SOURCE_NAME, "retrievedAt": RETRIEVED_AT},
             "ticketUrl": p["ticket"],
             "lastVerified": RETRIEVED_AT,
         })

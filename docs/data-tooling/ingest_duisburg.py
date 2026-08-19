@@ -408,7 +408,7 @@ def main() -> int:
                 "ensembleIds": [ENSEMBLE_ID], "venueId": vid, "cityId": CITY_ID,
                 "conductorPersonIds": cond_ids, "soloistPersonIds": sol_ids,
                 "program": prog, "seriesId": None, "description": description,
-                "source": {"url": DETAIL_BASE + slug + "/", "name": SOURCE_NAME, "retrievedAt": RETRIEVED_AT},
+                "source": {"url": DETAIL_BASE + slug + "/", "calendarUrl": CALENDAR, "name": SOURCE_NAME, "retrievedAt": RETRIEVED_AT},
                 "ticketUrl": ticket, "lastVerified": RETRIEVED_AT,
             })
         if i % 20 == 0:

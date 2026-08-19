@@ -39,6 +39,7 @@ from typing import Any, Dict, List, Optional, Tuple
 BASE = "https://www.bochumer-symphoniker.de"
 SEARCH_ENDPOINT = f"{BASE}/programm?type=1691066967"
 DETAIL_BASE = f"{BASE}/programm/detail/"
+CALENDAR_URL = f"{BASE}/programm"
 SOURCE_HOST = "bochumer-symphoniker.de"
 SOURCE_NAME = "Bochumer Symphoniker"
 ENSEMBLE_ID = "bochumer-symphoniker"
@@ -610,6 +611,7 @@ def main() -> int:
                 "description": description,
                 "source": {
                     "url": DETAIL_BASE + slug,
+                    "calendarUrl": CALENDAR_URL,
                     "name": SOURCE_NAME,
                     "retrievedAt": RETRIEVED_AT,
                 },

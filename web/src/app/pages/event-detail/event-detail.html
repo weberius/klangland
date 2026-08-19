@@ -101,6 +101,11 @@
           <a [href]="event()!.source!.url" target="_blank" rel="noopener">{{ event()!.source!.name }}</a>
           <span class="muted"> (abgerufen am {{ event()!.source!.retrievedAt }})</span>
         </p>
+        @if (event()!.source!.calendarUrl) {
+          <p>
+            <a [href]="event()!.source!.calendarUrl" target="_blank" rel="noopener">Kalender/Übersicht der Quelle</a>
+          </p>
+        }
         @if (event()!.lastVerified) {
           <p class="muted">Zuletzt geprüft: {{ event()!.lastVerified }}</p>
         }

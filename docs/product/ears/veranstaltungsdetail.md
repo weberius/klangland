@@ -60,3 +60,7 @@ eine eigene, teilbare URL erreichbar. Siehe auch
 
 - **DET-16** (zustandsgesteuert): SOLANGE eine Veranstaltung nicht den Status „geplant" hat,
   MUSS die Veranstaltungsdetailseite den abweichenden Status (z. B. „abgesagt") ausweisen.
+
+- **DET-17** (optionales Merkmal): SOFERN zur Quelle einer Veranstaltung eine Kalender- bzw.
+  Übersichtsseite hinterlegt ist, MUSS die Veranstaltungsdetailseite einen zusätzlichen
+  Verweis auf diese Seite anzeigen.

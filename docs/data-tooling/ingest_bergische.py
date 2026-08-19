@@ -24,6 +24,7 @@ SEASON = "2026/27"
 ENSEMBLE_ID = "bergische-symphoniker"
 SRC_HOST = "bergischesymphoniker.de"
 SRC_NAME = "Bergische Symphoniker"
+CALENDAR_URL = f"https://{SRC_HOST}/konzerte"
 
 # Repo paths, resolved relative to this file (docs/data-tooling/ -> repo root).
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
@@ -520,7 +521,7 @@ for c in concerts:
             "ensembleIds":[ENSEMBLE_ID],"venueId":vid,"cityId":cid,
             "conductorPersonIds":list(conductors),"soloistPersonIds":list(soloists),
             "program":list(prog),"seriesId":None,"description":description,
-            "source":{"url":f"https://{SRC_HOST}/konzerte/{c['slug']}","name":SRC_NAME,"retrievedAt":TODAY},
+            "source":{"url":f"https://{SRC_HOST}/konzerte/{c['slug']}","calendarUrl":CALENDAR_URL,"name":SRC_NAME,"retrievedAt":TODAY},
             "ticketUrl":perf.get("ticketUrl"),"lastVerified":TODAY,
         }
         new_events.append(ev)

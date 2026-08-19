@@ -52,6 +52,16 @@ Funktionalität: Veranstaltungsdetail
     Dann sehe ich einen Quellenlink "Tonhalle Düsseldorf"
     Und den Hinweis "(abgerufen am 2026-08-17)"
 
+  Szenario: Kalenderseite der Quelle wird angezeigt, wenn hinterlegt
+    Angenommen "Mahler 3" hat zur Quelle eine Kalender- bzw. Übersichtsseite hinterlegt
+    Wenn ich die Detailseite von "Mahler 3" öffne
+    Dann sehe ich zusätzlich einen Verweis auf die Kalender-/Übersichtsseite der Quelle
+
+  Szenario: Ohne Kalenderseite kein Kalender-Link
+    Angenommen für "Mahler 3" ist zur Quelle keine Kalender- bzw. Übersichtsseite hinterlegt
+    Wenn ich die Detailseite von "Mahler 3" öffne
+    Dann wird kein Verweis auf eine Kalender-/Übersichtsseite angezeigt
+
   Szenario: Ticket-Verweis nur bei hinterlegter Ticket-URL
     Angenommen für "Mahler 3" ist keine Ticket-URL hinterlegt
     Wenn ich die Detailseite von "Mahler 3" öffne

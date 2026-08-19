@@ -27,6 +27,7 @@ function normalizeSource(event: ConcertEvent): ConcertEvent['source'] {
   if (!event.source) return null;
   return {
     url: event.source.url,
+    calendarUrl: event.source.calendarUrl ?? null,
     name: event.source.name || 'Unbekannte Quelle',
     retrievedAt: event.source.retrievedAt || event.lastVerified || '',
   };
