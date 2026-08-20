@@ -1,0 +1,61 @@
+<button
+  #toggleButton
+  type="button"
+  class="filter-toggle"
+  [class.active]="filter.hasSelection()"
+  aria-haspopup="dialog"
+  [attr.aria-expanded]="open()"
+  aria-controls="filter-popover"
+  (click)="toggle()"
+>
+  <span class="filter-icon" aria-hidden="true"></span>
+  <span class="filter-toggle-text">Filter</span>
+  @if (filter.activeCount() > 0) {
+    <span class="filter-count" aria-hidden="true">{{ filter.activeCount() }}</span>
+    <span class="visually-hidden">, {{ filter.activeCount() }} aktiv</span>
+  }
+</button>
+
+@if (open()) {
+  <div id="filter-popover" class="filter-popover" role="dialog" aria-label="Filter">
+    <section class="filter-section">
+      <h2 class="filter-heading">Ort</h2>
+      <div class="chip-row" role="group" aria-label="Nach Ort filtern">
+        @for (city of cities(); track city.id) {
+          <button
+            type="button"
+            class="chip"
+            [class.selected]="filter.isCitySelected(city.id)"
+            [attr.aria-pressed]="filter.isCitySelected(city.id)"
+            [attr.aria-label]="city.name"
+            [attr.title]="city.name"
+            (click)="filter.toggleCity(city.id)"
+          >{{ city.plate }}</button>
+        }
+      </div>
+    </section>
+
+    <section class="filter-section">
+      <h2 class="filter-heading">Musikprofil</h2>
+      <div class="chip-row" role="group" aria-label="Nach Musikprofil filtern">
+        @for (profile of profiles(); track profile.id) {
+          <button
+            type="button"
+            class="chip"
+            [class.selected]="filter.isProfileSelected(profile.id)"
+            [attr.aria-pressed]="filter.isProfileSelected(profile.id)"
+            (click)="filter.toggleProfile(profile.id)"
+          >{{ profile.label }}</button>
+        }
+      </div>
+    </section>
+
+    @if (filter.hasSelection()) {
+      <div class="filter-actions">
+        <button type="button" class="btn btn-reset" (click)="filter.clear()">
+          Alle zurücksetzen
+        </button>
+      </div>
+    }
+  </div>
+}

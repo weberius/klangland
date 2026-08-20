@@ -4,14 +4,14 @@ import { RouterLink } from '@angular/router';
 import { DataService } from '../../core/data.service';
 import { FilterService } from '../../core/filter.service';
 import { Ensemble } from '../../models/models';
-import { CityFilter } from '../../shared/city-filter/city-filter';
+import { PageHeader } from '../../shared/page-header/page-header';
 import {
   ENSEMBLE_ROLE_LABELS, ENSEMBLE_TYPE_LABELS, MUSICAL_PROFILE_LABELS, label,
 } from '../../core/labels';
 
 @Component({
   selector: 'app-ensemble-list',
-  imports: [RouterLink, CityFilter],
+  imports: [RouterLink, PageHeader],
   templateUrl: './ensemble-list.html',
   styleUrl: './ensemble-list.css',
 })
@@ -19,7 +19,9 @@ export class EnsembleListPage {
   private data = inject(DataService);
   private filter = inject(FilterService);
 
-  readonly ensembles = computed(() => this.data.ensemblesForCities(this.filter.selectedIds()));
+  readonly ensembles = computed(() =>
+    this.data.ensemblesForFilter(this.filter.selectedCityIds(), this.filter.selectedProfileIds()),
+  );
 
   cityName(e: Ensemble): string {
     return this.data.cityNames(e.cityIds) || e.region || '';

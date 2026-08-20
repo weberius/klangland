@@ -48,9 +48,9 @@
 
 .global-search {
   position: relative;
-  flex: 1 1 20rem;
-  min-width: 10rem;
-  max-width: 44rem;
+  flex: 1 1 14rem;
+  min-width: 8rem;
+  max-width: 28rem;
 }
 
 .search-input {

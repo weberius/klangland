@@ -1,7 +1,4 @@
-<section class="page-header">
-  <h1>Konzertkalender</h1>
-  <app-city-filter [description]="pageDescription()" />
-</section>
+<app-page-header heading="Konzertkalender" [description]="pageDescription()" />
 
 <div class="month-nav" role="group" aria-label="Monatsnavigation">
   <a class="btn btn-nav" [routerLink]="prevLink()" rel="prev" aria-label="Vorheriger Monat"><span aria-hidden="true">&lt;</span></a>

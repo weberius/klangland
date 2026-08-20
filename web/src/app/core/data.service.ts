@@ -3,8 +3,9 @@ import { HttpClient } from '@angular/common/http';
 import { firstValueFrom, forkJoin } from 'rxjs';
 
 import {
-  City, Composer, ConcertEvent, Ensemble, Institution, Metadata, Person, Venue, Work,
+  City, Composer, ConcertEvent, Ensemble, Institution, Metadata, MusicalProfile, Person, Venue, Work,
 } from '../models/models';
+import { MUSICAL_PROFILE_LABELS } from './labels';
 import { APP_CONFIG } from './app-config';
 
 export type SearchDocumentKind = 'event' | 'ensemble' | 'venue';
@@ -365,14 +366,16 @@ export class DataService {
     return this.venue(ensemble.venueId);
   }
 
-  // ---- Ort-Filter (US-011) -------------------------------------------------
-  // Der Ort-Filter wirkt konsistent über den Sitzort der Ensembles
-  // (ensemble.cityIds). Eine leere Auswahl bedeutet in allen *ForCities-
-  // Methoden „alles anzeigen" (Aufrufer-Konvention).
+  // ---- Kombinierter Filter (US-020) ----------------------------------------
+  // Der Filter wirkt über die auftretenden Ensembles: Ort = Sitzort der Ensembles
+  // (ensemble.cityIds), Profil = ensemble.musicalProfiles. Verknüpfung: ODER
+  // innerhalb einer Kategorie, UND zwischen den Kategorien – wobei Ort und Profil
+  // von demselben Ensemble erfüllt sein müssen. Eine leere Kategorie schränkt nicht
+  // ein; sind beide leer, gilt in allen *ForFilter-Methoden „alles anzeigen".
 
   /**
    * Städte, in denen mindestens ein Ensemble seinen Sitz hat UND die ein
-   * Kfz-Kennzeichen tragen – Quelle der Filter-Bubbles. Städte, die nur als
+   * Kfz-Kennzeichen tragen – Quelle der Ort-Chips im Popover. Städte, die nur als
    * Veranstaltungsort auftreten oder kein Kennzeichen haben, sind ausgeschlossen.
    * Sortiert nach Anzeigename.
    */
@@ -388,36 +391,63 @@ export class DataService {
   }
 
   /**
-   * Events, bei denen mindestens ein auftretendes Ensemble seinen Sitz in einer
-   * der `cityIds` hat (Gastspiele erscheinen also unter dem Sitzort). Leere
-   * Auswahl = alle Events.
+   * Musikprofile, die bei mindestens einem Ensemble tatsächlich vorkommen –
+   * Quelle der Profil-Chips im Popover. Nicht vorkommende Profile fehlen.
+   * Sortiert nach deutschem Label.
    */
-  eventsForCities(cityIds: ReadonlySet<string>): ConcertEvent[] {
-    if (cityIds.size === 0) return this.events;
-    return this.events.filter((e) => this.ensemblesSitInCities(e.ensembleIds, cityIds));
-  }
-
-  /** Ensembles mit Sitz in einer der ausgewählten Städte. Leere Auswahl = alle. */
-  ensemblesForCities(cityIds: ReadonlySet<string>): Ensemble[] {
-    if (cityIds.size === 0) return this.ensembles;
-    return this.ensembles.filter((e) => e.cityIds.some((id) => cityIds.has(id)));
+  filterProfiles(): { id: MusicalProfile; label: string }[] {
+    const ids = new Set<MusicalProfile>();
+    for (const ensemble of this.store?.ensembles.values() ?? []) {
+      for (const profile of ensemble.musicalProfiles) ids.add(profile);
+    }
+    return [...ids]
+      .map((id) => ({ id, label: MUSICAL_PROFILE_LABELS[id] }))
+      .sort((a, b) => a.label.localeCompare(b.label, 'de'));
   }
 
   /**
-   * Spielstätten, in denen Ensembles der ausgewählten Städte auftreten
-   * (über eventsForCities → venueId), unabhängig vom Standort der Spielstätte.
+   * Events, bei denen mindestens ein auftretendes Ensemble die Filterkombination
+   * erfüllt (Gastspiele erscheinen also unter dem Sitzort). Leere Auswahl = alle.
+   */
+  eventsForFilter(cityIds: ReadonlySet<string>, profileIds: ReadonlySet<string>): ConcertEvent[] {
+    if (cityIds.size === 0 && profileIds.size === 0) return this.events;
+    return this.events.filter((e) =>
+      e.ensembleIds.some((id) => {
+        const ensemble = this.ensemble(id);
+        return ensemble ? this.ensembleMatches(ensemble, cityIds, profileIds) : false;
+      }),
+    );
+  }
+
+  /** Ensembles, die die Filterkombination erfüllen. Leere Auswahl = alle. */
+  ensemblesForFilter(cityIds: ReadonlySet<string>, profileIds: ReadonlySet<string>): Ensemble[] {
+    if (cityIds.size === 0 && profileIds.size === 0) return this.ensembles;
+    return this.ensembles.filter((e) => this.ensembleMatches(e, cityIds, profileIds));
+  }
+
+  /**
+   * Spielstätten, in denen Ensembles auftreten, die die Filterkombination erfüllen
+   * (über eventsForFilter → venueId), unabhängig vom Standort der Spielstätte.
    * Leere Auswahl = alle Spielstätten.
    */
-  venuesForCities(cityIds: ReadonlySet<string>): Venue[] {
-    if (cityIds.size === 0) return this.venues;
-    const venueIds = new Set(this.eventsForCities(cityIds).map((e) => e.venueId));
+  venuesForFilter(cityIds: ReadonlySet<string>, profileIds: ReadonlySet<string>): Venue[] {
+    if (cityIds.size === 0 && profileIds.size === 0) return this.venues;
+    const venueIds = new Set(this.eventsForFilter(cityIds, profileIds).map((e) => e.venueId));
     return this.venues.filter((v) => venueIds.has(v.id));
   }
 
-  private ensemblesSitInCities(ensembleIds: string[], cityIds: ReadonlySet<string>): boolean {
-    return ensembleIds.some((id) => {
-      const ensemble = this.ensemble(id);
-      return ensemble?.cityIds.some((cid) => cityIds.has(cid)) ?? false;
-    });
+  /**
+   * Erfüllt ein einzelnes Ensemble die Filterkombination? Ort UND Profil müssen von
+   * demselben Ensemble erfüllt sein; eine leere Kategorie schränkt nicht ein.
+   */
+  private ensembleMatches(
+    ensemble: Ensemble,
+    cityIds: ReadonlySet<string>,
+    profileIds: ReadonlySet<string>,
+  ): boolean {
+    const cityOk = cityIds.size === 0 || ensemble.cityIds.some((id) => cityIds.has(id));
+    const profileOk =
+      profileIds.size === 0 || ensemble.musicalProfiles.some((p) => profileIds.has(p));
+    return cityOk && profileOk;
   }
 }

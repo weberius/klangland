@@ -6,10 +6,11 @@ import { filter } from 'rxjs';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import Fuse from 'fuse.js';
 import { DataService, SearchDocument } from './core/data.service';
+import { FilterButton } from './shared/filter-button/filter-button';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, RouterLink, RouterLinkActive],
+  imports: [RouterOutlet, RouterLink, RouterLinkActive, FilterButton],
   templateUrl: './app.html',
   styleUrl: './app.css',
 })

@@ -1,7 +1,7 @@
-<section class="page-header">
-  <h1>Spielstätten</h1>
-  <app-city-filter description="Konzerthäuser, Philharmonien und Theater in Nordrhein-Westfalen." />
-</section>
+<app-page-header
+  heading="Spielstätten"
+  description="Konzerthäuser, Philharmonien und Theater in Nordrhein-Westfalen."
+/>
 
 @if (venues().length === 0) {
   <p class="empty">Keine Spielstätten erfasst.</p>

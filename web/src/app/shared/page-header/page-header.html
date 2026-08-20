@@ -1,0 +1,33 @@
+<div class="page-heading">
+  <h1>{{ heading() }}</h1>
+  @if (description()) {
+    <button
+      type="button"
+      class="info-toggle"
+      [attr.aria-expanded]="descriptionOpen()"
+      aria-controls="page-description"
+      [attr.aria-label]="descriptionOpen() ? 'Beschreibung ausblenden' : 'Beschreibung einblenden'"
+      (click)="toggleDescription()"
+    >i</button>
+  }
+</div>
+
+@if (description() && descriptionOpen()) {
+  <p id="page-description" class="muted page-description">{{ description() }}</p>
+}
+
+@if (activeChips().length > 0) {
+  <div class="active-filters" role="group" aria-label="Aktive Filter">
+    @for (chip of activeChips(); track chip.key) {
+      <button
+        type="button"
+        class="active-chip"
+        [attr.aria-label]="'Filter ' + chip.label + ' entfernen'"
+        (click)="removeChip(chip)"
+      >
+        <span class="active-chip-label">{{ chip.label }}</span>
+        <span class="active-chip-x" aria-hidden="true">✕</span>
+      </button>
+    }
+  </div>
+}

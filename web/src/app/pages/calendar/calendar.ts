@@ -6,7 +6,7 @@ import { DataService } from '../../core/data.service';
 import { FilterService } from '../../core/filter.service';
 import { APP_CONFIG } from '../../core/app-config';
 import { ConcertEvent } from '../../models/models';
-import { CityFilter } from '../../shared/city-filter/city-filter';
+import { PageHeader } from '../../shared/page-header/page-header';
 import {
   WEEKDAYS_SHORT_DE, addMonths, formatMonthYear, isoDate, pad2, parseIso, weekdayMondayFirst,
 } from '../../core/date-util';
@@ -28,7 +28,7 @@ interface AgendaDay {
 
 @Component({
   selector: 'app-calendar',
-  imports: [RouterLink, CityFilter],
+  imports: [RouterLink, PageHeader],
   templateUrl: './calendar.html',
   styleUrl: './calendar.css',
 })
@@ -45,7 +45,10 @@ export class CalendarPage {
    */
   private readonly eventsByDate = computed(() => {
     const map = new Map<string, ConcertEvent[]>();
-    for (const e of this.data.eventsForCities(this.filter.selectedIds())) {
+    for (const e of this.data.eventsForFilter(
+      this.filter.selectedCityIds(),
+      this.filter.selectedProfileIds(),
+    )) {
       const list = map.get(e.date);
       if (list) list.push(e);
       else map.set(e.date, [e]);
