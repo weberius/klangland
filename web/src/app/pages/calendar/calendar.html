@@ -39,7 +39,11 @@
               <ul class="day-events">
                 @for (e of (isExpanded(cell.iso) ? cell.events : cell.events.slice(0, VISIBLE)); track e.id) {
                   <li>
-                    <a class="event-chip" [routerLink]="eventLink(e)" [class.cancelled]="e.status === 'cancelled'">
+                    <a class="event-chip" [routerLink]="eventLink(e)" [class.cancelled]="e.status === 'cancelled'" [class.is-favorite]="isFavorite(e)">
+                      @if (isFavorite(e)) {
+                        <span class="favorite-marker" aria-hidden="true">★</span>
+                        <span class="visually-hidden">Favorit</span>
+                      }
                       @if (time(e)) { <span class="chip-time">{{ time(e) }}</span> }
                       <span class="chip-title">{{ e.title }}</span>
                       <span class="chip-sub">{{ ensembleName(e) }}</span>
@@ -89,7 +93,11 @@
         </div>
         <ul class="agenda-events">
           @for (e of d.events; track e.id) {
-            <a class="agenda-event" [routerLink]="eventLink(e)">
+            <a class="agenda-event" [class.is-favorite]="isFavorite(e)" [routerLink]="eventLink(e)">
+              @if (isFavorite(e)) {
+                <span class="favorite-marker" aria-hidden="true">★</span>
+                <span class="visually-hidden">Favorit</span>
+              }
               <div class="agenda-event-head">
                 @if (time(e)) { <span class="chip-time">{{ time(e) }}</span> }
                 <span class="agenda-title">{{ e.title }}</span>

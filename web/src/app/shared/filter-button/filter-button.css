@@ -119,6 +119,39 @@
   color: #fff;
 }
 
+/* Favoriten-Abschnitt (US-021) */
+.favorites-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.favorites-hint {
+  margin: 0.5rem 0 0;
+  font-size: 0.8rem;
+}
+.share-result {
+  margin-top: 0.6rem;
+}
+.share-status {
+  margin: 0 0 0.35rem;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+.share-link {
+  width: 100%;
+  padding: 0.35rem 0.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  background: var(--color-surface-alt);
+  color: var(--color-text);
+  font: inherit;
+  font-size: 0.8rem;
+}
+.share-link:focus-visible {
+  outline: 2px solid var(--color-highlight);
+  outline-offset: 2px;
+}
+
 .filter-actions {
   margin-top: 1rem;
   display: flex;

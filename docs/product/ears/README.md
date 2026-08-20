@@ -36,6 +36,7 @@ in fester Zuordnung zu den fünf EARS-Mustern:
 | [`suche.md`](suche.md) | Globale Suche im Header über den Datenbestand |
 | [`filter.md`](filter.md) | Ort-Filter über Bubbles (Sitzort) für Kalender, Ensembles und Spielstätten |
 | [`kalender-eintrag.md`](kalender-eintrag.md) | „In den Kalender eintragen" (clientseitige `.ics`-Erzeugung auf der Detailseite) |
+| [`favoriten.md`](favoriten.md) | Favoriten für Events (Markieren, Übersicht, „Nur Favoriten"-Filter, Teilen per Link) |
 | [`datenpflege.md`](datenpflege.md) | Ingest-Skripte und Datenintegrität (Daten-Tooling) |
 
 ## Konventionen
@@ -44,9 +45,10 @@ in fester Zuordnung zu den fünf EARS-Mustern:
 - Genau **ein** System pro Anforderung; das System steht im jeweiligen Dokumentkopf.
 - Anforderungen beschreiben **beobachtbares** Verhalten, keine Implementierungsdetails.
 - Umfang = umgesetzter Stand, inkl. Ort-Filter
-  ([US-011 Filter](../planning/doing/US-011-filter.md) → [`filter.md`](filter.md)) und
-  Kalender-Eintrag ([US-012](../planning/doing/US-012-kalender-eintrag.md) →
-  [`kalender-eintrag.md`](kalender-eintrag.md)).
+  ([US-011 Filter](../planning/doing/US-011-filter.md) → [`filter.md`](filter.md)),
+  Kalender-Eintrag ([US-012](../planning/done/US-012-kalender-eintrag.md) →
+  [`kalender-eintrag.md`](kalender-eintrag.md)) und Favoriten
+  ([US-021](../planning/done/US-021-favoriten.md) → [`favoriten.md`](favoriten.md)).
 
 ## Bezug zu anderen Dokumenten
 

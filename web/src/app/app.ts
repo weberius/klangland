@@ -1,11 +1,12 @@
 import {
-  Component, ElementRef, HostListener, computed, inject, signal, viewChild,
+  Component, ElementRef, HostListener, computed, effect, inject, signal, viewChild,
 } from '@angular/core';
 import { NavigationEnd, Router, RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 import { filter } from 'rxjs';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import Fuse from 'fuse.js';
 import { DataService, SearchDocument } from './core/data.service';
+import { FavoritesService } from './core/favorites.service';
 import { FilterButton } from './shared/filter-button/filter-button';
 
 @Component({
@@ -17,6 +18,7 @@ import { FilterButton } from './shared/filter-button/filter-button';
 export class App {
   protected readonly data = inject(DataService);
   private readonly router = inject(Router);
+  private readonly favorites = inject(FavoritesService);
   private readonly MIN_SEARCH_CHARS = 3;
   private readonly SEARCH_LIMIT = 12;
 
@@ -54,6 +56,26 @@ export class App {
         this.menuOpen.set(false);
         this.searchOpen.set(false);
       });
+
+    // US-021: Favoriten aus dem Query-Parameter eines geteilten Links einmalig
+    // wiederherstellen, sobald der Datenbestand geladen ist. Es werden nur
+    // existierende Event-IDs übernommen; die App schreibt die Auswahl danach
+    // nicht laufend zurück in die URL.
+    const requestedFavorites = this.readFavoritesFromUrl();
+    if (requestedFavorites.length > 0) {
+      const restore = effect(() => {
+        if (!this.data.loaded()) return;
+        this.favorites.setFromIds(requestedFavorites.filter((id) => !!this.data.event(id)));
+        restore.destroy();
+      });
+    }
+  }
+
+  /** Liest die Favoriten-IDs aus dem `favorites`-Query-Parameter der Startadresse. */
+  private readFavoritesFromUrl(): string[] {
+    const raw = new URLSearchParams(window.location.search).get('favorites');
+    if (!raw) return [];
+    return raw.split(',').map((id) => id.trim()).filter((id) => id.length > 0);
   }
 
   toggleMenu(): void {

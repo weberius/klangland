@@ -21,6 +21,17 @@
           <a class="btn btn-primary" [href]="event()!.ticketUrl" target="_blank" rel="noopener">Tickets</a>
         }
         <button type="button" class="btn" (click)="addToCalendar()">In den Kalender eintragen</button>
+        <button
+          type="button"
+          class="btn btn-favorite"
+          [class.is-favorite]="isFavorite()"
+          [attr.aria-pressed]="isFavorite()"
+          [attr.aria-label]="isFavorite() ? 'Aus Favoriten entfernen' : 'Zu Favoriten hinzufügen'"
+          (click)="toggleFavorite()"
+        >
+          <span class="favorite-star" aria-hidden="true">{{ isFavorite() ? '★' : '☆' }}</span>
+          {{ isFavorite() ? 'Favorit' : 'Merken' }}
+        </button>
       </p>
     </header>
 

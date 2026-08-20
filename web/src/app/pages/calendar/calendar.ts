@@ -4,6 +4,7 @@ import { toSignal } from '@angular/core/rxjs-interop';
 
 import { DataService } from '../../core/data.service';
 import { FilterService } from '../../core/filter.service';
+import { FavoritesService } from '../../core/favorites.service';
 import { APP_CONFIG } from '../../core/app-config';
 import { ConcertEvent } from '../../models/models';
 import { PageHeader } from '../../shared/page-header/page-header';
@@ -35,20 +36,24 @@ interface AgendaDay {
 export class CalendarPage {
   protected readonly data = inject(DataService);
   private readonly filter = inject(FilterService);
+  private readonly favorites = inject(FavoritesService);
   private route = inject(ActivatedRoute);
   private params = toSignal(this.route.paramMap);
 
   /**
-   * Nach der aktiven Ort-Auswahl (Sitzort der Ensembles) gefilterte Events,
-   * gruppiert nach Datum und je Tag chronologisch sortiert. Leere Auswahl =
-   * alle Events.
+   * Nach der aktiven Ort-/Profil-Auswahl (Sitzort der Ensembles) gefilterte
+   * Events, gruppiert nach Datum und je Tag chronologisch sortiert. Leere
+   * Auswahl = alle Events. Ist zusätzlich der Favoriten-Filter aktiv (US-021),
+   * bleiben nur favorisierte Events übrig (UND-Kombination mit Ort/Profil).
    */
   private readonly eventsByDate = computed(() => {
     const map = new Map<string, ConcertEvent[]>();
+    const onlyFavorites = this.favorites.onlyFavorites();
     for (const e of this.data.eventsForFilter(
       this.filter.selectedCityIds(),
       this.filter.selectedProfileIds(),
     )) {
+      if (onlyFavorites && !this.favorites.isFavorite(e.id)) continue;
       const list = map.get(e.date);
       if (list) list.push(e);
       else map.set(e.date, [e]);
@@ -209,6 +214,10 @@ export class CalendarPage {
   }
   eventLink(e: ConcertEvent): unknown[] {
     return ['/events', e.id];
+  }
+  /** Ob ein Event in der Übersicht als Favorit gekennzeichnet wird (US-021). */
+  isFavorite(e: ConcertEvent): boolean {
+    return this.favorites.isFavorite(e.id);
   }
 
   protected readonly pad2 = pad2;

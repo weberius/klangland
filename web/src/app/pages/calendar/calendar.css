@@ -97,6 +97,7 @@
   gap: 0.25rem;
 }
 .event-chip {
+  position: relative;
   display: block;
   text-decoration: none;
   background: var(--color-accent-soft);
@@ -106,6 +107,19 @@
   font-size: 0.75rem;
   color: var(--color-text);
   line-height: 1.25;
+}
+/* Favoriten-Marker (US-021): Stern oben rechts, rein informativ. */
+.event-chip.is-favorite .chip-title {
+  padding-right: 0.9rem;
+}
+.favorite-marker {
+  position: absolute;
+  top: 0.15rem;
+  right: 0.3rem;
+  color: #c69a2e;
+  font-size: 0.8rem;
+  line-height: 1;
+  pointer-events: none;
 }
 .event-chip:hover {
   background: #e8dac9;
@@ -197,9 +211,13 @@
   flex: 1;
 }
 .agenda-event {
+  position: relative;
   display: block;
   text-decoration: none;
   color: var(--color-text);
+}
+.agenda-event.is-favorite {
+  padding-right: 1.1rem;
 }
 .agenda-event:hover .agenda-title {
   text-decoration: underline;

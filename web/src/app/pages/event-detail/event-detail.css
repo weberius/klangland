@@ -18,6 +18,23 @@
   margin: 0.75rem 0 0;
 }
 
+/* Favoriten-Toggle (US-021): Stern + Text, Aktivzustand goldfarben. */
+.btn-favorite {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.btn-favorite.is-favorite {
+  border-color: var(--color-accent);
+  color: var(--color-accent-strong);
+  background: var(--color-accent-soft);
+}
+.btn-favorite .favorite-star {
+  font-size: 1.1rem;
+  line-height: 1;
+  color: #c69a2e;
+}
+
 .detail-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;

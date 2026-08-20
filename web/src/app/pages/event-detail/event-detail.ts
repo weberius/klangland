@@ -3,6 +3,7 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
 import { toSignal } from '@angular/core/rxjs-interop';
 
 import { DataService } from '../../core/data.service';
+import { FavoritesService } from '../../core/favorites.service';
 import { Composer, ConcertEvent, Ensemble, Venue, Work } from '../../models/models';
 import { formatFullDate } from '../../core/date-util';
 import { buildEventIcs, icsFileName } from '../../core/ics';
@@ -28,6 +29,7 @@ interface ProgramLine {
 })
 export class EventDetailPage {
   protected readonly data = inject(DataService);
+  protected readonly favorites = inject(FavoritesService);
   private route = inject(ActivatedRoute);
   private params = toSignal(this.route.paramMap);
 
@@ -35,6 +37,18 @@ export class EventDetailPage {
     const id = this.params()?.get('id');
     return id ? this.data.event(id) : undefined;
   });
+
+  /** Ob der aktuelle Event als Favorit markiert ist (US-021). */
+  readonly isFavorite = computed(() => {
+    const e = this.event();
+    return e ? this.favorites.isFavorite(e.id) : false;
+  });
+
+  /** Schaltet die Favoriten-Markierung des aktuellen Events um. */
+  toggleFavorite(): void {
+    const e = this.event();
+    if (e) this.favorites.toggle(e.id);
+  }
 
   readonly fullDate = computed(() => {
     const e = this.event();

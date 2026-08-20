@@ -2,7 +2,7 @@
   #toggleButton
   type="button"
   class="filter-toggle"
-  [class.active]="filter.hasSelection()"
+  [class.active]="activeCount() > 0"
   aria-haspopup="dialog"
   [attr.aria-expanded]="open()"
   aria-controls="filter-popover"
@@ -10,9 +10,9 @@
 >
   <span class="filter-icon" aria-hidden="true"></span>
   <span class="filter-toggle-text">Filter</span>
-  @if (filter.activeCount() > 0) {
-    <span class="filter-count" aria-hidden="true">{{ filter.activeCount() }}</span>
-    <span class="visually-hidden">, {{ filter.activeCount() }} aktiv</span>
+  @if (activeCount() > 0) {
+    <span class="filter-count" aria-hidden="true">{{ activeCount() }}</span>
+    <span class="visually-hidden">, {{ activeCount() }} aktiv</span>
   }
 </button>
 
@@ -50,9 +50,45 @@
       </div>
     </section>
 
-    @if (filter.hasSelection()) {
+    <section class="filter-section">
+      <h2 class="filter-heading">Favoriten</h2>
+      <div class="favorites-controls">
+        <button
+          type="button"
+          class="chip"
+          [class.selected]="favorites.onlyFavorites()"
+          [attr.aria-pressed]="favorites.onlyFavorites()"
+          (click)="favorites.toggleOnlyFavorites()"
+        >★ Nur Favoriten</button>
+        @if (favorites.hasFavorites()) {
+          <button type="button" class="chip share-chip" (click)="share()">Teilen</button>
+        }
+      </div>
+      @if (!favorites.hasFavorites()) {
+        <p class="favorites-hint muted">Noch keine Favoriten markiert.</p>
+      }
+      @if (shareUrl(); as link) {
+        <div class="share-result">
+          @if (copied()) {
+            <p class="share-status" role="status">Link in die Zwischenablage kopiert.</p>
+          } @else {
+            <p class="share-status" role="status">Link zum Kopieren:</p>
+          }
+          <input
+            class="share-link"
+            type="text"
+            readonly
+            [value]="link"
+            aria-label="Teilen-Link zu den Favoriten"
+            (focus)="$any($event.target).select()"
+          />
+        </div>
+      }
+    </section>
+
+    @if (canReset()) {
       <div class="filter-actions">
-        <button type="button" class="btn btn-reset" (click)="filter.clear()">
+        <button type="button" class="btn btn-reset" (click)="resetAll()">
           Alle zurücksetzen
         </button>
       </div>
