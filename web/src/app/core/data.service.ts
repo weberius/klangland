@@ -7,6 +7,17 @@ import {
 } from '../models/models';
 import { APP_CONFIG } from './app-config';
 
+export type SearchDocumentKind = 'event' | 'ensemble' | 'venue';
+
+export interface SearchDocument {
+  id: string;
+  kind: SearchDocumentKind;
+  title: string;
+  subtitle: string;
+  route: readonly [string, string];
+  searchText: string;
+}
+
 interface Store {
   metadata: Metadata | null;
   cities: Map<string, City>;
@@ -17,6 +28,7 @@ interface Store {
   composers: Map<string, Composer>;
   works: Map<string, Work>;
   events: ConcertEvent[];
+  searchDocuments: SearchDocument[];
 }
 
 function index<T extends { id: string }>(items: T[]): Map<string, T> {
@@ -45,6 +57,136 @@ function normalizeEvent(event: ConcertEvent): ConcertEvent {
     ticketUrl: event.ticketUrl ?? null,
     lastVerified: event.lastVerified ?? event.source?.retrievedAt ?? null,
   };
+}
+
+function joinDefined(values: Array<string | null | undefined>, separator: string): string {
+  return values
+    .map((value) => value?.trim())
+    .filter((value): value is string => Boolean(value))
+    .join(separator);
+}
+
+function buildSearchDocuments(params: {
+  events: ConcertEvent[];
+  cities: Map<string, City>;
+  people: Map<string, Person>;
+  ensembles: Map<string, Ensemble>;
+  venues: Map<string, Venue>;
+  composers: Map<string, Composer>;
+  works: Map<string, Work>;
+}): SearchDocument[] {
+  const {
+    events, cities, people, ensembles, venues, composers, works,
+  } = params;
+  const documents: SearchDocument[] = [];
+
+  for (const event of events) {
+    const venueName = venues.get(event.venueId)?.name ?? '';
+    const cityName = cities.get(event.cityId)?.name ?? '';
+    const ensembleNames = event.ensembleIds
+      .map((id) => ensembles.get(id)?.name ?? '')
+      .filter((name) => name.length > 0);
+    const conductorNames = event.conductorPersonIds
+      .map((id) => people.get(id)?.name ?? '')
+      .filter((name) => name.length > 0);
+    const soloistNames = event.soloistPersonIds
+      .map((id) => people.get(id)?.name ?? '')
+      .filter((name) => name.length > 0);
+    const workSearchParts = event.program.flatMap((item) => {
+      const work = works.get(item.workId);
+      if (!work) return [];
+      const composerName = composers.get(work.composerId)?.name ?? '';
+      return [work.title, composerName];
+    });
+
+    documents.push({
+      id: event.id,
+      kind: 'event',
+      title: event.title,
+      subtitle: joinDefined(
+        [
+          event.date,
+          event.startTime ? `${event.startTime} Uhr` : null,
+          ensembleNames.join(', '),
+          joinDefined([venueName, cityName], ', '),
+        ],
+        ' · ',
+      ),
+      route: ['/events', event.id],
+      searchText: joinDefined(
+        [
+          event.title,
+          event.description,
+          event.status,
+          event.source?.name,
+          venueName,
+          cityName,
+          ensembleNames.join(' '),
+          conductorNames.join(' '),
+          soloistNames.join(' '),
+          workSearchParts.join(' '),
+        ],
+        ' ',
+      ),
+    });
+  }
+
+  for (const ensemble of ensembles.values()) {
+    const cityNames = ensemble.cityIds
+      .map((id) => cities.get(id)?.name ?? '')
+      .filter((name) => name.length > 0);
+    const chiefConductorName = ensemble.chiefConductorPersonId
+      ? (people.get(ensemble.chiefConductorPersonId)?.name ?? '')
+      : '';
+
+    documents.push({
+      id: ensemble.id,
+      kind: 'ensemble',
+      title: ensemble.name,
+      subtitle: joinDefined([cityNames.join(' / '), ensemble.country], ', '),
+      route: ['/ensembles', ensemble.id],
+      searchText: joinDefined(
+        [
+          ensemble.name,
+          ensemble.description,
+          ensemble.type,
+          ensemble.roles.join(' '),
+          ensemble.musicalProfiles.join(' '),
+          chiefConductorName,
+          cityNames.join(' '),
+          ensemble.region,
+          ensemble.country,
+        ],
+        ' ',
+      ),
+    });
+  }
+
+  for (const venue of venues.values()) {
+    const cityNames = venue.cityIds
+      .map((id) => cities.get(id)?.name ?? '')
+      .filter((name) => name.length > 0);
+
+    documents.push({
+      id: venue.id,
+      kind: 'venue',
+      title: venue.name,
+      subtitle: joinDefined([cityNames.join(' / '), venue.address], ' · '),
+      route: ['/venues', venue.id],
+      searchText: joinDefined(
+        [
+          venue.name,
+          venue.address,
+          venue.region,
+          venue.type,
+          cityNames.join(' '),
+        ],
+        ' ',
+      ),
+    });
+  }
+
+  return documents;
 }
 
 /**
@@ -79,16 +221,34 @@ export class DataService {
           events: get<{ metadata: Metadata; events: ConcertEvent[] }>('events.json'),
         }),
       );
+      const cities = index(r.cities.cities);
+      const people = index(r.people.people);
+      const institutions = index(r.institutions.institutions);
+      const ensembles = index(r.ensembles.ensembles);
+      const venues = index(r.venues.venues);
+      const composers = index(r.composers.composers);
+      const works = index(r.works.works);
+      const events = r.events.events.map(normalizeEvent);
+
       this._store.set({
         metadata: r.events.metadata ?? null,
-        cities: index(r.cities.cities),
-        people: index(r.people.people),
-        institutions: index(r.institutions.institutions),
-        ensembles: index(r.ensembles.ensembles),
-        venues: index(r.venues.venues),
-        composers: index(r.composers.composers),
-        works: index(r.works.works),
-        events: r.events.events.map(normalizeEvent),
+        cities,
+        people,
+        institutions,
+        ensembles,
+        venues,
+        composers,
+        works,
+        events,
+        searchDocuments: buildSearchDocuments({
+          events,
+          cities,
+          people,
+          ensembles,
+          venues,
+          composers,
+          works,
+        }),
       });
     } catch (e) {
       console.error('Daten konnten nicht geladen werden', e);
@@ -151,6 +311,9 @@ export class DataService {
   }
   get seasonLabel(): string | null {
     return this.store?.metadata?.season ?? null;
+  }
+  get searchDocuments(): SearchDocument[] {
+    return this.store?.searchDocuments ?? [];
   }
 
   // ---- Beziehungen / abgeleitete Werte ------------------------------------

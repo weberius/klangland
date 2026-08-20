@@ -6,6 +6,50 @@
       <span class="brand-mark" aria-hidden="true">♪</span>
       <span class="brand-text">Klangland</span>
     </a>
+    <div #searchContainer class="global-search" role="search" aria-label="Globale Suche">
+      <span class="search-icon" aria-hidden="true"></span>
+      <input
+        #searchInput
+        id="global-search-input"
+        class="search-input"
+        type="search"
+        placeholder="Suche"
+        aria-label="In Klangland suchen"
+        autocomplete="off"
+        spellcheck="false"
+        [value]="searchQuery()"
+        [attr.aria-expanded]="searchOpen()"
+        aria-controls="global-search-results"
+        (input)="onSearchInput(searchInput.value)"
+        (focus)="onSearchFocus()"
+      />
+      @if (searchOpen()) {
+        <div id="global-search-results" class="search-results" role="region" aria-live="polite">
+          @if (searchNeedsMoreChars()) {
+            <p class="search-info muted">Mindestens 3 Zeichen eingeben.</p>
+          } @else if (searchShowsNoResults()) {
+            <p class="search-info muted">Keine Treffer gefunden.</p>
+          } @else if (searchShowsResults()) {
+            <ul class="search-result-list">
+              @for (result of searchResults(); track result.kind + ':' + result.id) {
+                <li>
+                  <a
+                    class="search-result-link"
+                    [routerLink]="result.route"
+                    (click)="selectSearchResult()"
+                  >
+                    <span class="search-result-title">{{ result.title }}</span>
+                    <span class="search-result-meta">
+                      {{ searchKindLabel(result) }} · {{ result.subtitle || 'Ohne Zusatzangaben' }}
+                    </span>
+                  </a>
+                </li>
+              }
+            </ul>
+          }
+        </div>
+      }
+    </div>
     <button
       #burgerButton
       type="button"

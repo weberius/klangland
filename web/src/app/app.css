@@ -28,7 +28,7 @@
 .header-inner {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 1rem;
   padding-block: 0.75rem;
 }
@@ -45,10 +45,109 @@
   color: var(--color-accent);
   font-size: 1.4rem;
 }
+
+.global-search {
+  position: relative;
+  flex: 1 1 20rem;
+  min-width: 10rem;
+  max-width: 44rem;
+}
+
+.search-input {
+  width: 100%;
+  height: 2.4rem;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: var(--color-surface);
+  color: var(--color-text);
+  padding: 0 0.9rem 0 2.2rem;
+}
+.search-input::placeholder {
+  color: var(--color-text-muted);
+}
+.search-input:focus-visible {
+  outline: 2px solid var(--color-highlight);
+  outline-offset: 2px;
+}
+
+.search-icon {
+  position: absolute;
+  left: 0.8rem;
+  top: 50%;
+  width: 0.75rem;
+  height: 0.75rem;
+  border: 2px solid var(--color-text-muted);
+  border-radius: 999px;
+  transform: translateY(-60%);
+  pointer-events: none;
+}
+.search-icon::after {
+  content: '';
+  position: absolute;
+  right: -0.35rem;
+  bottom: -0.35rem;
+  width: 0.42rem;
+  height: 2px;
+  background: var(--color-text-muted);
+  transform: rotate(45deg);
+  transform-origin: left center;
+}
+
+.search-results {
+  position: absolute;
+  top: calc(100% + 0.35rem);
+  left: 0;
+  right: 0;
+  z-index: 30;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  box-shadow: 0 8px 16px rgb(0 0 0 / 0.1);
+  max-height: min(65vh, 24rem);
+  overflow: auto;
+}
+
+.search-info {
+  margin: 0;
+  padding: 0.65rem 0.9rem;
+}
+
+.search-result-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.search-result-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.6rem 0.9rem;
+  text-decoration: none;
+  color: var(--color-text);
+}
+.search-result-link:hover {
+  background: var(--color-surface-alt);
+}
+.search-result-link:focus-visible {
+  outline: 2px solid var(--color-highlight);
+  outline-offset: -2px;
+}
+
+.search-result-title {
+  font-weight: 600;
+}
+
+.search-result-meta {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
 .main-nav {
   display: flex;
   gap: 0.5rem;
   flex-wrap: wrap;
+  margin-inline-start: auto;
 }
 .main-nav a {
   padding: 0.4rem 0.75rem;
@@ -155,5 +254,8 @@ main {
   .main-nav a {
     padding: 0.6rem 0.75rem;
     border-radius: var(--radius-sm);
+  }
+  .global-search {
+    min-width: 8.5rem;
   }
 }
