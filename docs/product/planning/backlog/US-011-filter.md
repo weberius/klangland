@@ -1,6 +1,0 @@
-# User Story 011 Filter
-
-Es soll ein Filter erstellt werden.
-Es gibt in ensembles.json das Feld "artisticProfile". Diese Information soll verwendet werden, um die Anzeige filtern zu können. Die Information werden als Kategorien bewertet. Eingangs werden die zugeordneten Kategorien einfach eingezeigt. Wenn auf eine Kategorie geklickt wird, wird ein Filter auf diese Kategorie gesetzt und im Weiteren berücksichtigt. Es ist möglich mehrere Kategorien zu markieren. Es gibt eine Möglichkeit, die ausgewählten Kategorien zurückzusetzen. 
-
-Es gibt weiterhin einen Filter über die cities. Der Filter wird wie der Filter über das Feld "artisticProfile" behandelt und erweitert ihn. Mit Klick auf einen einen Städtenamen filtert auf die entsprechende Stadt. Werden mehrere Städte ausgewählt, werden diese Städte im Filter berücksichtigt und ihre Konzerte dargestellt. Angezeigt werden die Städtenamen, wie in cities '"name": "Aachen"'. Aus Sicht der Daten werden aber cities.json '"id": "aachen"' bzw. events.json '"cityId": "koeln"' verwendet.
