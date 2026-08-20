@@ -3,8 +3,10 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
 import { toSignal } from '@angular/core/rxjs-interop';
 
 import { DataService } from '../../core/data.service';
+import { FilterService } from '../../core/filter.service';
 import { APP_CONFIG } from '../../core/app-config';
 import { ConcertEvent } from '../../models/models';
+import { CityFilter } from '../../shared/city-filter/city-filter';
 import {
   WEEKDAYS_SHORT_DE, addMonths, formatMonthYear, isoDate, pad2, parseIso, weekdayMondayFirst,
 } from '../../core/date-util';
@@ -26,14 +28,37 @@ interface AgendaDay {
 
 @Component({
   selector: 'app-calendar',
-  imports: [RouterLink],
+  imports: [RouterLink, CityFilter],
   templateUrl: './calendar.html',
   styleUrl: './calendar.css',
 })
 export class CalendarPage {
   protected readonly data = inject(DataService);
+  private readonly filter = inject(FilterService);
   private route = inject(ActivatedRoute);
   private params = toSignal(this.route.paramMap);
+
+  /**
+   * Nach der aktiven Ort-Auswahl (Sitzort der Ensembles) gefilterte Events,
+   * gruppiert nach Datum und je Tag chronologisch sortiert. Leere Auswahl =
+   * alle Events.
+   */
+  private readonly eventsByDate = computed(() => {
+    const map = new Map<string, ConcertEvent[]>();
+    for (const e of this.data.eventsForCities(this.filter.selectedIds())) {
+      const list = map.get(e.date);
+      if (list) list.push(e);
+      else map.set(e.date, [e]);
+    }
+    for (const list of map.values()) {
+      list.sort((a, b) => (a.startTime ?? '').localeCompare(b.startTime ?? ''));
+    }
+    return map;
+  });
+
+  private eventsOnDate(iso: string): ConcertEvent[] {
+    return this.eventsByDate().get(iso) ?? [];
+  }
 
   readonly weekdays = WEEKDAYS_SHORT_DE;
 
@@ -91,6 +116,13 @@ export class CalendarPage {
 
   readonly monthLabel = computed(() => formatMonthYear(this.current().year, this.current().month));
 
+  /** Hinter dem Info-Button verborgene Seitenbeschreibung. */
+  readonly pageDescription = computed(() => {
+    const base = 'Professionelle Orchester in Nordrhein-Westfalen';
+    const season = this.data.seasonLabel;
+    return season ? `${base} · Spielzeit ${season}` : base;
+  });
+
   readonly prevLink = computed(() => {
     const { year, month } = addMonths(this.current().year, this.current().month, -1);
     return ['/calendar', year, month];
@@ -119,7 +151,7 @@ export class CalendarPage {
         iso,
         inMonth: d.getMonth() === month - 1,
         isToday: iso === this.todayIso,
-        events: this.data.eventsOnDate(iso),
+        events: this.eventsOnDate(iso),
       });
     }
 
@@ -135,7 +167,7 @@ export class CalendarPage {
     const dim = new Date(year, month, 0).getDate();
     for (let day = 1; day <= dim; day++) {
       const iso = isoDate(year, month, day);
-      const events = this.data.eventsOnDate(iso);
+      const events = this.eventsOnDate(iso);
       if (events.length) {
         days.push({
           iso,
@@ -148,9 +180,15 @@ export class CalendarPage {
     return days;
   });
 
-  readonly monthEventCount = computed(() =>
-    this.data.eventsInMonth(this.current().year, this.current().month).length,
-  );
+  readonly monthEventCount = computed(() => {
+    const { year, month } = this.current();
+    const prefix = `${year}-${pad2(month)}`;
+    let count = 0;
+    for (const [iso, events] of this.eventsByDate()) {
+      if (iso.startsWith(prefix)) count += events.length;
+    }
+    return count;
+  });
 
   // Anzeigehilfen ------------------------------------------------------------
 

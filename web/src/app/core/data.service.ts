@@ -364,4 +364,60 @@ export class DataService {
   homeVenue(ensemble: Ensemble): Venue | undefined {
     return this.venue(ensemble.venueId);
   }
+
+  // ---- Ort-Filter (US-011) -------------------------------------------------
+  // Der Ort-Filter wirkt konsistent über den Sitzort der Ensembles
+  // (ensemble.cityIds). Eine leere Auswahl bedeutet in allen *ForCities-
+  // Methoden „alles anzeigen" (Aufrufer-Konvention).
+
+  /**
+   * Städte, in denen mindestens ein Ensemble seinen Sitz hat UND die ein
+   * Kfz-Kennzeichen tragen – Quelle der Filter-Bubbles. Städte, die nur als
+   * Veranstaltungsort auftreten oder kein Kennzeichen haben, sind ausgeschlossen.
+   * Sortiert nach Anzeigename.
+   */
+  filterCities(): City[] {
+    const ids = new Set<string>();
+    for (const ensemble of this.store?.ensembles.values() ?? []) {
+      for (const cityId of ensemble.cityIds) ids.add(cityId);
+    }
+    return [...ids]
+      .map((id) => this.city(id))
+      .filter((c): c is City => Boolean(c && c.plate))
+      .sort((a, b) => a.name.localeCompare(b.name, 'de'));
+  }
+
+  /**
+   * Events, bei denen mindestens ein auftretendes Ensemble seinen Sitz in einer
+   * der `cityIds` hat (Gastspiele erscheinen also unter dem Sitzort). Leere
+   * Auswahl = alle Events.
+   */
+  eventsForCities(cityIds: ReadonlySet<string>): ConcertEvent[] {
+    if (cityIds.size === 0) return this.events;
+    return this.events.filter((e) => this.ensemblesSitInCities(e.ensembleIds, cityIds));
+  }
+
+  /** Ensembles mit Sitz in einer der ausgewählten Städte. Leere Auswahl = alle. */
+  ensemblesForCities(cityIds: ReadonlySet<string>): Ensemble[] {
+    if (cityIds.size === 0) return this.ensembles;
+    return this.ensembles.filter((e) => e.cityIds.some((id) => cityIds.has(id)));
+  }
+
+  /**
+   * Spielstätten, in denen Ensembles der ausgewählten Städte auftreten
+   * (über eventsForCities → venueId), unabhängig vom Standort der Spielstätte.
+   * Leere Auswahl = alle Spielstätten.
+   */
+  venuesForCities(cityIds: ReadonlySet<string>): Venue[] {
+    if (cityIds.size === 0) return this.venues;
+    const venueIds = new Set(this.eventsForCities(cityIds).map((e) => e.venueId));
+    return this.venues.filter((v) => venueIds.has(v.id));
+  }
+
+  private ensemblesSitInCities(ensembleIds: string[], cityIds: ReadonlySet<string>): boolean {
+    return ensembleIds.some((id) => {
+      const ensemble = this.ensemble(id);
+      return ensemble?.cityIds.some((cid) => cityIds.has(cid)) ?? false;
+    });
+  }
 }

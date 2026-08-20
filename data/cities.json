@@ -1,100 +1,118 @@
 {
   "metadata": {
-    "version": "1.1",
-    "lastUpdated": "2026-08-19",
+    "version": "1.2",
+    "lastUpdated": "2026-08-20",
     "language": "de",
-    "notes": "Normalisierte Ortsreferenzen. Enthält alle Sitzorte der erfassten Institutionen, Ensembles und Spielstätten sowie die von Events referenzierten Orte."
+    "notes": "Normalisierte Ortsreferenzen. Enthält alle Sitzorte der erfassten Institutionen, Ensembles und Spielstätten sowie die von Events referenzierten Orte. Städte mit ansässigem Ensemble tragen ihr Kfz-Kennzeichen (plate) als Grundlage der Ort-Filter-Bubbles."
   },
   "cities": [
     {
       "id": "aachen",
       "name": "Aachen",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "AC"
     },
     {
       "id": "bielefeld",
       "name": "Bielefeld",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "BI"
     },
     {
       "id": "bochum",
       "name": "Bochum",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "BO"
     },
     {
       "id": "bonn",
       "name": "Bonn",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "BN"
     },
     {
       "id": "dortmund",
       "name": "Dortmund",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "DO"
     },
     {
       "id": "duisburg",
       "name": "Duisburg",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "DU"
     },
     {
       "id": "duesseldorf",
       "name": "Düsseldorf",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "D"
     },
     {
       "id": "essen",
       "name": "Essen",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "E"
     },
     {
       "id": "hagen",
       "name": "Hagen",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "HA"
     },
     {
       "id": "koeln",
       "name": "Köln",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "K"
     },
     {
       "id": "krefeld",
       "name": "Krefeld",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "KR"
     },
     {
       "id": "moenchengladbach",
       "name": "Mönchengladbach",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "MG"
     },
     {
       "id": "muenster",
       "name": "Münster",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "MS"
     },
     {
       "id": "recklinghausen",
       "name": "Recklinghausen",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "RE"
     },
     {
       "id": "siegen",
       "name": "Siegen",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "SI"
     },
     {
       "id": "solingen",
       "name": "Solingen",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "SG"
     },
     {
       "id": "remscheid",
       "name": "Remscheid",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "RS"
     },
     {
       "id": "wuppertal",
       "name": "Wuppertal",
-      "country": "Deutschland"
+      "country": "Deutschland",
+      "plate": "W"
     },
     {
       "id": "leverkusen",

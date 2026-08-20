@@ -19,6 +19,7 @@ passend zur Domänensprache des Projekts (Schlüsselwörter: `Funktionalität`, 
 | [`spielstaetten.feature`](spielstaetten.feature) | Spielstättenübersicht und -profil inkl. Veranstaltungen |
 | [`datenladen-und-navigation.feature`](datenladen-und-navigation.feature) | Einmaliges Laden, Fehlerbehandlung, Hauptnavigation, 404, Referenzdatum |
 | [`suche.feature`](suche.feature) | Globale Suche im Header mit Mindestlänge und Fuzzy-Treffern |
+| [`filter.feature`](filter.feature) | Ort-Filter über Bubbles (Sitzort), Kennzeichen, Auswahl je Liste, Persistenz, Info-Toggle, Burger-Nav |
 
 ## Bezug zu anderen Dokumenten
 
@@ -31,10 +32,11 @@ passend zur Domänensprache des Projekts (Schlüsselwörter: `Funktionalität`, 
 ## Umfang und Abgrenzung
 
 Diese Contracts spiegeln den **implementierten** Stand (Kalender, Detailseiten, Profile,
-Datenladen, Suche). Noch nicht entwickelte Backlog-Stories erhalten eigene Contracts, sobald sie
-umgesetzt werden bzw. als Vorab-Spezifikation gewünscht sind:
+Datenladen, Suche, Ort-Filter). Noch nicht entwickelte Backlog-Stories erhalten eigene
+Contracts, sobald sie umgesetzt werden bzw. als Vorab-Spezifikation gewünscht sind.
 
-- [US-011 Filter](../planning/backlog/US-011-filter.md)
+Zuletzt spezifiziert: [US-011 Filter](../planning/doing/US-011-filter.md)
+→ [`filter.feature`](filter.feature).
 
 ## Konventionen
 

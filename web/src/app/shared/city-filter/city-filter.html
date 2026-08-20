@@ -1,0 +1,32 @@
+<div class="city-filter">
+  @if (cities().length > 0) {
+    <div class="filter-bubbles" role="group" aria-label="Nach Ort filtern">
+      @for (city of cities(); track city.id) {
+        <button
+          type="button"
+          class="bubble"
+          [class.selected]="filter.isSelected(city.id)"
+          [attr.aria-pressed]="filter.isSelected(city.id)"
+          [attr.aria-label]="city.name"
+          [attr.title]="city.name"
+          (click)="toggleCity(city.id)"
+        >{{ city.plate }}</button>
+      }
+    </div>
+  }
+
+  @if (description()) {
+    <button
+      type="button"
+      class="info-toggle"
+      [attr.aria-expanded]="descriptionOpen()"
+      aria-controls="city-filter-description"
+      [attr.aria-label]="descriptionOpen() ? 'Beschreibung ausblenden' : 'Beschreibung einblenden'"
+      (click)="toggleDescription()"
+    >i</button>
+  }
+</div>
+
+@if (description() && descriptionOpen()) {
+  <p id="city-filter-description" class="muted filter-description">{{ description() }}</p>
+}

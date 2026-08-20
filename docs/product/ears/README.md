@@ -34,6 +34,7 @@ in fester Zuordnung zu den fünf EARS-Mustern:
 | [`spielstaetten.md`](spielstaetten.md) | Spielstättenübersicht und -profil |
 | [`plattform-und-daten.md`](plattform-und-daten.md) | Statische Webapp, Datenladen, Fehler, Deep-Links, Barrierefreiheit |
 | [`suche.md`](suche.md) | Globale Suche im Header über den Datenbestand |
+| [`filter.md`](filter.md) | Ort-Filter über Bubbles (Sitzort) für Kalender, Ensembles und Spielstätten |
 | [`datenpflege.md`](datenpflege.md) | Ingest-Skripte und Datenintegrität (Daten-Tooling) |
 
 ## Konventionen
@@ -41,8 +42,8 @@ in fester Zuordnung zu den fünf EARS-Mustern:
 - Jede Anforderung hat eine stabile ID (`<PRÄFIX>-<Nr.>`) für Referenzierung und Tests.
 - Genau **ein** System pro Anforderung; das System steht im jeweiligen Dokumentkopf.
 - Anforderungen beschreiben **beobachtbares** Verhalten, keine Implementierungsdetails.
-- Umfang = umgesetzter Stand. Noch nicht entwickelte Backlog-Stories
-  ([US-011 Filter](../planning/backlog/US-011-filter.md)) sind hier nicht enthalten.
+- Umfang = umgesetzter Stand, inkl. Ort-Filter
+  ([US-011 Filter](../planning/doing/US-011-filter.md) → [`filter.md`](filter.md)).
 
 ## Bezug zu anderen Dokumenten
 

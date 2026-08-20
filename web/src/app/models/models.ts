@@ -14,6 +14,12 @@ export interface City {
   id: string;
   name: string;
   country: string;
+  /**
+   * Kfz-Kennzeichen der Stadt (z. B. Köln → „K"). Nur für Städte mit ansässigem
+   * Ensemble gepflegt; steuert die Ort-Filter-Bubbles (US-011). Städte ohne
+   * Kennzeichen erzeugen keine Bubble.
+   */
+  plate?: string;
 }
 
 export interface Person {

@@ -1,9 +1,6 @@
 <section class="page-header">
   <h1>Konzertkalender</h1>
-  <p class="muted">
-    Professionelle Orchester in Nordrhein-Westfalen
-    @if (data.seasonLabel) { · Spielzeit {{ data.seasonLabel }} }
-  </p>
+  <app-city-filter [description]="pageDescription()" />
 </section>
 
 <div class="month-nav" role="group" aria-label="Monatsnavigation">
