@@ -33,6 +33,7 @@ in fester Zuordnung zu den fünf EARS-Mustern:
 | [`ensembles.md`](ensembles.md) | Ensembleübersicht und -profil |
 | [`spielstaetten.md`](spielstaetten.md) | Spielstättenübersicht und -profil |
 | [`plattform-und-daten.md`](plattform-und-daten.md) | Statische Webapp, Datenladen, Fehler, Deep-Links, Barrierefreiheit |
+| [`suche.md`](suche.md) | Globale Suche im Header über den Datenbestand |
 | [`datenpflege.md`](datenpflege.md) | Ingest-Skripte und Datenintegrität (Daten-Tooling) |
 
 ## Konventionen
@@ -41,8 +42,7 @@ in fester Zuordnung zu den fünf EARS-Mustern:
 - Genau **ein** System pro Anforderung; das System steht im jeweiligen Dokumentkopf.
 - Anforderungen beschreiben **beobachtbares** Verhalten, keine Implementierungsdetails.
 - Umfang = umgesetzter Stand. Noch nicht entwickelte Backlog-Stories
-  ([US-010 Suche](../planning/backlog/US-010-search.md),
-  [US-011 Filter](../planning/backlog/US-011-filter.md)) sind hier nicht enthalten.
+  ([US-011 Filter](../planning/backlog/US-011-filter.md)) sind hier nicht enthalten.
 
 ## Bezug zu anderen Dokumenten
 

@@ -18,6 +18,7 @@ passend zur Domänensprache des Projekts (Schlüsselwörter: `Funktionalität`, 
 | [`ensembles.feature`](ensembles.feature) | Ensembleübersicht und -profil inkl. zugehöriger Veranstaltungen |
 | [`spielstaetten.feature`](spielstaetten.feature) | Spielstättenübersicht und -profil inkl. Veranstaltungen |
 | [`datenladen-und-navigation.feature`](datenladen-und-navigation.feature) | Einmaliges Laden, Fehlerbehandlung, Hauptnavigation, 404, Referenzdatum |
+| [`suche.feature`](suche.feature) | Globale Suche im Header mit Mindestlänge und Fuzzy-Treffern |
 
 ## Bezug zu anderen Dokumenten
 
@@ -30,10 +31,9 @@ passend zur Domänensprache des Projekts (Schlüsselwörter: `Funktionalität`, 
 ## Umfang und Abgrenzung
 
 Diese Contracts spiegeln den **implementierten** Stand (Kalender, Detailseiten, Profile,
-Datenladen). Noch nicht entwickelte Backlog-Stories erhalten eigene Contracts, sobald sie
+Datenladen, Suche). Noch nicht entwickelte Backlog-Stories erhalten eigene Contracts, sobald sie
 umgesetzt werden bzw. als Vorab-Spezifikation gewünscht sind:
 
-- [US-010 Suche](../planning/backlog/US-010-search.md)
 - [US-011 Filter](../planning/backlog/US-011-filter.md)
 
 ## Konventionen
