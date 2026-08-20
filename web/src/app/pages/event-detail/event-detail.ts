@@ -5,6 +5,7 @@ import { toSignal } from '@angular/core/rxjs-interop';
 import { DataService } from '../../core/data.service';
 import { Composer, ConcertEvent, Ensemble, Venue, Work } from '../../models/models';
 import { formatFullDate } from '../../core/date-util';
+import { buildEventIcs, icsFileName } from '../../core/ics';
 import {
   ENSEMBLE_TYPE_LABELS, EVENT_STATUS_LABELS, EVENT_TYPE_LABELS, GENRE_LABELS, label,
 } from '../../core/labels';
@@ -76,6 +77,41 @@ export class EventDetailPage {
       };
     }),
   );
+
+  /**
+   * Erzeugt clientseitig eine iCalendar-Datei (.ics) für dieses Event und bietet sie
+   * als Download an – ohne Backend-Aufruf (US-012). Zielsysteme (Apple/Google/Outlook)
+   * verstehen das Format nativ.
+   */
+  addToCalendar(): void {
+    const e = this.event();
+    if (!e) return;
+    const venue = this.venue();
+    const ics = buildEventIcs({
+      id: e.id,
+      title: e.title,
+      date: e.date,
+      startTime: e.startTime,
+      endTime: e.endTime,
+      status: e.status,
+      venueName: venue?.name ?? null,
+      venueAddress: venue?.address ?? null,
+      cityName: this.cityName() || null,
+      ensembleNames: this.ensembles().map((ens) => ens.name),
+      conductorNames: this.conductors(),
+      eventUrl: window.location.href,
+    });
+
+    const blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const anchor = document.createElement('a');
+    anchor.href = url;
+    anchor.download = icsFileName(e.id);
+    document.body.appendChild(anchor);
+    anchor.click();
+    anchor.remove();
+    URL.revokeObjectURL(url);
+  }
 
   ensembleTypeLabel(e: Ensemble): string {
     return label(ENSEMBLE_TYPE_LABELS, e.type);

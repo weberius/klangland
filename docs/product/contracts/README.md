@@ -20,6 +20,7 @@ passend zur Domänensprache des Projekts (Schlüsselwörter: `Funktionalität`, 
 | [`datenladen-und-navigation.feature`](datenladen-und-navigation.feature) | Einmaliges Laden, Fehlerbehandlung, Hauptnavigation, 404, Referenzdatum |
 | [`suche.feature`](suche.feature) | Globale Suche im Header mit Mindestlänge und Fuzzy-Treffern |
 | [`filter.feature`](filter.feature) | Ort-Filter über Bubbles (Sitzort), Kennzeichen, Auswahl je Liste, Persistenz, Info-Toggle, Burger-Nav |
+| [`kalender-eintrag.feature`](kalender-eintrag.feature) | „In den Kalender eintragen": clientseitige `.ics`-Erzeugung, Pflichtfelder, Zeitzone, ganztägig-Fallback, Absage, stabile UID |
 
 ## Bezug zu anderen Dokumenten
 
@@ -35,8 +36,8 @@ Diese Contracts spiegeln den **implementierten** Stand (Kalender, Detailseiten, 
 Datenladen, Suche, Ort-Filter). Noch nicht entwickelte Backlog-Stories erhalten eigene
 Contracts, sobald sie umgesetzt werden bzw. als Vorab-Spezifikation gewünscht sind.
 
-Zuletzt spezifiziert: [US-011 Filter](../planning/doing/US-011-filter.md)
-→ [`filter.feature`](filter.feature).
+Zuletzt spezifiziert: [US-012 Kalender-Eintrag](../planning/doing/US-012-kalender-eintrag.md)
+→ [`kalender-eintrag.feature`](kalender-eintrag.feature).
 
 ## Konventionen
 

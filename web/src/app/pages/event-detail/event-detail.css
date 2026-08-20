@@ -11,6 +11,12 @@
   font-size: 1.05rem;
   margin: 0.25rem 0;
 }
+.event-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.75rem 0 0;
+}
 
 .detail-grid {
   display: grid;

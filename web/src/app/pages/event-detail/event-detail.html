@@ -16,9 +16,12 @@
       @if (statusLabel()) {
         <p class="status-{{ event()!.status }}">{{ statusLabel() }}</p>
       }
-      @if (event()!.ticketUrl) {
-        <p><a class="btn btn-primary" [href]="event()!.ticketUrl" target="_blank" rel="noopener">Tickets</a></p>
-      }
+      <p class="event-actions">
+        @if (event()!.ticketUrl) {
+          <a class="btn btn-primary" [href]="event()!.ticketUrl" target="_blank" rel="noopener">Tickets</a>
+        }
+        <button type="button" class="btn" (click)="addToCalendar()">In den Kalender eintragen</button>
+      </p>
     </header>
 
     <div class="detail-grid">
