@@ -1,3 +1,7 @@
+/* Leaflet-Basis-Styles (US-013 Kartenseite). Als @import hier statt in angular.json,
+   damit ng serve die Regeln zuverlässig (hot-reload-fähig) einbindet. */
+@import 'leaflet/dist/leaflet.css';
+
 /* Klangland – globale Styles. Ruhig, hochwertig, gute Lesbarkeit. */
 
 :root {

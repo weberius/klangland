@@ -32,6 +32,7 @@ in fester Zuordnung zu den fünf EARS-Mustern:
 | [`veranstaltungsdetail.md`](veranstaltungsdetail.md) | Veranstaltungsdetailseite |
 | [`ensembles.md`](ensembles.md) | Ensembleübersicht und -profil |
 | [`spielstaetten.md`](spielstaetten.md) | Spielstättenübersicht und -profil |
+| [`karte.md`](karte.md) | Karte der Ensemble-Orte (`/cities`) inkl. Marker-Dialog und Ort-Filter |
 | [`plattform-und-daten.md`](plattform-und-daten.md) | Statische Webapp, Datenladen, Fehler, Deep-Links, Barrierefreiheit |
 | [`suche.md`](suche.md) | Globale Suche im Header über den Datenbestand |
 | [`filter.md`](filter.md) | Ort-Filter über Bubbles (Sitzort) für Kalender, Ensembles und Spielstätten |
@@ -45,10 +46,11 @@ in fester Zuordnung zu den fünf EARS-Mustern:
 - Genau **ein** System pro Anforderung; das System steht im jeweiligen Dokumentkopf.
 - Anforderungen beschreiben **beobachtbares** Verhalten, keine Implementierungsdetails.
 - Umfang = umgesetzter Stand, inkl. Ort-Filter
-  ([US-011 Filter](../planning/doing/US-011-filter.md) → [`filter.md`](filter.md)),
+  ([US-011 Filter](../planning/done/US-011-filter.md) → [`filter.md`](filter.md)),
   Kalender-Eintrag ([US-012](../planning/done/US-012-kalender-eintrag.md) →
-  [`kalender-eintrag.md`](kalender-eintrag.md)) und Favoriten
-  ([US-021](../planning/done/US-021-favoriten.md) → [`favoriten.md`](favoriten.md)).
+  [`kalender-eintrag.md`](kalender-eintrag.md)), Favoriten
+  ([US-021](../planning/done/US-021-favoriten.md) → [`favoriten.md`](favoriten.md)) und
+  Karte ([US-013](../planning/done/US-013-map-country.md) → [`karte.md`](karte.md)).
 
 ## Bezug zu anderen Dokumenten
 

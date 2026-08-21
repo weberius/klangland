@@ -391,6 +391,27 @@ export class DataService {
   }
 
   /**
+   * Städte mit mindestens einem ansässigen Ensemble UND hinterlegten Koordinaten –
+   * Quelle der roten Kartenmarker (US-013). Spielstätten-Orte ohne eigenes Ensemble
+   * sowie Ensemble-Orte ohne Koordinaten bleiben unberücksichtigt. Sortiert nach Name.
+   */
+  mapCities(): City[] {
+    const ids = new Set<string>();
+    for (const ensemble of this.store?.ensembles.values() ?? []) {
+      for (const cityId of ensemble.cityIds) ids.add(cityId);
+    }
+    return [...ids]
+      .map((id) => this.city(id))
+      .filter((c): c is City => Boolean(c?.coordinates))
+      .sort((a, b) => a.name.localeCompare(b.name, 'de'));
+  }
+
+  /** Ensembles mit Sitz in der angegebenen Stadt, sortiert nach Name. */
+  ensemblesInCity(cityId: string): Ensemble[] {
+    return this.ensembles.filter((e) => e.cityIds.includes(cityId));
+  }
+
+  /**
    * Musikprofile, die bei mindestens einem Ensemble tatsächlich vorkommen –
    * Quelle der Profil-Chips im Popover. Nicht vorkommende Profile fehlen.
    * Sortiert nach deutschem Label.

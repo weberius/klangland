@@ -17,6 +17,7 @@ passend zur Domänensprache des Projekts (Schlüsselwörter: `Funktionalität`, 
 | [`veranstaltungsdetail.feature`](veranstaltungsdetail.feature) | Termin, Mitwirkende, Programm, Spielstätte, Quelle, Tickets, „nicht gefunden" |
 | [`ensembles.feature`](ensembles.feature) | Ensembleübersicht und -profil inkl. zugehöriger Veranstaltungen |
 | [`spielstaetten.feature`](spielstaetten.feature) | Spielstättenübersicht und -profil inkl. Veranstaltungen |
+| [`karte.feature`](karte.feature) | Karte der Ensemble-Orte: rote Marker, Ensemble-Dialog, Ort-Filter setzen/entfernen, seitenübergreifende Wirkung |
 | [`datenladen-und-navigation.feature`](datenladen-und-navigation.feature) | Einmaliges Laden, Fehlerbehandlung, Hauptnavigation, 404, Referenzdatum |
 | [`suche.feature`](suche.feature) | Globale Suche im Header mit Mindestlänge und Fuzzy-Treffern |
 | [`filter.feature`](filter.feature) | Ort-Filter über Bubbles (Sitzort), Kennzeichen, Auswahl je Liste, Persistenz, Info-Toggle, Burger-Nav |
@@ -34,11 +35,11 @@ passend zur Domänensprache des Projekts (Schlüsselwörter: `Funktionalität`, 
 ## Umfang und Abgrenzung
 
 Diese Contracts spiegeln den **implementierten** Stand (Kalender, Detailseiten, Profile,
-Datenladen, Suche, Ort-Filter). Noch nicht entwickelte Backlog-Stories erhalten eigene
+Datenladen, Suche, Ort-Filter, Karte). Noch nicht entwickelte Backlog-Stories erhalten eigene
 Contracts, sobald sie umgesetzt werden bzw. als Vorab-Spezifikation gewünscht sind.
 
-Zuletzt spezifiziert: [US-021 Favoriten](../planning/done/US-021-favoriten.md)
-→ [`favoriten.feature`](favoriten.feature).
+Zuletzt spezifiziert: [US-013 Karte](../planning/done/US-013-map-country.md)
+→ [`karte.feature`](karte.feature).
 
 ## Konventionen
 

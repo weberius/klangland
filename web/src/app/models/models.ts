@@ -20,6 +20,12 @@ export interface City {
    * Kennzeichen erzeugen keine Bubble.
    */
   plate?: string;
+  /**
+   * Geokoordinaten der Stadt selbst (nicht einer Spielstätte). Nur für Städte mit
+   * ansässigem Ensemble gepflegt; Grundlage der Kartenmarker (US-013). Per Overpass-
+   * API recherchiert (siehe docs/data-tooling/geocode_cities.py).
+   */
+  coordinates?: Coordinates;
 }
 
 export interface Person {

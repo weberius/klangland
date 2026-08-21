@@ -16,11 +16,25 @@ erfassten Institutionen, Ensembles und Spielstätten sowie die von Events refere
 
 ## Beispiel
 
+Ein reiner Veranstaltungsort (ohne ansässiges Ensemble):
+
 ```json
 {
   "id": "duesseldorf",
   "name": "Düsseldorf",
   "country": "Deutschland"
+}
+```
+
+Eine Stadt mit ansässigem Ensemble trägt zusätzlich Kennzeichen und Koordinaten:
+
+```json
+{
+  "id": "koeln",
+  "name": "Köln",
+  "country": "Deutschland",
+  "plate": "K",
+  "coordinates": { "lat": 50.93866, "lng": 6.95995 }
 }
 ```
 
@@ -31,6 +45,12 @@ erfassten Institutionen, Ensembles und Spielstätten sowie die von Events refere
 | `id` | ja | string | Stabile Klangland-ID (`kebab-case`, ASCII-transliteriert). |
 | `name` | ja | string | Anzeigename des Ortes inkl. Diakritika. |
 | `country` | ja | string | Land, derzeit stets `Deutschland`. |
+| `plate` | optional | string | Kfz-Kennzeichen der Stadt (z. B. Köln → `K`). Nur für Städte mit ansässigem Ensemble gepflegt; beschriftet die Ort-Filter-Bubbles (US-011). Städte ohne Kennzeichen erzeugen keine Bubble. |
+| `coordinates` | optional | object | Geokoordinaten der **Stadt selbst** (nicht einer Spielstätte), Form `{ "lat": number, "lng": number }`. Nur für Städte mit ansässigem Ensemble gepflegt; Grundlage der roten Kartenmarker (US-013). Per Overpass-API recherchiert (siehe [`geocode_cities.py`](../data-tooling/geocode_cities.py)). |
+
+`plate` und `coordinates` sind bewusst nur für **Ensemble-Orte** gepflegt: Die Ort-Filter-Bubbles
+und die Karte zeigen ausschließlich Städte mit mindestens einem ansässigen Ensemble. Reine
+Veranstaltungsorte (nur über Events referenziert) bleiben ohne beide Felder.
 
 ## Städte sind Orte, keine Regionen
 
@@ -51,3 +71,5 @@ den Stammdaten im separaten Feld `region` geführt (siehe
 - `id` eindeutig; `name`, `country` gesetzt.
 - Jede `cityId`/jeder Eintrag in `cityIds` aus anderen Dateien existiert hier.
 - `cities` enthält keine Regionen (diese gehören in `region`).
+- `plate`, sofern gesetzt, ist das korrekte Kfz-Kennzeichen; `coordinates`, sofern gesetzt,
+  enthält gültige `lat`/`lng`-Werte. Beide sind für jede Stadt mit ansässigem Ensemble erwartet.

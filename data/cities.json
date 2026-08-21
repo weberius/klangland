@@ -1,118 +1,190 @@
 {
   "metadata": {
-    "version": "1.2",
-    "lastUpdated": "2026-08-20",
+    "version": "1.3",
+    "lastUpdated": "2026-08-21",
     "language": "de",
-    "notes": "Normalisierte Ortsreferenzen. Enthält alle Sitzorte der erfassten Institutionen, Ensembles und Spielstätten sowie die von Events referenzierten Orte. Städte mit ansässigem Ensemble tragen ihr Kfz-Kennzeichen (plate) als Grundlage der Ort-Filter-Bubbles."
+    "notes": "Normalisierte Ortsreferenzen. Enthält alle Sitzorte der erfassten Institutionen, Ensembles und Spielstätten sowie die von Events referenzierten Orte. Städte mit ansässigem Ensemble tragen ihr Kfz-Kennzeichen (plate) als Grundlage der Ort-Filter-Bubbles sowie Geokoordinaten (coordinates) als Grundlage der Kartenmarker (US-013, per Overpass-API recherchiert)."
   },
   "cities": [
     {
       "id": "aachen",
       "name": "Aachen",
       "country": "Deutschland",
-      "plate": "AC"
+      "plate": "AC",
+      "coordinates": {
+        "lat": 50.75969,
+        "lng": 6.09646
+      }
     },
     {
       "id": "bielefeld",
       "name": "Bielefeld",
       "country": "Deutschland",
-      "plate": "BI"
+      "plate": "BI",
+      "coordinates": {
+        "lat": 52.01482,
+        "lng": 8.52059
+      }
     },
     {
       "id": "bochum",
       "name": "Bochum",
       "country": "Deutschland",
-      "plate": "BO"
+      "plate": "BO",
+      "coordinates": {
+        "lat": 51.47094,
+        "lng": 7.22571
+      }
     },
     {
       "id": "bonn",
       "name": "Bonn",
       "country": "Deutschland",
-      "plate": "BN"
+      "plate": "BN",
+      "coordinates": {
+        "lat": 50.70355,
+        "lng": 7.11661
+      }
     },
     {
       "id": "dortmund",
       "name": "Dortmund",
       "country": "Deutschland",
-      "plate": "DO"
+      "plate": "DO",
+      "coordinates": {
+        "lat": 51.50788,
+        "lng": 7.47027
+      }
     },
     {
       "id": "duisburg",
       "name": "Duisburg",
       "country": "Deutschland",
-      "plate": "DU"
+      "plate": "DU",
+      "coordinates": {
+        "lat": 51.44673,
+        "lng": 6.72794
+      }
     },
     {
       "id": "duesseldorf",
       "name": "Düsseldorf",
       "country": "Deutschland",
-      "plate": "D"
+      "plate": "D",
+      "coordinates": {
+        "lat": 51.23843,
+        "lng": 6.81437
+      }
     },
     {
       "id": "essen",
       "name": "Essen",
       "country": "Deutschland",
-      "plate": "E"
+      "plate": "E",
+      "coordinates": {
+        "lat": 51.4409,
+        "lng": 7.016
+      }
     },
     {
       "id": "hagen",
       "name": "Hagen",
       "country": "Deutschland",
-      "plate": "HA"
+      "plate": "HA",
+      "coordinates": {
+        "lat": 51.34174,
+        "lng": 7.48739
+      }
     },
     {
       "id": "koeln",
       "name": "Köln",
       "country": "Deutschland",
-      "plate": "K"
+      "plate": "K",
+      "coordinates": {
+        "lat": 50.95771,
+        "lng": 6.96728
+      }
     },
     {
       "id": "krefeld",
       "name": "Krefeld",
       "country": "Deutschland",
-      "plate": "KR"
+      "plate": "KR",
+      "coordinates": {
+        "lat": 51.34564,
+        "lng": 6.59208
+      }
     },
     {
       "id": "moenchengladbach",
       "name": "Mönchengladbach",
       "country": "Deutschland",
-      "plate": "MG"
+      "plate": "MG",
+      "coordinates": {
+        "lat": 51.16684,
+        "lng": 6.41387
+      }
     },
     {
       "id": "muenster",
       "name": "Münster",
       "country": "Deutschland",
-      "plate": "MS"
+      "plate": "MS",
+      "coordinates": {
+        "lat": 51.95008,
+        "lng": 7.62407
+      }
     },
     {
       "id": "recklinghausen",
       "name": "Recklinghausen",
       "country": "Deutschland",
-      "plate": "RE"
+      "plate": "RE",
+      "coordinates": {
+        "lat": 51.60207,
+        "lng": 7.21553
+      }
     },
     {
       "id": "siegen",
       "name": "Siegen",
       "country": "Deutschland",
-      "plate": "SI"
+      "plate": "SI",
+      "coordinates": {
+        "lat": 50.88136,
+        "lng": 8.02475
+      }
     },
     {
       "id": "solingen",
       "name": "Solingen",
       "country": "Deutschland",
-      "plate": "SG"
+      "plate": "SG",
+      "coordinates": {
+        "lat": 51.16729,
+        "lng": 7.06261
+      }
     },
     {
       "id": "remscheid",
       "name": "Remscheid",
       "country": "Deutschland",
-      "plate": "RS"
+      "plate": "RS",
+      "coordinates": {
+        "lat": 51.18456,
+        "lng": 7.22017
+      }
     },
     {
       "id": "wuppertal",
       "name": "Wuppertal",
       "country": "Deutschland",
-      "plate": "W"
+      "plate": "W",
+      "coordinates": {
+        "lat": 51.24191,
+        "lng": 7.16375
+      }
     },
     {
       "id": "leverkusen",

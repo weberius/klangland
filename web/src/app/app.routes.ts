@@ -28,6 +28,11 @@ export const routes: Routes = [
     title: 'Spielstätten · Klangland',
   },
   {
+    path: 'cities',
+    loadComponent: () => import('./pages/city-map/city-map').then((m) => m.CityMapPage),
+    title: 'Karte · Klangland',
+  },
+  {
     path: 'venues/:id',
     loadComponent: () => import('./pages/venue-detail/venue-detail').then((m) => m.VenueDetailPage),
     title: 'Spielstätte · Klangland',

@@ -4,7 +4,7 @@
 
 Ort-Filter über Bubbles unterhalb der Seitenüberschrift, gesteuert über den Sitzort der
 Ensembles. Siehe auch [Contract](../contracts/filter.feature) und
-[US-011](../planning/doing/US-011-filter.md).
+[US-011](../planning/done/US-011-filter.md).
 
 ## Bubble-Quelle und Beschriftung
 

@@ -1,0 +1,149 @@
+/* US-013 Kartenseite. ViewEncapsulation.None – daher alles unter .city-map-page
+   bzw. den globalen Leaflet-/Marker-Klassen gescoped. */
+
+.city-map-page .map {
+  height: min(70vh, 640px);
+  width: 100%;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--color-surface-alt);
+  /* Eigener Stacking-Context (z-index != auto): sperrt Leaflets interne z-indices
+     (Panes/Controls bis 1000) in die Karte ein, damit sie den Header-Filter-Popover
+     und andere Overlays nicht überdecken. */
+  position: relative;
+  z-index: 0;
+}
+
+.city-map-page .empty {
+  color: var(--color-text-muted);
+}
+
+/* --- Marker (rote Punkte) ------------------------------------------------- */
+
+.city-marker-wrap {
+  /* Der Wrapper ist die von Leaflet fokussierbare Ebene. */
+  cursor: pointer;
+}
+.city-marker {
+  display: block;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--color-danger);
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  transition: transform 0.1s ease;
+}
+.city-marker-wrap:hover .city-marker {
+  transform: scale(1.15);
+}
+.city-marker-wrap:focus-visible {
+  outline: none;
+}
+.city-marker-wrap:focus-visible .city-marker {
+  outline: 3px solid var(--color-accent-strong);
+  outline-offset: 2px;
+}
+/* Aktiv gefilterter Ort: hervorgehoben (AK 11). */
+.city-marker-wrap.active .city-marker {
+  width: 22px;
+  height: 22px;
+  margin: -3px 0 0 -3px;
+  background: var(--color-accent-strong);
+  box-shadow: 0 0 0 4px var(--color-accent-soft), 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+/* --- Dialog --------------------------------------------------------------- */
+
+.city-map-page .dialog-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: 1000;
+}
+.city-map-page .dialog {
+  position: fixed;
+  z-index: 1001;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: min(92vw, 420px);
+  max-height: 80vh;
+  overflow-y: auto;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2);
+  padding: 1.25rem;
+}
+.city-map-page .dialog-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.city-map-page .dialog-head h2 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+.city-map-page .dialog-close {
+  flex: none;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  line-height: 1;
+  color: var(--color-text-muted);
+  padding: 0.25rem;
+  border-radius: var(--radius-sm);
+}
+.city-map-page .dialog-close:hover {
+  color: var(--color-text);
+  background: var(--color-surface-alt);
+}
+.city-map-page .dialog-subtitle {
+  margin: 0.1rem 0 0.6rem;
+  font-size: 0.85rem;
+}
+.city-map-page .ensemble-list {
+  list-style: none;
+  margin: 0 0 1.1rem;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.city-map-page .ensemble-list a {
+  text-decoration: none;
+  font-weight: 500;
+}
+.city-map-page .ensemble-list a:hover {
+  text-decoration: underline;
+}
+.city-map-page .filter-toggle {
+  width: 100%;
+  padding: 0.65rem 1rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-accent-strong);
+  background: var(--color-accent-strong);
+  color: #fff;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+.city-map-page .filter-toggle:hover {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+}
+.city-map-page .filter-toggle.active {
+  background: var(--color-surface);
+  color: var(--color-accent-strong);
+}
+.city-map-page .filter-toggle.active:hover {
+  background: var(--color-accent-soft);
+}
+.city-map-page .filter-toggle:focus-visible {
+  outline: 3px solid var(--color-highlight);
+  outline-offset: 2px;
+}

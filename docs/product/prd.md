@@ -1136,7 +1136,13 @@ Nach einer ersten stabilen Version bieten sich folgende Erweiterungen an:
 * Kalenderintegration
 * Erinnerungen
 
-## Phase 4 – Kartenansicht
+## Phase 4 – Kartenansicht ✓ umgesetzt
+
+> **Status:** Umgesetzt in [US-013](planning/done/US-013-map-country.md). Unter der Route
+> `/cities` (Navigationseintrag „Karte") zeigt eine Leaflet-/OpenStreetMap-Karte alle Orte mit
+> ansässigem Ensemble als rote Marker; ein Klick öffnet einen Dialog mit den Ensembles des Ortes
+> und setzt bzw. entfernt von dort den Ort-Filter. Spezifikation: [`ears/karte.md`](ears/karte.md)
+> und [`contracts/karte.feature`](contracts/karte.feature).
 
 Eine geografische NRW-Karte zeigt:
 

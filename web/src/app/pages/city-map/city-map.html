@@ -1,0 +1,55 @@
+<div class="city-map-page">
+  <app-page-header
+    heading="Karte"
+    description="Alle Orte mit ansässigem Ensemble in Nordrhein-Westfalen. Auf einen roten Punkt tippen, um die dortigen Ensembles zu sehen und den Ort-Filter zu setzen."
+  />
+
+  @if (cities.length === 0) {
+    <p class="empty">Für keinen Ensemble-Ort liegen Koordinaten vor.</p>
+  }
+
+  <div #map class="map" role="application" aria-label="Karte der Ensemble-Orte"></div>
+
+  @if (selectedCity(); as city) {
+    <div class="dialog-backdrop" (click)="closeDialog()"></div>
+    <div
+      class="dialog"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="city-dialog-title"
+    >
+      <div class="dialog-head">
+        <h2 id="city-dialog-title">{{ city.name }}</h2>
+        <button type="button" class="dialog-close" aria-label="Dialog schließen" (click)="closeDialog()">
+          ✕
+        </button>
+      </div>
+
+      @if (selectedEnsembles().length > 0) {
+        <p class="muted dialog-subtitle">
+          {{ selectedEnsembles().length }}
+          {{ selectedEnsembles().length === 1 ? 'Ensemble' : 'Ensembles' }}
+        </p>
+        <ul class="ensemble-list">
+          @for (ensemble of selectedEnsembles(); track ensemble.id) {
+            <li>
+              <a [routerLink]="['/ensembles', ensemble.id]">{{ ensemble.name }}</a>
+            </li>
+          }
+        </ul>
+      } @else {
+        <p class="muted">Keine Ensembles erfasst.</p>
+      }
+
+      <button
+        type="button"
+        class="filter-toggle"
+        [class.active]="selectedIsFiltered()"
+        [attr.aria-pressed]="selectedIsFiltered()"
+        (click)="toggleFilter()"
+      >
+        {{ selectedIsFiltered() ? 'Ort-Filter entfernen' : 'Konzerte aus ' + city.name + ' filtern' }}
+      </button>
+    </div>
+  }
+</div>

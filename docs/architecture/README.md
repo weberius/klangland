@@ -20,6 +20,7 @@ umgesetzt wurden. Ergänzender Kontext steht im [PRD](../product/prd.md), im
 | [ADR-005](ADR-005-idempotente-python-ingest-skripte.md) | Datenerfassung über idempotente Ingest-Skripte je Quelle | accepted |
 | [ADR-006](ADR-006-datensync-als-build-artefakt.md) | Datenbereitstellung an die App als Build-Artefakt | accepted |
 | [ADR-007](ADR-007-ensemble-klassifikationsmodell.md) | Facettiertes Klassifikationsmodell für Ensembles | accepted |
+| [ADR-008](ADR-008-leaflet-openstreetmap-kartenansicht.md) | Leaflet und OpenStreetMap für die Kartenansicht | accepted |
 
 ## Konventionen
 
