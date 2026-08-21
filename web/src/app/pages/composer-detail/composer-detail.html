@@ -1,0 +1,75 @@
+@if (!composer()) {
+  <a class="back-link" routerLink="/composers">‹ Alle Komponist:innen</a>
+  <p class="empty">Diese:r Komponist:in wurde nicht gefunden.</p>
+} @else {
+  <a class="back-link" routerLink="/composers">‹ Alle Komponist:innen</a>
+
+  <article>
+    <header class="profile-head">
+      <h1>{{ composer()!.name }}</h1>
+      @if (life()) {
+        <p class="muted">{{ life() }}</p>
+      }
+    </header>
+
+    <div class="profile-grid">
+      <div class="profile-main">
+        @if (portraitUrl(); as src) {
+          <figure class="portrait-figure">
+            <img class="portrait" [src]="src" [alt]="composer()!.name + ' – Portrait'" />
+            <figcaption class="image-attribution">
+              Bild:
+              <a [href]="composer()!.portrait!.source" target="_blank" rel="noopener"
+                >Wikimedia Commons / Wikipedia</a
+              >@if (composer()!.portrait!.credit) { – {{ composer()!.portrait!.credit }} }
+            </figcaption>
+          </figure>
+        }
+      </div>
+
+      <aside class="card profile-facts">
+        <dl>
+          @if (life()) {
+            <dt>Lebensdaten</dt>
+            <dd>{{ life() }}</dd>
+          }
+          @if (composer()!.epoch) {
+            <dt>Epoche</dt>
+            <dd>{{ composer()!.epoch }}</dd>
+          }
+        </dl>
+      </aside>
+    </div>
+
+    @if (composer()!.wikipedia; as wiki) {
+      <section class="wiki-section">
+        <h2>Aus der Wikipedia</h2>
+        <p class="lead">{{ wiki.summary }}</p>
+        <p class="wiki-attribution">
+          Zusammenfassung auf Basis des
+          <a [href]="wiki.url" target="_blank" rel="noopener">Wikipedia-Artikels</a>
+          (Inhalte unter CC BY-SA).
+        </p>
+        <p>
+          <a [href]="wiki.url" target="_blank" rel="noopener">Zum vollständigen Artikel ›</a>
+        </p>
+      </section>
+    }
+
+    @if (works().length) {
+      <section class="works-section">
+        <h2>Gespielte Werke ({{ works().length }})</h2>
+        <ul class="works-list">
+          @for (w of works(); track w.id) {
+            <li><a [routerLink]="['/works', w.id]">{{ w.title }}</a></li>
+          }
+        </ul>
+      </section>
+    }
+
+    <section class="events-section">
+      <h2>Veranstaltungen ({{ events().length }})</h2>
+      <app-event-list [events]="events()" />
+    </section>
+  </article>
+}

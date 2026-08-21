@@ -6,14 +6,36 @@
 
   <article>
     <header class="profile-head">
-      <p class="work-composer">{{ composerName() }}</p>
+      <p class="work-composer">
+        @if (composer(); as c) {
+          <a [routerLink]="['/composers', c.id]">{{ c.name }}</a>
+        } @else {
+          {{ composerName() }}
+        }
+      </p>
       <h1>{{ work()!.title }}</h1>
+      @if (work()!.popular || work()!.recommended) {
+        <p class="work-badges">
+          @if (work()!.popular) { <span class="tag">Beliebt</span> }
+          @if (work()!.recommended) { <span class="tag">Empfohlen</span> }
+        </p>
+      }
     </header>
 
     <aside class="card profile-facts">
       <dl>
         <dt>Komponist:in</dt>
-        <dd>{{ composerName() }}</dd>
+        <dd>
+          @if (composer(); as c) {
+            <a [routerLink]="['/composers', c.id]">{{ c.name }}</a>
+          } @else {
+            {{ composerName() }}
+          }
+        </dd>
+        @if (composer()?.epoch) {
+          <dt>Epoche</dt>
+          <dd>{{ composer()!.epoch }}</dd>
+        }
         @if (catalogue()) {
           <dt>Werkverzeichnis</dt>
           <dd>{{ catalogue() }}</dd>
@@ -44,6 +66,21 @@
     @if (work()!.description) {
       <section class="description-section">
         <p class="lead">{{ work()!.description }}</p>
+      </section>
+    }
+
+    @if (work()!.wikipedia; as wiki) {
+      <section class="wiki-section">
+        <h2>Aus der Wikipedia</h2>
+        <p class="lead">{{ wiki.summary }}</p>
+        <p class="wiki-attribution">
+          Zusammenfassung auf Basis des
+          <a [href]="wiki.url" target="_blank" rel="noopener">Wikipedia-Artikels</a>
+          (Inhalte unter CC BY-SA).
+        </p>
+        <p>
+          <a [href]="wiki.url" target="_blank" rel="noopener">Zum vollständigen Artikel ›</a>
+        </p>
       </section>
     }
 

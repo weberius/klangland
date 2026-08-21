@@ -1,0 +1,82 @@
+.profile-head {
+  margin-bottom: 1.25rem;
+}
+.profile-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+.lead {
+  font-size: 1.05rem;
+}
+.portrait-figure {
+  margin: 0;
+}
+.portrait {
+  display: block;
+  width: 100%;
+  max-width: 22rem;
+  border-radius: var(--radius);
+  background: var(--color-surface-alt);
+}
+.image-attribution {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-top: 0.5rem;
+}
+.profile-facts {
+  padding: 1.25rem;
+  align-self: start;
+}
+.profile-facts dl {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.15rem;
+}
+.profile-facts dt {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  margin-top: 0.75rem;
+}
+.profile-facts dt:first-child {
+  margin-top: 0;
+}
+.profile-facts dd {
+  margin: 0;
+}
+.wiki-section {
+  margin-bottom: 2rem;
+}
+.wiki-section h2 {
+  margin-bottom: 1rem;
+}
+.wiki-attribution {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+.works-section {
+  margin-bottom: 2rem;
+}
+.works-section h2 {
+  margin-bottom: 1rem;
+}
+.works-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+.works-list li {
+  margin-bottom: 0.3rem;
+}
+.events-section h2 {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 720px) {
+  .profile-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,31 @@
+<app-page-header
+  heading="Komponist:innen"
+  description="Die Komponist:innen der Saison – alle, deren Werke in mindestens einem Konzertprogramm erklingen."
+/>
+
+@if (composers().length === 0) {
+  <p class="empty">Keine Komponist:innen erfasst.</p>
+} @else {
+  <div class="card-grid">
+    @for (c of composers(); track c.id) {
+      <a class="card composer-card" [routerLink]="['/composers', c.id]">
+        @if (portraitUrl(c); as src) {
+          <img class="portrait" [src]="src" [alt]="c.name + ' – Portrait'" loading="lazy" />
+        }
+        <div class="composer-body">
+          <h2 class="composer-name">{{ c.name }}</h2>
+          @if (life(c)) {
+            <p class="muted composer-life">{{ life(c) }}</p>
+          }
+          @if (works(c).length) {
+            <ul class="work-list">
+              @for (w of works(c); track w.id) {
+                <li>{{ w.title }}</li>
+              }
+            </ul>
+          }
+        </div>
+      </a>
+    }
+  </div>
+}

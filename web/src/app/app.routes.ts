@@ -38,6 +38,16 @@ export const routes: Routes = [
     title: 'Spielstätte · Klangland',
   },
   {
+    path: 'composers',
+    loadComponent: () => import('./pages/composer-list/composer-list').then((m) => m.ComposerListPage),
+    title: 'Komponist:innen · Klangland',
+  },
+  {
+    path: 'composers/:id',
+    loadComponent: () => import('./pages/composer-detail/composer-detail').then((m) => m.ComposerDetailPage),
+    title: 'Komponist:in · Klangland',
+  },
+  {
     path: 'works',
     loadComponent: () => import('./pages/work-list/work-list').then((m) => m.WorkListPage),
     title: 'Werke · Klangland',

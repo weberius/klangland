@@ -241,6 +241,12 @@ main {
   font-size: 0.85rem;
   padding-block: 1.25rem;
 }
+.site-footer p {
+  margin: 0.25rem 0;
+}
+.footer-credits {
+  font-size: 0.8rem;
+}
 
 @media (max-width: 720px) {
   .global-search {

@@ -31,9 +31,26 @@
 .profile-facts dd {
   margin: 0;
 }
+.work-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0.5rem 0 0;
+}
 .description-section {
   margin-bottom: 2rem;
   max-width: 48rem;
+}
+.wiki-section {
+  margin-bottom: 2rem;
+  max-width: 48rem;
+}
+.wiki-section h2 {
+  margin-bottom: 1rem;
+}
+.wiki-attribution {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
 }
 .events-section h2 {
   margin-bottom: 1rem;

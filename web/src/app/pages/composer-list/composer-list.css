@@ -1,0 +1,45 @@
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+}
+.composer-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  text-decoration: none;
+  color: var(--color-text);
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+.composer-card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  transform: translateY(-1px);
+}
+.portrait {
+  display: block;
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center top;
+  background: var(--color-surface-alt);
+}
+.composer-body {
+  padding: 1.1rem 1.25rem;
+}
+.composer-name {
+  font-size: 1.1rem;
+  margin: 0 0 0.2rem;
+}
+.composer-life {
+  margin: 0 0 0.6rem;
+  font-size: 0.85rem;
+}
+.work-list {
+  margin: 0;
+  padding-left: 1.1rem;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+.work-list li {
+  margin-bottom: 0.15rem;
+}

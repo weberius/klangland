@@ -138,6 +138,12 @@ export interface Composer {
   epoch?: string | null;
   /** Kuratierte Kurzfassung (~60 Wörter) + Artikel-URL, analog Ensemble (US-017). */
   wikipedia?: { summary: string; url: string } | null;
+  /** Lokal persistiertes Portrait (US-024); Quelle Wikipedia/Wikimedia Commons. */
+  portrait?: {
+    file: string; // Dateiname relativ zum Portrait-Verzeichnis (z. B. "ludwig-van-beethoven.jpg")
+    source: string; // Quell-URL (Wikipedia/Wikimedia Commons), Ziel der Attribution
+    credit?: string | null; // optionale Urheber-/Bildbeschreibung für die Attribution
+  } | null;
 }
 
 export type Genre =

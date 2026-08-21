@@ -32,6 +32,7 @@ Quelle (erkannt am Quell-Host) und legen Stammdaten anhand ihrer IDs dublettenfr
 | Komponist:innen (Wikipedia-Quellen sammeln) | Wikipedia (de) | [`fetch_wikipedia_composers.py`](fetch_wikipedia_composers.py) | US-017 |
 | Komponist:innen (volle Wikipedia-Intros) | Wikipedia (de) | [`fetch_wikipedia_intros.py`](fetch_wikipedia_intros.py) | US-017 |
 | Komponist:innen (kuratierte Kurzfassungen eintragen) | – | [`apply_wikipedia_composers.py`](apply_wikipedia_composers.py) | US-017 |
+| Komponist:innen-Portraits (Download) | Wikipedia / Wikimedia Commons | [`fetch_composer_portraits.py`](fetch_composer_portraits.py) | US-024 |
 
 `import_openopus.py` ergänzt `data/composers.json` und `data/works.json` um die externe
 `openOpusId`, die deutschsprachige `epoch` sowie die Werk-Kennzeichen `popular`/`recommended`
@@ -67,10 +68,22 @@ Die kuratierten `wikipedia`-Kurzfassungen der Komponist:innen entstehen in vier 
 - **Wikipedia** – Grundlage der kuratierten Kurzfassungen (`wikipedia.summary`, ~60 Wörter,
   eigenständig formuliert, kein wörtlicher Auszug). Der Quellennachweis je Kurzfassung steckt
   in `wikipedia.url` (verlinkter Artikel).
+- **Komponist:innen-Portraits** (Wikipedia / Wikimedia Commons) – mit
+  [`fetch_composer_portraits.py`](fetch_composer_portraits.py) recherchiert das führende
+  Artikelbild, lädt eine auf 400 px Breite begrenzte Variante herunter und legt sie als
+  committetes Projekt-Asset unter [`data/portraits/`](../../data/portraits) ab (Single Source of
+  Truth; via [`sync-data.mjs`](../../web/tools/sync-data.mjs) nach `web/public/portraits/`
+  gespiegelt, dort gitignored). Zu jedem Bild werden `portrait.source` (Commons-Dateiseite als
+  Attribution-Ziel) und – sofern leicht ermittelbar – `portrait.credit` (Urheber/Lizenz aus den
+  Commons-Metadaten) gepflegt. Die Lizenzfrage ist bei dieser Quelle in der Regel geklärt. Die
+  Webanwendung bindet **ausschließlich** lokale Dateien ein und ruft zur Laufzeit **keine**
+  Fremd-URLs für Bilder ab; die Attribution ist in der UI bei jeder Bildanzeige sichtbar
+  (Komponist:innen-Detailseite). Netzzugriffe sind auf **max. 1 Request/Sekunde** gedrosselt
+  (Metadaten und Download) und lokal unter `.cache/portraits/` gecacht.
 
-Sobald diese Daten in der UI dargestellt werden (US-024), muss der Open-Opus-Credit inkl. Link
-an einer für Nutzer:innen erreichbaren Stelle (z. B. Datenquellen-/Impressum-Hinweis) sichtbar
-sein. Die sichtbare UI-Attributierung ist **nicht** Teil von US-017.
+Der Open-Opus-Credit inkl. Link sowie der Wikipedia-/Wikimedia-Commons-Hinweis sind seit US-024
+an einer für Nutzer:innen erreichbaren Stelle (Footer der Webanwendung) sichtbar. Die
+Bild-Attribution je Portrait erfolgt zusätzlich direkt an der Bildanzeige.
 
 ### Bekannte Lebensdaten-Abweichungen Open Opus ↔ Klangland
 

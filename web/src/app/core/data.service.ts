@@ -382,6 +382,44 @@ export class DataService {
       });
   }
 
+  /**
+   * Komponist:innen mit >=1 programmierten Werk (unter Ort-/Profil-Filter) – Quelle des
+   * Komponist:innen-Kachel-Grids (US-024). Baut auf worksForFilter auf und erbt damit die
+   * Filter-/Saison-Semantik (leere Auswahl = alle programmierten Komponist:innen). Das Set
+   * sichert „jede:r genau einmal"; sortiert nach Name (deutsch).
+   */
+  composersForFilter(cityIds: ReadonlySet<string>, profileIds: ReadonlySet<string>): Composer[] {
+    const ids = new Set<string>();
+    for (const w of this.worksForFilter(cityIds, profileIds)) ids.add(w.composerId);
+    return [...ids]
+      .map((id) => this.composer(id))
+      .filter((c): c is Composer => Boolean(c))
+      .sort((a, b) => a.name.localeCompare(b.name, 'de'));
+  }
+
+  /** Programmierte Werke einer Komponist:in (unter Filter), sortiert nach Titel (US-024). */
+  worksForComposer(
+    composerId: string,
+    cityIds: ReadonlySet<string>,
+    profileIds: ReadonlySet<string>,
+  ): Work[] {
+    return this.worksForFilter(cityIds, profileIds)
+      .filter((w) => w.composerId === composerId)
+      .sort((a, b) => a.title.localeCompare(b.title, 'de'));
+  }
+
+  /** Chronologische Events (unter Filter), in deren Programm ein Werk der Komponist:in vorkommt (US-024). */
+  eventsForComposer(
+    composerId: string,
+    cityIds: ReadonlySet<string>,
+    profileIds: ReadonlySet<string>,
+  ): ConcertEvent[] {
+    const workIds = new Set(this.worksForComposer(composerId, cityIds, profileIds).map((w) => w.id));
+    return this.eventsForFilter(cityIds, profileIds)
+      .filter((e) => e.program.some((p) => workIds.has(p.workId)))
+      .sort(this.byDateTime);
+  }
+
   /** Alle Events eines Tages (ISO). */
   eventsOnDate(iso: string): ConcertEvent[] {
     return this.events.filter((e) => e.date === iso).sort(this.byDateTime);

@@ -71,6 +71,7 @@
       <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }" (click)="closeMenu()">Kalender</a>
       <a routerLink="/ensembles" routerLinkActive="active" (click)="closeMenu()">Ensembles</a>
       <a routerLink="/venues" routerLinkActive="active" (click)="closeMenu()">Spielstätten</a>
+      <a routerLink="/composers" routerLinkActive="active" (click)="closeMenu()">Komponist:innen</a>
       <a routerLink="/works" routerLinkActive="active" (click)="closeMenu()">Werke</a>
       <a routerLink="/cities" routerLinkActive="active" (click)="closeMenu()">Karte</a>
     </nav>
@@ -91,5 +92,12 @@
 <footer class="site-footer">
   <div class="container">
     <p>Klangland – Konzertkalender für Nordrhein-Westfalen. Statische App, Daten aus versionierten JSON-Dateien.</p>
+    <p class="footer-credits">
+      Komponist:innen- und Werk-Metadaten von
+      <a href="https://openopus.org" target="_blank" rel="noopener">Open Opus</a>;
+      Kurzfassungen und Portraits aus
+      <a href="https://de.wikipedia.org" target="_blank" rel="noopener">Wikipedia</a> /
+      <a href="https://commons.wikimedia.org" target="_blank" rel="noopener">Wikimedia Commons</a>.
+    </p>
   </div>
 </footer>
