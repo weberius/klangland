@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "version": "1.0",
-    "lastUpdated": "2026-08-19",
+    "version": "1.1",
+    "lastUpdated": "2026-08-21",
     "language": "de",
-    "notes": "Werkstammdaten für die ersten Event-Beispiele. Aufführungsdaten stehen ausschließlich in events.json."
+    "notes": "Werkstammdaten für die ersten Event-Beispiele. Aufführungsdaten stehen ausschließlich in events.json. Angereichert mit strukturierten Metadaten aus Open Opus (openOpusId, popular/recommended, teils Werkverzeichnis; CC0, https://openopus.org). Siehe docs/data-tooling/import_openopus.py und docs/data-tooling/README.md."
   },
   "works": [
     {
@@ -238,7 +238,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15743",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "bruckner-sinfonie-9",
@@ -417,7 +420,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "8728",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "tschaikowsky-nussknacker-suite",
@@ -1491,7 +1497,10 @@
       "durationMinutes": 20,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "22134",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "rachmaninow-corelli-variationen",
@@ -1856,7 +1865,10 @@
       "durationMinutes": 28,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "24971",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "michael-haydn-sinfonia-25",
@@ -1916,7 +1928,10 @@
       "durationMinutes": 33,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "19622",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "ives-the-unanswered-question",
@@ -1946,7 +1961,10 @@
       "durationMinutes": 27,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "17369",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "bruckner-te-deum",
@@ -2058,7 +2076,10 @@
       "durationMinutes": 18,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15013",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "ponce-concierto-del-sur",
@@ -2198,7 +2219,10 @@
       "durationMinutes": 18,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15544",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "gershwin-porgy-and-bess-concert-of-songs",
@@ -2298,7 +2322,10 @@
       "durationMinutes": 22,
       "version": "rev. 1949",
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "22389",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "brahms-schicksalslied",
@@ -2318,7 +2345,10 @@
       "durationMinutes": 16,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "7820",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "bernstein-chichester-psalms",
@@ -2333,7 +2363,10 @@
       "durationMinutes": 19,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15431",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "gade-streichsextett",
@@ -2667,7 +2700,10 @@
       "durationMinutes": 9,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "20060",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "mozart-sinfonie-40",
@@ -3486,7 +3522,10 @@
       "durationMinutes": 14,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "7652",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "britten-violinkonzert-d-moll",
@@ -3546,7 +3585,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "24543",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "rutter-partita",
@@ -3635,7 +3677,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "28099",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "dohnanyi-variationen-kinderlied",
@@ -3928,19 +3973,30 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "2797",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "britten-four-sea-interludes-aus-peter-grimes",
       "composerId": "benjamin-britten",
       "title": "Four Sea Interludes aus Peter Grimes",
-      "catalogue": [],
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "33a"
+        }
+      ],
       "yearComposed": null,
       "genre": "other",
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "19428",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "arutiunian-konzert-fuer-trompete-und-orchester-as-d",
@@ -3969,7 +4025,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "2477",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "hindemith-sonate-fuer-violine-und-klavier-es-dur",
@@ -4027,7 +4086,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15743",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "mahler-das-lied-von-der-erde",
@@ -4039,7 +4101,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "7280",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "haydn-sinfonie-nr-47-g-dur-hob-i-47",
@@ -4051,7 +4116,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "25970",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "rossini-ouvertuere-zur-semiramide",
@@ -4075,7 +4143,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "25668",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "schostakowitsch-streichquartett-nr-8-c-moll",
@@ -4196,7 +4267,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "20787",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "schubert-messe-in-es-dur-d-950",
@@ -4225,7 +4299,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15020",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "strawinsky-orchestersuite-aus-der-feuervogel-fassun",
@@ -4278,7 +4355,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "1015",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "kuemper-streichtrio-ua-auftragswerk-der-bochumer",
@@ -4367,7 +4447,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15765",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "haydn-sinfonie-nr-22-es-dur-hob-i-22-philosoph",
@@ -4379,7 +4462,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "25504",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "strauss-tod-und-verklaerung",
@@ -4396,7 +4482,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "19751",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "haydn-streichquartett-a-dur",
@@ -4442,7 +4531,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "17314",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "jue-konzert-fuer-violoncello-und-orchester-u",
@@ -4953,7 +5045,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "7288",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "tower-fanfare-for-the-uncommon-woman-nr-2",
@@ -5122,7 +5217,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "25464",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "brahms-streichquintett-nr-1-f-dur",
@@ -5369,13 +5467,25 @@
       "id": "grieg-peer-gynt-suiten-nr-1-2",
       "composerId": "edvard-grieg",
       "title": "Peer Gynt: Suiten Nr. 1 & 2",
-      "catalogue": [],
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "46"
+        },
+        {
+          "system": "Opus",
+          "number": "55"
+        }
+      ],
       "yearComposed": null,
       "genre": "other",
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "18105",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "grieg-dieses-konzert-ist-teil-des-projektes-kl",
@@ -5411,7 +5521,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "13300",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "schmitt-la-tragedie-de-salome",
@@ -5655,7 +5768,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "20607",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "chopin-konzert-fuer-klavier-und-orchester-nr-1-",
@@ -5827,7 +5943,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "19428",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "janacek-taras-bulba-rhapsodie-fuer-orchester",
@@ -5967,7 +6086,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "7645",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "tschaikowsky-romeo-und-julia-fantasie-ouvertuere",
@@ -5979,7 +6101,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "7545",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "clyne-three-sisters-konzert-fuer-mandoline-und",
@@ -6085,7 +6210,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15341",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "gershwin-an-american-in-paris",
@@ -6097,7 +6225,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15544",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "debussy-gymnopedies-nr-1-3",
@@ -6157,7 +6288,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "585",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "wagner-walkuerenritt",
@@ -6251,7 +6385,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "3633",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "tschaikowsky-streichsextett-d-moll-souvenir-de-floren",
@@ -6379,7 +6516,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "10744",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "bernstein-make-our-garden-grow-aus-candide",
@@ -6461,7 +6601,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "372",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "bartholdy-streichquartett-a-moll-mwv-r-21",
@@ -6490,7 +6633,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "16896",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "bernstein-sinfonie-nr-2-the-age-of-anxiety",
@@ -6502,7 +6648,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15439",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "tschaikowski-sinfonie-nr-6-h-moll-pathetique",
@@ -6620,7 +6769,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "19546",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "shaw-clarinet-concerto",
@@ -6702,7 +6854,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "19604",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "onslow-streichquintett",
@@ -6801,7 +6956,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15682",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "korngold-klavierquintett-e-dur",
@@ -7080,7 +7238,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "16382",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "download-download-tagesprogramm",
@@ -7128,7 +7289,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "586",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "johann-sebastian-bach-gustav-holst-felix-mendel",
@@ -7827,7 +7991,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "5036",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "grieg-sinfonie-c-moll",
@@ -7999,7 +8166,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "22464",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "strawinsky-revidierte-fassung-von-1947",
@@ -8257,7 +8427,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "3696",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "mussorgski-bilder-einer-ausstellung",
@@ -8281,7 +8454,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15735",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "beethoven-klavierkonzert-nr-5-es-dur",
@@ -8363,7 +8539,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15562",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "smetana-die-moldau-jb-1-112-2-aus-mein-vaterland",
@@ -8463,13 +8642,21 @@
       "id": "berg-wozzeck",
       "composerId": "alban-berg",
       "title": "Wozzeck",
-      "catalogue": [],
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "7"
+        }
+      ],
       "yearComposed": null,
       "genre": "opera",
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "26254",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "bax-elagiac-trio-fuer-floete-viola-und-harfe",
@@ -8505,7 +8692,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "26438",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "ravel-sonatine-nach-einer-bearbeitung-fuer-flo",
@@ -8626,7 +8816,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "21931",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "grieg-streichquartett-nr-1-g-moll",
@@ -8655,7 +8848,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "16519",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "prez-monty-python-s-not-the-messiah",
@@ -8771,7 +8967,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15077",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "brahms-trio-a-moll-fuer-klarinette-violoncello-",
@@ -9047,7 +9246,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "23251",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "debussy-syrinx-fuer-solofloete",
@@ -9059,7 +9261,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "13273",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "debussy-prelude-a-l-apres-midi-d-un-faune-fuer-f",
@@ -9151,7 +9356,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "23536",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "bernhoeft-nowpast-fuer-violine-shakuhachi-und-orch",
@@ -9209,7 +9417,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "398",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "mozart-violinsonate-g-dur-fuer-violine-und-klav",
@@ -9489,7 +9700,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "5103",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "bartok-tanzsuite",
@@ -9571,7 +9785,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "24494",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "smyth-serenade",
@@ -9785,7 +10002,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "19336",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "hough-klavierkonzert-the-world-of-yesterday",
@@ -9980,7 +10200,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "19759",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "schlingensiepen-in-the-struggle-for-life",
@@ -10103,7 +10326,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "14504",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "tschaikowsky-variationen-ueber-ein-rokoko-thema-fuer-",
@@ -10523,7 +10749,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "5040",
+      "popular": true,
+      "recommended": false
     },
     {
       "id": "ravel-rapsodie-espagnole",
@@ -10535,7 +10764,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "5101",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "ravel-bolero",
@@ -10547,7 +10779,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "5044",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "purcell-suite-aus-king-arthur",
@@ -10576,7 +10811,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "15797",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "lully-suite-aus-le-bourgeois-gentilhomme-lwv-4",
@@ -10588,7 +10826,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "864",
+      "popular": false,
+      "recommended": true
     },
     {
       "id": "bach-konzert-fuer-violoncello-und-orchester-a",
@@ -10760,7 +11001,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "2667",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "hensel-szene-aus-faust-teil-2",
@@ -11121,7 +11365,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "10047",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "berg-konzert-fuer-violine-und-orchester",
@@ -11174,7 +11421,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "2678",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "nielsen-helios-ouvertuere",
@@ -11268,7 +11518,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "5115",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "tschaikowsky-streichsextett-d-moll",
@@ -11699,7 +11952,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "18023",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "nielsen-violinkonzert",
@@ -11787,7 +12043,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "19915",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "farrenc-ouvertuere-nr-1-e-moll",
@@ -12057,7 +12316,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "16696",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "bizet-l-arlesienne-suite-nr-1",
@@ -12069,7 +12331,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "6544",
+      "popular": true,
+      "recommended": true
     },
     {
       "id": "tschaikowski-dornroeschen-suite",
@@ -12173,7 +12438,10 @@
       "durationMinutes": null,
       "version": null,
       "scoring": null,
-      "description": null
+      "description": null,
+      "openOpusId": "6798",
+      "popular": false,
+      "recommended": false
     },
     {
       "id": "brahms-streichsextett-g-dur",

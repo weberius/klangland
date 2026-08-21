@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "version": "1.1",
-    "lastUpdated": "2026-08-19",
+    "version": "1.2",
+    "lastUpdated": "2026-08-21",
     "language": "de",
-    "notes": "Komponist:innen der in events.json erfassten Aufführungen."
+    "notes": "Komponist:innen der in events.json erfassten Aufführungen. Angereichert mit strukturierten Metadaten aus Open Opus (openOpusId, epoch; CC0, https://openopus.org) und kuratierten Wikipedia-Kurzfassungen (wikipedia.summary/url; eigenständig formuliert). Siehe docs/data-tooling/import_openopus.py und docs/data-tooling/README.md."
   },
   "composers": [
     {
@@ -12,6 +12,12 @@
       "life": {
         "from": 1770,
         "to": 1827
+      },
+      "openOpusId": "145",
+      "epoch": "Frühromantik",
+      "wikipedia": {
+        "summary": "Ludwig van Beethoven (1770–1827) war ein in Bonn getaufter deutscher Komponist und Pianist, der den Großteil seines Lebens in Wien verbrachte. Er brachte die Wiener Klassik zu ihrem Höhepunkt und ebnete zugleich den Weg in die Romantik. Trotz einer fortschreitenden Ertaubung schuf er wegweisende Werke, darunter neun Sinfonien, 32 Klaviersonaten, fünf Klavierkonzerte, zahlreiche Streichquartette sowie die Oper Fidelio. Bis heute zählt er zu den meistgespielten Komponisten überhaupt.",
+        "url": "https://de.wikipedia.org/wiki/Ludwig_van_Beethoven"
       }
     },
     {
@@ -20,6 +26,12 @@
       "life": {
         "from": 1860,
         "to": 1911
+      },
+      "openOpusId": "77",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Gustav Mahler (1860–1911) war ein österreichischer Komponist an der Schwelle von der Spätromantik zur Moderne und zählt zu den bedeutendsten Vertretern dieser Epoche. Zugleich gehörte er zu den gefeiertsten Dirigenten seiner Zeit und wirkte unter anderem in Hamburg, Wien und New York. Als Direktor der Wiener Hofoper strebte er eine grundlegende Reform des Musiktheaters an. Seine ausgedehnten Sinfonien und Orchesterlieder prägen bis heute das Repertoire.",
+        "url": "https://de.wikipedia.org/wiki/Gustav_Mahler"
       }
     },
     {
@@ -28,6 +40,12 @@
       "life": {
         "from": 1824,
         "to": 1896
+      },
+      "openOpusId": "2",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Anton Bruckner (1824–1896) war ein österreichischer Komponist der Romantik, der zugleich als virtuoser Organist und Hochschullehrer wirkte. Erst spät zu Lebzeiten anerkannt, zählt er heute zu den einflussreichsten und innovativsten Tonschöpfern seiner Epoche und prägte die Musikgeschichte bis weit ins 20. Jahrhundert. Berühmt wurde er vor allem durch seine monumentalen Sinfonien, bedeutende geistliche Werke wie vier große Messen und sein Te Deum sowie seine gefeierten Orgelimprovisationen.",
+        "url": "https://de.wikipedia.org/wiki/Anton_Bruckner"
       }
     },
     {
@@ -36,6 +54,12 @@
       "life": {
         "from": 1813,
         "to": 1883
+      },
+      "openOpusId": "138",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Richard Wagner (1813–1883) war ein deutscher Komponist, Dirigent und Schriftsteller und zählt zu den einflussreichsten Figuren der Romantik. Mit seinen durchkomponierten Musikdramen, der Idee des Gesamtkunstwerks und der Leitmotivtechnik prägte er die Operngeschichte nachhaltig. Zu seinen Hauptwerken gehören der Ring des Nibelungen, Tristan und Isolde, Lohengrin und Parsifal. Für seine Werke gründete er die Bayreuther Festspiele; seine Neuerungen der Harmonik wirkten bis in die Moderne.",
+        "url": "https://de.wikipedia.org/wiki/Richard_Wagner"
       }
     },
     {
@@ -44,6 +68,12 @@
       "life": {
         "from": 1810,
         "to": 1849
+      },
+      "openOpusId": "152",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Frédéric Chopin (1810–1849) war ein polnisch-französischer Komponist, Pianist und Klavierpädagoge und zählt zu den prägenden Vertretern der musikalischen Romantik. Nach Jahren in Warschau lebte er ab 1831 überwiegend in Paris, wo er in den Salons wirkte. Sein fast ausschließlich dem Klavier gewidmetes Schaffen verband polnische Volksmusik mit italienischem Belcanto und brachte tiefgreifende Neuerungen in Melodik, Harmonik, Anschlag und Klavierpädagogik.",
+        "url": "https://de.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin"
       }
     },
     {
@@ -52,6 +82,10 @@
       "life": {
         "from": 1847,
         "to": 1903
+      },
+      "wikipedia": {
+        "summary": "Augusta Holmès (1847–1903) war eine in Paris geborene französische Komponistin und Pianistin irischer Abstammung. Ihre ersten Werke veröffentlichte sie unter dem männlichen Pseudonym Hermann Zenta. Nachdem sie 1871 die französische Staatsbürgerschaft erhalten hatte, ergänzte sie ihren Namen um einen Accent grave. Für nahezu alle ihre Lieder und Oratorien verfasste sie die Texte selbst und schrieb auch das Libretto ihrer Oper La montagne noire.",
+        "url": "https://de.wikipedia.org/wiki/Augusta_Holm%C3%A8s"
       }
     },
     {
@@ -60,6 +94,12 @@
       "life": {
         "from": 1872,
         "to": 1915
+      },
+      "openOpusId": "18",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Alexander Skrjabin (1872–1915) war ein russischer Pianist und Komponist, der als eine der eigenwilligsten Gestalten zwischen Spätromantik und Moderne gilt. Ausgehend von der Klaviertradition Chopins entwickelte er eine zunehmend kühne, harmonisch experimentelle Tonsprache und verfolgte mystisch-philosophische Ideen. Zu seinem Schaffen zählen zahlreiche Klaviersonaten und Préludes sowie Orchesterwerke wie das „Poème de l'extase“. Er wurde in Moskau geboren und starb ebenda.",
+        "url": "https://de.wikipedia.org/wiki/Alexander_Nikolajewitsch_Skrjabin"
       }
     },
     {
@@ -68,6 +108,10 @@
       "life": {
         "from": 1965,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Thierry Escaich, geboren am 8. Mai 1965 in Nogent-sur-Marne, ist ein französischer Musiker, der gleichermaßen als Organist, Komponist und Hochschullehrer wirkt. In seinem Schaffen verbindet er diese drei Tätigkeitsfelder miteinander und zählt damit zu den vielseitigen Vertretern des zeitgenössischen französischen Musiklebens.",
+        "url": "https://de.wikipedia.org/wiki/Thierry_Escaich"
       }
     },
     {
@@ -76,6 +120,12 @@
       "life": {
         "from": 1835,
         "to": 1921
+      },
+      "openOpusId": "45",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Charles Camille Saint-Saëns (1835–1921) war ein französischer Komponist der Romantik, der zugleich als Pianist, Organist, Dirigent, Musikwissenschaftler und Pädagoge wirkte. Sein vielseitiges Schaffen umfasst Sinfonien, Konzerte, Kammermusik und Bühnenwerke. Zu weltweiter Bekanntheit gelangte er vor allem durch die humorvolle zoologische Fantasie Der Karneval der Tiere sowie durch die Oper Samson et Dalila. Er gehört zu den prägenden Figuren der französischen Musik des 19. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns"
       }
     },
     {
@@ -84,6 +134,12 @@
       "life": {
         "from": 1891,
         "to": 1953
+      },
+      "openOpusId": "185",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Sergei Sergejewitsch Prokofjew (1891–1953) war ein sowjetischer Komponist und Pianist, der 1891 im damaligen Russischen Kaiserreich zur Welt kam und 1953 in Moskau starb. Er zählt zu den prägenden Persönlichkeiten der Musik des 20. Jahrhunderts und schuf ein umfangreiches Werk aus Opern, Balletten, Sinfonien und Klavierkompositionen. Sein Musikmärchen Peter und der Wolf gehört zu den weltweit meistgespielten Werken der klassischen Musik.",
+        "url": "https://de.wikipedia.org/wiki/Sergei_Sergejewitsch_Prokofjew"
       }
     },
     {
@@ -92,6 +148,12 @@
       "life": {
         "from": 1685,
         "to": 1759
+      },
+      "openOpusId": "67",
+      "epoch": "Barock",
+      "wikipedia": {
+        "summary": "Georg Friedrich Händel (1685–1759), geboren in Halle und später vor allem in England tätig, gehört zu den bedeutendsten Komponisten des Barock. Nach Stationen in Deutschland und Italien ließ er sich in London nieder, wo er auch als Opernunternehmer aktiv war. Sein umfangreiches Schaffen deckt nahezu alle Gattungen ab: 42 Opern, 25 Oratorien – darunter der Messiah mit dem berühmten Halleluja-Chor –, Kirchenmusik, Kantaten sowie Orchester-, Kammer- und Klavierwerke.",
+        "url": "https://de.wikipedia.org/wiki/Georg_Friedrich_H%C3%A4ndel"
       }
     },
     {
@@ -100,6 +162,12 @@
       "life": {
         "from": 1864,
         "to": 1949
+      },
+      "openOpusId": "171",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Richard Strauss (1864–1949) war ein deutscher Komponist, Dirigent und Operndirektor, der zu den bedeutendsten Tonschöpfern des ausgehenden 19. und der ersten Hälfte des 20. Jahrhunderts zählt. In nahezu achtzig Schaffensjahren entstanden über 250 Werke, darunter zahlreiche Opern, Lieder und sinfonische Dichtungen wie Also sprach Zarathustra. Er engagierte sich für eine Urheberrechtsreform und gehörte zu den Mitbegründern der Salzburger Festspiele; seine Musik erlangte weltweite Popularität.",
+        "url": "https://de.wikipedia.org/wiki/Richard_Strauss"
       }
     },
     {
@@ -108,6 +176,12 @@
       "life": {
         "from": 1883,
         "to": 1945
+      },
+      "openOpusId": "6",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Anton Webern (1883–1945) war ein österreichischer Komponist, Dirigent und Musikwissenschaftler, der in Wien geboren wurde und in Mittersill starb. Als einer der frühesten Schüler Arnold Schönbergs gehörte er zum inneren Kreis der Wiener Schule und trug entscheidend zur Entwicklung der Zwölftonmusik bei. Seine äußerst knappen, konzentrierten Werke mit ihrer transparenten Klanglichkeit beeinflussten die serielle Musik nach 1945 nachhaltig.",
+        "url": "https://de.wikipedia.org/wiki/Anton_Webern"
       }
     },
     {
@@ -116,6 +190,12 @@
       "life": {
         "from": 1897,
         "to": 1957
+      },
+      "openOpusId": "7",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Erich Wolfgang Korngold (1897–1957) war ein österreichisch-amerikanischer Komponist, Dirigent und Pianist. Bereits als junges Talent gefeiert, erlangte er großen Ruhm mit seiner 1920 uraufgeführten Oper Die tote Stadt und verstand sich als Vertreter einer modernen Klassik. Angesichts der antisemitischen Verhältnisse in Österreich ging er 1934 in die USA, um dort Filmmusik zu schreiben, und wurde für seine Arbeiten mit zwei Oscars ausgezeichnet.",
+        "url": "https://de.wikipedia.org/wiki/Erich_Wolfgang_Korngold"
       }
     },
     {
@@ -124,6 +204,12 @@
       "life": {
         "from": 1875,
         "to": 1956
+      },
+      "openOpusId": "85",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Reinhold Glière (1875–1956) war ein in Kiew geborener deutsch-russischer Komponist, der in Moskau starb und zu einer prägenden Figur des sowjetischen Musiklebens wurde. Stilistisch der Spätromantik verpflichtet, verband er üppige Orchesterfarben mit folkloristischen Elementen. Bekanntheit erlangte er unter anderem durch die monumentale Sinfonie „Ilja Muromez“ und das Ballett „Der rote Mohn“. Zudem wirkte er als einflussreicher Kompositionslehrer.",
+        "url": "https://de.wikipedia.org/wiki/Reinhold_Moritzewitsch_Gli%C3%A8re"
       }
     },
     {
@@ -132,6 +218,12 @@
       "life": {
         "from": 1840,
         "to": 1893
+      },
+      "openOpusId": "79",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Pjotr Iljitsch Tschaikowski (1840–1893) war ein russischer Komponist, dessen Werke bereits zu seinen Lebzeiten weltweite Verbreitung fanden und heute zu den bedeutendsten der Romantik gezählt werden. Anders als die Gruppe der Fünf knüpfte er an die westlich geprägte Schule Anton Rubinsteins an. Zu seinen berühmtesten Schöpfungen gehören die letzten drei Sinfonien, das Violinkonzert, das erste Klavierkonzert, die Oper Eugen Onegin sowie die Ballette Schwanensee, Dornröschen und Der Nussknacker.",
+        "url": "https://de.wikipedia.org/wiki/Pjotr_Iljitsch_Tschaikowski"
       }
     },
     {
@@ -140,6 +232,12 @@
       "life": {
         "from": 1882,
         "to": 1967
+      },
+      "openOpusId": "34",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Zoltán Kodály (1882–1967) war ein ungarischer Komponist, Musikpädagoge und Musikethnologe. Gemeinsam mit Béla Bartók erforschte und sammelte er systematisch die ungarische Volksmusik, die sein kompositorisches Schaffen nachhaltig prägte. Große Bedeutung erlangte zudem die nach ihm benannte Kodály-Methode der musikalischen Erziehung, die weltweite Verbreitung fand. Mit seinem Werk gilt er als einer der wichtigsten Vertreter der ungarischen Musik des 20. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Zolt%C3%A1n_Kod%C3%A1ly"
       }
     },
     {
@@ -148,6 +246,12 @@
       "life": {
         "from": 1841,
         "to": 1904
+      },
+      "openOpusId": "189",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Antonín Leopold Dvořák (1841–1904) war ein tschechischer Komponist der Romantik und gilt als der international meistgespielte Vertreter seines Landes. Sein vielseitiges Schaffen umfasst neun Sinfonien sowie zahlreiche weitere Orchesterwerke, Opern, Vokal- und Kammermusik ebenso wie Stücke für Klavier und Orgel. Geboren in Böhmen, verband er kunstvoll die musikalische Tradition mit Anklängen an heimatliche Volksmusik und erlangte damit weltweite Anerkennung.",
+        "url": "https://de.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k"
       }
     },
     {
@@ -156,6 +260,12 @@
       "life": {
         "from": 1873,
         "to": 1943
+      },
+      "openOpusId": "188",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Sergei Wassiljewitsch Rachmaninow (1873–1943) war ein russischer Pianist, Komponist und Dirigent, der als einer der letzten großen Vertreter der spätromantischen Tradition gilt. Geboren im Gouvernement Nowgorod, verließ er nach der Oktoberrevolution seine Heimat und verbrachte seine letzten Jahre in den USA, wo er in Beverly Hills starb. International bekannt wurde er sowohl durch sein pianistisches Können als auch durch seine ausdrucksstarken, klangvollen Kompositionen.",
+        "url": "https://de.wikipedia.org/wiki/Sergei_Wassiljewitsch_Rachmaninow"
       }
     },
     {
@@ -164,6 +274,12 @@
       "life": {
         "from": 1857,
         "to": 1934
+      },
+      "openOpusId": "198",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Sir Edward Elgar (1857–1934) war ein britischer Komponist, der als eine der zentralen Gestalten der englischen Musik um die Wende zum 20. Jahrhundert gilt. Weltberühmt wurde er durch den Pomp and Circumstance March No. 1, dessen Mittelteil als Hymne Land of Hope and Glory zur bedeutendsten inoffiziellen Hymne des Vereinigten Königreichs avancierte und alljährlich einen Höhepunkt der Last Night of the Proms bildet.",
+        "url": "https://de.wikipedia.org/wiki/Edward_Elgar"
       }
     },
     {
@@ -172,6 +288,12 @@
       "life": {
         "from": 1732,
         "to": 1809
+      },
+      "openOpusId": "208",
+      "epoch": "Klassik",
+      "wikipedia": {
+        "summary": "Joseph Haydn (1732–1809) war ein österreichischer Komponist und gilt als einer der zentralen Meister der Wiener Klassik. Den Großteil seiner Laufbahn wirkte er als Hofmusiker der Fürsten Esterházy, deren Orchester und Oper er leitete. Nach erfolgreichen Reisen nach England verbrachte er seine letzten Jahre in Wien, wo die Oratorien Die Schöpfung und Die Jahreszeiten entstanden. Sein Kaiserlied prägte spätere Nationalhymnen.",
+        "url": "https://de.wikipedia.org/wiki/Joseph_Haydn"
       }
     },
     {
@@ -180,6 +302,12 @@
       "life": {
         "from": 1881,
         "to": 1945
+      },
+      "openOpusId": "125",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Béla Bartók (1881–1945) war ein ungarischer Komponist, Pianist und Musikethnologe, der als einer der bedeutendsten Vertreter der Moderne gilt. Gemeinsam mit Zoltán Kodály sammelte und erforschte er systematisch die Volksmusik Ungarns und der Nachbarländer, deren Melodik und Rhythmik sein eigenes Schaffen tief prägten. Zu seinen bekanntesten Werken zählen das Konzert für Orchester, die Oper Herzog Blaubarts Burg und der Klavierzyklus Mikrokosmos.",
+        "url": "https://de.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k"
       }
     },
     {
@@ -188,6 +316,12 @@
       "life": {
         "from": 1786,
         "to": 1826
+      },
+      "openOpusId": "168",
+      "epoch": "Frühromantik",
+      "wikipedia": {
+        "summary": "Carl Maria von Weber (1786–1826) war ein deutscher Komponist, Dirigent und Pianist der Romantik. Er gilt als Begründer der deutschen romantischen Oper, deren Durchbruch ihm mit dem „Freischütz“ gelang; auch „Euryanthe“ und „Oberon“ stammen von ihm. Daneben schuf er Klavier- und Konzertwerke, etwa für Klarinette. Getauft in Eutin, starb er auf einer Reise in London im Alter von nur 39 Jahren.",
+        "url": "https://de.wikipedia.org/wiki/Carl_Maria_von_Weber"
       }
     },
     {
@@ -196,6 +330,10 @@
       "life": {
         "from": 1958,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Magnus Gustaf Adolf Lindberg, geboren am 27. Juni 1958 in Helsinki, ist ein finnischer Komponist. Er gehört zu den prägenden Vertretern der zeitgenössischen finnischen Musik seiner Generation.",
+        "url": "https://de.wikipedia.org/wiki/Magnus_Lindberg"
       }
     },
     {
@@ -204,6 +342,10 @@
       "life": {
         "from": 1945,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Keith Jarrett (geboren 1945 in Allentown, Pennsylvania) ist ein US-amerikanischer Pianist, der überwiegend Jazz, daneben aber auch klassische Musik spielt. Bekannt wurde er vor allem in den 1970er Jahren durch seine ausgedehnten, frei improvisierten Solokonzerte, die in umfangreichen Livemitschnitten festgehalten wurden. Zu diesen zählen etwa die Solo Concerts Bremen/Lausanne, The Köln Concert und die Sun Bear Concerts, die als bedeutende Dokumente improvisierter Klaviermusik gelten.",
+        "url": "https://de.wikipedia.org/wiki/Keith_Jarrett"
       }
     },
     {
@@ -212,6 +354,12 @@
       "life": {
         "from": 1880,
         "to": 1959
+      },
+      "openOpusId": "106",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Ernest Bloch (1880–1959) war ein schweizerisch-US-amerikanischer Komponist jüdischer Herkunft. Er wurde 1880 in Genf geboren und starb 1959 im US-amerikanischen Portland im Bundesstaat Oregon. Sein Lebensweg führte ihn von Europa in die Vereinigten Staaten, wo er einen bedeutenden Teil seines künstlerischen Wirkens entfaltete.",
+        "url": "https://de.wikipedia.org/wiki/Ernest_Bloch"
       }
     },
     {
@@ -220,6 +368,12 @@
       "life": {
         "from": 1900,
         "to": 1990
+      },
+      "openOpusId": "170",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Aaron Copland (1900–1990), in Brooklyn als Sohn litauischer Einwanderer geboren, zählt zu den wichtigsten Vertretern der amerikanischen Moderne. Nach expressionistisch-experimentellen Anfängen entwickelte er einen klar verständlichen, rhythmisch geprägten tonalen Stil, der Volkslieder, Märsche, Tänze und Jazzelemente aufnahm. Besonders seine Bühnenmusik machte ihn bekannt; für Appalachian Spring erhielt er den Pulitzer-Preis, für seine Filmmusik einen Oscar. Weithin populär ist zudem seine Fanfare for the Common Man.",
+        "url": "https://de.wikipedia.org/wiki/Aaron_Copland"
       }
     },
     {
@@ -228,6 +382,12 @@
       "life": {
         "from": 1567,
         "to": 1643
+      },
+      "openOpusId": "39",
+      "epoch": "Renaissance",
+      "wikipedia": {
+        "summary": "Claudio Monteverdi (1567–1643) war ein italienischer Komponist, Sänger, Gambist und katholischer Priester, dessen Schaffen den Übergang von der Renaissance zum Barock markiert. Er gilt als bedeutender Wegbereiter der frühen Oper und setzte vor allem mit L'Orfeo, das mitunter als erste Oper überhaupt bezeichnet wird, neue Maßstäbe. Sein umfangreiches Werk umfasst zudem Madrigale und geistliche Musik und prägte die europäische Musikentwicklung nachhaltig.",
+        "url": "https://de.wikipedia.org/wiki/Claudio_Monteverdi"
       }
     },
     {
@@ -236,6 +396,10 @@
       "life": {
         "from": 1974,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Johannes Maria Staud, geboren 1974 in Innsbruck, ist ein österreichischer Komponist der Gegenwart. Er zählt zu den international beachteten Vertretern der zeitgenössischen österreichischen Musik.",
+        "url": "https://de.wikipedia.org/wiki/Johannes_Maria_Staud"
       }
     },
     {
@@ -244,6 +408,12 @@
       "life": {
         "from": 1797,
         "to": 1828
+      },
+      "openOpusId": "183",
+      "epoch": "Frühromantik",
+      "wikipedia": {
+        "summary": "Franz Schubert (1797–1828) war ein österreichischer Komponist, der trotz seines frühen Todes mit 31 Jahren ein umfangreiches und vielseitiges Werk hinterließ. Er schuf über 600 Lieder sowie geistliche und weltliche Chormusik, Sinfonien, Bühnenwerke, Klavier- und Kammermusik. Erst nach seinem Tod fand seine Bedeutung breite Anerkennung, als Komponisten wie Mendelssohn, Schumann, Liszt und Brahms sein Schaffen würdigten. Heute gilt er als herausragender Vertreter der frühen Romantik.",
+        "url": "https://de.wikipedia.org/wiki/Franz_Schubert"
       }
     },
     {
@@ -252,6 +422,12 @@
       "life": {
         "from": 1971,
         "to": null
+      },
+      "openOpusId": "130",
+      "epoch": "21. Jahrhundert",
+      "wikipedia": {
+        "summary": "Thomas Adès (* 1971 in London) ist ein englischer Komponist, Dirigent und Pianist, der zu den bedeutendsten Vertretern der zeitgenössischen Musik zählt. Bereits in jungen Jahren erregte er internationales Aufsehen und wurde als CBE ausgezeichnet. Zu seinen viel beachteten Werken gehören die Opern „Powder Her Face“ und „The Tempest“ sowie Orchesterstücke wie „Asyla“. Als Dirigent und Pianist tritt er weltweit auf.",
+        "url": "https://de.wikipedia.org/wiki/Thomas_Ad%C3%A8s"
       }
     },
     {
@@ -260,6 +436,10 @@
       "life": {
         "from": 1957,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Thomas Daniel Schlee (1957–2025) war ein österreichischer Musiker, der in Wien geboren wurde und ebendort starb. Er wirkte gleichermaßen als Organist, Komponist und Intendant und verband so künstlerisches Schaffen mit leitender Tätigkeit im Kulturbetrieb.",
+        "url": "https://de.wikipedia.org/wiki/Thomas_Daniel_Schlee"
       }
     },
     {
@@ -268,6 +448,12 @@
       "life": {
         "from": 1874,
         "to": 1954
+      },
+      "openOpusId": "217",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Charles Edward Ives (1874–1954) war ein US-amerikanischer Komponist und gilt als einer der ersten bedeutenden Vertreter einer eigenständigen amerikanischen Kunstmusik. Sein Werk verband experimentelle Techniken wie Polytonalität und collagenhafte Zitate mit Melodien der amerikanischen Alltags- und Kirchenmusik. Lange blieb sein Schaffen weitgehend unbeachtet, ehe es im 20. Jahrhundert breite Anerkennung fand. Beruflich war er über viele Jahre im Versicherungswesen tätig.",
+        "url": "https://de.wikipedia.org/wiki/Charles_Ives"
       }
     },
     {
@@ -276,6 +462,10 @@
       "life": {
         "from": 1878,
         "to": 1934
+      },
+      "wikipedia": {
+        "summary": "Franz Schreker (1878–1934), ursprünglich Schrecker, war ein österreichischer Komponist und Librettist, der 1878 in Monaco geboren wurde und 1934 in Berlin starb. Zu seinen Lebzeiten zählte er zu den meistgespielten deutschsprachigen Komponisten seiner Zeit und genoss beträchtliches Ansehen, ehe sein Werk später weitgehend in Vergessenheit geriet.",
+        "url": "https://de.wikipedia.org/wiki/Franz_Schreker"
       }
     },
     {
@@ -284,6 +474,12 @@
       "life": {
         "from": 1918,
         "to": 1990
+      },
+      "openOpusId": "135",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Leonard Bernstein (1918–1990) war ein US-amerikanischer Komponist, Dirigent und Pianist, der in Massachusetts geboren wurde und in New York starb. Er zählt zu den prägendsten Musikerpersönlichkeiten des 20. Jahrhunderts und bewegte sich souverän zwischen Konzertsaal und Broadway. Zu seinen erfolgreichsten Bühnenwerken gehören die Musicals On the Town, Wonderful Town, Candide und vor allem die West Side Story, deren Verfilmung ebenso wie jene von On the Town zum Welterfolg wurde.",
+        "url": "https://de.wikipedia.org/wiki/Leonard_Bernstein"
       }
     },
     {
@@ -292,6 +488,10 @@
       "life": {
         "from": 1982,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Caroline Shaw (* 1982 in Greenville, North Carolina) ist eine US-amerikanische Komponistin, Geigerin und Sängerin. Ihr vielseitiges Schaffen bewegt sich zwischen zeitgenössischer klassischer Musik und Vokalkunst. Für ihre Partita for 8 Voices wurde sie 2013 mit dem Pulitzer-Preis für Musik ausgezeichnet und gehört damit zu den prägenden Stimmen der jüngeren amerikanischen Komponistengeneration.",
+        "url": "https://de.wikipedia.org/wiki/Caroline_Shaw"
       }
     },
     {
@@ -300,6 +500,10 @@
       "life": {
         "from": 1698,
         "to": 1756
+      },
+      "wikipedia": {
+        "summary": "Riccardo Broschi, auch Brosca genannt, wurde um 1698 in Neapel geboren und starb 1756 in Madrid. Er war ein italienischer Komponist des Barock und der Bruder des berühmten Kastraten Farinelli, für dessen virtuose Stimme er einen Teil seiner Werke schuf.",
+        "url": "https://de.wikipedia.org/wiki/Riccardo_Broschi"
       }
     },
     {
@@ -308,6 +512,12 @@
       "life": {
         "from": 1899,
         "to": 1963
+      },
+      "openOpusId": "202",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Francis Poulenc (1899–1963) war ein französischer Komponist und Pianist, der zu den prägenden Musikerpersönlichkeiten des 20. Jahrhunderts in Frankreich zählt. Er gehörte der als Groupe des Six bekannten Künstlergruppe an und verband in seiner Musik eingängige Melodik mit klassischer Klarheit und geistlicher Tiefe. Zu seinen bedeutendsten Werken gehören die Oper Dialogues des Carmélites, das Gloria sowie zahlreiche Lieder und Kammermusikstücke.",
+        "url": "https://de.wikipedia.org/wiki/Francis_Poulenc"
       }
     },
     {
@@ -316,6 +526,12 @@
       "life": {
         "from": 1875,
         "to": 1937
+      },
+      "openOpusId": "57",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Joseph-Maurice Ravel (1875–1937) war ein französischer Komponist und gilt neben Claude Debussy als Hauptvertreter des musikalischen Impressionismus. Berühmt ist er vor allem als Meister der Orchestrierung und der raffinierten Klangfarbe. Sein bekanntestes Stück ist der ursprünglich als Ballett konzipierte „Boléro“; daneben schuf er Werke wie „Daphnis et Chloé“, das Klavierstück „Gaspard de la nuit“ und zwei Klavierkonzerte. Er starb in Paris.",
+        "url": "https://de.wikipedia.org/wiki/Maurice_Ravel"
       }
     },
     {
@@ -324,6 +540,10 @@
       "life": {
         "from": 1949,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Alan Irwin Menken, geboren am 22. Juli 1949 in New Rochelle, ist ein US-amerikanischer Komponist, der mit Oscar, Golden Globe, Grammy und Tony Award ausgezeichnet wurde und damit zu den wenigen EGOT-Preisträgern zählt. Acht Oscars erhielt er für seine Musik zu Disney-Filmen wie Arielle, die Meerjungfrau, Die Schöne und das Biest, Aladdin und Pocahontas. Auch als Musical-Komponist, etwa mit Sister Act, wurde er bekannt.",
+        "url": "https://de.wikipedia.org/wiki/Alan_Menken"
       }
     },
     {
@@ -332,6 +552,12 @@
       "life": {
         "from": 1871,
         "to": 1942
+      },
+      "openOpusId": "25",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Alexander von Zemlinsky (1871–1942) war ein in Wien geborener österreichischer Komponist und Dirigent. Als Dirigent wirkte er an bedeutenden europäischen Bühnen, ehe er 1938 in die USA emigrierte, wo er im Staat New York starb. Musikalisch bewegte sich sein Schaffen zwischen Spätromantik und Moderne. Er war ein enger Weggefährte und Lehrer Arnold Schönbergs, dessen Schwester er heiratete. Sein Vater war der Schriftsteller Adolf von Zemlinszky.",
+        "url": "https://de.wikipedia.org/wiki/Alexander_von_Zemlinsky"
       }
     },
     {
@@ -340,6 +566,10 @@
       "life": {
         "from": 1980,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Anna Clyne (geboren 1980 in London) ist eine englische Komponistin, die inzwischen in den Vereinigten Staaten lebt und arbeitet. Als Vertreterin der zeitgenössischen Musik entfaltet sie ihr Schaffen überwiegend im angloamerikanischen Raum.",
+        "url": "https://de.wikipedia.org/wiki/Anna_Clyne"
       }
     },
     {
@@ -348,6 +578,12 @@
       "life": {
         "from": 1903,
         "to": 1978
+      },
+      "openOpusId": "218",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Aram Chatschaturjan (1903–1978) war ein sowjetisch-armenischer Komponist, der in Tiflis geboren wurde und in Moskau starb. Seine Musik ist stark von der armenisch-georgischen und kaukasischen Volksmusik beeinflusst und verbindet farbenreiche Klanglichkeit mit tänzerischer Energie. Er gehörte zu den bedeutendsten sowjetischen Komponisten der 1930er bis 1950er Jahre. Eine Auswahl seiner Werke wurde 2013 zum Weltdokumentenerbe erklärt, was seinen bleibenden Rang in der Musikgeschichte unterstreicht.",
+        "url": "https://de.wikipedia.org/wiki/Aram_Chatschaturjan"
       }
     },
     {
@@ -356,6 +592,12 @@
       "life": {
         "from": 1935,
         "to": null
+      },
+      "openOpusId": "5",
+      "epoch": "Nachkriegszeit",
+      "wikipedia": {
+        "summary": "Arvo Pärt (* 1935 in Paide) ist ein estnischer Komponist, der als einer der bedeutendsten lebenden Vertreter der Neuen Musik gilt und weltweit zu den meistgespielten zeitgenössischen Komponisten zählt. Er wird der Neuen Einfachheit zugerechnet und entwickelte einen unverwechselbaren, meditativ-spirituellen Stil. Neben der estnischen besitzt er auch die österreichische Staatsbürgerschaft und lebte von 1981 bis 2008 in Berlin.",
+        "url": "https://de.wikipedia.org/wiki/Arvo_P%C3%A4rt"
       }
     },
     {
@@ -372,6 +614,12 @@
       "life": {
         "from": 1822,
         "to": 1890
+      },
+      "openOpusId": "12",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "César Franck (1822–1890) war ein im belgischen Lüttich geborener französischer Komponist und Organist deutsch-belgischer Abstammung, der den Großteil seines Lebens in Paris verbrachte. Er zählt zu den bedeutendsten französischen Komponisten, Pädagogen und Organisten der zweiten Hälfte des 19. Jahrhunderts und übte als Lehrer und Erneuerer der französischen Instrumentalmusik einen weitreichenden Einfluss auf die nachfolgende Komponistengeneration aus.",
+        "url": "https://de.wikipedia.org/wiki/C%C3%A9sar_Franck"
       }
     },
     {
@@ -388,6 +636,12 @@
       "life": {
         "from": 1904,
         "to": 1987
+      },
+      "openOpusId": "63",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Dmitri Kabalewski (1904–1987) war ein russischer beziehungsweise sowjetischer Komponist, der in Sankt Petersburg geboren wurde und in Moskau starb. Neben seinem kompositorischen Schaffen setzte er sich intensiv für die musikalische Bildung von Kindern und Jugendlichen ein und prägte die sowjetische Musikpädagogik nachhaltig. Zu seinen bekannten Werken zählen mehrere Klavierkonzerte sowie die vielgespielte Orchestersuite Die Komödianten.",
+        "url": "https://de.wikipedia.org/wiki/Dmitri_Borissowitsch_Kabalewski"
       }
     },
     {
@@ -396,6 +650,12 @@
       "life": {
         "from": 1906,
         "to": 1975
+      },
+      "openOpusId": "46",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Dmitri Schostakowitsch (1906–1975) war ein russischer Komponist, Pianist und Pädagoge der Sowjetzeit und zählt zu den bedeutendsten Komponisten Russlands im 20. Jahrhundert. Sein außerordentlich vielseitiges Werk umfasst 15 Sinfonien, Instrumentalkonzerte, Bühnenwerke und Filmmusik sowie 15 Streichquartette, die zum Kern des Kammermusikrepertoires gehören. Zeitlebens stand er in einem spannungsreichen Verhältnis zum stalinistischen System, das ihn drangsalierte und jahrelang in Todesfurcht hielt.",
+        "url": "https://de.wikipedia.org/wiki/Dmitri_Dmitrijewitsch_Schostakowitsch"
       }
     },
     {
@@ -404,6 +664,10 @@
       "life": {
         "from": 1858,
         "to": 1944
+      },
+      "wikipedia": {
+        "summary": "Dame Ethel Mary Smyth (1858–1944) war eine britische Komponistin, Dirigentin und Schriftstellerin, die sich zudem in der Suffragettenbewegung engagierte. Zeitlebens kämpfte sie darum, als Komponistin gleichberechtigt neben ihren männlichen Kollegen anerkannt zu werden. Ihr Schaffen umfasst sinfonische Werke, Kammermusik, Chorwerke und Opern, darunter The Wreckers; ihr Lied The March of the Women wurde zur Hymne der englischen Frauenbewegung.",
+        "url": "https://de.wikipedia.org/wiki/Ethel_Smyth"
       }
     },
     {
@@ -412,6 +676,12 @@
       "life": {
         "from": 1809,
         "to": 1847
+      },
+      "openOpusId": "147",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Jakob Ludwig Felix Mendelssohn Bartholdy (1809–1847) war ein deutscher Komponist, Pianist und Organist und zählt zu den bedeutendsten Musikern der Romantik. Als Dirigent setzte er Maßstäbe, die bis heute nachwirken. Er engagierte sich für die Werke Händels und Johann Sebastian Bachs und trug wesentlich zu deren Wiederentdeckung bei. Zudem gilt er als Mitbegründer der historischen Musikpflege und gründete in Leipzig das erste Konservatorium Deutschlands.",
+        "url": "https://de.wikipedia.org/wiki/Felix_Mendelssohn_Bartholdy"
       }
     },
     {
@@ -420,6 +690,12 @@
       "life": {
         "from": 1845,
         "to": 1924
+      },
+      "openOpusId": "53",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Gabriel Urbain Fauré (1845–1924) war ein französischer Komponist des Fin de siècle, der vor allem Vokal-, Klavier- und Kammermusik schuf und 1905 die Leitung des Pariser Konservatoriums übernahm. Sein Lehrer Camille Saint-Saëns zählte ihn bereits früh zu den Meistern. Faurés Musik gilt als von zurückhaltendem Charme und gedämpfter Melancholie geprägt. Zu seinen Schülern gehörten unter anderem Nadia Boulanger, George Enescu und Maurice Ravel.",
+        "url": "https://de.wikipedia.org/wiki/Gabriel_Faur%C3%A9"
       }
     },
     {
@@ -428,6 +704,12 @@
       "life": {
         "from": 1882,
         "to": 1971
+      },
+      "openOpusId": "190",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Igor Strawinsky (1882–1971) war ein Komponist und Dirigent russischer Herkunft, der später die französische und die US-amerikanische Staatsbürgerschaft annahm. Geboren bei Sankt Petersburg, starb er in New York City. Er zählt zu den einflussreichsten Vertretern der Neuen Musik und prägte das 20. Jahrhundert wie kaum ein anderer, indem er über die Stationen seines Lebens hinweg immer wieder neue Stilrichtungen erschloss und die musikalische Sprache seiner Zeit maßgeblich erneuerte.",
+        "url": "https://de.wikipedia.org/wiki/Igor_Strawinsky"
       }
     },
     {
@@ -436,6 +718,12 @@
       "life": {
         "from": 1865,
         "to": 1957
+      },
+      "openOpusId": "186",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Jean Sibelius (1865–1957) war ein finnischer Komponist am Übergang von der Spätromantik zur Moderne und gilt als bedeutendster musikalischer Vertreter seines Landes. Sein umfangreiches Schaffen umfasst sieben Sinfonien, ein vielgespieltes Violinkonzert sowie die patriotische Tondichtung Finlandia. Mit seiner eigenständigen Tonsprache wurde er zu einem nationalen Symbol Finnlands und prägte die nordische Orchestermusik nachhaltig.",
+        "url": "https://de.wikipedia.org/wiki/Jean_Sibelius"
       }
     },
     {
@@ -444,6 +732,12 @@
       "life": {
         "from": 1685,
         "to": 1750
+      },
+      "openOpusId": "87",
+      "epoch": "Barock",
+      "wikipedia": {
+        "summary": "Johann Sebastian Bach (1685–1750) war ein deutscher Komponist, Organist und Cembalist des Barock und der bekannteste Vertreter der weitverzweigten Musikerfamilie Bach. In Leipzig wirkte er als Thomaskantor und Musikdirektor. Seine kunstvolle, kontrapunktisch dichte Musik gilt vielen als Inbegriff kompositorischer Vollendung; zu den berühmtesten Werken zählen das Wohltemperierte Klavier, die Brandenburgischen Konzerte, die Matthäus-Passion und die h-Moll-Messe. Die Bach-Renaissance begann 1829.",
+        "url": "https://de.wikipedia.org/wiki/Johann_Sebastian_Bach"
       }
     },
     {
@@ -452,6 +746,12 @@
       "life": {
         "from": 1833,
         "to": 1897
+      },
+      "openOpusId": "80",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Johannes Brahms (1833–1897) war ein deutscher Komponist, Pianist und Dirigent, dessen Werke überwiegend der Hochromantik zugerechnet werden, durch die Aufnahme barocker und klassischer Formen jedoch über diese hinausweisen. Er stammte aus einfachen Verhältnissen und wurde früh von Robert Schumann gefördert. Spätestens mit dem Deutschen Requiem von 1868 genoss er hohes Ansehen. Abgesehen von der Oper hinterließ er in allen Gattungen exemplarische Werke und gilt als einer der bedeutendsten Komponisten des 19. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Johannes_Brahms"
       }
     },
     {
@@ -460,6 +760,12 @@
       "life": {
         "from": 1947,
         "to": null
+      },
+      "openOpusId": "149",
+      "epoch": "21. Jahrhundert",
+      "wikipedia": {
+        "summary": "John Coolidge Adams (* 1947 in Worcester, Massachusetts) ist ein US-amerikanischer Komponist. Gemeinsam mit Steve Reich, Philip Glass und Terry Riley zählt er zu den bekanntesten Vertretern der Minimal Music, die auf sich wiederholenden harmonischen und rhythmischen Mustern beruht. Seit den 1990er Jahren ordnet er sein Schaffen dem Post-Minimalismus zu. Bekannt wurde er unter anderem durch Opern wie „Nixon in China“ und „Doctor Atomic“.",
+        "url": "https://de.wikipedia.org/wiki/John_Adams_(Komponist)"
       }
     },
     {
@@ -476,6 +782,10 @@
       "life": {
         "from": 1972,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Malek Jandali, geboren am 25. Dezember 1972 in Waldbröl, ist ein US-amerikanischer Komponist und Pianist. Seine Eltern stammen aus Syrien, sodass er neben seiner amerikanischen Prägung auch von syrischen Wurzeln geprägt ist.",
+        "url": "https://de.wikipedia.org/wiki/Malek_Jandali"
       }
     },
     {
@@ -484,6 +794,10 @@
       "life": {
         "from": 1882,
         "to": 1948
+      },
+      "wikipedia": {
+        "summary": "Manuel María Ponce (1882–1948) war ein mexikanischer Komponist, der als eine der zentralen Gestalten der mexikanischen Kunstmusik gilt. In seinem Schaffen verband er europäische Formen mit Elementen der mexikanischen Volksmusik. Besondere Bedeutung erlangte er durch seine Werke für Gitarre, die er in enger Zusammenarbeit mit dem Gitarristen Andrés Segovia schuf und die bis heute zum festen Repertoire des Instruments gehören.",
+        "url": "https://de.wikipedia.org/wiki/Manuel_Mar%C3%ADa_Ponce"
       }
     },
     {
@@ -492,6 +806,12 @@
       "life": {
         "from": 1737,
         "to": 1806
+      },
+      "openOpusId": "208",
+      "epoch": "Klassik",
+      "wikipedia": {
+        "summary": "Johann Michael Haydn (1737–1806) war ein österreichischer Komponist, der 1737 im niederösterreichischen Rohrau geboren wurde und 1806 in Salzburg starb. Er war ein jüngerer Bruder des berühmten Joseph Haydn sowie des Sängers Johann Evangelist Haydn. Einen großen Teil seines Wirkens verbrachte er in Salzburg, wo er vor allem als Kirchenmusiker tätig war.",
+        "url": "https://de.wikipedia.org/wiki/Michael_Haydn"
       }
     },
     {
@@ -500,6 +820,12 @@
       "life": {
         "from": 1844,
         "to": 1908
+      },
+      "openOpusId": "118",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Nikolai Andrejewitsch Rimski-Korsakow (1844–1908) war ein russischer Komponist, der in Tichwin im Gouvernement Nowgorod geboren wurde und bei Luga starb. Er gilt als einer der herausragenden Meister der russischen nationalen Schule und war für seine glänzende, farbenreiche Orchestrierung berühmt. Neben seinem kompositorischen Schaffen wirkte er prägend als Lehrer einer ganzen Generation russischer Komponisten und hinterließ ein umfangreiches, bis heute im Repertoire fest verankertes Werk.",
+        "url": "https://de.wikipedia.org/wiki/Nikolai_Andrejewitsch_Rimski-Korsakow"
       }
     },
     {
@@ -508,6 +834,10 @@
       "life": {
         "from": 1911,
         "to": 1979
+      },
+      "wikipedia": {
+        "summary": "Nino Rota (1911–1979) war ein italienischer Komponist, der neben Werken der Konzertmusik vor allem durch seine über 150 Filmmusiken internationale Berühmtheit erlangte. Er schuf die Musik zu zahlreichen Filmklassikern von Federico Fellini und Luchino Visconti und arbeitete auch für Hollywood-Produktionen. Für seine Filmmusik zu Der Pate – Teil II wurde er 1975 mit dem Oscar ausgezeichnet.",
+        "url": "https://de.wikipedia.org/wiki/Nino_Rota"
       }
     },
     {
@@ -516,6 +846,12 @@
       "life": {
         "from": 1895,
         "to": 1963
+      },
+      "openOpusId": "154",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Paul Hindemith (1895–1963) war ein deutscher Komponist der Moderne und ein vielseitiger Universalmusiker, der auch als Bratschist und Dirigent wirkte. Seine frühen Werke provozierten mit schroffen Rhythmen und Dissonanzen, später entwickelte er einen neoklassizistischen Stil und das Konzept der Gebrauchsmusik. Während des Nationalsozialismus mit Aufführungsverbot belegt, emigrierte er über die Schweiz in die USA. Sein theoretisches System beschrieb er als freie Tonalität.",
+        "url": "https://de.wikipedia.org/wiki/Paul_Hindemith"
       }
     },
     {
@@ -524,6 +860,12 @@
       "life": {
         "from": 1810,
         "to": 1856
+      },
+      "openOpusId": "129",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Robert Schumann (1810–1856) war ein deutscher Komponist, Musikkritiker und Dirigent und zählt heute zu den bedeutendsten Komponisten der Romantik. In seiner frühen Schaffensphase widmete er sich vor allem der Klaviermusik, ehe er 1840, im Jahr seiner Heirat mit der Pianistin Clara Wieck, fast 150 Lieder schrieb. Später erweiterte sich sein Werk um vier Sinfonien, konzertante Stücke, Kammer- und Chormusik sowie eine Oper. Auch als Musikschriftsteller war er einflussreich.",
+        "url": "https://de.wikipedia.org/wiki/Robert_Schumann"
       }
     },
     {
@@ -532,6 +874,10 @@
       "life": {
         "from": 1984,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Samy Moussa (* 1984 in Montreal) ist ein kanadischer Dirigent und Komponist im Bereich der klassischen Musik. Er ist sowohl als Schöpfer eigener Kompositionen als auch als Dirigent tätig; seine Werke wurden international aufgeführt und fanden über seine Heimat Kanada hinaus Beachtung.",
+        "url": "https://de.wikipedia.org/wiki/Samy_Moussa"
       }
     },
     {
@@ -540,6 +886,12 @@
       "life": {
         "from": 1902,
         "to": 1983
+      },
+      "openOpusId": "44",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Sir William Turner Walton (1902–1983) war ein englischer Komponist und Dirigent, der in Oldham in Lancashire geboren wurde und auf der italienischen Insel Ischia starb. Er zählt zu den bedeutenden britischen Komponisten des 20. Jahrhunderts und trat unter anderem mit Orchester-, Chor- und Filmmusik hervor.",
+        "url": "https://de.wikipedia.org/wiki/William_Walton"
       }
     },
     {
@@ -548,6 +900,12 @@
       "life": {
         "from": 1756,
         "to": 1791
+      },
+      "openOpusId": "196",
+      "epoch": "Klassik",
+      "wikipedia": {
+        "summary": "Wolfgang Amadeus Mozart (1756–1791) war ein in Salzburg geborener Komponist der Wiener Klassik und zählt zu den berühmtesten Komponisten der Musikgeschichte. Schon als Wunderkind bereiste er mit seiner Familie die europäischen Höfe. Ab 1781 lebte er als freischaffender Musiker in Wien. In nahezu allen Gattungen seiner Zeit schuf er Meisterwerke, darunter Opern, Sinfonien und Klavierkonzerte. Sein letztes Werk, das Requiem, blieb unvollendet.",
+        "url": "https://de.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
       }
     },
     {
@@ -556,6 +914,12 @@
       "life": {
         "from": 1885,
         "to": 1935
+      },
+      "openOpusId": "210",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Alban Berg (1885–1935) war ein österreichischer Komponist der Zweiten Wiener Schule und wurde als Schüler von Arnold Schönberg zu einem ihrer wichtigsten Vertreter. Geboren und gestorben in Wien, verband er die Zwölftontechnik mit spätromantischer Ausdruckskraft. Zu seinen bekanntesten Werken zählen die Opern Wozzeck und Lulu sowie das Violinkonzert, das zu den bedeutendsten Kompositionen des 20. Jahrhunderts gerechnet wird.",
+        "url": "https://de.wikipedia.org/wiki/Alban_Berg"
       }
     },
     {
@@ -564,6 +928,10 @@
       "life": {
         "from": 1861,
         "to": 1906
+      },
+      "wikipedia": {
+        "summary": "Anton Stepanowitsch Arenski (1861–1906) war ein russischer Komponist, Dirigent und Pianist, der in Nowgorod geboren wurde und bei Terijoki starb. Er wirkte als vielseitiger Musiker innerhalb der russischen Musiktradition seiner Zeit und verband kompositorisches Schaffen mit einer aktiven Tätigkeit am Dirigentenpult und am Klavier. Sein vergleichsweise kurzes Leben umfasste dennoch ein Œuvre, das ihn als eigenständige Stimme des späten 19. Jahrhunderts in Russland ausweist.",
+        "url": "https://de.wikipedia.org/wiki/Anton_Stepanowitsch_Arenski"
       }
     },
     {
@@ -572,6 +940,12 @@
       "life": {
         "from": 1865,
         "to": 1931
+      },
+      "openOpusId": "52",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Carl Nielsen (1865–1931) war ein dänischer Komponist und Dirigent, der als der bedeutendste Tonschöpfer seines Landes gilt. Sein Werk, das den Übergang von der Spätromantik in die Moderne widerspiegelt, umfasst insbesondere sechs Sinfonien sowie Konzerte, Kammermusik und Bühnenwerke. Mit seiner eigenständigen, oft von fortschreitender Tonalität geprägten Sprache nimmt er einen festen Platz in der skandinavischen Musikgeschichte ein.",
+        "url": "https://de.wikipedia.org/wiki/Carl_Nielsen_(Komponist)"
       }
     },
     {
@@ -580,6 +954,12 @@
       "life": {
         "from": 1862,
         "to": 1918
+      },
+      "openOpusId": "105",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Claude Debussy (1862–1918) war ein französischer Pianist und Komponist, der als herausragender Vertreter des musikalischen Impressionismus gilt. Mit seinen farbenreichen Klangflächen, neuartigen Harmonien und schwebenden Formen löste er sich von den Konventionen des 19. Jahrhunderts. Seine Musik wird als bedeutendes Bindeglied zwischen Romantik und Moderne verstanden und prägte die Entwicklung der Musik des 20. Jahrhunderts nachhaltig.",
+        "url": "https://de.wikipedia.org/wiki/Claude_Debussy"
       }
     },
     {
@@ -588,6 +968,12 @@
       "life": {
         "from": 1843,
         "to": 1907
+      },
+      "openOpusId": "162",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Edvard Grieg (1843–1907) war ein norwegischer Pianist und Komponist der Romantik, dessen Musik deutlich von der Volksmusik seiner Heimat geprägt war. Er gilt als bedeutendster norwegischer Komponist und verhalf der nationalen Tonsprache seines Landes zu internationaler Geltung. Besondere Bekanntheit erlangte er durch die beiden Peer-Gynt-Suiten; darüber hinaus zählen sein Klavierkonzert a-Moll und die Lyrischen Stücke zu seinen meistgespielten Werken.",
+        "url": "https://de.wikipedia.org/wiki/Edvard_Grieg"
       }
     },
     {
@@ -596,6 +982,10 @@
       "life": {
         "from": 1901,
         "to": 1977
+      },
+      "wikipedia": {
+        "summary": "Eivind Groven (1901–1977) war ein norwegischer Komponist, Musikforscher und Musikethnologe. Er stammte aus der Telemark und wirkte später in Oslo. Neben seinem kompositorischen Schaffen beschäftigte er sich intensiv mit der norwegischen Volksmusik sowie mit Fragen der Stimmung und Intonation und entwickelte eine eigens konstruierte reinstimmige Orgel. Auf diese Weise verband er künstlerische Arbeit mit wissenschaftlicher Forschung.",
+        "url": "https://de.wikipedia.org/wiki/Eivind_Groven"
       }
     },
     {
@@ -604,6 +994,12 @@
       "life": {
         "from": 1877,
         "to": 1960
+      },
+      "openOpusId": "112",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Ernst von Dohnányi, ungarisch auch Dohnányi Ernő (1877–1960), war ein ungarischer Pianist und Komponist. Er wurde im damals österreichisch-ungarischen Pressburg geboren und starb in New York City.",
+        "url": "https://de.wikipedia.org/wiki/Ernst_von_Dohn%C3%A1nyi"
       }
     },
     {
@@ -612,6 +1008,12 @@
       "life": {
         "from": 1898,
         "to": 1937
+      },
+      "openOpusId": "136",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "George Gershwin (1898–1937) war ein US-amerikanischer Komponist, Pianist und Dirigent, der in Brooklyn als Jacob Gershovitz geboren wurde. Sein Schaffen verband klassische Musik mit Elementen des Jazz und der populären Musik seiner Zeit. Zu seinen bekanntesten Werken zählen die Orchesterstücke Rhapsody in Blue und Ein Amerikaner in Paris sowie die Oper Porgy and Bess. Er starb bereits im Alter von 38 Jahren in Hollywood.",
+        "url": "https://de.wikipedia.org/wiki/George_Gershwin"
       }
     },
     {
@@ -620,6 +1022,10 @@
       "life": {
         "from": 1919,
         "to": 1945
+      },
+      "wikipedia": {
+        "summary": "Gideon Klein (1919–1945) war ein tschechisch-jüdischer Komponist und Pianist, der 1919 im mährischen Přerov geboren wurde. Sein vielversprechendes künstlerisches Wirken fand ein frühes und gewaltsames Ende, als er 1945 im nationalsozialistischen Konzentrationslager Fürstengrube ums Leben kam.",
+        "url": "https://de.wikipedia.org/wiki/Gideon_Klein"
       }
     },
     {
@@ -628,6 +1034,12 @@
       "life": {
         "from": 1926,
         "to": 2012
+      },
+      "openOpusId": "155",
+      "epoch": "Nachkriegszeit",
+      "wikipedia": {
+        "summary": "Hans Werner Henze (1926–2012) war ein deutscher Komponist, der in Gütersloh geboren wurde und in Dresden starb. Er gehört zu den bedeutendsten deutschen Komponisten des 20. Jahrhunderts und hinterließ ein umfangreiches, vielgestaltiges Werk. Über die Jahrzehnte seines Schaffens prägte er das moderne Musikleben nachhaltig und zählt zu den zentralen Persönlichkeiten der Neuen Musik nach 1945 im deutschsprachigen Raum.",
+        "url": "https://de.wikipedia.org/wiki/Hans_Werner_Henze"
       }
     },
     {
@@ -636,6 +1048,12 @@
       "life": {
         "from": 1803,
         "to": 1869
+      },
+      "openOpusId": "175",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Hector Berlioz (1803–1869) war ein französischer Komponist und Musikkritiker der Romantik, der als einer der großen Neuerer der Orchestermusik gilt. Er erweiterte die klanglichen Möglichkeiten des Orchesters entscheidend und verfasste eine wegweisende Instrumentationslehre. Zu seinen bekanntesten Werken zählt die programmatische Symphonie fantastique. Neben dem Komponieren war er als einflussreicher Kritiker und Schriftsteller tätig und prägte das Musikleben seiner Zeit.",
+        "url": "https://de.wikipedia.org/wiki/Hector_Berlioz"
       }
     },
     {
@@ -644,6 +1062,12 @@
       "life": {
         "from": 1659,
         "to": 1695
+      },
+      "openOpusId": "199",
+      "epoch": "Barock",
+      "wikipedia": {
+        "summary": "Henry Purcell (1659–1695) war ein englischer Komponist des Barock, der schon zu Lebzeiten als bedeutendster Musiker seines Landes galt und den Ehrentitel Orpheus britannicus erhielt. Seine Laufbahn war eng mit dem Königshof und der Westminster Abbey verbunden; daneben schuf er umfangreiche Theatermusik. Er verband englische Kontrapunkttradition mit französischen und italienischen Einflüssen. Besonders bekannt sind seine Oper Dido and Aeneas sowie King Arthur.",
+        "url": "https://de.wikipedia.org/wiki/Henry_Purcell"
       }
     },
     {
@@ -660,6 +1084,12 @@
       "life": {
         "from": 1890,
         "to": 1962
+      },
+      "openOpusId": "122",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Jacques Ibert (1890–1962) war ein französischer Komponist, der in Paris geboren wurde und ebenda starb. Sein vielseitiges Schaffen umfasst Orchesterwerke, Kammermusik, Opern und Filmmusik und lässt sich keiner einzelnen Stilrichtung eindeutig zuordnen. Zu seinen bekanntesten Werken zählen die vom Mittelmeerraum inspirierte Orchestersuite Escales sowie das heitere Divertissement.",
+        "url": "https://de.wikipedia.org/wiki/Jacques_Ibert"
       }
     },
     {
@@ -668,6 +1098,10 @@
       "life": {
         "from": 1973,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Jörg Widmann (* 1973 in München) ist ein deutscher Klarinettist und Komponist, der zu den vielseitigsten und meistgespielten Musikern seiner Generation zählt. Er lebt in München und Berlin und tritt neben seiner kompositorischen Arbeit auch als gefragter Klarinettensolist sowie als Dirigent hervor. Sein umfangreiches Schaffen reicht von Kammermusik über Orchesterwerke bis hin zu großformatigen Bühnen- und Vokalkompositionen.",
+        "url": "https://de.wikipedia.org/wiki/J%C3%B6rg_Widmann"
       }
     },
     {
@@ -676,6 +1110,12 @@
       "life": {
         "from": 1743,
         "to": 1805
+      },
+      "openOpusId": "66",
+      "epoch": "Klassik",
+      "wikipedia": {
+        "summary": "Luigi Rodolfo Boccherini (1743–1805) war ein italienischer Komponist und Cellist der vorklassischen und klassischen Epoche. Ab 1768 lebte er in Spanien, wo er unter anderem als Kammerkomponist des Infanten Don Luis und aus der Ferne für den preußischen König Friedrich Wilhelm II. tätig war. Er gilt als bedeutendster italienischer Instrumentalkomponist des späten 18. Jahrhunderts und prägte Gattungen wie das Streichquartett und Streichquintett; besonders bekannt ist sein Menuett aus dem Streichquintett op. 11 Nr. 5.",
+        "url": "https://de.wikipedia.org/wiki/Luigi_Boccherini"
       }
     },
     {
@@ -684,6 +1124,10 @@
       "life": {
         "from": 1895,
         "to": 1968
+      },
+      "wikipedia": {
+        "summary": "Mario Castelnuovo-Tedesco (1895–1968) war ein italienischer Komponist und Pianist, der 1939 vor der faschistischen Verfolgung in die USA emigrierte. Dort ließ er sich in Kalifornien nieder und arbeitete unter anderem als Filmkomponist in Hollywood. Sein umfangreiches Werk umfasst zahlreiche Kompositionen für Gitarre, die er in Zusammenarbeit mit dem Gitarristen Andrés Segovia schuf und die bis heute viel gespielt werden.",
+        "url": "https://de.wikipedia.org/wiki/Mario_Castelnuovo-Tedesco"
       }
     },
     {
@@ -692,6 +1136,10 @@
       "life": {
         "from": 1971,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Matthias Pintscher (geboren 1971 in Marl) ist ein deutscher Komponist und Dirigent. Er zählt zu den international tätigen Vertretern der zeitgenössischen Musik und ist sowohl mit eigenen Werken als auch als Interpret am Pult namhafter Ensembles und Orchester präsent.",
+        "url": "https://de.wikipedia.org/wiki/Matthias_Pintscher"
       }
     },
     {
@@ -700,6 +1148,12 @@
       "life": {
         "from": 1782,
         "to": 1840
+      },
+      "openOpusId": "3",
+      "epoch": "Frühromantik",
+      "wikipedia": {
+        "summary": "Niccolò Paganini (1782–1840) war ein italienischer Violinist, Bratschist, Gitarrist und Komponist, geboren in Genua und gestorben in Nizza. Als führender und berühmtester Geigenvirtuose seiner Zeit wurde er durch seine brillante Spieltechnik und sein auffälliges Erscheinungsbild bereits zu Lebzeiten zur Legende. Auch das Gitarrenspiel beherrschte er meisterhaft. Sein Wirken erweiterte die technischen Möglichkeiten des Instruments entscheidend und beeinflusste die Entwicklung des Virtuosentums nachhaltig.",
+        "url": "https://de.wikipedia.org/wiki/Niccol%C3%B2_Paganini"
       }
     },
     {
@@ -708,6 +1162,10 @@
       "life": {
         "from": 1817,
         "to": 1890
+      },
+      "wikipedia": {
+        "summary": "Niels Wilhelm Gade (1817–1890) war ein dänischer Komponist und Dirigent, der als eine der zentralen Gestalten des dänischen Musiklebens im 19. Jahrhundert gilt. Er stand der romantischen Tradition nahe und wirkte zeitweise in Leipzig, dem damaligen Zentrum der deutschen Romantik. Sein Schaffen umfasst Sinfonien, Kammermusik und Chorwerke und trug maßgeblich zur Entwicklung einer eigenständigen nordischen Musikkultur bei.",
+        "url": "https://de.wikipedia.org/wiki/Niels_Wilhelm_Gade"
       }
     },
     {
@@ -716,6 +1174,10 @@
       "life": {
         "from": 1937,
         "to": 2020
+      },
+      "wikipedia": {
+        "summary": "Nikolai Kapustin (1937–2020) war ein Komponist und Pianist ukrainisch-russisch-jüdischer Abstammung, der in der heutigen Ukraine geboren wurde und in Moskau starb. Er ist vor allem für seine originelle Verbindung von klassischen Formen mit Idiomen des Jazz bekannt, die seinen zahlreichen virtuosen Klavierwerken ein unverwechselbares Gepräge verleiht.",
+        "url": "https://de.wikipedia.org/wiki/Nikolai_Kapustin"
       }
     },
     {
@@ -732,6 +1194,12 @@
       "life": {
         "from": 1872,
         "to": 1958
+      },
+      "openOpusId": "36",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Ralph Vaughan Williams (1872–1958) war ein englischer Komponist und Dirigent, dessen über sechs Jahrzehnte gewachsenes Werk Opern, Ballette, Kammermusik, geistliche und weltliche Vokalwerke sowie Orchesterkompositionen mit neun Sinfonien umfasst. Beeinflusst von der Musik der Tudorzeit, überlieferten Volksliedern und der englischen Literatur, löste er die britische Musik aus ihrer langen Abhängigkeit von deutschen Vorbildern und verlieh ihr eine eigenständige, national geprägte Stimme.",
+        "url": "https://de.wikipedia.org/wiki/Ralph_Vaughan_Williams"
       }
     },
     {
@@ -740,6 +1208,10 @@
       "life": {
         "from": 1877,
         "to": 1953
+      },
+      "wikipedia": {
+        "summary": "Roger Quilter (1877–1953) war ein englischer Komponist, der vor allem durch seine Kunstlieder bekannt wurde. Geboren in Hove, verbrachte er sein späteres Leben in London. Seine feinsinnigen Vertonungen englischer Dichtung, unter anderem von Shakespeare-Texten, machten ihn zu einem der geschätztesten Liedkomponisten seines Landes und sicherten ihm einen festen Platz im englischen Liedrepertoire.",
+        "url": "https://de.wikipedia.org/wiki/Roger_Quilter"
       }
     },
     {
@@ -748,6 +1220,10 @@
       "life": {
         "from": 1877,
         "to": 1946
+      },
+      "wikipedia": {
+        "summary": "Thomas Frederick Dunhill (1877–1946) war ein englischer Komponist. Er wurde in Hampstead geboren und starb in Scunthorpe.",
+        "url": "https://de.wikipedia.org/wiki/Thomas_Dunhill"
       }
     },
     {
@@ -764,6 +1240,12 @@
       "life": {
         "from": 1913,
         "to": 1976
+      },
+      "openOpusId": "169",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Edward Benjamin Britten (1913–1976) war ein britischer Komponist, Dirigent und Pianist und gilt als einer der bedeutendsten englischen Komponisten des 20. Jahrhunderts. Zu seinen bekanntesten Werken zählen die Oper Peter Grimes, das War Requiem und The Young Person's Guide to the Orchestra. Gemeinsam mit dem Tenor Peter Pears gründete er das Aldeburgh Festival in Suffolk, wo er den Großteil seines Lebens wirkte.",
+        "url": "https://de.wikipedia.org/wiki/Benjamin_Britten"
       }
     },
     {
@@ -772,6 +1254,10 @@
       "life": {
         "from": 1945,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Sir John Milford Rutter (geboren 1945 in London) ist ein britischer Komponist, Dirigent, Produzent und Chorleiter. Er hat sich vor allem im Bereich der Chormusik einen internationalen Namen gemacht und ist für seine geistlichen wie weltlichen Chorwerke weithin bekannt. Für seine Verdienste wurde er geadelt und zum Commander of the Order of the British Empire ernannt.",
+        "url": "https://de.wikipedia.org/wiki/John_Rutter"
       }
     },
     {
@@ -780,6 +1266,10 @@
       "life": {
         "from": 1893,
         "to": 1918
+      },
+      "wikipedia": {
+        "summary": "Lili Boulanger (1893–1918) war eine französische Komponistin, die in Paris geboren wurde und bereits mit 24 Jahren in Mézy-sur-Seine starb. Sie entstammte einer traditionsreichen Musikerfamilie: Ihre Mutter war Sängerin, ihr Vater Komponist und ihre ältere Schwester Nadia eine bedeutende Komponistin, Dirigentin und Musikpädagogin. Trotz ihres kurzen Lebens hinterließ Lili Boulanger ein bemerkenswertes Werk und gilt als eine der begabtesten Komponistinnen ihrer Generation.",
+        "url": "https://de.wikipedia.org/wiki/Lili_Boulanger"
       }
     },
     {
@@ -788,6 +1278,12 @@
       "life": {
         "from": 1916,
         "to": 1983
+      },
+      "openOpusId": "32",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Alberto Ginastera (1916–1983) war ein argentinischer Komponist und gilt als bedeutendster Vertreter der klassischen Musik seines Landes im 20. Jahrhundert. In seinem Schaffen verband er Elemente der argentinischen Folklore mit modernen Kompositionstechniken und entwickelte eine unverwechselbare Tonsprache. Sein Werk umfasst Orchesterstücke, Ballette, Opern und Kammermusik und übte großen Einfluss auf die lateinamerikanische Musik aus.",
+        "url": "https://de.wikipedia.org/wiki/Alberto_Ginastera"
       }
     },
     {
@@ -796,6 +1292,10 @@
       "life": {
         "from": 1912,
         "to": 2002
+      },
+      "wikipedia": {
+        "summary": "Xavier Montsalvatge (1912–2002) war ein spanischer Komponist und Musikkritiker aus Katalonien, geboren in Girona und gestorben in Barcelona. Er gilt als eine der Schlüsselfiguren der spanischen Musik in der zweiten Hälfte des 20. Jahrhunderts und verband in seinem Schaffen unter anderem katalanische und antillanische Einflüsse zu einem eigenständigen, farbenreichen Personalstil.",
+        "url": "https://de.wikipedia.org/wiki/Xavier_Montsalvatge"
       }
     },
     {
@@ -804,6 +1304,12 @@
       "life": {
         "from": 1876,
         "to": 1946
+      },
+      "openOpusId": "37",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Manuel de Falla (1876–1946) war ein spanischer Komponist, der als einer der bedeutendsten spanischen Tonschöpfer des 20. Jahrhunderts gilt. Geboren in Cádiz, verband er in seiner Musik die Formen der europäischen Kunstmusik mit den Farben und Rhythmen der andalusischen Folklore. Zu seinen bekanntesten Werken zählen das Ballett Der Dreispitz, El amor brujo sowie die sinfonischen Impressionen Nächte in spanischen Gärten. Seine letzten Jahre verbrachte er in Argentinien.",
+        "url": "https://de.wikipedia.org/wiki/Manuel_de_Falla"
       }
     },
     {
@@ -812,6 +1318,12 @@
       "life": {
         "from": 1833,
         "to": 1887
+      },
+      "openOpusId": "43",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Alexander Borodin (1833–1887) war ein russischer Komponist, der zugleich als Professor für organische Chemie und promovierter Mediziner wirkte. Als Mitglied der „Gruppe der Fünf“ prägte er die national geprägte russische Musik. Weltbekannt wurden die Polowetzer Tänze aus seiner Oper „Fürst Igor“; daneben schuf er Sinfonien, das Orchesterbild „In den Steppen Zentralasiens“ und Streichquartette. Er wurde in Sankt Petersburg geboren und starb dort.",
+        "url": "https://de.wikipedia.org/wiki/Alexander_Porfirjewitsch_Borodin"
       }
     },
     {
@@ -820,6 +1332,10 @@
       "life": {
         "from": 1962,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Jennifer Higdon, geboren am 31. Dezember 1962 in Brooklyn, ist eine US-amerikanische Komponistin klassischer Musik. Sie zählt zu den vielgespielten Vertreterinnen der zeitgenössischen amerikanischen Konzertmusik.",
+        "url": "https://de.wikipedia.org/wiki/Jennifer_Higdon"
       }
     },
     {
@@ -828,6 +1344,12 @@
       "life": {
         "from": 1813,
         "to": 1901
+      },
+      "openOpusId": "35",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Giuseppe Verdi (1813–1901) war ein italienischer Komponist der Romantik und einer der bedeutendsten Opernkomponisten überhaupt. Seine Werke prägen bis heute die internationalen Opernhäuser und zeichnen sich durch dramatische Kraft und einprägsame Melodien aus. Zu seinen berühmtesten Opern zählen Rigoletto, La traviata, Aida, Otello und Falstaff. Daneben schuf er mit dem Messa da Requiem ein bedeutendes geistliches Werk.",
+        "url": "https://de.wikipedia.org/wiki/Giuseppe_Verdi"
       }
     },
     {
@@ -836,47 +1358,89 @@
       "life": {
         "from": 1981,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Johanna Andrea Tarrodi, geborene Lindberg (geboren 1981 in Stockholm), ist eine schwedische Komponistin. Sie gehört zu den zeitgenössischen Vertreterinnen der Musik ihres Landes und ist vor allem im Bereich der Orchester- und Kammermusik tätig.",
+        "url": "https://de.wikipedia.org/wiki/Andrea_Tarrodi"
       }
     },
     {
       "id": "alexander-arutiunian",
       "name": "Alexander Arutiunian",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Alexander Arutjunjan (1920–2012), auch Harutjunjan geschrieben, war ein armenischer Komponist, der in der Sowjetunion wirkte. Er wurde in Jerewan geboren, wo er auch starb. Sein Schaffen ist in der armenischen Musiktradition verwurzelt und verbindet nationale Klangfarben mit den kompositorischen Prägungen seiner Zeit. Über seine lange Lebensspanne hinweg blieb er eine feste Größe des armenischen Musiklebens und schuf ein Œuvre von bleibender Bedeutung.",
+        "url": "https://de.wikipedia.org/wiki/Alexander_Arutjunjan"
+      }
     },
     {
       "id": "leos-janacek",
       "name": "Leoš Janáček",
-      "life": null
+      "life": null,
+      "openOpusId": "96",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Leoš Janáček (1854–1928) war ein tschechischer Komponist, der zu den bedeutendsten Erneuerern der Musik des frühen 20. Jahrhunderts zählt. Seine Tonsprache ist stark von der Sprachmelodik und der Volksmusik seiner mährischen Heimat geprägt. Bekannt wurde er vor allem durch seine Opern sowie durch Orchester- und Kammermusik. Erst im fortgeschrittenen Alter erlangte er internationale Anerkennung und beeinflusste die spätere tschechische Musik nachhaltig.",
+        "url": "https://de.wikipedia.org/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek"
+      }
     },
     {
       "id": "franciszek-lessel",
       "name": "Franciszek Lessel",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Franciszek Lessel, auch Franz Lessel genannt (um 1780–1838), war ein polnischer Komponist. Als Sohn des Komponisten Wincenty Ferdynand Lessel begann er ein Medizinstudium in Wien, wandte sich jedoch der Musik zu und wurde Schüler von Joseph Haydn. 1810 kehrte er nach Polen zurück. Sein umfangreiches Werk umfasst eine Oper, sechs Sinfonien, ein Klavierkonzert, Orchester- und Kammermusik sowie zahlreiche Lieder und Kirchenmusik.",
+        "url": "https://de.wikipedia.org/wiki/Franciszek_Lessel"
+      }
     },
     {
       "id": "gioachino-rossini",
       "name": "Gioachino Rossini",
-      "life": null
+      "life": null,
+      "openOpusId": "60",
+      "epoch": "Frühromantik",
+      "wikipedia": {
+        "summary": "Gioachino Rossini (1792–1868) war ein italienischer Komponist und gilt als einer der bedeutendsten Opernkomponisten seines Landes. Mit seinem melodischen Einfallsreichtum und seiner spritzigen Buffa-Kunst prägte er das Musiktheater des frühen 19. Jahrhunderts nachhaltig. Seine Opern Il barbiere di Siviglia, L'italiana in Algeri und La Cenerentola gehören bis heute weltweit zum Standardrepertoire der Opernhäuser. Nach der Grand opéra Guillaume Tell zog er sich früh vom Bühnenschaffen zurück.",
+        "url": "https://de.wikipedia.org/wiki/Gioachino_Rossini"
+      }
     },
     {
       "id": "moritz-moszkowski",
       "name": "Moritz Moszkowski",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Moritz Moszkowski (1854–1925), auch unter dem Vornamen Maurice bekannt, war ein in Breslau geborener deutscher Komponist und Pianist. Zu Lebzeiten war er ein gefeierter Virtuose und geschätzter Klavierpädagoge. Besonders populär wurden seine eingängigen, brillanten Klavierstücke, darunter die „Spanischen Tänze“. Er war der Bruder des Schriftstellers und Satirikers Alexander Moszkowski und verbrachte seine späten Jahre in Paris, wo er auch starb.",
+        "url": "https://de.wikipedia.org/wiki/Moritz_Moszkowski"
+      }
     },
     {
       "id": "pablo-de-sarasate",
       "name": "Pablo de Sarasate",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Pablo de Sarasate, mit vollständigem Namen Martín Melitón Pablo de Sarasate y Navascués (1844–1908), war ein spanischer Geiger und Komponist. Er wurde in Pamplona geboren und starb in Biarritz und zählt zu den berühmten Violinvirtuosen des 19. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Pablo_de_Sarasate"
+      }
     },
     {
       "id": "otto-nicolai",
       "name": "Otto Nicolai",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Carl Otto Ehrenfried Nicolai (1810–1849) war ein deutscher Komponist und Dirigent, geboren in Königsberg. Während seiner Tätigkeit in Wien rief er die philharmonischen Konzerte ins Leben und begründete damit die Wiener Philharmoniker, eines der berühmtesten Orchester der Welt. Zu großer Bekanntheit gelangte er vor allem durch seine komische Oper Die lustigen Weiber von Windsor. Er starb bereits im Alter von 38 Jahren in Berlin.",
+        "url": "https://de.wikipedia.org/wiki/Otto_Nicolai"
+      }
     },
     {
       "id": "bohuslav-martinů",
       "name": "Bohuslav Martinů",
-      "life": null
+      "life": null,
+      "openOpusId": "11",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Bohuslav Martinů (1890–1959) war ein tschechischer Komponist, der 1890 im böhmischen Polička im damaligen Österreich-Ungarn geboren wurde und 1959 im schweizerischen Liestal starb. Zu den bedeutenden Vertretern der Musik des 20. Jahrhunderts zählend, verbrachte er einen großen Teil seines Lebens im Ausland und hinterließ ein umfangreiches Werk verschiedenster Gattungen.",
+        "url": "https://de.wikipedia.org/wiki/Bohuslav_Martin%C5%AF"
+      }
     },
     {
       "id": "jona-kuemper",
@@ -886,22 +1450,38 @@
     {
       "id": "pietro-locatelli",
       "name": "Pietro Locatelli",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Pietro Antonio Locatelli (1695–1764) war ein italienischer Violinist und Komponist, geboren in Bergamo und gestorben in Amsterdam. Nach Jahren in Rom bereiste er als Violinvirtuose Italien und Deutschland, ehe er sich 1729 in Amsterdam niederließ. Er hinterließ neun Sammeldrucke mit Triosonaten, Solosonaten, Capricci und Konzerten, in denen sich bereits galante Einflüsse zeigen. Besonders einflussreich waren seine hochvirtuosen Capricci für Solovioline, die seinen Ruf bis heute prägen.",
+        "url": "https://de.wikipedia.org/wiki/Pietro_Locatelli"
+      }
     },
     {
       "id": "antonio-vivaldi",
       "name": "Antonio Vivaldi",
-      "life": null
+      "life": null,
+      "openOpusId": "98",
+      "epoch": "Barock",
+      "wikipedia": {
+        "summary": "Antonio Vivaldi (1678–1741) war ein venezianischer Komponist, herausragender Violinist des Barock und römisch-katholischer Priester. Er gilt als einer der einflussreichsten Meister seiner Epoche und prägte die Entwicklung des Instrumentalkonzerts entscheidend. Sein umfangreiches Schaffen umfasst zahlreiche Konzerte, Opern und geistliche Werke. Sein bekanntestes und bis heute außerordentlich populäres Werk ist der Violinkonzertzyklus Die vier Jahreszeiten.",
+        "url": "https://de.wikipedia.org/wiki/Antonio_Vivaldi"
+      }
     },
     {
       "id": "carl-philipp-emmanuel-bach",
       "name": "Carl Philipp Emmanuel Bach",
-      "life": null
+      "life": null,
+      "openOpusId": "192",
+      "epoch": "Klassik"
     },
     {
       "id": "ella-milch-sheriff",
       "name": "Ella Milch-Sheriff",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Ella Milch-Sheriff, geboren 1954 in Haifa, ist eine israelische Komponistin. Sie zählt zu den profilierten Vertreterinnen des zeitgenössischen Musikschaffens Israels.",
+        "url": "https://de.wikipedia.org/wiki/Ella_Milch-Sheriff"
+      }
     },
     {
       "id": "wang-jue",
@@ -911,22 +1491,42 @@
     {
       "id": "joan-tower",
       "name": "Joan Tower",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Joan Tower (geboren 1938 in New Rochelle, New York) ist eine US-amerikanische Komponistin, Pianistin und Dirigentin und zählt zu den einflussreichsten Persönlichkeiten des amerikanischen Musiklebens der Gegenwart. Bekannt wurde sie unter anderem durch ihre Reihe von Fanfaren mit dem Titel Fanfare for the Uncommon Woman. Als Pianistin war sie zudem Mitbegründerin des Kammerensembles Da Capo Chamber Players.",
+        "url": "https://de.wikipedia.org/wiki/Joan_Tower"
+      }
     },
     {
       "id": "friedrich-gulda",
       "name": "Friedrich Gulda",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Friedrich Gulda (1930–2000) war ein österreichischer Pianist und Komponist. Ausgebildet in der klassischen Tradition, galt er zunächst als herausragender Interpret von Beethoven und Mozart, überschritt später aber bewusst die Grenzen zwischen Klassik und Jazz. Diese Verbindung prägte sowohl sein Spiel als auch seine eigenen Kompositionen. Der eigenwillige, oft provokante Künstler wurde in Wien geboren und starb in Weißenbach am Attersee.",
+        "url": "https://de.wikipedia.org/wiki/Friedrich_Gulda"
+      }
     },
     {
       "id": "johann-strauss",
       "name": "Johann Strauss",
-      "life": null
+      "life": null,
+      "openOpusId": "171",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Johann Baptist Strauss (1825–1899), zur Unterscheidung von seinem gleichnamigen Vater auch Johann Strauss (Sohn) genannt, war ein österreichisch-deutscher Kapellmeister und Komponist. International wurde er als „Walzerkönig“ geschätzt. Geboren in St. Ulrich bei Wien, prägte er mit seinen Tanzkompositionen die Wiener Musikkultur des 19. Jahrhunderts nachhaltig.",
+        "url": "https://de.wikipedia.org/wiki/Johann_Strauss_(Sohn)"
+      }
     },
     {
       "id": "samuel-barber",
       "name": "Samuel Barber",
-      "life": null
+      "life": null,
+      "openOpusId": "19",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Samuel Barber (1910–1981) war ein US-amerikanischer Komponist, dessen Musik einem lyrischen, spätromantisch geprägten Stil verpflichtet blieb. Weltweite Bekanntheit erlangte er vor allem durch sein Adagio for Strings, eines der meistgespielten Werke der amerikanischen Musik. Daneben schuf er Orchesterwerke, Konzerte, Lieder und Opern. Für sein Schaffen wurde er mehrfach ausgezeichnet, unter anderem mit dem Pulitzer-Preis.",
+        "url": "https://de.wikipedia.org/wiki/Samuel_Barber"
+      }
     },
     {
       "id": "konstantinos-koutrumpis",
@@ -936,32 +1536,62 @@
     {
       "id": "vito-zuraj",
       "name": "Vito Žuraj",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Vito Žuraj (geboren 1979 in Maribor) ist ein slowenischer Komponist. Er stammt aus Slowenien und ist im Bereich der zeitgenössischen Musik tätig.",
+        "url": "https://de.wikipedia.org/wiki/Vito_%C5%BDuraj"
+      }
     },
     {
       "id": "giya-kancheli",
       "name": "Giya Kancheli",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Gija Kantscheli (1935–2019) war ein georgischer Komponist, der in Tiflis geboren wurde und ebendort starb. Er zählt zu den bedeutendsten georgischen Musikerpersönlichkeiten des 20. und frühen 21. Jahrhunderts und schuf über sein langes Leben hinweg ein umfangreiches Werk. Sein Schaffen ist eng mit der Musikkultur seiner Heimat verbunden und sicherte ihm über die Grenzen Georgiens hinaus internationale Anerkennung.",
+        "url": "https://de.wikipedia.org/wiki/Gija_Kantscheli"
+      }
     },
     {
       "id": "modest-mussorgski",
       "name": "Modest Mussorgski",
-      "life": null
+      "life": null,
+      "openOpusId": "181",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Modest Mussorgski (1839–1881) war ein russischer Komponist und gilt als einer der eigenständigsten Vertreter der russischen Musik des 19. Jahrhunderts. Bekannt wurde er vor allem durch seine Opern sowie durch den Klavierzyklus Bilder einer Ausstellung. Sein Schaffen war von einem betont nationalen Ausdruck geprägt. Er starb mit 42 Jahren an den Folgen langjähriger Alkoholabhängigkeit, weshalb viele seiner Werke unvollendet blieben.",
+        "url": "https://de.wikipedia.org/wiki/Modest_Petrowitsch_Mussorgski"
+      }
     },
     {
       "id": "jean-francaix",
       "name": "Jean Françaix",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Jean Françaix (1912–1997) war ein französischer Komponist und Pianist, der in Le Mans geboren wurde und in Paris starb. Sein umfangreiches, klar strukturiertes Œuvre ist geprägt von Eleganz, spielerischem Witz und einem an den Neoklassizismus angelehnten, leichtfüßigen Personalstil.",
+        "url": "https://de.wikipedia.org/wiki/Jean_Fran%C3%A7aix"
+      }
     },
     {
       "id": "paul-dukas",
       "name": "Paul Dukas",
-      "life": null
+      "life": null,
+      "openOpusId": "116",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Paul Dukas (1865–1935) war ein französischer Komponist, der wichtige Anregungen von César Franck und Richard Wagner empfing und dessen Werke sich besonders durch farbige Rhythmik und meisterhafte Instrumentation auszeichnen. Sie werden dem Impressionismus zugerechnet. Zu seinen bekanntesten Kompositionen zählt die sinfonische Dichtung Der Zauberlehrling; daneben schuf er unter anderem die Oper Ariane et Barbe-bleue. Der äußerst selbstkritische Dukas vernichtete zahlreiche seiner Manuskripte.",
+        "url": "https://de.wikipedia.org/wiki/Paul_Dukas"
+      }
     },
     {
       "id": "michael-praetorius",
       "name": "Michael Praetorius",
-      "life": null
+      "life": null,
+      "openOpusId": "78",
+      "epoch": "Renaissance",
+      "wikipedia": {
+        "summary": "Michael Praetorius (um 1571/72–1621), latinisiert aus Michael Schultheis, war ein deutscher Komponist, Organist, Hofkapellmeister und Gelehrter an der Schwelle von der Renaissance zum Barock. Als einer der produktivsten Musiker seiner Zeit trug er wesentlich zur protestantischen Kirchenmusik bei. Bleibende Bedeutung besitzt sein umfangreiches theoretisches Werk „Syntagma musicum“, eine der wichtigsten Quellen zur Musik seiner Epoche. Er starb in Wolfenbüttel.",
+        "url": "https://de.wikipedia.org/wiki/Michael_Praetorius"
+      }
     },
     {
       "id": "john-cheetham",
@@ -971,7 +1601,11 @@
     {
       "id": "henri-tomasi",
       "name": "Henri Tomasi",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Henri Fredien Tomasi (1901–1971) war ein französischer Komponist und Dirigent. Er wurde in Marseille geboren und starb in Paris.",
+        "url": "https://de.wikipedia.org/wiki/Henri_Tomasi"
+      }
     },
     {
       "id": "jim-parker",
@@ -981,72 +1615,132 @@
     {
       "id": "anders-koppel",
       "name": "Anders Koppel",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Anders Koppel (geboren 1947 in Kopenhagen) ist ein dänischer Komponist und Musiker, Sohn des Komponisten und Pianisten Herman D. Koppel. Er war Mitbegründer der Rockgruppe The Savage Rose und des Trios Bazaar, ehe er sich verstärkt dem Komponieren zuwandte. Sein umfangreiches Werk umfasst zahlreiche Solokonzerte für klassische Ensembles sowie Musik für Ballette, mehr als 125 Filme, Theaterstücke und Musicals. Besonders bekannt sind seine Werke für Marimba und Vibraphon.",
+        "url": "https://de.wikipedia.org/wiki/Anders_Koppel"
+      }
     },
     {
       "id": "ernst-krenek",
       "name": "Ernst Krenek",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Ernst Krenek (1900–1991), ursprünglich Křenek, war ein US-amerikanischer Komponist österreichischer Herkunft. Geboren 1900 in Wien, emigrierte er später in die Vereinigten Staaten und starb 1991 im kalifornischen Palm Springs. Er hinterließ ein umfangreiches und stilistisch vielseitiges Werk, das ihn zu einer prägenden Figur der Musik des 20. Jahrhunderts macht.",
+        "url": "https://de.wikipedia.org/wiki/Ernst_Krenek"
+      }
     },
     {
       "id": "jean-cras",
       "name": "Jean Cras",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Jean Cras (1879–1932) war ein französischer Komponist und zugleich Konteradmiral, geboren und gestorben in Brest. In seinem Leben verband er zwei außergewöhnlich unterschiedliche Laufbahnen, indem er eine militärische Karriere in der Marine mit einem eigenständigen kompositorischen Schaffen vereinte. Diese seltene Doppelrolle prägte seine Biografie und macht ihn zu einer besonderen Figur der französischen Musikgeschichte des frühen 20. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Jean_Cras"
+      }
     },
     {
       "id": "dai-fujikura",
       "name": "Dai Fujikura",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Dai Fujikura (* 1977 in der Präfektur Osaka) ist ein japanischer Komponist, der der zeitgenössischen klassischen Musik zuzurechnen ist. Er zählt zu den international beachteten Vertretern der jüngeren Komponistengeneration seines Landes.",
+        "url": "https://de.wikipedia.org/wiki/Dai_Fujikura"
+      }
     },
     {
       "id": "juan-crisostomo-de-arriaga",
       "name": "Juan Crisóstomo de Arriaga",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Juan Crisóstomo de Arriaga (1806–1826), mit vollem Namen Juan Crisóstomo Jacobo Antonio de Arriaga y Balzola, war ein spanischer, genauer baskischer Violinist und Komponist. Trotz seines frühen Todes wenige Tage vor seinem zwanzigsten Geburtstag in Paris hinterließ das außergewöhnliche Talent ein beachtetes Werk und gilt als bedeutender Vertreter der spanischen Musik seiner Zeit.",
+        "url": "https://de.wikipedia.org/wiki/Juan_Cris%C3%B3stomo_de_Arriaga"
+      }
     },
     {
       "id": "erwin-schulhoff",
       "name": "Erwin Schulhoff",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Erwin Schulhoff (1894–1942) war ein deutschböhmisch-jüdischer Komponist und Pianist, der in Prag geboren wurde. Sein Schaffen verband Einflüsse der musikalischen Avantgarde mit Elementen des Jazz und der Tanzmusik seiner Zeit. Als Jude und politisch engagierter Künstler wurde er von den Nationalsozialisten verfolgt und starb 1942 in Gefangenschaft auf der Wülzburg bei Weißenburg in Bayern.",
+        "url": "https://de.wikipedia.org/wiki/Erwin_Schulhoff"
+      }
     },
     {
       "id": "johann-christian-bach",
       "name": "Johann Christian Bach",
-      "life": null
+      "life": null,
+      "openOpusId": "109",
+      "epoch": "Klassik",
+      "wikipedia": {
+        "summary": "Johann Christian Bach (1735–1782), der jüngste Sohn Johann Sebastian Bachs, war ein deutscher Komponist der Vorklassik. Da er lange in Italien und später in England wirkte, wird er als „Mailänder“ oder „Londoner Bach“ bezeichnet. Sein eleganter, galanter Stil beeinflusste maßgeblich den jungen Wolfgang Amadeus Mozart, weshalb er mitunter als Wegbereiter der Wiener Klassik gilt. Er starb in London.",
+        "url": "https://de.wikipedia.org/wiki/Johann_Christian_Bach"
+      }
     },
     {
       "id": "gaetano-brunetti",
       "name": "Gaetano Brunetti",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Gaetano Brunetti, auch Cayetano Brunetti (1744–1798), war ein italienischer Komponist, Violinist und Dirigent. Vermutlich in Fano geboren, starb er in Colmenar de Oreja bei Madrid, was auf ein Wirken im spanischen Musikleben hinweist.",
+        "url": "https://de.wikipedia.org/wiki/Gaetano_Brunetti"
+      }
     },
     {
       "id": "niccolo-jommelli",
       "name": "Niccolò Jommelli",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Niccolò Jommelli (1714–1774) war ein italienischer Komponist der neapolitanischen Schule, geboren in Aversa bei Neapel. Seine wichtigsten Schaffensgebiete waren die Kirchenmusik und die Oper, in der er zu den führenden Vertretern seiner Zeit zählte. Über viele Jahre wirkte er als Hofkapellmeister am württembergischen Hof in Stuttgart, ehe er nach Neapel zurückkehrte. Sein Stil trug wesentlich zur Weiterentwicklung der ernsten italienischen Oper bei.",
+        "url": "https://de.wikipedia.org/wiki/Niccol%C3%B2_Jommelli"
+      }
     },
     {
       "id": "giovanni-battista-sammartini",
       "name": "Giovanni Battista Sammartini",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Giovanni Battista Sammartini (um 1700/1701–1775) war ein italienischer Komponist, der zu Lebzeiten als maßgebliche musikalische Persönlichkeit seiner Heimatstadt Mailand galt. Er wirkte in der Zeit der Vorklassik und trug zur Entwicklung der Instrumentalmusik bei. Sein Bruder Giuseppe Sammartini war ebenfalls Komponist und vor allem in London tätig.",
+        "url": "https://de.wikipedia.org/wiki/Giovanni_Battista_Sammartini"
+      }
     },
     {
       "id": "albert-roussel",
       "name": "Albert Roussel",
-      "life": null
+      "life": null,
+      "openOpusId": "140",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Albert Roussel (1869–1937) war ein französischer Komponist, der in Tourcoing geboren wurde und in Royan starb. Er gehört zu den eigenständigen Stimmen der französischen Musik zwischen Spätromantik und Moderne und schuf über die Jahrzehnte seines Wirkens ein Werk, das ihn als bedeutenden Vertreter seines Landes ausweist. Sein Schaffen trug maßgeblich zur Entwicklung der französischen Musik im ersten Drittel des 20. Jahrhunderts bei.",
+        "url": "https://de.wikipedia.org/wiki/Albert_Roussel"
+      }
     },
     {
       "id": "erkki-sven-tueuer",
       "name": "Erkki-Sven Tüür",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Erkki-Sven Tüür (* 1959 in Kärdla auf der Insel Hiiumaa) ist ein estnischer Komponist. Er gehört zu den bekannten Vertretern der zeitgenössischen Musik seines Heimatlandes.",
+        "url": "https://de.wikipedia.org/wiki/Erkki-Sven_T%C3%BC%C3%BCr"
+      }
     },
     {
       "id": "florent-schmitt",
       "name": "Florent Schmitt",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Florent Schmitt (1870–1958) war ein französischer Komponist, geboren in Blâmont und gestorben in Neuilly-sur-Seine. Er gehört zu den produktiven Vertretern der französischen Musik der ersten Hälfte des 20. Jahrhunderts und hinterließ ein umfangreiches, klangfarbenreiches Œuvre.",
+        "url": "https://de.wikipedia.org/wiki/Florent_Schmitt"
+      }
     },
     {
       "id": "matthew-aucoin",
       "name": "Matthew Aucoin",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Matthew Aucoin (geboren 1990 in Boston) ist ein US-amerikanischer Komponist, Pianist, Dirigent und Autor und gehört zu den vielbeachteten jungen Musikerpersönlichkeiten der Vereinigten Staaten. Sein künstlerisches Wirken verbindet das Komponieren mit dem Dirigieren und dem Schreiben über Musik. Besondere Aufmerksamkeit erregte seine Oper Eurydice, die an der Metropolitan Opera in New York aufgeführt wurde.",
+        "url": "https://de.wikipedia.org/wiki/Matthew_Aucoin"
+      }
     },
     {
       "id": "wolfgang-amadeus",
@@ -1056,7 +1750,13 @@
     {
       "id": "peter-tschaikowsky",
       "name": "Peter Tschaikowsky",
-      "life": null
+      "life": null,
+      "openOpusId": "79",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Pjotr Iljitsch Tschaikowski (1840–1893), deutsch oft Peter Tschaikowsky, war ein russischer Komponist, dessen Werke schon zu Lebzeiten internationale Verbreitung fanden und heute zu den bedeutendsten der Romantik zählen. Anders als die „Gruppe der Fünf“ verband er russische Elemente mit westlicher Tradition. Zu seinen berühmtesten Schöpfungen gehören die letzten Sinfonien, das erste Klavierkonzert, die Oper „Eugen Onegin“ sowie die Ballette „Schwanensee“, „Dornröschen“ und „Der Nussknacker“.",
+        "url": "https://de.wikipedia.org/wiki/Pjotr_Iljitsch_Tschaikowski"
+      }
     },
     {
       "id": "eduard-resatsch",
@@ -1066,7 +1766,13 @@
     {
       "id": "jacques-offenbach",
       "name": "Jacques Offenbach",
-      "life": null
+      "life": null,
+      "openOpusId": "134",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Jakob „Jacques“ Offenbach (1819–1880) war ein deutsch-französischer Komponist und Cellist, der in Köln geboren wurde und in Paris starb. Er gilt als Begründer der modernen Operette als eigenständigem, anerkanntem Genre des Musiktheaters. Zu seinen bekanntesten Stücken zählen der Cancan aus Orpheus in der Unterwelt sowie die Barcarole aus der Oper Hoffmanns Erzählungen.",
+        "url": "https://de.wikipedia.org/wiki/Jacques_Offenbach"
+      }
     },
     {
       "id": "erik-satie-claude-debussy",
@@ -1076,7 +1782,13 @@
     {
       "id": "john-williams",
       "name": "John Williams",
-      "life": null
+      "life": null,
+      "openOpusId": "36",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "John Williams (geboren 1932 in New York City) ist ein US-amerikanischer Komponist, Dirigent und Produzent von Film- und Orchestermusik. Der mehrfache Oscar- und Grammy-Gewinner zählt seit den 1970er Jahren zu den bekanntesten und einflussreichsten Filmkomponisten der Welt. Er schuf die Musik zu Werken wie Der weiße Hai, Star Wars, E.T., Indiana Jones, Schindlers Liste und Harry Potter und arbeitete besonders eng mit dem Regisseur Steven Spielberg zusammen.",
+        "url": "https://de.wikipedia.org/wiki/John_Williams_(Komponist)"
+      }
     },
     {
       "id": "claude-debussy-andre-caplet",
@@ -1086,32 +1798,64 @@
     {
       "id": "gustav-holst",
       "name": "Gustav Holst",
-      "life": null
+      "life": null,
+      "openOpusId": "75",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Gustav Theodore Holst (1874–1934), geboren als Gustavus Theodore von Holst im englischen Cheltenham, war ein britischer Komponist. Er starb 1934 in London und hinterließ ein Werk, das bis heute im Konzertrepertoire präsent ist. Seine mit Abstand bekannteste Komposition ist die Orchestersuite Die Planeten, die ihm dauerhaften Ruhm einbrachte.",
+        "url": "https://de.wikipedia.org/wiki/Gustav_Holst"
+      }
     },
     {
       "id": "astor-piazzolla",
       "name": "Astor Piazzolla",
-      "life": null
+      "life": null,
+      "openOpusId": "40",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Astor Piazzolla (1921–1992) war ein argentinischer Bandoneon-Spieler und Komponist, geboren in Mar del Plata und gestorben in Buenos Aires. Er gilt als Begründer des Tango Nuevo, einer Weiterentwicklung des traditionellen Tango Argentino, in die er Elemente von Klassik und Jazz einfließen ließ. Mit dieser Erneuerung revolutionierte er den Tango als Konzertmusik und wurde zu einer der einflussreichsten Figuren der argentinischen und lateinamerikanischen Musik.",
+        "url": "https://de.wikipedia.org/wiki/Astor_Piazzolla"
+      }
     },
     {
       "id": "germaine-tailleferre",
       "name": "Germaine Tailleferre",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Germaine Tailleferre (1892–1983) war eine französische Komponistin und das einzige weibliche Mitglied der berühmten Groupe des Six, jener einflussreichen Pariser Künstlervereinigung des frühen 20. Jahrhunderts. Sie schuf eine Vielzahl von Werken in unterschiedlichsten Genres und pflegte enge Beziehungen zu anderen Künstlern und Komponisten ihrer Zeit. Über ein langes Schaffensleben hinweg blieb sie eine aktive und vielseitige Stimme der französischen Musik.",
+        "url": "https://de.wikipedia.org/wiki/Germaine_Tailleferre"
+      }
     },
     {
       "id": "carl-orff",
       "name": "Carl Orff",
-      "life": null
+      "life": null,
+      "openOpusId": "93",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Carl Orff (1895–1982) war ein deutscher Komponist und Musikpädagoge, der in München geboren wurde und dort auch starb. Sein bekanntestes Werk ist die szenische Kantate Carmina Burana, die zu einem der populärsten Chorwerke des 20. Jahrhunderts avancierte. Als Musikpädagoge prägte er mit dem nach ihm benannten Orff-Schulwerk die musikalische Elementarerziehung nachhaltig und international.",
+        "url": "https://de.wikipedia.org/wiki/Carl_Orff"
+      }
     },
     {
       "id": "josef-myslivecek",
       "name": "Josef Myslivecek",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Josef Mysliveček (1737–1781) war ein böhmischer Komponist, der in Prag geboren wurde und in Rom starb. In Italien feierte er große Erfolge vor allem als Komponist von Opern im Stil der neapolitanischen Schule und wurde dort unter dem Beinamen Il Boemo bekannt. Er war mit der Familie Mozart befreundet und beeinflusste den jungen Wolfgang Amadeus Mozart, der ihn sehr schätzte.",
+        "url": "https://de.wikipedia.org/wiki/Josef_Myslive%C4%8Dek"
+      }
     },
     {
       "id": "pjotr-i-tschaikowski",
       "name": "Pjotr I. Tschaikowski",
-      "life": null
+      "life": null,
+      "openOpusId": "79",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Der russische Komponist Pjotr Iljitsch Tschaikowski (1840–1893) zählt zu den bedeutendsten Vertretern der Romantik und gilt in Russland als wichtigster Komponist des 19. Jahrhunderts. Er setzte, anders als das „Mächtige Häuflein“, die von westlichen Einflüssen geprägte Schule Anton Rubinsteins fort. Weltberühmt wurden seine drei letzten Sinfonien, sein Violinkonzert, die Ouvertüre 1812 und vor allem die Ballette „Schwanensee“, „Dornröschen“ und „Der Nussknacker“.",
+        "url": "https://de.wikipedia.org/wiki/Pjotr_Iljitsch_Tschaikowski"
+      }
     },
     {
       "id": "ladislas-de-rohozinski",
@@ -1121,22 +1865,40 @@
     {
       "id": "artie-shaw",
       "name": "Artie Shaw",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Artie Shaw, eigentlich Arthur Jacob Arshawsky (1910–2004), war ein amerikanischer Jazz-Klarinettist, Arrangeur, Komponist, Bandleader und Autor. Er wurde in New York City geboren und starb in Thousand Oaks in Kalifornien.",
+        "url": "https://de.wikipedia.org/wiki/Artie_Shaw"
+      }
     },
     {
       "id": "grazyna-bacewicz",
       "name": "Grażyna Bacewicz",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Grażyna Bacewicz (1909–1969) war eine polnische Komponistin und Geigerin, geboren in Łódź. Sie zählt zu den bedeutendsten polnischen Komponistinnen des 20. Jahrhunderts und schuf ein umfangreiches Werk, das besonders von ihrer Vertrautheit mit dem Violinspiel geprägt ist. Ihr zu Ehren sowie zu Ehren ihres Bruders Kiejstut trägt die Musikakademie Łódź ihren Namen. Ihre Schwester Wanda war als Lyrikerin und Journalistin tätig.",
+        "url": "https://de.wikipedia.org/wiki/Gra%C5%BCyna_Bacewicz"
+      }
     },
     {
       "id": "dmitrij-schostakowitsch",
       "name": "Dmitrij Schostakowitsch",
-      "life": null
+      "life": null,
+      "openOpusId": "46",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Dmitri Dmitrijewitsch Schostakowitsch (1906–1975) war ein russischer Komponist, Pianist und Pädagoge der Sowjetzeit und zählt zu den bedeutendsten russischen Komponisten des 20. Jahrhunderts. Sein außerordentlich produktives Schaffen umfasst fünfzehn Sinfonien, Instrumentalkonzerte, Bühnenwerke, Filmmusik sowie fünfzehn Streichquartette, die zum Kern des Kammermusikrepertoires gehören. Er stand zeitlebens in einem spannungsreichen Verhältnis zum stalinistischen System, das ihn verfolgte und jahrelang in Angst hielt.",
+        "url": "https://de.wikipedia.org/wiki/Dmitri_Dmitrijewitsch_Schostakowitsch"
+      }
     },
     {
       "id": "george-onslow",
       "name": "George Onslow",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "George Onslow (1784–1853) war ein französischer Komponist, der in Clermont-Ferrand geboren wurde und ebendort starb. Sein Vorname wird häufig als Georges angegeben, korrekt ist jedoch George. Er gilt als der wichtigste Instrumentalkomponist seiner Generation in Frankreich und widmete sich in besonderem Maße der Kammermusik. Damit nahm er innerhalb der französischen Musikkultur des frühen 19. Jahrhunderts eine herausragende und eigenständige Stellung ein.",
+        "url": "https://de.wikipedia.org/wiki/George_Onslow"
+      }
     },
     {
       "id": "gabriel-kahane",
@@ -1146,22 +1908,44 @@
     {
       "id": "fanny-hensel",
       "name": "Fanny Hensel",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Fanny Hensel (1805–1847) war eine deutsche Komponistin der Romantik sowie Pianistin, Dirigentin und Konzertorganisatorin. Ihr umfangreiches Werk umfasst über 460 Kompositionen, darunter Lieder, Klavierstücke, Kammermusik und geistliche Werke. Obwohl ihr eine öffentliche musikalische Karriere von der Familie weitgehend verwehrt blieb, schuf sie mit ihren Berliner Sonntagsmusiken einen wichtigen künstlerischen Raum. Erst seit den 1980er Jahren wird ihr Schaffen umfassend erforscht und gewürdigt.",
+        "url": "https://de.wikipedia.org/wiki/Fanny_Hensel"
+      }
     },
     {
       "id": "alfred-schnittke",
       "name": "Alfred Schnittke",
-      "life": null
+      "life": null,
+      "openOpusId": "137",
+      "epoch": "Nachkriegszeit",
+      "wikipedia": {
+        "summary": "Alfred Schnittke (1934–1998) war ein russisch-deutscher Komponist und Pianist, der in Engels an der Wolga geboren wurde und in Hamburg starb. Er gilt als einer der bedeutendsten Komponisten der zweiten Hälfte des 20. Jahrhunderts und ist besonders für seinen polystilistischen Ansatz bekannt, der verschiedene historische Stile und Idiome kontrastreich miteinander verbindet.",
+        "url": "https://de.wikipedia.org/wiki/Alfred_Schnittke"
+      }
     },
     {
       "id": "franz-liszt",
       "name": "Franz Liszt",
-      "life": null
+      "life": null,
+      "openOpusId": "197",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Franz Liszt (1811–1886) war ein österreichisch-ungarischer Komponist, Pianist und Dirigent und einer der gefeiertsten Klaviervirtuosen seiner Zeit. Mit über 1300 Werken zählt er zu den produktivsten Komponisten des 19. Jahrhunderts. Er entwickelte die Gattung der Sinfonischen Dichtung, prägte das Konzept der Programmmusik und galt neben Richard Wagner als Hauptvertreter der Neudeutschen Schule. In seinen späten Jahren empfing er in Rom die niederen Weihen und trug den Titel Abbé.",
+        "url": "https://de.wikipedia.org/wiki/Franz_Liszt"
+      }
     },
     {
       "id": "henri-dutilleux",
       "name": "Henri Dutilleux",
-      "life": null
+      "life": null,
+      "openOpusId": "110",
+      "epoch": "Nachkriegszeit",
+      "wikipedia": {
+        "summary": "Henri Dutilleux (1916–2013) war ein französischer Komponist, der abseits der vorherrschenden avantgardistischen Strömungen seiner Zeit große Erfolge erzielte. Sein sorgfältig gearbeitetes, farbenreiches Werk verbindet klare Form mit sinnlicher Klanglichkeit. Zu seinen bekanntesten Kompositionen zählen das Orchesterwerk „Métaboles“ und das Cellokonzert „Tout un monde lointain…“. Zeitlebens galt er als strenger Selbstkritiker mit vergleichsweise schmalem, aber hoch geschätztem Œuvre. Er starb in Paris.",
+        "url": "https://de.wikipedia.org/wiki/Henri_Dutilleux"
+      }
     },
     {
       "id": "nach-dem-kinderbuch",
@@ -1171,12 +1955,22 @@
     {
       "id": "anton-reicha",
       "name": "Anton Reicha",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Anton Reicha, tschechisch auch Antonín Rejcha beziehungsweise französisch Antoine-Joseph Reicha (1770–1836), war ein böhmischer Komponist, Musikpädagoge und Flötist. Er wurde in Prag geboren und feierte seine wesentlichen künstlerischen Erfolge in Paris, wo er auch starb.",
+        "url": "https://de.wikipedia.org/wiki/Anton_Reicha"
+      }
     },
     {
       "id": "louis-spohr",
       "name": "Louis Spohr",
-      "life": null
+      "life": null,
+      "openOpusId": "166",
+      "epoch": "Frühromantik",
+      "wikipedia": {
+        "summary": "Louis Spohr (1784–1859), auch Ludwig Spohr genannt, war ein deutscher Komponist, Dirigent und Geiger von internationalem Ruf, geboren in Braunschweig. Neben dem Italiener Niccolò Paganini galt er als einer der größten Violinisten seiner Zeit. Bereits zu Lebzeiten war er berühmt und wurde nach dem Tod Carl Maria von Webers und Beethovens bis zum Durchbruch von Schubert, Mendelssohn und Schumann als bedeutendster lebender deutscher Komponist angesehen.",
+        "url": "https://de.wikipedia.org/wiki/Louis_Spohr"
+      }
     },
     {
       "id": "werke-von-magnus",
@@ -1276,62 +2070,118 @@
     {
       "id": "michael-tippett",
       "name": "Michael Tippett",
-      "life": null
+      "life": null,
+      "openOpusId": "13",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Sir Michael Kemp Tippett (1905–1998) war ein englischer Komponist der modernen Musik, der 1905 in London geboren wurde und ebenda 1998 starb. Sein Schaffen umfasst Opern, Orchester- und Chorwerke sowie Vokal- und Kammermusik, wobei sein Oratorium A Child of Our Time als sein bekanntestes Werk gilt. Er engagierte sich politisch und sozial und vertrat zeitlebens eine konsequent pazifistische Haltung.",
+        "url": "https://de.wikipedia.org/wiki/Michael_Tippett"
+      }
     },
     {
       "id": "errollyn-wallen",
       "name": "Errollyn Wallen",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Errollyn Wallen (* 1958 in Belize City) ist eine in Belize geborene britische Komponistin, Pianistin und Sängerin. Sie ist eine vielseitige Musikerin, die kompositorisches Schaffen mit eigenem Auftreten am Klavier und als Sängerin verbindet. Für ihre Verdienste wurde sie mit dem Ehrentitel CBE ausgezeichnet, und seit 2024 trägt sie zudem den angesehenen Titel Master of the King’s Music, was ihre herausragende Stellung im britischen Musikleben unterstreicht.",
+        "url": "https://de.wikipedia.org/wiki/Errollyn_Wallen"
+      }
     },
     {
       "id": "sergej-w-rachmaninow",
       "name": "Sergej W. Rachmaninow",
-      "life": null
+      "life": null,
+      "openOpusId": "188",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Sergei Rachmaninow (1873–1943) war ein russischer Pianist, Komponist und Dirigent, der als einer der letzten großen Vertreter der spätromantischen Tradition gilt. Als einer der bedeutendsten Pianisten seiner Zeit prägte er zugleich mit seinen Klavierkonzerten, Sinfonien und Klavierwerken das Repertoire nachhaltig. Nach der Russischen Revolution emigrierte er und verbrachte seine letzten Lebensjahre in den Vereinigten Staaten, wo er 1943 in Beverly Hills starb.",
+        "url": "https://de.wikipedia.org/wiki/Sergei_Wassiljewitsch_Rachmaninow"
+      }
     },
     {
       "id": "dmitri-d-schostakowitsch",
       "name": "Dmitri D. Schostakowitsch",
-      "life": null
+      "life": null,
+      "openOpusId": "46",
+      "epoch": "20. Jahrhundert"
     },
     {
       "id": "lera-auerbach",
       "name": "Lera Auerbach",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Lera Auerbach, geboren 1973 im sowjetischen Tscheljabinsk, ist eine russisch-österreichische Komponistin, Dirigentin, Pianistin und Autorin, die in den USA lebt. Ihr vielseitiges Schaffen umfasst Werke für Orchester, Kammermusik, Bühne und Klavier. Neben ihrer kompositorischen und pianistischen Tätigkeit tritt sie auch als Schriftstellerin und bildende Künstlerin hervor.",
+        "url": "https://de.wikipedia.org/wiki/Lera_Auerbach"
+      }
     },
     {
       "id": "max-reger",
       "name": "Max Reger",
-      "life": null
+      "life": null,
+      "openOpusId": "72",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Max Reger (1873–1916) war ein deutscher Komponist, Organist, Pianist und Dirigent. In nur wenigen Lebensjahren schuf er ein umfangreiches Werk, das für seine dichte kontrapunktische Satzkunst und die bewusste Anknüpfung an Johann Sebastian Bach bekannt ist. Einen Schwerpunkt bildet seine ausgedehnte Orgelmusik; daneben komponierte er Kammermusik, Orchesterwerke, Lieder und Chorwerke. Er wird der Spätromantik zugerechnet und wirkte unter anderem in Leipzig.",
+        "url": "https://de.wikipedia.org/wiki/Max_Reger"
+      }
     },
     {
       "id": "modest-mussorgsky",
       "name": "Modest Mussorgsky",
-      "life": null
+      "life": null,
+      "openOpusId": "181",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Modest Mussorgski (1839–1881) war ein russischer Komponist und einer der eigenständigsten Vertreter der russischen Musik des 19. Jahrhunderts. Als Mitglied der „Gruppe der Fünf“ strebte er nach einer betont nationalen, realistischen Tonsprache. Bekannt wurde er vor allem durch seine Opern sowie den Klavierzyklus „Bilder einer Ausstellung“. Viele seiner Werke blieben unvollendet; er starb mit 42 Jahren an den Folgen langjähriger Alkoholabhängigkeit.",
+        "url": "https://de.wikipedia.org/wiki/Modest_Petrowitsch_Mussorgski"
+      }
     },
     {
       "id": "avner-dorman",
       "name": "Avner Dorman",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Avner Dorman ist ein 1975 in Tel Aviv geborener israelisch-amerikanischer Komponist. Seine vielschichtige, rhythmisch geprägte Musik verbindet Elemente der klassischen Tradition mit Folklore und außereuropäischen Einflüssen. Er promovierte an der Juilliard School bei John Corigliano; seine Werke werden von renommierten Orchestern weltweit aufgeführt. Daneben ist Dorman als Dirigent tätig und unterrichtet Komposition in den USA.",
+        "url": "https://de.wikipedia.org/wiki/Avner_Dorman"
+      }
     },
     {
       "id": "peteris-vasks",
       "name": "Pēteris Vasks",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Pēteris Vasks (geboren 1946 in Aizpute) ist ein lettischer Komponist, der zu den bekanntesten Vertretern der Musik seines Landes zählt. In seinem Schaffen spielen der Bezug zur Natur sowie religiöse und humanistische Themen eine wichtige Rolle. International bekannt wurde er vor allem durch seine ausdrucksstarken Werke für Streicher, die weltweit viel aufgeführt werden.",
+        "url": "https://de.wikipedia.org/wiki/P%C4%93teris_Vasks"
+      }
     },
     {
       "id": "rihards-dubra",
       "name": "Rihards Dubra",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Rihards Dubra (geboren 1964 in Riga) ist ein lettischer Komponist. Er stammt aus der lettischen Hauptstadt und ist als Vertreter der Musik seines Landes tätig.",
+        "url": "https://de.wikipedia.org/wiki/Rihards_Dubra"
+      }
     },
     {
       "id": "hans-zender",
       "name": "Hans Zender",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Hans Zender (1936–2019) war ein deutscher Dirigent und Komponist, geboren in Wiesbaden und gestorben in Meersburg. In seiner Laufbahn verband er das kompositorische Schaffen mit einer intensiven Tätigkeit am Dirigentenpult und wirkte unter anderem als Generalmusikdirektor in Hamburg. Als Musiker, der zwischen Interpretation und eigenem Werk vermittelte, gehörte er zu den prägenden Persönlichkeiten des deutschen Musiklebens in der zweiten Hälfte des 20. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Hans_Zender"
+      }
     },
     {
       "id": "johann-nepomuk-hummel",
       "name": "Johann Nepomuk Hummel",
-      "life": null
+      "life": null,
+      "openOpusId": "30",
+      "epoch": "Frühromantik",
+      "wikipedia": {
+        "summary": "Johann Nepomuk Hummel (1778–1837) war ein österreichischer Komponist und Pianist, der zu den gefeiertsten Klaviervirtuosen seiner Zeit zählte. Sein Schaffen steht am Übergang von der Klassik zur Romantik und umfasst Konzerte, Kammermusik und Klavierwerke. Als Schüler bedeutender Meister und einflussreicher Lehrer prägte er das Musikleben zwischen Wien und Weimar, wo er über viele Jahre als Kapellmeister wirkte.",
+        "url": "https://de.wikipedia.org/wiki/Johann_Nepomuk_Hummel"
+      }
     },
     {
       "id": "kamalini-mukherji-bickram-ghosh",
@@ -1341,37 +2191,73 @@
     {
       "id": "gyoergy-ligeti",
       "name": "György Ligeti",
-      "life": null
+      "life": null,
+      "openOpusId": "26",
+      "epoch": "Nachkriegszeit",
+      "wikipedia": {
+        "summary": "György Ligeti (1923–2006) war ein österreichisch-ungarischer Komponist, geboren in Siebenbürgen und gestorben in Wien. Er gilt als einer der bedeutendsten Komponisten des 20. Jahrhunderts und als herausragender Repräsentant der Neuen Musik. Einem breiten Publikum wurde er durch die Verwendung seiner Werke Atmosphères und Lux aeterna in Stanley Kubricks Film 2001: Odyssee im Weltraum bekannt.",
+        "url": "https://de.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti"
+      }
     },
     {
       "id": "enrico-chapela",
       "name": "Enrico Chapela",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Enrico Chapela (geboren 1974 in Mexiko-Stadt) ist ein mexikanischer Komponist und Gitarrist. Er zählt zu den zeitgenössischen Vertretern des Musiklebens seines Landes.",
+        "url": "https://de.wikipedia.org/wiki/Enrico_Chapela"
+      }
     },
     {
       "id": "anatoli-ljadow",
       "name": "Anatoli Ljadow",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Anatoli Ljadow (1855–1914) war ein russischer Komponist, der in Sankt Petersburg geboren wurde. Er ist vor allem für seine kurzen, farbig instrumentierten sinfonischen Dichtungen bekannt, die häufig auf russischen Märchen und Sagen beruhen, darunter „Baba Jaga“, „Der verzauberte See“ und „Kikimora“. Daneben schuf er zahlreiche Klavierstücke und wirkte als einflussreicher Kompositionslehrer am Petersburger Konservatorium.",
+        "url": "https://de.wikipedia.org/wiki/Anatoli_Konstantinowitsch_Ljadow"
+      }
     },
     {
       "id": "bedrich-smetana",
       "name": "Bedřich Smetana",
-      "life": null
+      "life": null,
+      "openOpusId": "211",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Bedřich Smetana (1824–1884), ursprünglich Friedrich Smetana, war ein tschechischer Komponist der Romantik. Nach seiner Ausbildung in Prag und Jahren im schwedischen Göteborg kehrte er in die böhmische Hauptstadt zurück und wurde zur Schlüsselfigur der tschechischen Nationalbewegung. Als Leiter des Prager Interimstheaters begründete er mit Opern wie Die verkaufte Braut die nationale Oper. Trotz zunehmender Taubheit vollendete er den Zyklus Mein Vaterland mit der berühmten Moldau.",
+        "url": "https://de.wikipedia.org/wiki/Bed%C5%99ich_Smetana"
+      }
     },
     {
       "id": "darius-milhaud",
       "name": "Darius Milhaud",
-      "life": null
+      "life": null,
+      "openOpusId": "121",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Darius Milhaud (1892–1974) war ein französischer Komponist, geboren in Marseille, und einer der produktivsten Komponisten des 20. Jahrhunderts. Er gehörte zur Pariser Komponistengruppe Les Six und ließ in sein Werk Einflüsse des Jazz sowie südamerikanischer Musik einfließen. Sein umfangreiches Schaffen umfasst nahezu alle musikalischen Gattungen. Später wirkte er auch als geschätzter Kompositionslehrer, unter anderem in den USA.",
+        "url": "https://de.wikipedia.org/wiki/Darius_Milhaud"
+      }
     },
     {
       "id": "carl-philipp-emanuel-bach",
       "name": "Carl Philipp Emanuel Bach",
-      "life": null
+      "life": null,
+      "openOpusId": "192",
+      "epoch": "Klassik",
+      "wikipedia": {
+        "summary": "Carl Philipp Emanuel Bach (1714–1788), auch als Berliner oder Hamburger Bach bekannt, war ein deutscher Komponist und Kirchenmusiker aus der berühmten Familie Bach. Er wirkte in der Übergangszeit zwischen Barock und Klassik und gilt als bedeutender Vertreter der Frühklassik. Als berühmtester der Bachsöhne genoss er im protestantischen Deutschland des 18. Jahrhunderts hohes Ansehen, insbesondere als Lehrer und Komponist von Werken für Tasteninstrumente.",
+        "url": "https://de.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach"
+      }
     },
     {
       "id": "brett-dean",
       "name": "Brett Dean",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Brett Dean (* 1961 in Brisbane) ist ein australischer Komponist, Bratschist und Dirigent. Er verbindet in seiner Laufbahn das kompositorische Schaffen mit einer ausgeprägten Tätigkeit als Instrumentalist und am Dirigentenpult. Diese Vielseitigkeit prägt sein Wirken und macht ihn zu einer bekannten Figur des internationalen Musiklebens, in dem er sowohl als Interpret als auch als Schöpfer eigener Werke in Erscheinung tritt.",
+        "url": "https://de.wikipedia.org/wiki/Brett_Dean"
+      }
     },
     {
       "id": "courtney-bryan",
@@ -1381,17 +2267,31 @@
     {
       "id": "pjotr-i-tschaikowsky",
       "name": "Pjotr I. Tschaikowsky",
-      "life": null
+      "life": null,
+      "openOpusId": "79",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Pjotr Iljitsch Tschaikowski (1840–1893) war ein russischer Komponist, dessen Werke bereits zu Lebzeiten internationale Bekanntheit erlangten und heute zu den bedeutendsten der Romantik zählen. In Russland gilt er als der herausragende Komponist des 19. Jahrhunderts. Zu seinen bekanntesten Schöpfungen gehören seine letzten Sinfonien, das erste Klavierkonzert, die Oper Eugen Onegin sowie die berühmten Ballette Schwanensee, Dornröschen und Der Nussknacker.",
+        "url": "https://de.wikipedia.org/wiki/Pjotr_Iljitsch_Tschaikowski"
+      }
     },
     {
       "id": "e-t-a-hoffman",
       "name": "E. T. A. Hoffman",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "E. T. A. Hoffmann (1776–1822), eigentlich Ernst Theodor Wilhelm Hoffmann, war ein bedeutender deutscher Schriftsteller der Romantik, der zugleich als Jurist, Komponist, Kapellmeister, Musikkritiker und Zeichner wirkte. Mit seiner Novellistik zählt er zu den einflussreichsten deutschsprachigen Erzählern und prägte zahlreiche europäische Literaturen. Neben Robert Schumann war er der wirkmächtigste Musikkritiker der deutschen Romantik; seine Werke dienten vielfach als Opernvorlagen.",
+        "url": "https://de.wikipedia.org/wiki/E._T._A._Hoffmann"
+      }
     },
     {
       "id": "detlev-glanert",
       "name": "Detlev Glanert",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Detlev Glanert (geboren 1960 in Hamburg) ist ein deutscher Komponist, der vor allem als Vertreter des zeitgenössischen Musiktheaters hervorgetreten ist. Er studierte unter anderem bei Hans Werner Henze und schuf ein umfangreiches Bühnenwerk. Zu seinen bekannten Opern zählen unter anderem Caligula und Solaris. Daneben umfasst sein Schaffen Orchester-, Chor- und Kammermusik.",
+        "url": "https://de.wikipedia.org/wiki/Detlev_Glanert"
+      }
     },
     {
       "id": "jp-jofre",
@@ -1401,17 +2301,33 @@
     {
       "id": "fanny-mendelssohn-hensel",
       "name": "Fanny Mendelssohn-Hensel",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Fanny Hensel (1805–1847), geborene Mendelssohn, war eine deutsche Komponistin der Romantik sowie Pianistin, Dirigentin und Konzertorganisatorin. Ihr über 460 Werke umfassendes Schaffen reicht von Liedern und Klavierstücken über Kammermusik bis zu geistlichen Kantaten und Orchesterwerken. Eine öffentliche musikalische Karriere blieb ihr von der Familie weitgehend verwehrt; in ihren Berliner „Sonntagsmusiken“ schuf sie jedoch einen halböffentlichen Raum. Sie war die Schwester von Felix Mendelssohn Bartholdy.",
+        "url": "https://de.wikipedia.org/wiki/Fanny_Hensel"
+      }
     },
     {
       "id": "pjotr-tschaikowski",
       "name": "Pjotr Tschaikowski",
-      "life": null
+      "life": null,
+      "openOpusId": "79",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Pjotr Iljitsch Tschaikowski (1840–1893) war ein russischer Komponist, dessen Musik schon zu Lebzeiten internationale Anerkennung fand und heute zum Kernbestand der Romantik gehört. In Russland gilt er als bedeutendster Komponist des 19. Jahrhunderts; anders als die Gruppe der Fünf setzte er die westlich geprägte Schule Anton Rubinsteins fort. Weltberühmt sind seine Ballette Schwanensee, Dornröschen und Der Nussknacker sowie das erste Klavierkonzert, das Violinkonzert und die Oper Eugen Onegin.",
+        "url": "https://de.wikipedia.org/wiki/Pjotr_Iljitsch_Tschaikowski"
+      }
     },
     {
       "id": "jan-dvorak",
       "name": "Jan Dvořák",
-      "life": null
+      "life": null,
+      "openOpusId": "189",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Jan Dvořák (geboren 1971 in Hamburg) ist ein deutscher Komponist, Autor und Theatermacher, dessen spartenübergreifende Werke sich zwischen Performance, Pop und Musiktheater bewegen. Gemeinsam mit Julia Warnemünde und Thomas Fiedler bildet er das Musiktheaterkollektiv Kommando Himmelfahrt. Als künstlerischer Leiter verantwortet er das Festival Mannheimer Sommer am Nationaltheater Mannheim. Er lebt und arbeitet in Hamburg sowie im südschwedischen Norrbro.",
+        "url": "https://de.wikipedia.org/wiki/Jan_Dvo%C5%99%C3%A1k"
+      }
     },
     {
       "id": "bernard-herrmann",
@@ -1419,6 +2335,10 @@
       "life": {
         "from": 1911,
         "to": 1975
+      },
+      "wikipedia": {
+        "summary": "Bernard Herrmann (1911–1975) war ein US-amerikanischer Komponist und Dirigent, der 1911 in New York City geboren wurde und 1975 in Los Angeles starb. Bekanntheit erlangte er vor allem durch seine Filmmusik. Besondere Berühmtheit brachte ihm die Zusammenarbeit mit dem Regisseur Alfred Hitchcock ein, für den er unter anderem die Musik zu den Filmklassikern Psycho und Vertigo schuf.",
+        "url": "https://de.wikipedia.org/wiki/Bernard_Herrmann"
       }
     },
     {
@@ -1427,6 +2347,10 @@
       "life": {
         "from": 1907,
         "to": 1995
+      },
+      "wikipedia": {
+        "summary": "Miklós Rózsa (1907–1995) war ein ungarisch-amerikanischer Komponist, geboren in Budapest und gestorben in Los Angeles. Mehrfach mit dem Oscar ausgezeichnet, gilt er als einer der bedeutendsten Filmkomponisten und schrieb unter anderem die Musik zu Monumentalfilm-Klassikern wie Ben Hur und El Cid. Daneben umfasst sein Werkverzeichnis auch Orchester- und Kammermusik für den Konzertsaal. Sein Stil war überwiegend an der Tonalität orientiert und gemäßigt modern.",
+        "url": "https://de.wikipedia.org/wiki/Mikl%C3%B3s_R%C3%B3zsa"
       }
     },
     {
@@ -1435,6 +2359,10 @@
       "life": {
         "from": 1883,
         "to": 1953
+      },
+      "wikipedia": {
+        "summary": "Sir Arnold Bax (1883–1953) war ein englischer Komponist, der der spätromantischen Tradition der britischen Musik zuzurechnen ist. Er zählt zu den namhaften englischen Tonschöpfern des frühen 20. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Arnold_Bax"
       }
     },
     {
@@ -1443,6 +2371,10 @@
       "life": {
         "from": 1909,
         "to": 2007
+      },
+      "wikipedia": {
+        "summary": "Harald Genzmer (1909–2007) war ein deutscher Komponist, geboren in Blumenthal in der Provinz Hannover und gestorben in München. Er wirkte über viele Jahrzehnte und hinterließ ein umfangreiches Œuvre, das zahlreiche Gattungen der Instrumental- und Vokalmusik umfasst.",
+        "url": "https://de.wikipedia.org/wiki/Harald_Genzmer"
       }
     },
     {
@@ -1451,12 +2383,22 @@
       "life": {
         "from": 1930,
         "to": 1996
+      },
+      "openOpusId": "213",
+      "epoch": "Nachkriegszeit",
+      "wikipedia": {
+        "summary": "Tōru Takemitsu (1930–1996) war ein japanischer Komponist und gilt als einer der bedeutendsten Vertreter der zeitgenössischen Musik seines Landes. Weitgehend autodidaktisch ausgebildet, verband er Techniken der westlichen Avantgarde mit Klangvorstellungen und Ästhetik der traditionellen japanischen Musik. Neben zahlreichen Orchester- und Kammermusikwerken schrieb er auch bedeutende Filmmusiken, unter anderem für Filme von Akira Kurosawa und Masaki Kobayashi.",
+        "url": "https://de.wikipedia.org/wiki/T%C5%8Dru_Takemitsu"
       }
     },
     {
       "id": "niclas-ramdohr",
       "name": "Niclas Ramdohr",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Niclas Ramdohr (* 1967 in Berlin) ist ein deutscher Musiker, Komponist und Musikproduzent. Er ist in seiner Heimatstadt Berlin künstlerisch tätig und verbindet in seinem Schaffen kompositorische Arbeit mit der Produktion von Musik.",
+        "url": "https://de.wikipedia.org/wiki/Niclas_Ramdohr"
+      }
     },
     {
       "id": "albert-dietrich",
@@ -1472,6 +2414,12 @@
       "life": {
         "from": 1819,
         "to": 1896
+      },
+      "openOpusId": "129",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Clara Josephine Schumann, geborene Wieck (1819–1896), war eine deutsche Pianistin, Komponistin, Klavierpädagogin und Herausgeberin; von 1840 bis 1856 war sie mit Robert Schumann verheiratet. Als einstiges Wunderkind prägte sie mit ihren Programmen das spätere Konzertrepertoire und spielte bevorzugt Werke von Chopin, Mendelssohn, Beethoven, Bach, Schubert und Brahms. Seit den 1960er Jahren wird sie zunehmend auch als Komponistin wiederentdeckt und erforscht.",
+        "url": "https://de.wikipedia.org/wiki/Clara_Schumann"
       }
     },
     {
@@ -1480,6 +2428,12 @@
       "life": {
         "from": 1858,
         "to": 1924
+      },
+      "openOpusId": "146",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Giacomo Puccini (1858–1924) war ein italienischer Komponist, der aus einer traditionsreichen Musikerfamilie in Lucca stammte. Er galt bald als legitimer Nachfolger Giuseppe Verdis und zählt zu den bedeutendsten Opernkomponisten überhaupt. Zu seinen weltweit gespielten Werken gehören La Bohème, Tosca, Madama Butterfly und die unvollendet gebliebene Turandot. Charakteristisch für sein Schaffen sind einprägsame Melodien, einfühlsame Frauenfiguren und eine unmittelbare emotionale Wirkung.",
+        "url": "https://de.wikipedia.org/wiki/Giacomo_Puccini"
       }
     },
     {
@@ -1501,6 +2455,12 @@
       "life": {
         "from": 1804,
         "to": 1857
+      },
+      "openOpusId": "156",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Michail Iwanowitsch Glinka (1804–1857) war ein russischer Komponist, der 1804 im Gouvernement Smolensk geboren wurde und 1857 in Berlin starb. Er gilt als Begründer einer eigenständigen klassischen Musik Russlands und übte mit seinem Werk prägenden Einfluss auf nachfolgende Generationen russischer Komponisten aus.",
+        "url": "https://de.wikipedia.org/wiki/Michail_Iwanowitsch_Glinka"
       }
     },
     {
@@ -1509,6 +2469,10 @@
       "life": {
         "from": 1699,
         "to": 1783
+      },
+      "wikipedia": {
+        "summary": "Johann Adolph Hasse (1699–1783) war ein deutscher Komponist des Spätbarock, der 1699 in Bergedorf getauft wurde und in Venedig starb. Zu Lebzeiten genoss er hohes Ansehen, das sich vor allem auf seine im italienischen Stil geschriebenen Opern gründete. Er zählte zu den international gefragtesten und meistgespielten Bühnenkomponisten seiner Epoche und prägte den europäischen Opernbetrieb des 18. Jahrhunderts über viele Jahre hinweg maßgeblich.",
+        "url": "https://de.wikipedia.org/wiki/Johann_Adolph_Hasse"
       }
     },
     {
@@ -1522,6 +2486,10 @@
       "life": {
         "from": 1803,
         "to": 1890
+      },
+      "wikipedia": {
+        "summary": "Franz Paul Lachner (1803–1890) war ein deutscher Komponist und Dirigent, geboren in Rain und gestorben in München. Er wirkte als bedeutender Kapellmeister seiner Zeit, unterhielt Verbindungen zu Franz Schubert und schuf ein umfangreiches Werk mit Sinfonien, Orchestersuiten, Opern und Kirchenmusik.",
+        "url": "https://de.wikipedia.org/wiki/Franz_Lachner"
       }
     },
     {
@@ -1530,6 +2498,10 @@
       "life": {
         "from": 1804,
         "to": 1875
+      },
+      "wikipedia": {
+        "summary": "Louise Farrenc (1804–1875) war eine französische Komponistin, Pianistin und Musikwissenschaftlerin, die in Paris geboren wurde und dort auch starb. Als Professorin für Klavier lehrte sie über viele Jahre am Pariser Konservatorium. Für ihre Kammermusik wurde sie 1861 und 1869 mit dem Prix Chartier der französischen Akademie der Künste ausgezeichnet. Ihr Schaffen umfasst zudem Sinfonien und zahlreiche Klavierwerke.",
+        "url": "https://de.wikipedia.org/wiki/Louise_Farrenc"
       }
     },
     {
@@ -1538,6 +2510,12 @@
       "life": {
         "from": 1838,
         "to": 1920
+      },
+      "openOpusId": "184",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Max Bruch (1838–1920) war ein deutscher Komponist und Dirigent der Romantik, geboren in Köln und gestorben in Berlin. In einer an klassischen Formen orientierten, melodiereichen Tonsprache schuf er zahlreiche Orchester-, Chor- und Kammermusikwerke. Weltberühmt wurde er vor allem durch sein erstes Violinkonzert in g-Moll sowie die „Schottische Fantasie“; auch das für Cello und Orchester gesetzte „Kol Nidrei“ zählt zu seinen bekannten Stücken.",
+        "url": "https://de.wikipedia.org/wiki/Max_Bruch"
       }
     },
     {
@@ -1546,6 +2524,10 @@
       "life": {
         "from": 1795,
         "to": 1869
+      },
+      "wikipedia": {
+        "summary": "Marie Helene Liebmann, geborene Riese, später Liebert (1795–1869), war eine deutsche Pianistin, Komponistin und Sängerin. Sie wurde in Berlin geboren und starb in Dresden.",
+        "url": "https://de.wikipedia.org/wiki/Helene_Liebmann"
       }
     },
     {
@@ -1554,6 +2536,10 @@
       "life": {
         "from": 1895,
         "to": 1952
+      },
+      "wikipedia": {
+        "summary": "Henriëtte Hilda Bosmans (1895–1952) war eine niederländische Komponistin und Pianistin, die in Amsterdam geboren wurde und dort auch starb. Als Pianistin trat sie im Konzertleben ihrer Zeit hervor, als Komponistin schuf sie vor allem Kammermusik, Lieder und konzertante Werke für Soloinstrumente mit Orchester. Sie gilt als eine der bedeutendsten niederländischen Komponistinnen der ersten Hälfte des 20. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Henri%C3%ABtte_Bosmans"
       }
     },
     {
@@ -1562,6 +2548,10 @@
       "life": {
         "from": 1896,
         "to": 1979
+      },
+      "wikipedia": {
+        "summary": "Rebecca Helferich Clarke (1886–1979) war eine britische Komponistin und Bratschistin US-amerikanisch-deutscher Herkunft. Sie wurde 1886 im englischen Harrow geboren und starb 1979 in New York City. Heute gilt sie als eine der wichtigsten Komponistinnen ihres Landes in der Zwischenkriegszeit, deren Schaffen erst spät die verdiente Anerkennung fand.",
+        "url": "https://de.wikipedia.org/wiki/Rebecca_Clarke"
       }
     },
     {
@@ -1570,6 +2560,10 @@
       "life": {
         "from": 1850,
         "to": 1927
+      },
+      "wikipedia": {
+        "summary": "Luise Adolpha Le Beau (1850–1927) war eine deutsche Pianistin, Komponistin und Musikpädagogin, geboren in Rastatt und gestorben in Baden-Baden. Sie verband in ihrer Laufbahn das eigene kompositorische Schaffen mit einer Tätigkeit als Pianistin und Lehrerin und behauptete sich damit in einem von Männern dominierten Musikleben des 19. Jahrhunderts. Als eigenständige künstlerische Persönlichkeit zählt sie zu den bemerkenswerten deutschen Komponistinnen ihrer Zeit.",
+        "url": "https://de.wikipedia.org/wiki/Luise_Adolpha_Le_Beau"
       }
     },
     {
@@ -1578,6 +2572,10 @@
       "life": {
         "from": 1858,
         "to": 1937
+      },
+      "wikipedia": {
+        "summary": "Mel Bonis (1858–1937), mit vollem Namen Mélanie Hélène Bonis, war eine französische Komponistin. Da eine schaffende Frau im Musikleben ihrer Zeit auf Vorbehalte stieß, veröffentlichte sie ihre Werke zumeist unter dem geschlechtsneutralen Pseudonym Mel Bonis. Ihr Œuvre umfasst Kompositionen unterschiedlicher Gattungen und wird erst in jüngerer Zeit umfassender wiederentdeckt und gewürdigt.",
+        "url": "https://de.wikipedia.org/wiki/M%C3%A9lanie_Bonis"
       }
     },
     {
@@ -1586,6 +2584,10 @@
       "life": {
         "from": 1887,
         "to": 1979
+      },
+      "wikipedia": {
+        "summary": "Nadia Boulanger (1887–1979) war eine französische Komponistin, Pianistin, Dirigentin, Musiktheoretikerin und Musikpädagogin, geboren und gestorben in Paris. Sie gilt als eine der einflussreichsten Musiklehrerinnen des 20. Jahrhunderts und bildete über Jahrzehnte zahlreiche später bedeutende Komponistinnen und Komponisten aus mehreren Ländern aus, wodurch sie die Musikgeschichte weit über Frankreich hinaus prägte.",
+        "url": "https://de.wikipedia.org/wiki/Nadia_Boulanger"
       }
     },
     {
@@ -1594,6 +2596,12 @@
       "life": {
         "from": 1887,
         "to": 1959
+      },
+      "openOpusId": "55",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Heitor Villa-Lobos (1887–1959) war ein brasilianischer Komponist, Cellist, Gitarrist und Dirigent und ist der populärste sowie international bekannteste Komponist klassischer Musik seines Landes. In seinem umfangreichen Werk verband er europäische Kunstmusik mit den Rhythmen und Melodien brasilianischer Volksmusik. Besondere Bekanntheit erlangten seine Werkreihen Bachianas Brasileiras und Chôros, in denen sich diese Verbindung eindrucksvoll zeigt.",
+        "url": "https://de.wikipedia.org/wiki/Heitor_Villa-Lobos"
       }
     },
     {
@@ -1602,6 +2610,10 @@
       "life": {
         "from": 1878,
         "to": 1925
+      },
+      "wikipedia": {
+        "summary": "André Léon Caplet (1878–1925) war ein französischer Komponist und Dirigent, geboren in Le Havre. Er war ein enger Weggefährte von Claude Debussy, dessen Werke er teilweise orchestrierte und dirigierte. Neben seiner Dirigententätigkeit schuf er ein eigenständiges kompositorisches Werk, das häufig religiös inspiriert ist und sich durch feine, impressionistisch gefärbte Klanglichkeit auszeichnet. Er starb in Neuilly-sur-Seine.",
+        "url": "https://de.wikipedia.org/wiki/Andr%C3%A9_Caplet"
       }
     },
     {
@@ -1610,6 +2622,10 @@
       "life": {
         "from": 1877,
         "to": 1952
+      },
+      "wikipedia": {
+        "summary": "Sergei Eduardowitsch Bortkiewicz (1877–1952) war ein Komponist polnischer Herkunft, der im heutigen Charkiw in der Ukraine geboren wurde und russisch geprägt aufwuchs. Den Großteil seines Lebens verbrachte er in Deutschland und Österreich; er starb in Wien.",
+        "url": "https://de.wikipedia.org/wiki/Sergei_Eduardowitsch_Bortkiewicz"
       }
     },
     {
@@ -1634,6 +2650,10 @@
       "life": {
         "from": 1901,
         "to": 1988
+      },
+      "wikipedia": {
+        "summary": "Frederick Loewe (1901–1988), geboren als Friedrich Fritz Löwe in Charlottenburg, war ein US-amerikanischer Komponist österreichisch-deutscher Herkunft. Der mit Oscar und Tony ausgezeichnete Musiker wurde vor allem als Komponist erfolgreicher Broadway- und Filmmusicals bekannt, darunter Brigadoon, My Fair Lady, Camelot und Gigi. Diese Werke entstanden häufig in enger Zusammenarbeit mit dem Autor und Texter Alan Jay Lerner.",
+        "url": "https://de.wikipedia.org/wiki/Frederick_Loewe"
       }
     },
     {
@@ -1642,6 +2662,10 @@
       "life": {
         "from": 1975,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Hans Thomalla (* 1975 in Bonn) ist ein deutsch-amerikanischer Komponist. Er gehört zu den zeitgenössischen Vertretern der Neuen Musik und wirkt im deutsch-amerikanischen Kulturraum. Sein Schaffen ist Teil des gegenwärtigen Musiklebens, in dem er als Komponist zwischen Europa und den Vereinigten Staaten in Erscheinung tritt.",
+        "url": "https://de.wikipedia.org/wiki/Hans_Thomalla"
       }
     },
     {
@@ -1650,6 +2674,10 @@
       "life": {
         "from": 1697,
         "to": 1764
+      },
+      "wikipedia": {
+        "summary": "Jean-Marie Leclair der Ältere (1697–1764) war ein französischer Komponist und einer der bekanntesten Violinisten seiner Zeit. Er gilt als bedeutender Wegbereiter der französischen Violinschule und verband in seinem Schaffen den italienischen und den französischen Stil des Barock. Sein Werk umfasst vor allem Sonaten und Konzerte für Violine, die die technischen und ausdrucksmäßigen Möglichkeiten des Instruments erheblich erweiterten.",
+        "url": "https://de.wikipedia.org/wiki/Jean-Marie_Leclair"
       }
     },
     {
@@ -1658,6 +2686,10 @@
       "life": {
         "from": 1689,
         "to": 1755
+      },
+      "wikipedia": {
+        "summary": "Joseph Bodin de Boismortier (1689–1755) war ein französischer Komponist des Barock, geboren in Thionville und gestorben in Roissy-en-Brie. Er war einer der ersten Musiker, die unabhängig von einem festen Mäzen oder Hofamt allein vom Verkauf ihrer gedruckten Werke leben konnten, und hinterließ ein sehr umfangreiches Schaffen an Instrumental- und Vokalmusik.",
+        "url": "https://de.wikipedia.org/wiki/Joseph_Bodin_de_Boismortier"
       }
     },
     {
@@ -1666,87 +2698,163 @@
       "life": {
         "from": 1905,
         "to": 1974
+      },
+      "wikipedia": {
+        "summary": "André Jolivet (1905–1974) war ein französischer Komponist, der in Paris geboren wurde und ebenda starb. Er gehörte zu den Mitbegründern der Künstlergruppe La Jeune France, die sich für eine ausdrucksstarke und menschlich gehaltvolle Musik einsetzte. Jolivet verstand Musik als magischen und beschwörenden Ausdruck und schuf unter anderem Werke für die Ondes Martenot sowie zahlreiche Konzerte für Soloinstrumente.",
+        "url": "https://de.wikipedia.org/wiki/Andr%C3%A9_Jolivet"
       }
     },
     {
       "id": "ferdinand-david",
       "name": "Ferdinand David",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Ferdinand David (1810–1873) war ein deutscher Violinvirtuose und Komponist, geboren in Hamburg. Als langjähriger Konzertmeister des Leipziger Gewandhausorchesters und enger Vertrauter von Felix Mendelssohn Bartholdy spielte er 1845 die Uraufführung von dessen Violinkonzert. Er wirkte zudem als angesehener Geigenlehrer und schuf eigene Werke sowie einflussreiche Ausgaben für sein Instrument. Er starb bei Klosters in der Schweiz.",
+        "url": "https://de.wikipedia.org/wiki/Ferdinand_David"
+      }
     },
     {
       "id": "oskar-boehme",
       "name": "Oskar Böhme",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Oskar Böhme (1870–1938) war ein deutsch-russischer Trompeter und Komponist. Geboren im sächsischen Potschappel, starb er im russischen Orenburg.",
+        "url": "https://de.wikipedia.org/wiki/Oskar_B%C3%B6hme"
+      }
     },
     {
       "id": "franz-lehar",
       "name": "Franz Lehár",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Franz Lehár (1870–1948) war ein österreichisch-ungarischer Komponist, geboren im damaligen Komorn. Gemeinsam mit Oscar Straus, Emmerich Kálmán und Leo Fall gilt er als Begründer und Hauptvertreter der sogenannten Silbernen Operettenära. Weltweite Berühmtheit erlangte er vor allem durch seine Operette Die lustige Witwe, die zu den erfolgreichsten Werken des Genres zählt. Er starb 1948 im österreichischen Bad Ischl.",
+        "url": "https://de.wikipedia.org/wiki/Franz_Leh%C3%A1r"
+      }
     },
     {
       "id": "arthur-bliss",
       "name": "Arthur Bliss",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Sir Arthur Edward Drummond Bliss (1891–1975) war ein englischer Komponist, der 1891 in London geboren wurde und ebenda 1975 starb. Von 1953 bis zu seinem Tod bekleidete er das Amt des Master of the Queen's Music und war damit für die musikalische Ausgestaltung offizieller königlicher Anlässe zuständig.",
+        "url": "https://de.wikipedia.org/wiki/Arthur_Bliss"
+      }
     },
     {
       "id": "engelbert-humperdinck",
       "name": "Engelbert Humperdinck",
-      "life": null
+      "life": null,
+      "openOpusId": "15",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Engelbert Humperdinck (1854–1921) war ein deutscher Komponist der Spätromantik, geboren in Siegburg und gestorben in Neustrelitz. Bekannt wurde er vor allem durch seine Märchenoper Hänsel und Gretel, die bis heute zu den beliebtesten Werken des Opernrepertoires zählt und regelmäßig, besonders zur Weihnachtszeit, aufgeführt wird. Mit diesem Erfolg sicherte er sich einen dauerhaften Platz in der deutschen Musikgeschichte des ausgehenden 19. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Engelbert_Humperdinck"
+      }
     },
     {
       "id": "leroy-anderson",
       "name": "Leroy Anderson",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Leroy Anderson (1908–1975) war ein US-amerikanischer Komponist, der vor allem durch seine kurzen, einfallsreichen und humorvollen Konzertstücke bekannt wurde. Ab 1936 schrieb er diese auf Anregung von Arthur Fiedler für das Boston Pops Orchestra. Seine eingängigen, oft geistreich instrumentierten Miniaturen zählen bis heute zu beliebten Werken der leichten Orchestermusik und begründeten seinen internationalen Ruf.",
+        "url": "https://de.wikipedia.org/wiki/Leroy_Anderson"
+      }
     },
     {
       "id": "hugh-martin",
       "name": "Hugh Martin",
-      "life": null
+      "life": null,
+      "openOpusId": "11",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Edward Hugh Martin (1914–2011) war ein US-amerikanischer Theater- und Filmkomponist sowie Musiker, geboren in Birmingham, Alabama, und gestorben im kalifornischen Encinitas. In seiner langjährigen Partnerschaft mit Ralph Blane entstanden bekannte Lieder, darunter der Weihnachtsklassiker Have Yourself a Merry Little Christmas. Er zählt zu den prägenden Songwritern des amerikanischen Musicals und des Filmmusikschaffens seiner Zeit.",
+        "url": "https://de.wikipedia.org/wiki/Hugh_Martin"
+      }
     },
     {
       "id": "karel-svoboda",
       "name": "Karel Svoboda",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Karel Svoboda (1938–2007) war ein tschechischer Komponist, der vor allem durch seine eingängige Musik für populäre Zeichentrickserien bekannt wurde. Zu seinen erfolgreichsten Arbeiten zählen die Titelmelodien der Serien Wickie und die starken Männer, Die Biene Maja, Pinocchio und Nils Holgersson. Große Popularität erlangte auch seine Musik zum beliebten Märchenfilm Drei Haselnüsse für Aschenbrödel.",
+        "url": "https://de.wikipedia.org/wiki/Karel_Svoboda"
+      }
     },
     {
       "id": "georges-bizet",
       "name": "Georges Bizet",
-      "life": null
+      "life": null,
+      "openOpusId": "68",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Georges Bizet (1838–1875) war ein französischer Komponist der Romantik, geboren in Paris. Obwohl er früh als hochbegabt galt, blieben ihm zu Lebzeiten große Erfolge weitgehend versagt. Erst seine Oper „Carmen“ wurde – kurz nach seinem frühen Tod – zu einem der größten Erfolge der Operngeschichte. Zu seinen weiteren Werken zählen die Oper „Les pêcheurs de perles“ sowie die Schauspielmusik „L'Arlésienne“.",
+        "url": "https://de.wikipedia.org/wiki/Georges_Bizet"
+      }
     },
     {
       "id": "rodion-schtschedrin",
       "name": "Rodion Schtschedrin",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Rodion Konstantinowitsch Schtschedrin (1932–2025) war ein sowjetischer beziehungsweise russischer Komponist und Pianist. Er wurde in Moskau geboren und starb in München und zählt zu den bekannten Komponisten der russischen Musik des 20. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Rodion_Konstantinowitsch_Schtschedrin"
+      }
     },
     {
       "id": "steve-reich",
       "name": "Steve Reich",
-      "life": null
+      "life": null,
+      "openOpusId": "176",
+      "epoch": "Nachkriegszeit",
+      "wikipedia": {
+        "summary": "Steve Reich (geboren 1936 in New York) ist ein US-amerikanischer Komponist, Pianist und Schlagzeuger, der als einer der Pioniere der Minimal Music gilt. Zusammen mit Philip Glass, Terry Riley und La Monte Young zählt er zu deren wichtigsten Vertretern. Sein Werk umfasst Vokal- und Orchesterwerke sowie Kammermusik und schöpft aus afrikanischer Trommelmusik, balinesischem Gamelan und Techniken wie dem Phasing. Er gilt als einer der bedeutendsten Komponisten der Gegenwart.",
+        "url": "https://de.wikipedia.org/wiki/Steve_Reich"
+      }
     },
     {
       "id": "stephen-hough",
       "name": "Stephen Hough",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Sir Stephen Andrew Gill Hough (geboren 1961 in Heswall, Merseyside) ist ein englischer Pianist und Komponist. Er gehört zu den renommierten Musikern seines Landes und ist sowohl als Interpret am Klavier als auch mit eigenem kompositorischem Schaffen hervorgetreten.",
+        "url": "https://de.wikipedia.org/wiki/Stephen_Hough"
+      }
     },
     {
       "id": "akira-ifukube",
       "name": "Akira Ifukube",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Ifukube Akira (1914–2006), auch als Akira Ifukube geführt, war ein japanischer Komponist, geboren in Kushiro auf Hokkaidō und gestorben in Tokio. International bekannt wurde er vor allem durch seine Kompositionen zu Kaijū-Filmen, die ihn weit über Japan hinaus zu einer prägenden Figur der Filmmusik machten. Über sein langes Leben hinweg hinterließ er ein umfangreiches Werk und zählt zu den einflussreichen japanischen Komponisten des 20. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Ifukube_Akira"
+      }
     },
     {
       "id": "fazil-say",
       "name": "Fazil Say",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Fazıl Say (* 1970 in Ankara) ist ein türkischer Pianist und Komponist, der sowohl als Interpret als auch als schöpferischer Künstler internationale Anerkennung genießt. Sein Schaffen verbindet häufig westliche klassische Traditionen mit Elementen der türkischen Musik. Darüber hinaus ist er in der Türkei als engagierter Bürgerrechtsaktivist bekannt und tritt öffentlich für Meinungsfreiheit und gesellschaftliche Anliegen ein.",
+        "url": "https://de.wikipedia.org/wiki/Faz%C4%B1l_Say"
+      }
     },
     {
       "id": "esa-pekka-salonen",
       "name": "Esa-Pekka Salonen",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Esa-Pekka Salonen, geboren 1958 in Helsinki, ist ein finnischer Dirigent und Komponist. Er zählt zu den international renommiertesten Musikerpersönlichkeiten der Gegenwart und verbindet eine herausragende Karriere am Pult führender Orchester mit einem eigenständigen kompositorischen Schaffen.",
+        "url": "https://de.wikipedia.org/wiki/Esa-Pekka_Salonen"
+      }
     },
     {
       "id": "mark-andreas-schlingensiepen",
       "name": "Mark-Andreas Schlingensiepen",
-      "life": null
+      "life": null,
+      "wikipedia": {
+        "summary": "Mark-Andreas Schlingensiepen (1956–2026) war ein deutscher Dirigent und Komponist, der im britischen Bradford geboren wurde. Über viele Jahre wirkte er als künstlerischer Leiter des auf zeitgenössische Musik spezialisierten notabu.ensemble neue musik mit Sitz in Düsseldorf. In dieser Funktion setzte er sich nachdrücklich für die Aufführung und Vermittlung der neuen Musik ein.",
+        "url": "https://de.wikipedia.org/wiki/Mark-Andreas_Schlingensiepen"
+      }
     },
     {
       "id": "gabriel-pierne",
@@ -1754,6 +2862,10 @@
       "life": {
         "from": 1863,
         "to": 1937
+      },
+      "wikipedia": {
+        "summary": "Gabriel Pierné (1863–1937) war ein französischer Komponist und Dirigent, geboren in Metz. Als angesehener Dirigent leitete er über viele Jahre bedeutende Pariser Konzerte und hob zahlreiche Werke der französischen Musik aus der Taufe. Sein eigenes, elegant und farbig gearbeitetes Œuvre umfasst Bühnenwerke, Ballette sowie Orchester- und Kammermusik. Er starb in Ploujean in der Bretagne.",
+        "url": "https://de.wikipedia.org/wiki/Gabriel_Piern%C3%A9"
       }
     },
     {
@@ -1770,6 +2882,10 @@
       "life": {
         "from": 1961,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Wynton Learson Marsalis, geboren am 18. Oktober 1961 in New Orleans, zählt zu den bekanntesten Jazztrompetern der Gegenwart. Er ist künstlerischer Leiter von Jazz at Lincoln Center und gehört zu den einflussreichen Figuren des heutigen Jazz.",
+        "url": "https://de.wikipedia.org/wiki/Wynton_Marsalis"
       }
     },
     {
@@ -1786,6 +2902,10 @@
       "life": {
         "from": 1878,
         "to": 1950
+      },
+      "wikipedia": {
+        "summary": "Maria Herz, geborene Bing (1878–1950), war eine deutsche Komponistin und Pianistin, geboren in Köln. Ihre Kompositionen erschienen teils unter dem Vornamen ihres Mannes Albert. Nach der Verfolgung im nationalsozialistischen Deutschland emigrierte sie und starb schließlich in New York City. Ihr kompositorisches Schaffen wurde erst in jüngerer Zeit wiederentdeckt und findet seither zunehmend Beachtung.",
+        "url": "https://de.wikipedia.org/wiki/Maria_Herz"
       }
     },
     {
@@ -1794,6 +2914,10 @@
       "life": {
         "from": 1822,
         "to": 1882
+      },
+      "wikipedia": {
+        "summary": "Joseph Joachim Raff (1822–1882) war ein schweizerisch-deutscher Komponist und Musikpädagoge. Er wurde 1822 im schweizerischen Lachen geboren und starb 1882 in Frankfurt am Main. Neben seinem umfangreichen kompositorischen Schaffen wirkte er auch als Lehrer und trug so zur Ausbildung nachfolgender Musikergenerationen bei.",
+        "url": "https://de.wikipedia.org/wiki/Joachim_Raff"
       }
     },
     {
@@ -1802,6 +2926,12 @@
       "life": {
         "from": 1881,
         "to": 1955
+      },
+      "openOpusId": "38",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "George Enescu (1881–1955) war ein rumänischer Komponist, Violinist und Dirigent, geboren in Liveni im Königreich Rumänien und gestorben in Paris. Er gilt als bedeutendste Musikerpersönlichkeit Rumäniens und verband in seiner Laufbahn kompositorisches Schaffen mit einer glänzenden Karriere als Geiger und Dirigent. Mit seinem vielseitigen Wirken erlangte er internationale Anerkennung und trug die rumänische Musiktradition weit über die Grenzen seines Landes hinaus.",
+        "url": "https://de.wikipedia.org/wiki/George_Enescu"
       }
     },
     {
@@ -1810,6 +2940,12 @@
       "life": {
         "from": 1928,
         "to": 2016
+      },
+      "openOpusId": "100",
+      "epoch": "Nachkriegszeit",
+      "wikipedia": {
+        "summary": "Einojuhani Rautavaara (1928–2016) war ein finnischer Komponist, der vor allem durch seine sinfonischen Werke bekannt wurde und als einer der bedeutendsten zeitgenössischen Komponisten seines Landes galt. In seinem Schaffen verband er unterschiedliche stilistische Ansätze und entwickelte eine oft mystisch anmutende, farbenreiche Klangsprache. Neben Sinfonien schuf er Konzerte, Chor- und Bühnenwerke und prägte damit die finnische Musik der zweiten Jahrhunderthälfte.",
+        "url": "https://de.wikipedia.org/wiki/Einojuhani_Rautavaara"
       }
     },
     {
@@ -1818,6 +2954,10 @@
       "life": {
         "from": 1929,
         "to": 2023
+      },
+      "wikipedia": {
+        "summary": "Ron Nelson (1929–2023) war ein US-amerikanischer Komponist und Dirigent, geboren in Joliet, Illinois. Er wirkte über viele Jahre als Musikpädagoge an der Brown University und schuf ein umfangreiches Werk, das insbesondere für seine Beiträge zur Chor- und Blasorchestermusik geschätzt wird.",
+        "url": "https://de.wikipedia.org/wiki/Ron_Nelson"
       }
     },
     {
@@ -1826,6 +2966,10 @@
       "life": {
         "from": 1942,
         "to": 2020
+      },
+      "wikipedia": {
+        "summary": "Volker David Kirchner (1942–2020) war ein deutscher Komponist, der in Mainz geboren wurde und in Wiesbaden starb.",
+        "url": "https://de.wikipedia.org/wiki/Volker_David_Kirchner"
       }
     },
     {
@@ -1858,6 +3002,12 @@
       "life": {
         "from": 1890,
         "to": 1974
+      },
+      "openOpusId": "11",
+      "epoch": "20. Jahrhundert",
+      "wikipedia": {
+        "summary": "Frank Martin (1890–1974) war ein Schweizer Komponist, der zu den bedeutendsten seines Landes im 20. Jahrhundert zählt. Er entwickelte einen unverwechselbaren persönlichen Stil, in dem er Elemente der Zwölftontechnik mit einer tonal gebundenen, ausdrucksvollen Klangsprache verband. Zu seinen bekanntesten Werken gehören die „Petite symphonie concertante“ und das Oratorium „Golgotha“. In Genf geboren, verbrachte er seine späteren Jahre in den Niederlanden, wo er starb.",
+        "url": "https://de.wikipedia.org/wiki/Frank_Martin_(Komponist)"
       }
     },
     {
@@ -1866,6 +3016,10 @@
       "life": {
         "from": 1759,
         "to": 1803
+      },
+      "wikipedia": {
+        "summary": "François Devienne (1759–1803) war ein französischer Komponist und Flötist der Klassik. Er wurde in Joinville im Département Haute-Marne geboren und starb in Charenton-Saint-Maurice.",
+        "url": "https://de.wikipedia.org/wiki/Fran%C3%A7ois_Devienne"
       }
     },
     {
@@ -1874,6 +3028,10 @@
       "life": {
         "from": 1883,
         "to": 1947
+      },
+      "wikipedia": {
+        "summary": "Alfredo Casella (1883–1947) war ein italienischer Komponist, Pianist, Dirigent sowie Musikschriftsteller und -kritiker, geboren in Turin. In seiner Heimat zählt er zu den populärsten Komponisten des 20. Jahrhunderts, da es ihm gelang, einen typisch italienischen Nationalstil mit der Neuen Musik zu verbinden. Darüber hinaus wirkte er als angesehener Pädagoge und Herausgeber und setzte sich für die Erneuerung der italienischen Instrumentalmusik ein.",
+        "url": "https://de.wikipedia.org/wiki/Alfredo_Casella"
       }
     },
     {
@@ -1882,6 +3040,12 @@
       "life": {
         "from": 1653,
         "to": 1713
+      },
+      "openOpusId": "139",
+      "epoch": "Barock",
+      "wikipedia": {
+        "summary": "Arcangelo Corelli (1653–1713) war ein italienischer Komponist und Violinist des Barock. Seine Triosonaten, seine Sonaten für Violine und Generalbass sowie seine Concerti grossi gelten als vorbildliche Verfeinerung der barocken Musiksprache und förderten die Wertschätzung der Instrumentalmusik. Aus der Bologneser Violinschule stammend, etablierte er sich in Rom in höchsten Adelskreisen und dominierte dort das Musikleben seiner Generation. Sein europaweit verbreitetes Werk wurde für nachfolgende Komponisten wegweisend.",
+        "url": "https://de.wikipedia.org/wiki/Arcangelo_Corelli"
       }
     },
     {
@@ -1890,6 +3054,12 @@
       "life": {
         "from": 1632,
         "to": 1687
+      },
+      "openOpusId": "10",
+      "epoch": "Barock",
+      "wikipedia": {
+        "summary": "Jean-Baptiste Lully (1632–1687), geboren als Giovanni Battista Lulli in Florenz und gestorben in Paris, war ein italienisch-französischer Komponist, Geiger, Gitarrist und Tänzer. Ab seinem 14. Lebensjahr lebte er am französischen Hof, wurde 1661 Bürger und 1681 geadelt. Als Schöpfer der charakteristisch französischen Barockmusik zählt er zu den einflussreichsten Komponisten seines Landes, auf den auch Purcell, Händel und Bach Bezug nahmen. Berühmt ist zudem seine Zusammenarbeit mit Molière.",
+        "url": "https://de.wikipedia.org/wiki/Jean-Baptiste_Lully"
       }
     },
     {
@@ -1898,6 +3068,12 @@
       "life": {
         "from": 1855,
         "to": 1899
+      },
+      "openOpusId": "61",
+      "epoch": "Romantik",
+      "wikipedia": {
+        "summary": "Ernest Chausson (1855–1899) war ein französischer Komponist der Romantik, dessen Schaffen von der spätromantischen französischen Tradition geprägt ist. In seiner ausdrucksvollen, klangsinnlichen Musik verband er Einflüsse seiner Lehrer mit einer eigenen lyrischen Handschrift. Sein Werk umfasst Orchester-, Kammer- und Vokalmusik. Sein früher Tod im Alter von 44 Jahren beendete ein Schaffen, das erst allmählich in vollem Umfang gewürdigt wurde.",
+        "url": "https://de.wikipedia.org/wiki/Ernest_Chausson"
       }
     },
     {
@@ -1906,6 +3082,10 @@
       "life": {
         "from": 1882,
         "to": 1949
+      },
+      "wikipedia": {
+        "summary": "Joaquín Turina Pérez (1882–1949) war ein spanischer Komponist, geboren in Sevilla und gestorben in Madrid. Er verband in seinem Schaffen die Klangwelt seiner andalusischen Heimat mit den kompositorischen Techniken, die er während seiner Studienzeit in Paris kennenlernte, und zählt zu den bedeutenden Vertretern der spanischen Musik des frühen 20. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Joaqu%C3%ADn_Turina"
       }
     },
     {
@@ -1914,6 +3094,10 @@
       "life": {
         "from": 1867,
         "to": 1944
+      },
+      "wikipedia": {
+        "summary": "Amy Beach (1867–1944) war eine US-amerikanische Komponistin und Pianistin. Sie gilt als die erste amerikanische Frau, der die Komposition einer Sinfonie gelang, und zählt zu den ersten in den USA erfolgreichen Schöpferinnen großer Orchesterwerke. Ihre unter dem Namen Mrs. H. H. A. Beach veröffentlichten Kompositionen umfassen neben der bekannten Gaelic Symphony auch Kammermusik, Lieder sowie Chor- und Klavierwerke.",
+        "url": "https://de.wikipedia.org/wiki/Amy_Beach"
       }
     },
     {
@@ -1922,6 +3106,10 @@
       "life": {
         "from": 1663,
         "to": 1745
+      },
+      "wikipedia": {
+        "summary": "Tomaso Antonio Vitali (1663–1745), genannt Vitalino, war ein italienischer Violinist und Komponist des Barock. Geboren in Bologna, wirkte er vor allem in Modena, wo er als Geiger an der herzoglichen Hofkapelle tätig war, und stammte aus einer Musikerfamilie. Sein Name ist heute vor allem mit der berühmten, ihm zugeschriebenen „Chaconne“ für Violine verbunden, deren Echtheit allerdings umstritten ist.",
+        "url": "https://de.wikipedia.org/wiki/Tomaso_Antonio_Vitali"
       }
     },
     {
@@ -1930,6 +3118,12 @@
       "life": {
         "from": 1685,
         "to": 1757
+      },
+      "openOpusId": "97",
+      "epoch": "Barock",
+      "wikipedia": {
+        "summary": "Giuseppe Domenico Scarlatti (1685–1757) war ein italienischer Komponist und Cembalist. Seine Hauptbedeutung liegt in den Sonaten für Cembalo, die zu den originellsten Werken ihres Genres im 18. Jahrhundert zählen. Geboren in Neapel, lebte er von 1729 bis zu seinem Tod in Spanien, wo er in Madrid starb.",
+        "url": "https://de.wikipedia.org/wiki/Domenico_Scarlatti"
       }
     },
     {
@@ -1951,6 +3145,10 @@
       "life": {
         "from": 1864,
         "to": 1935
+      },
+      "wikipedia": {
+        "summary": "Johan Halvorsen (1864–1935) war ein norwegischer Violinist, Komponist und Dirigent, geboren in Drammen. Als Geiger und Dirigent wirkte er über viele Jahre am Theater in Kristiania, dem heutigen Oslo. Sein Schaffen ist eng mit der norwegischen Musiktradition verbunden; besonders bekannt ist seine auf einem Thema Händels beruhende Passacaglia für Violine und Viola. Zudem war er familiär mit Edvard Grieg verbunden.",
+        "url": "https://de.wikipedia.org/wiki/Johan_Halvorsen"
       }
     },
     {
@@ -1959,6 +3157,10 @@
       "life": {
         "from": 1827,
         "to": 1903
+      },
+      "wikipedia": {
+        "summary": "Julius Otto Grimm (1827–1903) war ein deutscher Komponist und Dirigent, der 1827 im livländischen Pernau geboren wurde und 1903 in Münster starb. Einen großen Teil seines künstlerischen Wirkens verbrachte er im westfälischen Münster, wo er das Musikleben über viele Jahre mitprägte.",
+        "url": "https://de.wikipedia.org/wiki/Julius_Otto_Grimm"
       }
     },
     {
@@ -1967,6 +3169,10 @@
       "life": {
         "from": 1897,
         "to": 1948
+      },
+      "wikipedia": {
+        "summary": "Gerardo Matos Rodríguez (1897–1948) war ein uruguayischer Pianist, Komponist und Journalist, geboren und gestorben in Montevideo. Weltberühmt wurde er durch den 1916 geschriebenen Tango La Cumparsita, den bis heute bekanntesten und meistgespielten Tango aller Zeiten. Er bereiste ausgiebig Europa, lebte zeitweise in Paris und wirkte auch als uruguayischer Konsul in Deutschland. Neben seinem berühmtesten Werk schuf er zahlreiche weitere Tangos und trug zu einer Filmmusik bei.",
+        "url": "https://de.wikipedia.org/wiki/Gerardo_Matos_Rodr%C3%ADguez"
       }
     },
     {
@@ -1975,6 +3181,10 @@
       "life": {
         "from": 1861,
         "to": 1919
+      },
+      "wikipedia": {
+        "summary": "Ángel Villoldo (1861–1919) war ein argentinischer Tangokomponist und -dichter aus Buenos Aires. Er zählt zu den prägenden Pionieren des frühen Tangos und trug wesentlich zu dessen Entwicklung als eigenständigem Genre bei. Als Komponist, Musiker und Liedtexter gestaltete er maßgeblich die entstehende Tangokultur seiner Heimatstadt mit und gilt als eine der Gründerfiguren dieser argentinischen Musiktradition.",
+        "url": "https://de.wikipedia.org/wiki/%C3%81ngel_Villoldo"
       }
     },
     {
@@ -1983,6 +3193,10 @@
       "life": {
         "from": 1916,
         "to": 1997
+      },
+      "wikipedia": {
+        "summary": "Héctor Luciano Stamponi (1916–1997) war ein argentinischer Tangopianist, Bandleader, Arrangeur, Komponist und Dichter, geboren in Campana und gestorben in Buenos Aires. Er zählt zu den vielseitigen Persönlichkeiten des argentinischen Tangos und wirkte gleichermaßen als Interpret, Orchesterleiter und Schöpfer eigener Kompositionen und Texte.",
+        "url": "https://de.wikipedia.org/wiki/H%C3%A9ctor_Stamponi"
       }
     },
     {
@@ -1991,6 +3205,10 @@
       "life": {
         "from": 1885,
         "to": 1964
+      },
+      "wikipedia": {
+        "summary": "Juan de Dios Filiberto (1885–1964) war ein argentinischer Tangokomponist, Gitarrist, Pianist und Bandleader, der in Buenos Aires geboren wurde. Er zählt zu den prägenden Persönlichkeiten des argentinischen Tangos. Zu seinen bekanntesten Kompositionen gehört der Tango Caminito, der zu einem Klassiker des Genres wurde.",
+        "url": "https://de.wikipedia.org/wiki/Juan_de_Dios_Filiberto"
       }
     },
     {
@@ -1999,6 +3217,10 @@
       "life": {
         "from": 1902,
         "to": 1972
+      },
+      "wikipedia": {
+        "summary": "Pedro Laurenz (1902–1972), eigentlich Pedro Blanco Acosta, war ein argentinischer Musiker, Arrangeur, Bandleader und Komponist des Tango. Als virtuoser Bandoneonist und Violinist prägte er das Tango-Ensemblespiel seiner Zeit maßgeblich. Er wurde in Buenos Aires geboren, wo er auch starb, und hinterließ Kompositionen, die bis heute zum Repertoire des argentinischen Tangos gehören.",
+        "url": "https://de.wikipedia.org/wiki/Pedro_Laurenz"
       }
     },
     {
@@ -2007,6 +3229,10 @@
       "life": {
         "from": 1812,
         "to": 1883
+      },
+      "wikipedia": {
+        "summary": "Emilie Luise Friederika Mayer (1812–1883) war eine deutsche Komponistin, die zu Lebzeiten vor allem für ihr sinfonisches Schaffen gefeiert wurde. Sie schuf acht Sinfonien, Konzertouvertüren, ein Klavierkonzert, Kammermusik und Lieder. Stilistisch von der Wiener Klassik und von Beethoven beeinflusst, fand sie zunehmend eine eigene Tonsprache und gilt als eine der bedeutendsten Komponistinnen des 19. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Emilie_Mayer"
       }
     },
     {
@@ -2015,6 +3241,12 @@
       "life": {
         "from": 1879,
         "to": 1936
+      },
+      "openOpusId": "173",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Ottorino Respighi (1879–1936) war ein italienischer Komponist, geboren in Bologna, der als führender Vertreter der neueren italienischen Instrumentalmusik gilt. Weltweite Bekanntheit erlangte er vor allem durch seine farbenprächtig instrumentierten sinfonischen Dichtungen über die Stadt Rom, darunter Pini di Roma und Fontane di Roma. Daneben interessierte er sich für alte italienische Musik, die er in mehreren Werken aufgriff und verarbeitete.",
+        "url": "https://de.wikipedia.org/wiki/Ottorino_Respighi"
       }
     },
     {
@@ -2023,6 +3255,10 @@
       "life": {
         "from": 1901,
         "to": 1956
+      },
+      "wikipedia": {
+        "summary": "Gerald Raphael Finzi (1901–1956) war ein englischer Komponist. Er wurde 1901 in London geboren und starb 1956 in Oxford. Als Vertreter der englischen Musik seiner Zeit hinterließ er ein Werk, das ihn im Konzertleben seines Landes bis heute präsent hält.",
+        "url": "https://de.wikipedia.org/wiki/Gerald_Finzi"
       }
     },
     {
@@ -2031,6 +3267,10 @@
       "life": {
         "from": 1903,
         "to": 1975
+      },
+      "wikipedia": {
+        "summary": "Boris Blacher (1903–1975) war ein deutsch-baltischer Komponist, Librettist und Kompositionslehrer. Geboren im chinesischen Newchwang, verbrachte er sein späteres Leben in Berlin, wo er auch starb. Neben seinem kompositorischen Schaffen prägte er als Lehrer und Textdichter das Musikleben und verband damit mehrere Rollen innerhalb der Neuen Musik. Seine ungewöhnliche Herkunft und sein vielseitiges Wirken machen ihn zu einer eigenständigen Figur der deutschen Musikgeschichte des 20. Jahrhunderts.",
+        "url": "https://de.wikipedia.org/wiki/Boris_Blacher"
       }
     },
     {
@@ -2039,6 +3279,10 @@
       "life": {
         "from": 1971,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Jüri Reinvere (* 1971 in Tallinn) ist ein estnischer Komponist, Lyriker und Essayist, der seit 2005 in Deutschland lebt. Seine polystilistische Kunst folgt keinen festen Dogmen und widmet sich oft existentiellen Themen aus Geschichte, Natur und Politik. Seine Musik wurde von namhaften Dirigenten und bedeutenden Orchestern aufgeführt und fand internationale Aufmerksamkeit. Zudem greift er als Essayist in aktuelle Debatten in Estland und Deutschland ein.",
+        "url": "https://de.wikipedia.org/wiki/J%C3%BCri_Reinvere"
       }
     },
     {
@@ -2047,6 +3291,10 @@
       "life": {
         "from": 1955,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Lutz-Werner Hesse, geboren 1955 in Bad Godesberg, ist ein deutscher Komponist, Musikwissenschaftler und Hochschullehrer. Er verbindet in seinem Wirken kompositorisches Schaffen mit wissenschaftlicher und lehrender Tätigkeit im Bereich der Musik.",
+        "url": "https://de.wikipedia.org/wiki/Lutz-Werner_Hesse"
       }
     },
     {
@@ -2055,6 +3303,12 @@
       "life": {
         "from": 1692,
         "to": 1770
+      },
+      "openOpusId": "167",
+      "epoch": "Barock",
+      "wikipedia": {
+        "summary": "Giuseppe Tartini (1692–1770) war ein italienischer Violinist, Komponist und Musiktheoretiker, der bei Triest geboren wurde und in Padua wirkte. Als einer der herausragenden Geiger seiner Zeit trug er wesentlich zur Entwicklung der Violintechnik bei. Bekannt ist vor allem seine Violinsonate Teufelstriller. Als Theoretiker beschäftigte er sich mit akustischen Phänomenen und entdeckte die nach ihm benannten Kombinationstöne.",
+        "url": "https://de.wikipedia.org/wiki/Giuseppe_Tartini"
       }
     },
     {
@@ -2063,6 +3317,12 @@
       "life": {
         "from": 1860,
         "to": 1909
+      },
+      "openOpusId": "216",
+      "epoch": "Spätromantik",
+      "wikipedia": {
+        "summary": "Isaac Albéniz (1860–1909) war ein spanischer Komponist und Pianist, der als eine der zentralen Figuren der spanischen Musik gilt. Bereits als Kind trat er als außergewöhnlich begabter Pianist auf. In seinem Schaffen verband er die Klaviertradition mit Elementen der spanischen Folklore und Rhythmik. Als sein Hauptwerk gilt die anspruchsvolle Klaviersuite „Iberia“. Geboren in Katalonien, starb er in Südfrankreich.",
+        "url": "https://de.wikipedia.org/wiki/Isaac_Alb%C3%A9niz"
       }
     },
     {
@@ -2071,6 +3331,10 @@
       "life": {
         "from": 1839,
         "to": 1927
+      },
+      "wikipedia": {
+        "summary": "Laura Constance Netzel, geborene Pistolekors (1839–1927), war eine schwedische Komponistin, Pianistin und Dirigentin. Geboren im finnischen Rantasalmi, war sie später in Stockholm tätig, wo sie auch starb.",
+        "url": "https://de.wikipedia.org/wiki/Laura_Netzel"
       }
     },
     {
@@ -2079,6 +3343,10 @@
       "life": {
         "from": 1905,
         "to": 1989
+      },
+      "wikipedia": {
+        "summary": "Julia Frances Smith (1905–1989) war eine US-amerikanische Komponistin und Pianistin, geboren in Denton im Bundesstaat Texas. Neben ihrer kompositorischen und pianistischen Tätigkeit setzte sie sich als Autorin und Musikpublizistin für die Anerkennung von Komponistinnen ein. Ihr Schaffen umfasst unter anderem Bühnen- und Orchesterwerke. Sie gilt als eine Wegbereiterin für Frauen in der amerikanischen Musik.",
+        "url": "https://de.wikipedia.org/wiki/Julia_Frances_Smith"
       }
     },
     {
@@ -2103,6 +3371,10 @@
       "life": {
         "from": 1957,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Elena Kats-Chernin (geboren 1957 in Taschkent) ist eine usbekisch-australische Komponistin. Geboren im heutigen Usbekistan, entfaltet sie ihr künstlerisches Schaffen vor allem in Australien und zählt dort zu den bekannten Vertreterinnen der zeitgenössischen Musik.",
+        "url": "https://de.wikipedia.org/wiki/Elena_Kats-Chernin"
       }
     },
     {
@@ -2119,6 +3391,10 @@
       "life": {
         "from": 1950,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Alan Silvestri (* 1950 in Manhattan) ist ein US-amerikanischer Komponist und Dirigent, der zu den gefragtesten Filmkomponisten Hollywoods zählt. Er hat über 100 Filmmusiken geschaffen und dirigiert und wurde vor allem durch seine langjährige Zusammenarbeit mit Regisseur Robert Zemeckis bekannt. 1995 verlieh ihm das Berklee College of Music die Ehrendoktorwürde. 2020 kam mit Zurück in die Zukunft ein auf seinen Filmsongs basierendes Musical auf die Bühne.",
+        "url": "https://de.wikipedia.org/wiki/Alan_Silvestri"
       }
     },
     {
@@ -2127,6 +3403,10 @@
       "life": {
         "from": 1848,
         "to": 1927
+      },
+      "wikipedia": {
+        "summary": "Richard Eilenberg (1848–1927) war ein deutscher Komponist, der vor allem der unterhaltenden Salon- und Charaktermusik seiner Zeit zuzurechnen ist. Er wirkte über viele Jahre in Berlin und hinterließ ein Schaffen populärer, eingängiger Stücke.",
+        "url": "https://de.wikipedia.org/wiki/Richard_Eilenberg"
       }
     },
     {
@@ -2135,6 +3415,10 @@
       "life": {
         "from": 1946,
         "to": null
+      },
+      "wikipedia": {
+        "summary": "Howard Leslie Shore, geboren 1946 in Toronto, ist ein vielfach ausgezeichneter kanadischer Dirigent und Komponist von Film-, Kammer- und Konzertmusik. Der dreifache Oscargewinner ist heute besonders für seine Musik zu den Filmtrilogien Der Herr der Ringe und Der Hobbit bekannt und zählt zu den einflussreichsten Filmkomponisten seiner Generation.",
+        "url": "https://de.wikipedia.org/wiki/Howard_Shore"
       }
     },
     {
@@ -2143,6 +3427,10 @@
       "life": {
         "from": 1928,
         "to": 2020
+      },
+      "wikipedia": {
+        "summary": "Ennio Morricone (1928–2020) war ein italienischer Komponist und Dirigent, der die Musik für mehr als 500 Filme schrieb und zeitweise unter Pseudonymen wie Dan Savio arbeitete. Vor allem seine Kompositionen für Italowestern machten ihn weltberühmt, darunter Zwei glorreiche Halunken und Spiel mir das Lied vom Tod. Auch für Filme wie Mission und Cinema Paradiso schuf er bekannte Musik. 2007 erhielt er den Ehrenoscar, 2016 einen weiteren für The Hateful Eight.",
+        "url": "https://de.wikipedia.org/wiki/Ennio_Morricone"
       }
     }
   ]

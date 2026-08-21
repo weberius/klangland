@@ -23,6 +23,67 @@ Quelle (erkannt am Quell-Host) und legen Stammdaten anhand ihrer IDs dublettenfr
 | Essener Philharmoniker | `theater-essen.de/programm/spielzeit-26-27` (HTML) | [`ingest_essener.py`](ingest_essener.py) | [essener-philharmoniker.md](essener-philharmoniker.md) |
 | Gürzenich-Orchester Köln | `guerzenich-orchester.de` (Sitemap + Detailseiten) | [`ingest_guerzenich.py`](ingest_guerzenich.py) | [guerzenich-orchester-koeln.md](guerzenich-orchester-koeln.md) |
 
+## Stammdaten-Anreicherung
+
+| Datenbereich | Quelle | Skript | Doku |
+| --- | --- | --- | --- |
+| Ensemble-Orte (Geokoordinaten) | OpenStreetMap Overpass | [`geocode_cities.py`](geocode_cities.py) | US-013 |
+| Komponist:innen & Werke (Metadaten) | Open Opus | [`import_openopus.py`](import_openopus.py) | US-017 |
+| Komponist:innen (Wikipedia-Quellen sammeln) | Wikipedia (de) | [`fetch_wikipedia_composers.py`](fetch_wikipedia_composers.py) | US-017 |
+| Komponist:innen (volle Wikipedia-Intros) | Wikipedia (de) | [`fetch_wikipedia_intros.py`](fetch_wikipedia_intros.py) | US-017 |
+| Komponist:innen (kuratierte Kurzfassungen eintragen) | – | [`apply_wikipedia_composers.py`](apply_wikipedia_composers.py) | US-017 |
+
+`import_openopus.py` ergänzt `data/composers.json` und `data/works.json` um die externe
+`openOpusId`, die deutschsprachige `epoch` sowie die Werk-Kennzeichen `popular`/`recommended`
+und – wo lokal leer – Werkverzeichnis-Nummern. Kuratierte Felder (`wikipedia`, `description`,
+`title`, bestehende `catalogue`/`life`) werden **nicht** überschrieben; ein erneuter Lauf ist
+idempotent. Lebensdaten werden gegen Open Opus abgeglichen und Abweichungen nur reportet.
+Open Opus ist **keine Laufzeitabhängigkeit** – der Abruf passiert ausschließlich beim
+manuellen Skriptlauf und wird lokal (gitignoriert) gecacht.
+
+### Wikipedia-Kurzfassungen (Ablauf)
+
+Die kuratierten `wikipedia`-Kurzfassungen der Komponist:innen entstehen in vier Schritten
+(alle Netzzugriffe rate-limitiert auf max. 1 Request/Sekunde und lokal gecacht):
+
+1. `fetch_wikipedia_composers.py` – ermittelt je Komponist:in den passenden de-Wikipedia-Artikel
+   (Titel/URL) und legt Kandidaten unter `.cache/wikipedia/candidates.json` ab. Fehltreffer
+   (Listen-/Chronikseiten, gleichnamige andere Personen) sind über `NO_ARTICLE_IDS`/`TITLE_OVERRIDES`
+   ausgeschlossen bzw. korrigiert.
+2. `fetch_wikipedia_intros.py` – ergänzt je Kandidat:in den vollständigen Einleitungsabschnitt als
+   Recherchegrundlage.
+3. Redaktion – aus den Quellen werden **eigenständig formulierte** Kurzfassungen (~60 Wörter, kein
+   wörtlicher Auszug) erstellt und als `{ composerId: { summary, url } }` gesammelt.
+4. `apply_wikipedia_composers.py <kuratierung.json>` – schreibt die Kurzfassungen ordnungserhaltend
+   und ohne Überschreiben bestehender Einträge in `data/composers.json`.
+
+## Datenquellen / Attributierung
+
+- **Open Opus** ([openopus.org](https://openopus.org)) – strukturierte Komponist:innen- und
+  Werk-Metadaten. Die Daten stehen unter **CC0 / Public Domain**; eine Namensnennung ist
+  rechtlich nicht erforderlich. Klangland nennt Open Opus dennoch **freiwillig aus
+  Transparenz- und Fairnessgründen** als Quelle. Herkunft je Datensatz maschinenlesbar über
+  das Feld `openOpusId`.
+- **Wikipedia** – Grundlage der kuratierten Kurzfassungen (`wikipedia.summary`, ~60 Wörter,
+  eigenständig formuliert, kein wörtlicher Auszug). Der Quellennachweis je Kurzfassung steckt
+  in `wikipedia.url` (verlinkter Artikel).
+
+Sobald diese Daten in der UI dargestellt werden (US-024), muss der Open-Opus-Credit inkl. Link
+an einer für Nutzer:innen erreichbaren Stelle (z. B. Datenquellen-/Impressum-Hinweis) sichtbar
+sein. Die sichtbare UI-Attributierung ist **nicht** Teil von US-017.
+
+### Bekannte Lebensdaten-Abweichungen Open Opus ↔ Klangland
+
+Der Importer gleicht Lebensdaten gegen Open Opus ab und überschreibt sie **nicht**, sondern
+protokolliert Abweichungen (AK 2). Bei den folgenden Datensätzen sind die Open-Opus-Werte
+fehlerhaft; Klangland behält die geprüften lokalen Werte:
+
+| Komponist:in | Klangland | Open Opus | Bewertung |
+| --- | --- | --- | --- |
+| Clara Schumann | 1819–1896 | 1810–1856 | Open Opus falsch (verwechselt mit Robert Schumann) |
+| Michael Haydn | 1737–1806 | 1732–1809 | Open Opus falsch (verwechselt mit Joseph Haydn) |
+| Frank Martin | 1890–1974 | 1890–1959 | Open Opus falsches Sterbejahr |
+
 ## Konventionen
 
 - Zielschema und Beziehungen: [`../data-model.md`](../data-model.md),

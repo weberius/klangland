@@ -31,6 +31,9 @@ htmlcov/
 reports/
 *.log
 
+# Cache der Daten-Importer (z. B. Open-Opus-/Wikipedia-Rohantworten, US-017)
+docs/data-tooling/.cache/
+
 # Editors and operating systems
 .vscode/*
 !.vscode/extensions.json

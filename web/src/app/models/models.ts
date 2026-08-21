@@ -131,7 +131,13 @@ export interface Venue {
 export interface Composer {
   id: string;
   name: string;
-  life: { from: number; to: number | null };
+  life: { from: number; to: number | null } | null;
+  /** Externe Open-Opus-Referenz (US-017); erlaubt Re-Sync/Herkunftsnachweis. */
+  openOpusId?: string | null;
+  /** Deutschsprachige Epoche, aus Open Opus gemappt (US-017). */
+  epoch?: string | null;
+  /** Kuratierte Kurzfassung (~60 Wörter) + Artikel-URL, analog Ensemble (US-017). */
+  wikipedia?: { summary: string; url: string } | null;
 }
 
 export type Genre =
@@ -160,6 +166,13 @@ export interface Work {
   version: string | null;
   scoring: string | null;
   description: string | null;
+  /** Externe Open-Opus-Referenz (US-017); erlaubt Re-Sync/Herkunftsnachweis. */
+  openOpusId?: string | null;
+  /** Open-Opus-Kennzeichen als Grundlage für spätere Werkvorschläge (US-017). */
+  popular?: boolean;
+  recommended?: boolean;
+  /** Kuratierte Kurzfassung (~60 Wörter) + Artikel-URL, analog Ensemble (US-017). */
+  wikipedia?: { summary: string; url: string } | null;
 }
 
 export interface ProgramItem {

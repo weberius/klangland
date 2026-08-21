@@ -126,6 +126,12 @@ die JSON-Dateien übernommen. Jede Quelle hat ein Skript und eine kurze Doku (Qu
 Kuratierung) unter [`docs/data-tooling/`](docs/data-tooling/). Die Skripte entfernen zuvor
 eingespielte Events derselben Quelle und legen Stammdaten anhand ihrer IDs dublettenfrei an.
 
+Komponist:innen- und Werk-Stammdaten werden zusätzlich aus **[Open Opus](https://openopus.org)**
+angereichert (strukturierte Metadaten, `openOpusId`, Epoche, `popular`/`recommended`) sowie um
+kuratierte, eigenständig formulierte **Wikipedia**-Kurzfassungen ergänzt. Open Opus steht unter
+CC0; Klangland nennt die Quelle dennoch freiwillig aus Transparenzgründen (Details und
+Attributierung: [`docs/data-tooling/README.md`](docs/data-tooling/README.md)).
+
 Perspektivisch ist zusätzlich ein **gebündeltes Werkzeug** (`nrw-orchester-data`) geplant, das
 die JSON-Dateien validiert und die Aktualisierung unterstützt:
 
