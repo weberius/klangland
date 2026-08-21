@@ -38,6 +38,16 @@ export const routes: Routes = [
     title: 'Spielstätte · Klangland',
   },
   {
+    path: 'works',
+    loadComponent: () => import('./pages/work-list/work-list').then((m) => m.WorkListPage),
+    title: 'Werke · Klangland',
+  },
+  {
+    path: 'works/:id',
+    loadComponent: () => import('./pages/work-detail/work-detail').then((m) => m.WorkDetailPage),
+    title: 'Werk · Klangland',
+  },
+  {
     path: 'events/:id',
     loadComponent: () => import('./pages/event-detail/event-detail').then((m) => m.EventDetailPage),
     title: 'Veranstaltung · Klangland',

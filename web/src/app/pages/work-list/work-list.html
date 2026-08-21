@@ -1,0 +1,20 @@
+<app-page-header
+  heading="Werke"
+  description="Das Repertoire der Saison – alle Werke, die in mindestens einem Konzertprogramm erklingen."
+/>
+
+@if (works().length === 0) {
+  <p class="empty">Keine Werke erfasst.</p>
+} @else {
+  <div class="card-grid">
+    @for (w of works(); track w.id) {
+      <a class="card work-card" [routerLink]="['/works', w.id]">
+        <p class="work-composer">{{ composerName(w) }}</p>
+        <h2 class="work-title">{{ w.title }}</h2>
+        <p class="muted count">
+          {{ eventCount(w) }} {{ eventCount(w) === 1 ? 'Veranstaltung' : 'Veranstaltungen' }}
+        </p>
+      </a>
+    }
+  </div>
+}

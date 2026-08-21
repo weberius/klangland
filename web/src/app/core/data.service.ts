@@ -351,6 +351,37 @@ export class DataService {
     return this.events.filter((e) => e.venueId === venueId).sort(this.byDateTime);
   }
 
+  /** Chronologische Events, in deren Programm das Werk vorkommt (US-018). */
+  eventsForWork(workId: string): ConcertEvent[] {
+    return this.events
+      .filter((e) => e.program.some((p) => p.workId === workId))
+      .sort(this.byDateTime);
+  }
+
+  /**
+   * Programmierte Werke, eingegrenzt über den Ort-/Profil-Filter (US-018/US-020) – Quelle
+   * des Werke-Kachel-Grids. Berücksichtigt werden Werke, die in mindestens einem gefilterten
+   * Event-Programm vorkommen; leere Auswahl = alle programmierten Werke (analog zu
+   * venuesForFilter). Jedes Werk erscheint genau einmal (Set); sortiert nach Komponist und –
+   * bei gleichem Komponisten – nach Werktitel (deutsch). Der filter entfernt unbekannte workIds.
+   */
+  worksForFilter(cityIds: ReadonlySet<string>, profileIds: ReadonlySet<string>): Work[] {
+    const ids = new Set<string>();
+    for (const e of this.eventsForFilter(cityIds, profileIds)) {
+      for (const p of e.program) ids.add(p.workId);
+    }
+    return [...ids]
+      .map((id) => this.work(id))
+      .filter((w): w is Work => Boolean(w))
+      .sort((a, b) => {
+        const byComposer = (this.composer(a.composerId)?.name ?? '').localeCompare(
+          this.composer(b.composerId)?.name ?? '',
+          'de',
+        );
+        return byComposer !== 0 ? byComposer : a.title.localeCompare(b.title, 'de');
+      });
+  }
+
   /** Alle Events eines Tages (ISO). */
   eventsOnDate(iso: string): ConcertEvent[] {
     return this.events.filter((e) => e.date === iso).sort(this.byDateTime);

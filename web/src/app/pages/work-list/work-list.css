@@ -1,0 +1,30 @@
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+}
+.work-card {
+  display: block;
+  padding: 1.1rem 1.25rem;
+  text-decoration: none;
+  color: var(--color-text);
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+.work-card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  transform: translateY(-1px);
+}
+.work-composer {
+  margin: 0 0 0.2rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+.work-title {
+  font-size: 1.05rem;
+  font-weight: 400;
+  margin: 0 0 0.6rem;
+}
+.count {
+  margin: 0;
+  font-size: 0.85rem;
+}

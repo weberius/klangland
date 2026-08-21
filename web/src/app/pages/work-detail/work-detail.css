@@ -1,0 +1,40 @@
+.profile-head {
+  margin-bottom: 1.25rem;
+}
+.profile-head .work-composer {
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+}
+.profile-head h1 {
+  margin: 0;
+}
+.profile-facts {
+  padding: 1.25rem;
+  margin-bottom: 2rem;
+  max-width: 32rem;
+}
+.profile-facts dl {
+  margin: 0;
+}
+.profile-facts dt {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  margin-top: 0.75rem;
+}
+.profile-facts dt:first-child {
+  margin-top: 0;
+}
+.profile-facts dd {
+  margin: 0;
+}
+.description-section {
+  margin-bottom: 2rem;
+  max-width: 48rem;
+}
+.events-section h2 {
+  margin-bottom: 1rem;
+}

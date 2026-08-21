@@ -1,0 +1,55 @@
+@if (!work()) {
+  <a class="back-link" routerLink="/works">‹ Alle Werke</a>
+  <p class="empty">Dieses Werk wurde nicht gefunden.</p>
+} @else {
+  <a class="back-link" routerLink="/works">‹ Alle Werke</a>
+
+  <article>
+    <header class="profile-head">
+      <p class="work-composer">{{ composerName() }}</p>
+      <h1>{{ work()!.title }}</h1>
+    </header>
+
+    <aside class="card profile-facts">
+      <dl>
+        <dt>Komponist:in</dt>
+        <dd>{{ composerName() }}</dd>
+        @if (catalogue()) {
+          <dt>Werkverzeichnis</dt>
+          <dd>{{ catalogue() }}</dd>
+        }
+        @if (years()) {
+          <dt>Entstehung</dt>
+          <dd>{{ years() }}</dd>
+        }
+        @if (genreLabel()) {
+          <dt>Gattung</dt>
+          <dd>{{ genreLabel() }}</dd>
+        }
+        @if (duration()) {
+          <dt>Dauer</dt>
+          <dd>{{ duration() }}</dd>
+        }
+        @if (work()!.version) {
+          <dt>Fassung</dt>
+          <dd>{{ work()!.version }}</dd>
+        }
+        @if (work()!.scoring) {
+          <dt>Besetzung</dt>
+          <dd>{{ work()!.scoring }}</dd>
+        }
+      </dl>
+    </aside>
+
+    @if (work()!.description) {
+      <section class="description-section">
+        <p class="lead">{{ work()!.description }}</p>
+      </section>
+    }
+
+    <section class="events-section">
+      <h2>Veranstaltungen ({{ events().length }})</h2>
+      <app-event-list [events]="events()" />
+    </section>
+  </article>
+}
