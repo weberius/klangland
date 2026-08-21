@@ -88,6 +88,42 @@
   padding: 0 0.25rem;
 }
 
+/* Verlassen-Hinweis-Dialog (US-015), angelehnt an das City-Map-Dialog-Styling. */
+.dialog-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: 1000;
+}
+.dialog {
+  position: fixed;
+  z-index: 1001;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: min(92vw, 440px);
+  max-height: 80vh;
+  overflow-y: auto;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2);
+  padding: 1.25rem;
+}
+.dialog h2 {
+  margin: 0 0 0.6rem;
+  font-size: 1.25rem;
+}
+.dialog p {
+  margin: 0 0 1.1rem;
+}
+.dialog-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.5rem;
+}
+
 @media (max-width: 720px) {
   .detail-grid {
     grid-template-columns: 1fr;

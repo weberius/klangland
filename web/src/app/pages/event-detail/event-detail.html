@@ -17,8 +17,8 @@
         <p class="status-{{ event()!.status }}">{{ statusLabel() }}</p>
       }
       <p class="event-actions">
-        @if (event()!.ticketUrl) {
-          <a class="btn btn-primary" [href]="event()!.ticketUrl" target="_blank" rel="noopener">Tickets</a>
+        @if (canBuyTickets()) {
+          <button type="button" class="btn btn-primary" (click)="openTicketDialog()">Tickets</button>
         }
         <button type="button" class="btn" (click)="addToCalendar()">In den Kalender eintragen</button>
         <button
@@ -126,4 +126,24 @@
       </section>
     }
   </article>
+
+  @if (ticketDialogOpen()) {
+    <div class="dialog-backdrop" (click)="cancelTicketDialog()"></div>
+    <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="ticket-dialog-title">
+      <h2 id="ticket-dialog-title">Externe Seite öffnen</h2>
+      <p>
+        Sie verlassen Klangland und öffnen die Ticketseite des Anbieters in einem neuen
+        Tab/Fenster. Von dort führt keine Zurück-Navigation in diese Anwendung.
+      </p>
+      <p>
+        Manchmal ist keine direkte Verlinkung auf die Verkaufsseite der Tickets möglich –
+        der Link führt dann nur auf eine allgemeine Seite des Anbieters. Jedes weitere
+        Handeln erfolgt in der Verantwortung der Benutzer:in.
+      </p>
+      <div class="dialog-actions">
+        <button type="button" class="btn" (click)="cancelTicketDialog()">Abbrechen</button>
+        <button type="button" class="btn btn-primary" (click)="confirmTickets()">Tickets öffnen</button>
+      </div>
+    </div>
+  }
 }

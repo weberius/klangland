@@ -1,11 +1,12 @@
-import { Component, computed, inject } from '@angular/core';
+import { Component, computed, inject, signal } from '@angular/core';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { toSignal } from '@angular/core/rxjs-interop';
 
 import { DataService } from '../../core/data.service';
 import { FavoritesService } from '../../core/favorites.service';
+import { APP_CONFIG } from '../../core/app-config';
 import { Composer, ConcertEvent, Ensemble, Venue, Work } from '../../models/models';
-import { formatFullDate } from '../../core/date-util';
+import { formatFullDate, todayIso } from '../../core/date-util';
 import { buildEventIcs, icsFileName } from '../../core/ics';
 import {
   ENSEMBLE_TYPE_LABELS, EVENT_STATUS_LABELS, EVENT_TYPE_LABELS, GENRE_LABELS, label,
@@ -48,6 +49,39 @@ export class EventDetailPage {
   toggleFavorite(): void {
     const e = this.event();
     if (e) this.favorites.toggle(e.id);
+  }
+
+  /**
+   * Ticket-Link nur zeigen, wenn ein URL gepflegt ist, das Event nicht abgesagt ist
+   * und das Datum heute oder in der Zukunft liegt (US-015). `postponed`/`rescheduled`
+   * behalten den Link bewusst, solange das Datum nicht vergangen ist.
+   */
+  readonly canBuyTickets = computed(() => {
+    const e = this.event();
+    if (!e || !e.ticketUrl) return false;
+    if (e.status === 'cancelled') return false;
+    return e.date >= todayIso(APP_CONFIG.referenceDate);
+  });
+
+  /** Sichtbarkeit des Verlassen-Hinweis-Dialogs (US-015). */
+  protected readonly ticketDialogOpen = signal(false);
+
+  /** Öffnet den Verlassen-Hinweis; der externe Link wird erst nach Bestätigung geöffnet. */
+  openTicketDialog(): void {
+    if (this.canBuyTickets()) this.ticketDialogOpen.set(true);
+  }
+
+  /** Bricht den Hinweis ab – es wird nichts geöffnet (AK 8). */
+  cancelTicketDialog(): void {
+    this.ticketDialogOpen.set(false);
+  }
+
+  /** Bestätigt den Hinweis und öffnet die externe Ticketseite im neuen Tab (AK 7). */
+  confirmTickets(): void {
+    const url = this.event()?.ticketUrl;
+    this.ticketDialogOpen.set(false);
+    // window.open direkt im Klick-Handler → echte Nutzergeste, kein Popup-Blocker.
+    if (url) window.open(url, '_blank', 'noopener');
   }
 
   readonly fullDate = computed(() => {

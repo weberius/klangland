@@ -9,7 +9,7 @@ import { APP_CONFIG } from '../../core/app-config';
 import { ConcertEvent } from '../../models/models';
 import { PageHeader } from '../../shared/page-header/page-header';
 import {
-  WEEKDAYS_SHORT_DE, addMonths, formatMonthYear, isoDate, pad2, parseIso, weekdayMondayFirst,
+  WEEKDAYS_SHORT_DE, addMonths, formatMonthYear, isoDate, pad2, parseIso, todayIso, weekdayMondayFirst,
 } from '../../core/date-util';
 
 interface DayCell {
@@ -104,11 +104,7 @@ export class CalendarPage {
   }
 
   /** Heutiges Datum (ISO) – konfigurierbares Referenzdatum oder Systemdatum. */
-  readonly todayIso = ((): string => {
-    if (APP_CONFIG.referenceDate) return APP_CONFIG.referenceDate;
-    const now = new Date();
-    return isoDate(now.getFullYear(), now.getMonth() + 1, now.getDate());
-  })();
+  readonly todayIso = todayIso(APP_CONFIG.referenceDate);
 
   /** Angezeigter Monat aus der Route oder – falls nicht gesetzt – der aktuelle Monat. */
   readonly current = computed<{ year: number; month: number }>(() => {

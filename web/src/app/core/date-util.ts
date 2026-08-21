@@ -57,6 +57,15 @@ export function formatFullDate(iso: string): string {
   return `${wd}, ${day}. ${MONTHS_DE[month - 1]} ${year}`;
 }
 
+// Heutiges Datum als ISO-String (YYYY-MM-DD). referenceDate erlaubt ein festes
+// „Heute" (Demo/Tests), sonst das Systemdatum. Vergleiche laufen lexikografisch
+// auf YYYY-MM-DD, konsistent zur übrigen ISO-Datumslogik.
+export function todayIso(referenceDate?: string | null): string {
+  if (referenceDate) return referenceDate;
+  const now = new Date();
+  return isoDate(now.getFullYear(), now.getMonth() + 1, now.getDate());
+}
+
 export function addMonths(year: number, month: number, delta: number): { year: number; month: number } {
   const zeroBased = month - 1 + delta;
   const newYear = year + Math.floor(zeroBased / 12);
