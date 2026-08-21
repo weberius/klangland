@@ -101,6 +101,7 @@ export interface Ensemble {
   website: string | null;
   venueId: string | null;
   source: string | null;
+  wikipedia: { summary: string; url: string } | null;
 }
 
 export type VenueType =

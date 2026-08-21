@@ -32,7 +32,7 @@ Bezug: AK 6, AK 2, AK 3, AK 4.
   - `summary`: eigenständig formulierte Zusammenfassung von **ca. 60 Wörtern** (kein wörtlicher Auszug, siehe US „Eigene Zusammenfassung").
   - `url`: Voll-URL des Artikels (z. B. `https://de.wikipedia.org/wiki/...`).
 - Existiert kein geeigneter Artikel: Feld auf `null` setzen (oder weglassen – konsistent handhaben).
-- Feld-Konvention beachten: einheitliche Reihenfolge/Position des neuen Feldes im Objekt über alle Einträge hinweg.
+- Feld-Konvention beachten (vgl. [event-modeling-conventions](../../../../home/wolfram/.claude/projects/-home-wolfram-workspaces-klangland/memory/event-modeling-conventions.md), sofern für Ensembles einschlägig): einheitliche Reihenfolge/Position des neuen Feldes im Objekt.
 - `metadata.version` / `metadata.lastUpdated` in [ensembles.json](../../../../data/ensembles.json) hochziehen.
 - Hinweis: Änderungen in `data/ensembles.json` vornehmen (nicht in `web/public/data/...`); der Sync läuft automatisch bei `prebuild`/`prestart`.
 

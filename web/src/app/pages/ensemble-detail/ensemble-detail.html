@@ -50,6 +50,21 @@
       </aside>
     </div>
 
+    @if (ensemble()!.wikipedia; as wiki) {
+      <section class="wiki-section">
+        <h2>Aus der Wikipedia</h2>
+        <p class="lead">{{ wiki.summary }}</p>
+        <p class="wiki-attribution">
+          Zusammenfassung auf Basis des
+          <a [href]="wiki.url" target="_blank" rel="noopener">Wikipedia-Artikels</a>
+          (Inhalte unter CC BY-SA).
+        </p>
+        <p>
+          <a [href]="wiki.url" target="_blank" rel="noopener">Zum vollständigen Artikel ›</a>
+        </p>
+      </section>
+    }
+
     <section class="events-section">
       <h2>Veranstaltungen ({{ events().length }})</h2>
       <app-event-list [events]="events()" [showEnsemble]="false" />
