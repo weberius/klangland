@@ -37,6 +37,37 @@
 
     <div class="detail-grid">
       <section class="card detail-block">
+        <h2>Programm</h2>
+        @if (eventDescription()) {
+          <p class="event-description">{{ eventDescription() }}</p>
+        }
+        @if (program().length === 0) {
+          @if (!eventDescription()) {
+            <p class="muted">Kein Programm erfasst.</p>
+          }
+        } @else {
+          <ol class="program">
+            @for (p of program(); track $index) {
+              <li>
+                @if (p.composer) { <span class="composer">{{ p.composer.name }}</span> }
+                <span class="work-title">
+                  {{ p.work?.title || 'Unbekanntes Werk' }}
+                  @if (p.catalogue) { <span class="muted">{{ p.catalogue }}</span> }
+                </span>
+                <span class="work-meta muted">
+                  @if (genreLabel(p.work)) { {{ genreLabel(p.work) }} }
+                  @if (p.years) { · {{ p.years }} }
+                  @if (p.version) { · Fassung: {{ p.version }} }
+                  @if (p.movement) { · Satz: {{ p.movement }} }
+                  @if (p.movements?.length) { · Sätze: {{ p.movements!.join(', ') }} }
+                </span>
+              </li>
+            }
+          </ol>
+        }
+      </section>
+
+      <section class="card detail-block">
         <h2>Mitwirkende</h2>
         @if (ensembles().length) {
           <h3>{{ ensembles().length === 1 ? 'Ensemble' : 'Ensembles' }}</h3>
@@ -77,36 +108,20 @@
         } @else {
           <p class="muted">{{ cityName() }}</p>
         }
+        @if (canRoute()) {
+          <p>
+            <button type="button" class="btn" (click)="openMapsDialog()">Route / Karten-App öffnen</button>
+          </p>
+        }
       </section>
-    </div>
 
-    <section class="card detail-block">
-      <h2>Programm</h2>
-      @if (program().length === 0 && !programFallbackText()) {
-        <p class="muted">Kein Programm erfasst.</p>
-      } @else if (program().length === 0) {
-        <p>{{ programFallbackText() }}</p>
-      } @else {
-        <ol class="program">
-          @for (p of program(); track $index) {
-            <li>
-              @if (p.composer) { <span class="composer">{{ p.composer.name }}</span> }
-              <span class="work-title">
-                {{ p.work?.title || 'Unbekanntes Werk' }}
-                @if (p.catalogue) { <span class="muted">{{ p.catalogue }}</span> }
-              </span>
-              <span class="work-meta muted">
-                @if (genreLabel(p.work)) { {{ genreLabel(p.work) }} }
-                @if (p.years) { · {{ p.years }} }
-                @if (p.version) { · Fassung: {{ p.version }} }
-                @if (p.movement) { · Satz: {{ p.movement }} }
-                @if (p.movements?.length) { · Sätze: {{ p.movements!.join(', ') }} }
-              </span>
-            </li>
-          }
-        </ol>
+      @if (venue()?.coordinates) {
+        <section class="card detail-block">
+          <h2>Karte</h2>
+          <div #map class="event-map"></div>
+        </section>
       }
-    </section>
+    </div>
 
     @if (event()!.source) {
       <section class="detail-block source">
@@ -143,6 +158,28 @@
       <div class="dialog-actions">
         <button type="button" class="btn" (click)="cancelTicketDialog()">Abbrechen</button>
         <button type="button" class="btn btn-primary" (click)="confirmTickets()">Tickets öffnen</button>
+      </div>
+    </div>
+  }
+
+  @if (mapsDialogOpen()) {
+    <div class="dialog-backdrop" (click)="closeMapsDialog()"></div>
+    <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="maps-dialog-title">
+      <h2 id="maps-dialog-title">Karten-App öffnen</h2>
+      <p>
+        Sie verlassen Klangland und öffnen den gewählten Kartenanbieter in einem neuen
+        Tab/Fenster, um sich den Veranstaltungsort anzeigen zu lassen oder eine Route zu
+        berechnen. Von dort führt keine Zurück-Navigation in diese Anwendung.
+      </p>
+      <ul class="maps-links plain">
+        @for (link of mapsLinks(); track link.label) {
+          <li>
+            <a [href]="link.url" target="_blank" rel="noopener" (click)="closeMapsDialog()">{{ link.label }}</a>
+          </li>
+        }
+      </ul>
+      <div class="dialog-actions">
+        <button type="button" class="btn" (click)="closeMapsDialog()">Abbrechen</button>
       </div>
     </div>
   }
