@@ -7,6 +7,7 @@ import {
 } from '../models/models';
 import { MUSICAL_PROFILE_LABELS } from './labels';
 import { APP_CONFIG } from './app-config';
+import { formatAddress } from './address';
 
 export type SearchDocumentKind = 'event' | 'ensemble' | 'venue';
 
@@ -167,17 +168,18 @@ function buildSearchDocuments(params: {
     const cityNames = venue.cityIds
       .map((id) => cities.get(id)?.name ?? '')
       .filter((name) => name.length > 0);
+    const addressLine = formatAddress(venue.address);
 
     documents.push({
       id: venue.id,
       kind: 'venue',
       title: venue.name,
-      subtitle: joinDefined([cityNames.join(' / '), venue.address], ' · '),
+      subtitle: joinDefined([cityNames.join(' / '), addressLine], ' · '),
       route: ['/venues', venue.id],
       searchText: joinDefined(
         [
           venue.name,
-          venue.address,
+          addressLine,
           venue.region,
           venue.type,
           cityNames.join(' '),

@@ -10,8 +10,11 @@ Veranstaltungsprogramm anzeigen.
 ## Datei
 
 `data/venues.json` – Metadaten-Umschlag mit Array `venues` (siehe
-[data-model.md](../data-model.md#metadaten-umschlag)). Hinweis: Adressen und Koordinaten
-sind derzeit noch nicht recherchiert und daher `null`.
+[data-model.md](../data-model.md#metadaten-umschlag)). Adressen und Koordinaten werden aus
+dem OpenStreetMap-Ökosystem recherchiert (Overpass für Zuordnung/Koordinaten, Nominatim für
+die Postadresse) – siehe [fetch_venue_addresses.py](../data-tooling/fetch_venue_addresses.py)
+(US-022). Nicht eindeutig auflösbare Spielstätten (generische Namen, ortsungebundene
+Spielorte ohne `cityIds`) bleiben mit `null` valide.
 
 ## Beispiel
 
@@ -21,8 +24,13 @@ sind derzeit noch nicht recherchiert und daher `null`.
   "name": "Tonhalle Düsseldorf",
   "cityIds": ["duesseldorf"],
   "region": null,
-  "address": null,
-  "coordinates": null,
+  "address": {
+    "street": "Ehrenhof",
+    "houseNumber": "1",
+    "postalCode": "40479",
+    "city": "Düsseldorf"
+  },
+  "coordinates": { "lat": 51.23123, "lng": 6.76913 },
   "website": "https://www.tonhalle.de/",
   "type": "philharmonic_hall",
   "institutionId": "deutsche-oper-am-rhein"
@@ -37,8 +45,8 @@ sind derzeit noch nicht recherchiert und daher `null`.
 | `name` | ja | string | Name des Saals/der Spielstätte. |
 | `cityIds` | ja | string[] | Ort(e); Referenz(en) auf [`cities.id`](cities.md). Physische Säle haben genau einen Eintrag; wechselnde Spielorte können `[]` haben. |
 | `region` | ja | string \| null | Übergeordnete Region als Freitext (z. B. `Ruhrgebiet`), v. a. für ortsungebundene Spielstätten; sonst `null`. Keine City. |
-| `address` | ja | string \| null | Postanschrift; noch nicht recherchiert (`null`). |
-| `coordinates` | ja | object \| null | Geokoordinaten für die spätere Kartenansicht, erwartet `{ "lat": number, "lng": number }`; noch `null`. |
+| `address` | ja | object \| null | Strukturierte Postanschrift `{ "street", "houseNumber", "postalCode", "city" }` (je `string \| null`); aus OpenStreetMap (Nominatim) recherchiert. `null`, wenn nicht auflösbar. Für die Anzeige über `formatAddress` (web/src/app/core/address.ts) zu `"Straße Hausnummer, PLZ Ort"` zusammengesetzt. |
+| `coordinates` | ja | object \| null | Geokoordinaten für die spätere Kartenansicht, erwartet `{ "lat": number, "lng": number }`; aus OpenStreetMap (Overpass) recherchiert. `null`, wenn nicht auflösbar. |
 | `website` | ja | string \| null | Offizielle Website der Spielstätte. |
 | `type` | ja | enum | Art der Spielstätte. |
 | `institutionId` | ja | string \| null | Betreibende/verantwortliche Institution; Referenz auf [`institutions.id`](institutions.md). `null` bei Gast-/Fremdspielstätten ohne bekannten Träger (z. B. Kirchen, Parks, auswärtige Häuser). |

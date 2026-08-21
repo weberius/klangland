@@ -7,6 +7,7 @@ import { FavoritesService } from '../../core/favorites.service';
 import { APP_CONFIG } from '../../core/app-config';
 import { Composer, ConcertEvent, Ensemble, Venue, Work } from '../../models/models';
 import { formatFullDate, todayIso } from '../../core/date-util';
+import { formatAddress } from '../../core/address';
 import { buildEventIcs, icsFileName } from '../../core/ics';
 import {
   ENSEMBLE_TYPE_LABELS, EVENT_STATUS_LABELS, EVENT_TYPE_LABELS, GENRE_LABELS, label,
@@ -97,6 +98,7 @@ export class EventDetailPage {
   readonly soloists = computed(() => this.data.personNames(this.event()?.soloistPersonIds ?? []));
 
   readonly venue = computed<Venue | undefined>(() => this.data.venue(this.event()?.venueId));
+  readonly venueAddress = computed(() => formatAddress(this.venue()?.address));
   readonly cityName = computed(() => this.data.city(this.event()?.cityId)?.name ?? '');
 
   readonly statusLabel = computed(() => {
@@ -143,7 +145,7 @@ export class EventDetailPage {
       endTime: e.endTime,
       status: e.status,
       venueName: venue?.name ?? null,
-      venueAddress: venue?.address ?? null,
+      venueAddress: formatAddress(venue?.address),
       cityName: this.cityName() || null,
       ensembleNames: this.ensembles().map((ens) => ens.name),
       conductorNames: this.conductors(),

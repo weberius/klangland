@@ -14,9 +14,9 @@
       <dl>
         <dt>Ort</dt>
         <dd>{{ cityName() }}</dd>
-        @if (venue()!.address) {
+        @if (addressLine(); as address) {
           <dt>Adresse</dt>
-          <dd>{{ venue()!.address }}</dd>
+          <dd>{{ address }}</dd>
         }
         @if (institution(); as inst) {
           <dt>Träger</dt>

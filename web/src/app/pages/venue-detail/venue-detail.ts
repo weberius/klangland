@@ -6,6 +6,7 @@ import { DataService } from '../../core/data.service';
 import { EventList } from '../../shared/event-list';
 import { Institution, Venue } from '../../models/models';
 import { INSTITUTION_TYPE_LABELS, VENUE_TYPE_LABELS, label } from '../../core/labels';
+import { formatAddress } from '../../core/address';
 
 @Component({
   selector: 'app-venue-detail',
@@ -31,6 +32,7 @@ export class VenueDetailPage {
     const v = this.venue();
     return v ? this.data.cityNames(v.cityIds) || v.region || '' : '';
   });
+  readonly addressLine = computed(() => formatAddress(this.venue()?.address));
   readonly institution = computed<Institution | undefined>(() => this.data.institution(this.venue()?.institutionId));
   readonly institutionType = computed(() => {
     const inst = this.institution();

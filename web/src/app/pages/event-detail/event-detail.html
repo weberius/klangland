@@ -69,7 +69,7 @@
           <p>
             <a [routerLink]="['/venues', v.id]"><strong>{{ v.name }}</strong></a><br />
             {{ cityName() }}
-            @if (v.address) { <br />{{ v.address }} }
+            @if (venueAddress(); as address) { <br />{{ address }} }
           </p>
           @if (v.website) {
             <p><a [href]="v.website" target="_blank" rel="noopener">Website der Spielstätte</a></p>

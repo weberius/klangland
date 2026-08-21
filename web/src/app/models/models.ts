@@ -116,12 +116,24 @@ export interface Coordinates {
   lng: number;
 }
 
+/**
+ * Strukturierte Postadresse einer Spielstätte (US-022). Aus OpenStreetMap
+ * (Overpass + Nominatim) recherchiert; nicht ermittelbare Bestandteile bleiben
+ * `null`. Für die Anzeige über `formatAddress` (core/address.ts) zusammengesetzt.
+ */
+export interface Address {
+  street: string | null;
+  houseNumber: string | null;
+  postalCode: string | null;
+  city: string | null;
+}
+
 export interface Venue {
   id: string;
   name: string;
   cityIds: string[];
   region: string | null;
-  address: string | null;
+  address: Address | null;
   coordinates: Coordinates | null;
   website: string | null;
   type: VenueType;

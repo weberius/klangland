@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "version": "1.1",
-    "lastUpdated": "2026-08-19",
+    "version": "1.2",
+    "lastUpdated": "2026-08-21",
     "language": "de",
-    "notes": "Adressen und Koordinaten sind noch nicht recherchiert und daher null."
+    "notes": "Adressen (strukturiert) und Koordinaten werden aus OpenStreetMap recherchiert (Overpass für Zuordnung/Koordinaten, Nominatim für die Postadresse; siehe docs/data-tooling/fetch_venue_addresses.py, US-022). Nicht eindeutig auflösbare Spielstätten bleiben null; das idempotente Skript kann jederzeit erneut ausgeführt werden, um offene Felder nachzutragen."
   },
   "venues": [
     {
@@ -13,8 +13,16 @@
         "aachen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Theaterplatz",
+        "houseNumber": "1",
+        "postalCode": "52062",
+        "city": "Aachen"
+      },
+      "coordinates": {
+        "lat": 50.77253,
+        "lng": 6.08721
+      },
       "website": null,
       "type": "theatre",
       "institutionId": "theater-aachen"
@@ -26,8 +34,16 @@
         "bielefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Willy-Brandt-Platz",
+        "houseNumber": "1",
+        "postalCode": "33602",
+        "city": "Bielefeld"
+      },
+      "coordinates": {
+        "lat": 52.02864,
+        "lng": 8.53552
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": "stadttheater-bielefeld"
@@ -39,8 +55,16 @@
         "bochum"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Marienplatz",
+        "houseNumber": "1",
+        "postalCode": "44787",
+        "city": "Bochum"
+      },
+      "coordinates": {
+        "lat": 51.47752,
+        "lng": 7.21485
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": "bochum-kultur"
@@ -52,8 +76,16 @@
         "bonn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Platz der Vereinten Nationen",
+        "houseNumber": null,
+        "postalCode": "53113",
+        "city": "Bonn"
+      },
+      "coordinates": {
+        "lat": 50.71912,
+        "lng": 7.12385
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": "beethoven-orchester-bonn-institution"
@@ -91,8 +123,16 @@
         "duesseldorf"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Ehrenhof",
+        "houseNumber": "1",
+        "postalCode": "40479",
+        "city": "Düsseldorf"
+      },
+      "coordinates": {
+        "lat": 51.23214,
+        "lng": 6.77255
+      },
       "website": "https://www.tonhalle.de/",
       "type": "philharmonic_hall",
       "institutionId": "deutsche-oper-am-rhein"
@@ -181,8 +221,16 @@
         "siegen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Koblenzer Straße",
+        "houseNumber": "151",
+        "postalCode": "57072",
+        "city": "Siegen"
+      },
+      "coordinates": {
+        "lat": 50.86806,
+        "lng": 8.01089
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": "philharmonie-suedwestfalen-institution"
@@ -194,8 +242,16 @@
         "solingen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Konrad-Adenauer-Straße",
+        "houseNumber": "71",
+        "postalCode": "42651",
+        "city": "Solingen"
+      },
+      "coordinates": {
+        "lat": 51.17899,
+        "lng": 7.08133
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": "bergische-symphoniker-institution"
@@ -246,8 +302,16 @@
         "remscheid"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Konrad-Adenauer-Straße",
+        "houseNumber": "31-33",
+        "postalCode": "42853",
+        "city": "Remscheid"
+      },
+      "coordinates": {
+        "lat": 51.18165,
+        "lng": 7.18767
+      },
       "website": null,
       "type": "theatre",
       "institutionId": "bergische-symphoniker-institution"
@@ -272,8 +336,16 @@
         "solingen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Talsperrenstraße",
+        "houseNumber": "30",
+        "postalCode": "42659",
+        "city": "Solingen"
+      },
+      "coordinates": {
+        "lat": 51.13799,
+        "lng": 7.16153
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -285,8 +357,16 @@
         "leverkusen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Am Büchelter Hof",
+        "houseNumber": "9",
+        "postalCode": "51373",
+        "city": "Leverkusen"
+      },
+      "coordinates": {
+        "lat": 51.0348,
+        "lng": 6.98972
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": null
@@ -298,8 +378,16 @@
         "muelheim-an-der-ruhr"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Theodor-Heuss-Platz",
+        "houseNumber": "1",
+        "postalCode": "45479",
+        "city": "Mülheim an der Ruhr"
+      },
+      "coordinates": {
+        "lat": 51.42737,
+        "lng": 6.87457
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": null
@@ -311,8 +399,16 @@
         "coesfeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Osterwicker Straße",
+        "houseNumber": "31",
+        "postalCode": "48653",
+        "city": "Coesfeld"
+      },
+      "coordinates": {
+        "lat": 51.95193,
+        "lng": 7.17182
+      },
       "website": null,
       "type": "theatre",
       "institutionId": null
@@ -337,8 +433,16 @@
         "solingen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Schützenstraße",
+        "houseNumber": "159",
+        "postalCode": "42659",
+        "city": "Solingen"
+      },
+      "coordinates": {
+        "lat": 51.16073,
+        "lng": 7.10328
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -493,7 +597,12 @@
         "aachen"
       ],
       "region": null,
-      "address": "Monheimsallee 48, 52062 Aachen",
+      "address": {
+        "street": "Monheimsallee",
+        "houseNumber": "48",
+        "postalCode": "52062",
+        "city": "Aachen"
+      },
       "coordinates": null,
       "website": "https://www.eurogress-aachen.de",
       "type": "concert_hall",
