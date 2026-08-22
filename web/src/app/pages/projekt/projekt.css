@@ -49,10 +49,7 @@
 }
 
 .projekt-support {
-  background-color: var(--color-bg-light, #f9f9f9);
-  padding: 2rem;
-  border-radius: 4px;
-  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 
 .projekt-support h2 {
