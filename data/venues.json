@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.2",
-    "lastUpdated": "2026-08-21",
+    "lastUpdated": "2026-08-22",
     "language": "de",
     "notes": "Adressen (strukturiert) und Koordinaten werden aus OpenStreetMap recherchiert (Overpass für Zuordnung/Koordinaten, Nominatim für die Postadresse; siehe docs/data-tooling/fetch_venue_addresses.py, US-022). Nicht eindeutig auflösbare Spielstätten bleiben null; das idempotente Skript kann jederzeit erneut ausgeführt werden, um offene Felder nachzutragen."
   },
@@ -160,9 +160,17 @@
         "essen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": "https://www.philharmonie-essen.de/",
+      "address": {
+        "street": "Huyssenallee",
+        "houseNumber": "53",
+        "postalCode": "45128",
+        "city": "Essen-Stadtbezirk I"
+      },
+      "coordinates": {
+        "lat": 51.4463880717237,
+        "lng": 7.0102993972190095
+      },
+      "website": "https://www.theater-essen.de/philharmonie",
       "type": "philharmonic_hall",
       "institutionId": "theater-und-philharmonie-essen"
     },
@@ -173,9 +181,17 @@
         "hagen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Elberfelder Str.",
+        "houseNumber": "65",
+        "postalCode": "58095",
+        "city": "Hagen"
+      },
+      "coordinates": {
+        "lat": 51.3590951319157,
+        "lng": 7.4668907089753604
+      },
+      "website": "http://www.theaterhagen.de/",
       "type": "theatre",
       "institutionId": "theater-hagen-institution"
     },
@@ -208,9 +224,17 @@
         "moenchengladbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Theaterpl.",
+        "houseNumber": "3",
+        "postalCode": "47798",
+        "city": "Krefeld"
+      },
+      "coordinates": {
+        "lat": 51.33542740851084,
+        "lng": 6.563617466008458
+      },
+      "website": "https://www.theater-kr-mg.de/",
       "type": "theatre",
       "institutionId": "theater-krefeld-moenchengladbach-institution"
     },
@@ -221,9 +245,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Neubrückenstraße",
+        "houseNumber": "63",
+        "postalCode": "48143",
+        "city": "Münster-Kreuzviertel"
+      },
+      "coordinates": {
+        "lat": 51.964969175401386,
+        "lng": 7.629330308290973
+      },
+      "website": "http://www.theater-muenster.com/",
       "type": "theatre",
       "institutionId": "theater-muenster-institution"
     },
@@ -232,9 +264,17 @@
       "name": "Wechselnde Spielstätten im Ruhrgebiet",
       "cityIds": [],
       "region": "Ruhrgebiet",
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Castroper Str.",
+        "houseNumber": "12 c",
+        "postalCode": "45665",
+        "city": "Recklinghausen"
+      },
+      "coordinates": {
+        "lat": 51.6125384781876,
+        "lng": 7.204513337528094
+      },
+      "website": "https://www.neue-philharmonie-westfalen.de/",
       "type": "other",
       "institutionId": "neue-philharmonie-westfalen-institution"
     },
@@ -287,9 +327,17 @@
         "wuppertal"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Johannisberg",
+        "houseNumber": "40",
+        "postalCode": "42103",
+        "city": "Wuppertal-Elberfeld"
+      },
+      "coordinates": {
+        "lat": 51.2529776735313,
+        "lng": 7.143121565998875
+      },
+      "website": "https://www.stadthalle.de/",
       "type": "concert_hall",
       "institutionId": "wuppertaler-buehnen"
     },
@@ -300,9 +348,17 @@
         "solingen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Konrad-Adenauer-Straße",
+        "houseNumber": "71",
+        "postalCode": "42651",
+        "city": "Solingen"
+      },
+      "coordinates": {
+        "lat": 51.17903681233485,
+        "lng": 7.081068192617101
+      },
+      "website": "http://www.theater-solingen.de/",
       "type": "concert_hall",
       "institutionId": "bergische-symphoniker-institution"
     },
@@ -313,9 +369,17 @@
         "solingen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Konrad-Adenauer-Straße",
+        "houseNumber": "71",
+        "postalCode": "42651",
+        "city": "Solingen"
+      },
+      "coordinates": {
+        "lat": 51.17903681233485,
+        "lng": 7.081068192617101
+      },
+      "website": "http://www.theater-solingen.de/",
       "type": "theatre",
       "institutionId": "bergische-symphoniker-institution"
     },
@@ -347,9 +411,17 @@
         "solingen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Wuppertaler Str.",
+        "houseNumber": "160",
+        "postalCode": "42653",
+        "city": "Solingen"
+      },
+      "coordinates": {
+        "lat": 51.20372965438844,
+        "lng": 7.073822408578629
+      },
+      "website": "http://verfolgte-kuenste.com/",
       "type": "other",
       "institutionId": null
     },
@@ -444,8 +516,16 @@
         "remscheid"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Martin-Luther-Straße",
+        "houseNumber": "59 a",
+        "postalCode": "42853",
+        "city": "Remscheid"
+      },
+      "coordinates": {
+        "lat": 51.18355642517286,
+        "lng": 7.174027873230268
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -478,9 +558,17 @@
         "solingen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Kirchpl.",
+        "houseNumber": "14",
+        "postalCode": "42651",
+        "city": "Solingen"
+      },
+      "coordinates": {
+        "lat": 51.171850236694915,
+        "lng": 7.084530427426857
+      },
+      "website": "http://www.kirche-wald.de/",
       "type": "other",
       "institutionId": null
     },
@@ -491,9 +579,17 @@
         "solingen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Alexander-Coppel-Straße",
+        "houseNumber": "36",
+        "postalCode": "42651",
+        "city": "Solingen"
+      },
+      "coordinates": {
+        "lat": 51.165184778320494,
+        "lng": 7.083426569034282
+      },
+      "website": "https://www.gueterhallen.de/",
       "type": "other",
       "institutionId": null
     },
@@ -504,8 +600,16 @@
         "remscheid"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Julius-Koch-Weg",
+        "houseNumber": null,
+        "postalCode": "42853",
+        "city": "Remscheid"
+      },
+      "coordinates": {
+        "lat": 51.186164908966525,
+        "lng": 7.165680048375374
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -538,8 +642,16 @@
         "solingen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Gräfrather Markt",
+        "houseNumber": null,
+        "postalCode": "42653",
+        "city": "Solingen"
+      },
+      "coordinates": {
+        "lat": 51.20890115732439,
+        "lng": 7.071241353452532
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -551,8 +663,16 @@
         "remscheid"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Munsterplatz",
+        "houseNumber": null,
+        "postalCode": "42897",
+        "city": "Remscheid-Lennep"
+      },
+      "coordinates": {
+        "lat": 51.192055620533594,
+        "lng": 7.25659026756403
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -564,9 +684,17 @@
         "remscheid"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Ludwig-Steil-Platz, Gertenbachstraße",
+        "houseNumber": null,
+        "postalCode": "42899",
+        "city": "Remscheid"
+      },
+      "coordinates": {
+        "lat": 51.20850245104121,
+        "lng": 7.236254851524728
+      },
+      "website": "http://www.luettringhauser-volksbuehne.de/",
       "type": "other",
       "institutionId": null
     },
