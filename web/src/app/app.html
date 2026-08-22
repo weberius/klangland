@@ -84,9 +84,13 @@
       <p><strong>Die Veranstaltungsdaten konnten nicht geladen werden.</strong></p>
       <p>Bitte versuche es später erneut.</p>
     </div>
-  } @else {
-    <router-outlet />
+  } @else if (data.loading()) {
+    <div class="notice notice-info" role="status" aria-live="polite">
+      <p><strong>Daten werden geladen …</strong></p>
+      <p>Die Komponist:innen-Seite ist gleich bereit.</p>
+    </div>
   }
+  <router-outlet />
 </main>
 
 <footer class="site-footer">

@@ -19,6 +19,8 @@ export class ComposerDetailPage {
   private filter = inject(FilterService);
   private params = toSignal(this.route.paramMap);
 
+  readonly loading = computed(() => this.data.loading());
+
   readonly composer = computed<Composer | undefined>(() => {
     const id = this.params()?.get('id');
     return id ? this.data.composer(id) : undefined;

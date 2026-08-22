@@ -6,6 +6,14 @@ import { FilterService } from '../../core/filter.service';
 import { Composer, Work } from '../../models/models';
 import { PageHeader } from '../../shared/page-header/page-header';
 
+interface ComposerCardView {
+  composer: Composer;
+  life: string;
+  portraitUrl: string | null;
+  works: Work[];
+  moreWorksCount: number;
+}
+
 @Component({
   selector: 'app-composer-list',
   imports: [RouterLink, PageHeader],
@@ -16,8 +24,22 @@ export class ComposerListPage {
   private data = inject(DataService);
   private filter = inject(FilterService);
 
+  readonly loading = computed(() => this.data.loading());
   readonly composers = computed(() =>
     this.data.composersForFilter(this.filter.selectedCityIds(), this.filter.selectedProfileIds()),
+  );
+  readonly cards = computed<ComposerCardView[]>(() =>
+    this.composers().map((composer) => {
+      const works = this.works(composer);
+      const preview = works.slice(0, 3);
+      return {
+        composer,
+        life: this.life(composer),
+        portraitUrl: this.portraitUrl(composer),
+        works: preview,
+        moreWorksCount: Math.max(0, works.length - preview.length),
+      };
+    }),
   );
 
   works(c: Composer): Work[] {

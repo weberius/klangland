@@ -203,12 +203,15 @@ export class DataService {
 
   private readonly _store = signal<Store | null>(null);
   private readonly _error = signal(false);
+  private readonly _loading = signal(false);
 
   readonly loaded = computed(() => this._store() !== null);
   readonly hasError = this._error.asReadonly();
+  readonly loading = this._loading.asReadonly();
 
   async load(): Promise<void> {
-    if (this._store()) return;
+    if (this._store() || this._loading()) return;
+    this._loading.set(true);
     const base = APP_CONFIG.dataBasePath;
     const get = <T>(file: string) => this.http.get<T>(`${base}/${file}`);
     try {
@@ -256,6 +259,8 @@ export class DataService {
     } catch (e) {
       console.error('Daten konnten nicht geladen werden', e);
       this._error.set(true);
+    } finally {
+      this._loading.set(false);
     }
   }
 

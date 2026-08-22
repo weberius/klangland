@@ -1,4 +1,20 @@
-@if (!composer()) {
+@if (loading()) {
+  <a class="back-link" routerLink="/composers">‹ Alle Komponist:innen</a>
+  <div class="composer-detail-skeleton" aria-busy="true" aria-label="Komponist:in wird geladen">
+    <div class="skeleton skeleton-title"></div>
+    <div class="skeleton skeleton-subtitle"></div>
+    <div class="profile-grid">
+      <div class="profile-main">
+        <div class="skeleton skeleton-portrait"></div>
+      </div>
+      <aside class="card profile-facts">
+        <div class="skeleton skeleton-line"></div>
+        <div class="skeleton skeleton-line short"></div>
+        <div class="skeleton skeleton-line"></div>
+      </aside>
+    </div>
+  </div>
+} @else if (!composer()) {
   <a class="back-link" routerLink="/composers">‹ Alle Komponist:innen</a>
   <p class="empty">Diese:r Komponist:in wurde nicht gefunden.</p>
 } @else {

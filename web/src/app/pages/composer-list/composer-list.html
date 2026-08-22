@@ -3,26 +3,50 @@
   description="Die Komponist:innen der Saison – alle, deren Werke in mindestens einem Konzertprogramm erklingen."
 />
 
-@if (composers().length === 0) {
+@if (loading()) {
+  <div class="card-grid composer-skeleton-grid" aria-busy="true" aria-label="Komponist:innen werden geladen">
+    @for (_ of [1, 2, 3, 4, 5, 6]; track _) {
+      <article class="card composer-card skeleton-card">
+        <div class="skeleton skeleton-portrait"></div>
+        <div class="composer-body">
+          <div class="skeleton skeleton-line skeleton-name"></div>
+          <div class="skeleton skeleton-line skeleton-life"></div>
+          <div class="skeleton skeleton-line skeleton-work"></div>
+          <div class="skeleton skeleton-line skeleton-work short"></div>
+        </div>
+      </article>
+    }
+  </div>
+} @else if (composers().length === 0) {
   <p class="empty">Keine Komponist:innen erfasst.</p>
 } @else {
   <div class="card-grid">
-    @for (c of composers(); track c.id) {
-      <a class="card composer-card" [routerLink]="['/composers', c.id]">
-        @if (portraitUrl(c); as src) {
-          <img class="portrait" [src]="src" [alt]="c.name + ' – Portrait'" loading="lazy" />
+    @for (card of cards(); track card.composer.id) {
+      <a class="card composer-card" [routerLink]="['/composers', card.composer.id]">
+        @if (card.portraitUrl; as src) {
+          <img
+            class="portrait"
+            [src]="src"
+            [alt]="card.composer.name + ' – Portrait'"
+            loading="lazy"
+            decoding="async"
+            fetchpriority="low"
+          />
         }
         <div class="composer-body">
-          <h2 class="composer-name">{{ c.name }}</h2>
-          @if (life(c)) {
-            <p class="muted composer-life">{{ life(c) }}</p>
+          <h2 class="composer-name">{{ card.composer.name }}</h2>
+          @if (card.life) {
+            <p class="muted composer-life">{{ card.life }}</p>
           }
-          @if (works(c).length) {
+          @if (card.works.length) {
             <ul class="work-list">
-              @for (w of works(c); track w.id) {
+              @for (w of card.works; track w.id) {
                 <li>{{ w.title }}</li>
               }
             </ul>
+            @if (card.moreWorksCount > 0) {
+              <p class="muted more-works">+ {{ card.moreWorksCount }} weitere Werke</p>
+            }
           }
         </div>
       </a>
