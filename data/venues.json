@@ -97,9 +97,17 @@
         "dortmund"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+      "street": "Brückstraße",
+      "houseNumber": "21",
+      "postalCode": "44135",
+      "city": "Dortmund"
+    },
+    "coordinates": {
+      "lat": 51.516349367305,
+      "lng": 7.466315885598294
+    },
+      "website": "https://www.konzerthaus-dortmund.de/",
       "type": "concert_hall",
       "institutionId": "theater-dortmund"
     },
@@ -110,9 +118,17 @@
         "duisburg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": "https://www.operamrhein.de/",
+      "address": {
+        "street": "Neckarstraße",
+        "houseNumber": "1",
+        "postalCode": "47051",
+        "city": "Duisburg"
+      },
+      "coordinates": {
+        "lat": 51.43490633506841,
+        "lng": 6.770702806714647
+      },
+      "website": "http://www.theater-duisburg.de/",
       "type": "opera_house",
       "institutionId": "deutsche-oper-am-rhein"
     },
