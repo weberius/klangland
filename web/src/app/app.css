@@ -181,6 +181,12 @@
   outline-offset: 2px;
 }
 
+.nav-divider {
+  height: 1px;
+  background: var(--color-border);
+  margin: 0.5rem 0;
+}
+
 /* Burger-Button: quadratisch, in allen Viewports sichtbar (US-011, AK 14). */
 .nav-toggle {
   display: inline-flex;

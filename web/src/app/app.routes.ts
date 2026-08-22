@@ -83,6 +83,11 @@ export const routes: Routes = [
     title: 'Quellen & Lizenzen · Klangland',
   },
   {
+    path: 'projekt',
+    loadComponent: () => import('./pages/projekt/projekt').then((m) => m.ProjektPage),
+    title: 'Projekt · Klangland',
+  },
+  {
     path: '**',
     loadComponent: () => import('./pages/not-found/not-found').then((m) => m.NotFoundPage),
     title: 'Nicht gefunden · Klangland',

@@ -1,0 +1,130 @@
+.projekt-content {
+  max-width: 60em;
+  margin: 2rem 0;
+}
+
+.projekt-intro {
+  margin-bottom: 3rem;
+}
+
+.projekt-intro h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.projekt-intro a {
+  color: var(--color-link, #0066cc);
+  text-decoration: underline;
+}
+
+.projekt-intro a:hover {
+  color: var(--color-link-hover, #0052a3);
+}
+
+.projekt-summary {
+  margin-bottom: 3rem;
+}
+
+.projekt-summary h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.projekt-summary p {
+  line-height: 1.6;
+  color: var(--color-text, #333);
+}
+
+.projekt-portrait {
+  text-align: center;
+  margin: 3rem 0;
+}
+
+.portrait-image {
+  max-width: 100%;
+  height: auto;
+  max-height: 400px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.projekt-support {
+  background-color: var(--color-bg-light, #f9f9f9);
+  padding: 2rem;
+  border-radius: 4px;
+  margin-top: 3rem;
+}
+
+.projekt-support h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.projekt-support p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  color: var(--color-text, #333);
+}
+
+.support-options {
+  background-color: white;
+  padding: 1rem;
+  border-left: 4px solid var(--color-primary, #0066cc);
+  margin: 1.5rem 0;
+  border-radius: 2px;
+}
+
+.support-options p {
+  margin: 0.5rem 0;
+  font-weight: 500;
+}
+
+.support-note {
+  font-size: 0.9rem;
+  color: var(--color-text-secondary, #666);
+  margin: 1.5rem 0;
+}
+
+.paypal-button {
+  display: inline-block;
+  background-color: #0070ba;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.paypal-button:hover {
+  background-color: #005a94;
+}
+
+.paypal-button:focus {
+  outline: 3px solid #0066cc;
+  outline-offset: 2px;
+  background-color: #005a94;
+}
+
+@media (max-width: 640px) {
+  .projekt-content {
+    margin: 1rem 0;
+  }
+
+  .projekt-support {
+    padding: 1.5rem;
+  }
+
+  .portrait-image {
+    max-height: 300px;
+  }
+
+  .paypal-button {
+    display: block;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
