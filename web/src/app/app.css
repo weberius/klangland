@@ -241,15 +241,20 @@ main {
   font-size: 0.85rem;
   padding-block: 1.25rem;
 }
-.site-footer p {
-  margin: 0.25rem 0;
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
 }
-.footer-credits {
-  font-size: 0.8rem;
+.footer-links a {
+  color: inherit;
 }
 
 @media (max-width: 720px) {
   .global-search {
     min-width: 8.5rem;
+  }
+  .footer-links {
+    gap: 0.4rem 0.85rem;
   }
 }

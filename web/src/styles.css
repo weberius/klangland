@@ -199,3 +199,30 @@ button:focus-visible,
   color: var(--color-text-muted);
   padding: 2rem 0;
 }
+
+/* Rechts-/Informationsseiten */
+.legal-content {
+  max-width: 72ch;
+  margin-bottom: 2rem;
+}
+.legal-content > * + * {
+  margin-top: 1rem;
+}
+.legal-content h2 {
+  margin-top: 1.5rem;
+}
+.legal-content p,
+.legal-content ul,
+.legal-content ol {
+  margin: 0;
+}
+.legal-content ul,
+.legal-content ol {
+  padding-left: 1.25rem;
+}
+.legal-content li + li {
+  margin-top: 0.4rem;
+}
+.legal-content a {
+  word-break: break-word;
+}

@@ -63,6 +63,26 @@ export const routes: Routes = [
     title: 'Veranstaltung · Klangland',
   },
   {
+    path: 'impressum',
+    loadComponent: () => import('./pages/impressum/impressum').then((m) => m.ImpressumPage),
+    title: 'Impressum · Klangland',
+  },
+  {
+    path: 'haftungsausschluss',
+    loadComponent: () => import('./pages/haftungsausschluss/haftungsausschluss').then((m) => m.HaftungsausschlussPage),
+    title: 'Haftungsausschluss · Klangland',
+  },
+  {
+    path: 'datenschutz',
+    loadComponent: () => import('./pages/datenschutz/datenschutz').then((m) => m.DatenschutzPage),
+    title: 'Datenschutz · Klangland',
+  },
+  {
+    path: 'quellen',
+    loadComponent: () => import('./pages/quellen/quellen').then((m) => m.QuellenPage),
+    title: 'Quellen & Lizenzen · Klangland',
+  },
+  {
     path: '**',
     loadComponent: () => import('./pages/not-found/not-found').then((m) => m.NotFoundPage),
     title: 'Nicht gefunden · Klangland',
