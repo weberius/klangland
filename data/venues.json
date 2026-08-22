@@ -170,8 +170,16 @@
         "koeln"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Bischofsgartenstraße",
+        "houseNumber": "1",
+        "postalCode": "50667",
+        "city": "Köln"
+      },
+      "coordinates": {
+        "lat": 50.94062,
+        "lng": 6.96082
+      },
       "website": "https://www.koelner-philharmonie.de/",
       "type": "philharmonic_hall",
       "institutionId": "oper-koeln"
@@ -493,8 +501,16 @@
         "solingen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Müngstener Brückenweg",
+        "houseNumber": null,
+        "postalCode": "42659",
+        "city": "Solingen"
+      },
+      "coordinates": {
+        "lat": 51.16174,
+        "lng": 7.13566
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -571,8 +587,16 @@
         "koeln"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Oberstraße",
+        "houseNumber": "104",
+        "postalCode": "51149",
+        "city": "Köln"
+      },
+      "coordinates": {
+        "lat": 50.90046,
+        "lng": 7.0208
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -584,8 +608,16 @@
         "koeln"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Cäcilienstraße",
+        "houseNumber": "46",
+        "postalCode": "50667",
+        "city": "Köln"
+      },
+      "coordinates": {
+        "lat": 50.93568,
+        "lng": 6.95034
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -641,8 +673,16 @@
         "dortmund"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Speicherstraße",
+        "houseNumber": "17",
+        "postalCode": "44147",
+        "city": "Dortmund"
+      },
+      "coordinates": {
+        "lat": 51.52583,
+        "lng": 7.44619
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -654,8 +694,16 @@
         "dortmund"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Platz der Alten Synagoge",
+        "houseNumber": "1",
+        "postalCode": "44137",
+        "city": "Dortmund"
+      },
+      "coordinates": {
+        "lat": 51.51098,
+        "lng": 7.46176
+      },
       "website": null,
       "type": "opera_house",
       "institutionId": null
@@ -667,8 +715,16 @@
         "dortmund"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "A 2",
+        "houseNumber": null,
+        "postalCode": "44339",
+        "city": "Dortmund"
+      },
+      "coordinates": {
+        "lat": 51.57801,
+        "lng": 7.45103
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -693,8 +749,16 @@
         "dortmund"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Westenhellweg",
+        "houseNumber": "102-106",
+        "postalCode": "44137",
+        "city": "Dortmund"
+      },
+      "coordinates": {
+        "lat": 51.51301,
+        "lng": 7.4598
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -927,8 +991,16 @@
         "duisburg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "A 42",
+        "houseNumber": null,
+        "postalCode": "47199",
+        "city": "Duisburg"
+      },
+      "coordinates": {
+        "lat": 51.49165,
+        "lng": 6.6462
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1044,8 +1116,16 @@
         "hagen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Frankfurter Straße",
+        "houseNumber": "100",
+        "postalCode": "58095",
+        "city": "Hagen"
+      },
+      "coordinates": {
+        "lat": 51.35561,
+        "lng": 7.4774
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1070,8 +1150,16 @@
         "recklinghausen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Rathausplatz",
+        "houseNumber": "3-4",
+        "postalCode": "45657",
+        "city": "Recklinghausen"
+      },
+      "coordinates": {
+        "lat": 51.61171,
+        "lng": 7.19979
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1083,8 +1171,16 @@
         "gelsenkirchen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Cranger Straße",
+        "houseNumber": "81",
+        "postalCode": "45891",
+        "city": "Gelsenkirchen"
+      },
+      "coordinates": {
+        "lat": 51.57294,
+        "lng": 7.07439
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1109,8 +1205,16 @@
         "gelsenkirchen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Kennedyplatz",
+        "houseNumber": "1",
+        "postalCode": "45881",
+        "city": "Gelsenkirchen"
+      },
+      "coordinates": {
+        "lat": 51.51403,
+        "lng": 7.09085
+      },
       "website": null,
       "type": "opera_house",
       "institutionId": null
@@ -1135,8 +1239,16 @@
         "recklinghausen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Cäcilienhöhe",
+        "houseNumber": "102",
+        "postalCode": "45657",
+        "city": "Recklinghausen"
+      },
+      "coordinates": {
+        "lat": 51.62165,
+        "lng": 7.18696
+      },
       "website": null,
       "type": "theatre",
       "institutionId": null
@@ -1148,8 +1260,16 @@
         "kamen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Hammer Straße",
+        "houseNumber": null,
+        "postalCode": "59174",
+        "city": "Kamen"
+      },
+      "coordinates": {
+        "lat": 51.59538,
+        "lng": 7.6695
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": null
@@ -1174,8 +1294,16 @@
         "herne"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Holsterhauser Straße",
+        "houseNumber": "347",
+        "postalCode": "44625",
+        "city": "Herne"
+      },
+      "coordinates": {
+        "lat": 51.53505,
+        "lng": 7.2225
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": null
@@ -1187,8 +1315,16 @@
         "recklinghausen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Theodor-Körner-Straße",
+        "houseNumber": "20",
+        "postalCode": "45661",
+        "city": "Recklinghausen"
+      },
+      "coordinates": {
+        "lat": 51.57259,
+        "lng": 7.20946
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1200,8 +1336,16 @@
         "holzwickede"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Dorfstraße",
+        "houseNumber": null,
+        "postalCode": "59439",
+        "city": "Holzwickede"
+      },
+      "coordinates": {
+        "lat": 51.48784,
+        "lng": 7.6464
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1226,8 +1370,16 @@
         "gelsenkirchen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Horster Straße",
+        "houseNumber": "5-7",
+        "postalCode": "45897",
+        "city": "Gelsenkirchen"
+      },
+      "coordinates": {
+        "lat": 51.57684,
+        "lng": 7.05401
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1252,8 +1404,16 @@
         "schwerte"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Hörder Straße",
+        "houseNumber": null,
+        "postalCode": "58239",
+        "city": "Schwerte"
+      },
+      "coordinates": {
+        "lat": 51.4645,
+        "lng": 7.55824
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1265,8 +1425,16 @@
         "unna"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Parkstraße",
+        "houseNumber": "44",
+        "postalCode": "59425",
+        "city": "Unna"
+      },
+      "coordinates": {
+        "lat": 51.5458,
+        "lng": 7.69276
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": null
@@ -1278,8 +1446,16 @@
         "luenen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Stadttorstraße",
+        "houseNumber": null,
+        "postalCode": "44532",
+        "city": "Lünen"
+      },
+      "coordinates": {
+        "lat": 51.61125,
+        "lng": 7.52731
+      },
       "website": null,
       "type": "theatre",
       "institutionId": null
@@ -1291,8 +1467,16 @@
         "recklinghausen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Limperstraße",
+        "houseNumber": "13",
+        "postalCode": "45657",
+        "city": "Recklinghausen"
+      },
+      "coordinates": {
+        "lat": 51.61666,
+        "lng": 7.19321
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1304,8 +1488,16 @@
         "schwerte"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Ruhrstraße",
+        "houseNumber": null,
+        "postalCode": "58239",
+        "city": "Schwerte"
+      },
+      "coordinates": {
+        "lat": 51.43726,
+        "lng": 7.57005
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": null
@@ -1330,8 +1522,16 @@
         "recklinghausen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Westerholter Weg",
+        "houseNumber": "81",
+        "postalCode": "45657",
+        "city": "Recklinghausen"
+      },
+      "coordinates": {
+        "lat": 51.61583,
+        "lng": 7.18536
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1343,8 +1543,16 @@
         "marl"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Am Theater",
+        "houseNumber": "1",
+        "postalCode": "45768",
+        "city": "Marl"
+      },
+      "coordinates": {
+        "lat": 51.65272,
+        "lng": 7.0896
+      },
       "website": null,
       "type": "theatre",
       "institutionId": null
@@ -1408,8 +1616,16 @@
         "moenchengladbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Odenkirchener Straße",
+        "houseNumber": "78",
+        "postalCode": "41236",
+        "city": "Mönchengladbach"
+      },
+      "coordinates": {
+        "lat": 51.16205,
+        "lng": 6.44288
+      },
       "website": null,
       "type": "theatre",
       "institutionId": "theater-krefeld-moenchengladbach-institution"
@@ -1434,8 +1650,16 @@
         "moenchengladbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Bismarckstraße",
+        "houseNumber": "112",
+        "postalCode": "41061",
+        "city": "Mönchengladbach"
+      },
+      "coordinates": {
+        "lat": 51.19929,
+        "lng": 6.43813
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": null
@@ -1447,8 +1671,16 @@
         "krefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Theaterplatz",
+        "houseNumber": "1",
+        "postalCode": "47798",
+        "city": "Krefeld"
+      },
+      "coordinates": {
+        "lat": 51.33456,
+        "lng": 6.56365
+      },
       "website": null,
       "type": "concert_hall",
       "institutionId": null
