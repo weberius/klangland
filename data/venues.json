@@ -98,15 +98,15 @@
       ],
       "region": null,
       "address": {
-      "street": "Brückstraße",
-      "houseNumber": "21",
-      "postalCode": "44135",
-      "city": "Dortmund"
-    },
-    "coordinates": {
-      "lat": 51.516349367305,
-      "lng": 7.466315885598294
-    },
+        "street": "Brückstraße",
+        "houseNumber": "21",
+        "postalCode": "44135",
+        "city": "Dortmund"
+      },
+      "coordinates": {
+        "lat": 51.516349367305,
+        "lng": 7.466315885598294
+      },
       "website": "https://www.konzerthaus-dortmund.de/",
       "type": "concert_hall",
       "institutionId": "theater-dortmund"
@@ -705,9 +705,17 @@
         "koeln"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Raderberggürtel",
+        "houseNumber": "40",
+        "postalCode": "50968",
+        "city": "Köln-Rodenkirchen"
+      },
+      "coordinates": {
+        "lat": 50.90317083177646,
+        "lng": 6.959621285498957
+      },
+      "website": "https://www.deutschlandfunk.de/",
       "type": "concert_hall",
       "institutionId": null
     },
@@ -718,9 +726,17 @@
         "koeln"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Vogelsanger Str.",
+        "houseNumber": "28-32",
+        "postalCode": "50823",
+        "city": "Ehrenfeld"
+      },
+      "coordinates": {
+        "lat": 50.94624605914049,
+        "lng": 6.9245572697022935
+      },
+      "website": "http://www.rheinische-musikschule.de/",
       "type": "other",
       "institutionId": null
     },
@@ -779,8 +795,11 @@
         "postalCode": "52062",
         "city": "Aachen"
       },
-      "coordinates": null,
-      "website": "https://www.eurogress-aachen.de",
+      "coordinates": {
+        "lat": 50.781836749313335,
+        "lng": 6.092126466699521
+      },
+      "website": "https://www.aachen-event.com/eurogress-aachen",
       "type": "concert_hall",
       "institutionId": null
     },
@@ -791,9 +810,17 @@
         "dortmund"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Ostwall",
+        "houseNumber": "7",
+        "postalCode": "44135",
+        "city": "Dortmund-Innenstadt-West"
+      },
+      "coordinates": {
+        "lat": 51.51334158145495,
+        "lng": 7.4722273941573585
+      },
+      "website": "http://www.baukunstarchiv.nrw/",
       "type": "other",
       "institutionId": null
     },
@@ -804,9 +831,17 @@
         "dortmund"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Emscherallee",
+        "houseNumber": "11",
+        "postalCode": "44369",
+        "city": "Huckarde"
+      },
+      "coordinates": {
+        "lat": 51.541021565020976,
+        "lng": 7.412359467179459
+      },
+      "website": "https://kokereihansa-eventlocations.de/",
       "type": "other",
       "institutionId": null
     },
@@ -880,9 +915,17 @@
         "dortmund"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Phoenixplatz",
+        "houseNumber": "4",
+        "postalCode": "44263",
+        "city": "Dortmund"
+      },
+      "coordinates": {
+        "lat": 51.48877559718762,
+        "lng": 7.488593635236589
+      },
+      "website": "https://www.phoenix-lumieres.com/",
       "type": "other",
       "institutionId": null
     },
@@ -914,9 +957,17 @@
         "dortmund"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Hansastraße",
+        "houseNumber": "7-11",
+        "postalCode": "44137",
+        "city": "Dortmund"
+      },
+      "coordinates": {
+        "lat": 51.51583285661953,
+        "lng": 7.463708653879365
+      },
+      "website": "https://domicil-dortmund.de/",
       "type": "other",
       "institutionId": null
     },
@@ -927,9 +978,17 @@
         "bonn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Platz d. Vereinten Nationen",
+        "houseNumber": null,
+        "postalCode": "53113",
+        "city": "Bonn"
+      },
+      "coordinates": {
+        "lat": 50.71982499535826,
+        "lng": 7.123372178503912
+      },
+      "website": "https://www.wegderdemokratie.de/bundeshaus",
       "type": "other",
       "institutionId": null
     },
@@ -940,9 +999,17 @@
         "bonn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Wachsbleiche",
+        "houseNumber": "16",
+        "postalCode": "53111",
+        "city": "Bonn"
+      },
+      "coordinates": {
+        "lat": 50.7411733115589,
+        "lng": 7.104924194835167
+      },
+      "website": "https://www.beethovenhalle.de/",
       "type": "concert_hall",
       "institutionId": null
     },
@@ -953,9 +1020,17 @@
         "bonn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Bonngasse",
+        "houseNumber": "22-24",
+        "postalCode": "53111",
+        "city": "Bonn"
+      },
+      "coordinates": {
+        "lat": 50.73711904564729,
+        "lng": 7.101222168964211
+      },
+      "website": "http://www.beethoven.de/",
       "type": "concert_hall",
       "institutionId": null
     },
@@ -966,9 +1041,17 @@
         "bonn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Charles-de-Gaulle-Straße",
+        "houseNumber": null,
+        "postalCode": "53113",
+        "city": "Bonn"
+      },
+      "coordinates": {
+        "lat": 50.71758290115092,
+        "lng": 7.134423065181555
+      },
+      "website": "http://www.kunstrasen-bonn.de/",
       "type": "other",
       "institutionId": null
     },
@@ -979,9 +1062,17 @@
         "bonn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Wachsbleiche",
+        "houseNumber": "16",
+        "postalCode": "53111",
+        "city": "Bonn"
+      },
+      "coordinates": {
+        "lat": 50.74119368122475,
+        "lng": 7.10487055147309
+      },
+      "website": "https://www.beethovenhalle.de/",
       "type": "concert_hall",
       "institutionId": null
     },
@@ -992,8 +1083,16 @@
         "bonn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "An d. Evangelischen Kirche",
+        "houseNumber": null,
+        "postalCode": "53113",
+        "city": "Bonn"
+      },
+      "coordinates": {
+        "lat": 50.73199241363574,
+        "lng": 7.10258436707227
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1005,9 +1104,17 @@
         "bonn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "In d. Raste",
+        "houseNumber": "1",
+        "postalCode": "53129",
+        "city": "Bonn"
+      },
+      "coordinates": {
+        "lat": 50.70786907965236,
+        "lng": 7.123492024050902
+      },
+      "website": "https://www.basecamp-bonn.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1018,9 +1125,17 @@
         "bonn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Am Boeselagerhof",
+        "houseNumber": "1",
+        "postalCode": "53111",
+        "city": "Bonn"
+      },
+      "coordinates": {
+        "lat": 50.73712735555046,
+        "lng": 7.106512820350339
+      },
+      "website": "https://www.theater-bonn.de/",
       "type": "opera_house",
       "institutionId": null
     },
@@ -1031,9 +1146,17 @@
         "bielefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Lampingstraße",
+        "houseNumber": "16",
+        "postalCode": "33615",
+        "city": "Bielefeld"
+      },
+      "coordinates": {
+        "lat": 52.0283918709989,
+        "lng": 8.513082324658287
+      },
+      "website": "https://rudolf-oetker-halle.de/",
       "type": "concert_hall",
       "institutionId": null
     },
@@ -1044,9 +1167,17 @@
         "bielefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Bethelplatz",
+        "houseNumber": "1",
+        "postalCode": "33617",
+        "city": "Bielefeld"
+      },
+      "coordinates": {
+        "lat": 52.009659626422604,
+        "lng": 8.525096307912541
+      },
+      "website": "http://www.sarepta-nazareth.de/.cms/89",
       "type": "other",
       "institutionId": null
     },
@@ -1057,9 +1188,17 @@
         "bielefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Universitätsstraße",
+        "houseNumber": "25",
+        "postalCode": "33615",
+        "city": "Bielefeld"
+      },
+      "coordinates": {
+        "lat": 52.03689534145352,
+        "lng": 8.495252038730525
+      },
+      "website": "https://www.uni-bielefeld.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1070,9 +1209,17 @@
         "bielefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Am Zionswald",
+        "houseNumber": null,
+        "postalCode": "33617",
+        "city": "Bielefeld"
+      },
+      "coordinates": {
+        "lat": 52.01177153421584,
+        "lng": 8.525105538341354
+      },
+      "website": "http://www.bethel.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1096,9 +1243,17 @@
         "bielefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Brunnenstraße",
+        "houseNumber": "3-9",
+        "postalCode": "33602",
+        "city": "Bielefeld"
+      },
+      "coordinates": {
+        "lat": 52.02079600435558,
+        "lng": 8.53505245269845
+      },
+      "website": "https://www.buo-bielefeld.de/theater",
       "type": "theatre",
       "institutionId": null
     },
@@ -1109,9 +1264,17 @@
         "duisburg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Landfermannstraße",
+        "houseNumber": "6",
+        "postalCode": "47051",
+        "city": "Duisburg"
+      },
+      "coordinates": {
+        "lat": 51.43368266976373,
+        "lng": 6.771666637883736
+      },
+      "website": "http://www.mercatorhalle.de/",
       "type": "concert_hall",
       "institutionId": null
     },
@@ -1122,9 +1285,17 @@
         "duisburg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Philosophenweg",
+        "houseNumber": "55",
+        "postalCode": "47051",
+        "city": "Duisburg"
+      },
+      "coordinates": {
+        "lat": 51.44126485465712,
+        "lng": 6.774775853095598
+      },
+      "website": "http://www.museum-kueppersmuehle.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1156,9 +1327,17 @@
         "duisburg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Zum Wambachsee",
+        "houseNumber": "21",
+        "postalCode": "47279",
+        "city": "Duisburg Süd"
+      },
+      "coordinates": {
+        "lat": 51.386211969056944,
+        "lng": 6.785776045673642
+      },
+      "website": "https://naturwerkstatt-duisburg.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1169,9 +1348,17 @@
         "duisburg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "König-Heinrich-Platz",
+        "houseNumber": "3",
+        "postalCode": "47051",
+        "city": "Duisburg"
+      },
+      "coordinates": {
+        "lat": 51.43455699700193,
+        "lng": 6.769813426895149
+      },
+      "website": "https://liebfrauen-kulturkirche.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1182,9 +1369,17 @@
         "duisburg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Josef-Kiefer-Straße",
+        "houseNumber": "10",
+        "postalCode": "47051",
+        "city": "Duisburg"
+      },
+      "coordinates": {
+        "lat": 51.4315542668849,
+        "lng": 6.756758551565909
+      },
+      "website": "http://www.ekadu.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1195,9 +1390,17 @@
         "duisburg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "neben dem Rathaus",
+        "houseNumber": null,
+        "postalCode": "47051",
+        "city": "Duisburg"
+      },
+      "coordinates": {
+        "lat": 51.43609584432497,
+        "lng": 6.761081112775823
+      },
+      "website": "https://salvatorkirche.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1208,9 +1411,17 @@
         "duisburg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Fabrikstraße",
+        "houseNumber": "20",
+        "postalCode": "47119",
+        "city": "Homberg-Ruhrort-Baerl"
+      },
+      "coordinates": {
+        "lat": 51.4537695134962,
+        "lng": 6.73455763750771
+      },
+      "website": "https://www.st-michael-duisburg.de/st-maximilian/",
       "type": "other",
       "institutionId": null
     },
@@ -1221,9 +1432,17 @@
         "hagen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Wasserloses Tal",
+        "houseNumber": "2",
+        "postalCode": "58093",
+        "city": "Hagen"
+      },
+      "coordinates": {
+        "lat": 51.35330815100595,
+        "lng": 7.48464866601315
+      },
+      "website": "https://stadthalle-hagen.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1234,9 +1453,17 @@
         "hagen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Museumspl.",
+        "houseNumber": "1",
+        "postalCode": "58095",
+        "city": "Hagen"
+      },
+      "coordinates": {
+        "lat": 51.35598213812015,
+        "lng": 7.473468508497845
+      },
+      "website": "http://www.kunstquartier-hagen.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1247,9 +1474,17 @@
         "hagen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Elberfelder Str.",
+        "houseNumber": "65",
+        "postalCode": "58095",
+        "city": "Hagen"
+      },
+      "coordinates": {
+        "lat": 51.35912193067292,
+        "lng": 7.4668585237765805
+      },
+      "website": "http://www.theaterhagen.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1281,9 +1516,17 @@
         "hagen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Humboldtstraße",
+        "houseNumber": "11",
+        "postalCode": "58095",
+        "city": "Hagen"
+      },
+      "coordinates": {
+        "lat": 51.35872683241301,
+        "lng": 7.465345709734154
+      },
+      "website": "https://www.alloheim.de/pflege-hagen-am-theater",
       "type": "other",
       "institutionId": null
     },
@@ -1336,8 +1579,16 @@
         "unna"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Markt",
+        "houseNumber": null,
+        "postalCode": "59423",
+        "city": "Unna"
+      },
+      "coordinates": {
+        "lat": 51.53469113043236,
+        "lng": 7.689824343401581
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1370,9 +1621,17 @@
         "gelsenkirchen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Bochumer Straße",
+        "houseNumber": "115",
+        "postalCode": "45886",
+        "city": "Gelsenkirchen-Süd"
+      },
+      "coordinates": {
+        "lat": 51.500129561982654,
+        "lng": 7.1109338261756205
+      },
+      "website": "https://www.emschertainment.de/veranstaltungsorte/heilig-kreuz-kirche/",
       "type": "other",
       "institutionId": null
     },
@@ -1425,9 +1684,17 @@
         "wesel"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Ritterstraße",
+        "houseNumber": "12-14",
+        "postalCode": "46483",
+        "city": "Wesel"
+      },
+      "coordinates": {
+        "lat": 51.65914808813421,
+        "lng": 6.611999984281525
+      },
+      "website": "https://www.wesel.de/kultur-freizeit/staedtisches-buehnenhaus",
       "type": "theatre",
       "institutionId": null
     },
@@ -1501,9 +1768,17 @@
         "recklinghausen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Rathauspl.",
+        "houseNumber": "3",
+        "postalCode": "45657",
+        "city": "Recklinghausen"
+      },
+      "coordinates": {
+        "lat": 51.612160139310404,
+        "lng": 7.200363741363644
+      },
+      "website": "https://www.recklinghausen.de/Inhalte/Startseite/Rathaus_Politik/Rathaus_und_Verwaltung/index.asp",
       "type": "other",
       "institutionId": null
     },
@@ -1535,9 +1810,17 @@
         "recklinghausen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Kirchpl.",
+        "houseNumber": "7",
+        "postalCode": "45657",
+        "city": "Recklinghausen"
+      },
+      "coordinates": {
+        "lat": 51.61553743077777,
+        "lng": 7.198042461657465
+      },
+      "website": "https://www.st-peter-recklinghausen.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1653,8 +1936,16 @@
         "recklinghausen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Castroper Str.",
+        "houseNumber": "12 c",
+        "postalCode": "45665",
+        "city": "Recklinghausen"
+      },
+      "coordinates": {
+        "lat": 51.61253450394666,
+        "lng": 7.2056998226911295
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -1708,9 +1999,17 @@
         "froendenberg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Im Wiesengrund",
+        "houseNumber": "7",
+        "postalCode": "58730",
+        "city": "Fröndenberg/Ruhr"
+      },
+      "coordinates": {
+        "lat": 51.47812711414556,
+        "lng": 7.772360171586001
+      },
+      "website": "http://www.gesamtschulefroendenberg.de/",
       "type": "concert_hall",
       "institutionId": null
     },
@@ -1721,9 +2020,17 @@
         "menden"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Schwitter Weg",
+        "houseNumber": "29",
+        "postalCode": "58706",
+        "city": "Menden (Sauerland)"
+      },
+      "coordinates": {
+        "lat": 51.44161600181664,
+        "lng": 7.7945521262553275
+      },
+      "website": "https://www.menden.de/leben-in-menden/kultur-bildung/kulturbuero/theater-wilhelmshoehe",
       "type": "other",
       "institutionId": null
     },
@@ -1734,9 +2041,17 @@
         "lippstadt"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Cappeltor",
+        "houseNumber": "3",
+        "postalCode": "59555",
+        "city": "Lippstadt"
+      },
+      "coordinates": {
+        "lat": 51.67737944754103,
+        "lng": 8.341428555748202
+      },
+      "website": "https://www.lippstadt-stadttheater.de/",
       "type": "theatre",
       "institutionId": null
     },
@@ -1747,9 +2062,17 @@
         "ahlen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Westenmauer",
+        "houseNumber": "10",
+        "postalCode": "59227",
+        "city": "Ahlen"
+      },
+      "coordinates": {
+        "lat": 51.76098033379809,
+        "lng": 7.887233748593155
+      },
+      "website": "https://stadthalle-ahlen.de/",
       "type": "concert_hall",
       "institutionId": null
     },
@@ -1781,9 +2104,17 @@
         "moenchengladbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Odenkirchener Str.",
+        "houseNumber": "78",
+        "postalCode": "41236",
+        "city": "Mönchengladbach"
+      },
+      "coordinates": {
+        "lat": 51.16813066695078,
+        "lng": 6.443740487072055
+      },
+      "website": "http://www.theater-kr-mg.de/",
       "type": "concert_hall",
       "institutionId": "theater-krefeld-moenchengladbach-institution"
     },
@@ -1836,9 +2167,17 @@
         "moenchengladbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Odenkirchener Str.",
+        "houseNumber": "78",
+        "postalCode": "41236",
+        "city": "Mönchengladbach"
+      },
+      "coordinates": {
+        "lat": 51.18404785952978,
+        "lng": 6.438992902909906
+      },
+      "website": "http://www.theater-kr-mg.de/",
       "type": "theatre",
       "institutionId": "theater-krefeld-moenchengladbach-institution"
     },
@@ -1849,9 +2188,17 @@
         "krefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Theaterpl.",
+        "houseNumber": "3",
+        "postalCode": "47798",
+        "city": "Krefeld"
+      },
+      "coordinates": {
+        "lat": 51.33544751950956,
+        "lng": 6.563520907054641
+      },
+      "website": "https://www.theater-kr-mg.de/",
       "type": "other",
       "institutionId": "theater-krefeld-moenchengladbach-institution"
     },
@@ -1862,9 +2209,17 @@
         "krefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Theaterpl.",
+        "houseNumber": "3",
+        "postalCode": "47798",
+        "city": "Krefeld"
+      },
+      "coordinates": {
+        "lat": 51.33544751950956,
+        "lng": 6.563520907054641
+      },
+      "website": "https://www.theater-kr-mg.de/",
       "type": "theatre",
       "institutionId": "theater-krefeld-moenchengladbach-institution"
     },
@@ -1875,9 +2230,17 @@
         "moenchengladbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Odenkirchener Str.",
+        "houseNumber": "78",
+        "postalCode": "41236",
+        "city": "Mönchengladbach"
+      },
+      "coordinates": {
+        "lat": 51.18404785952978,
+        "lng": 6.438992902909906
+      },
+      "website": "http://www.theater-kr-mg.de/",
       "type": "theatre",
       "institutionId": "theater-krefeld-moenchengladbach-institution"
     },
@@ -1888,9 +2251,17 @@
         "krefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Dießemer Str.",
+        "houseNumber": "13",
+        "postalCode": "47799",
+        "city": "Krefeld"
+      },
+      "coordinates": {
+        "lat": 51.330208031143975,
+        "lng": 6.581094406323015
+      },
+      "website": "http://www.kulturfabrik-krefeld.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1901,9 +2272,17 @@
         "krefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Gladbacher Str.",
+        "houseNumber": "471",
+        "postalCode": "47805",
+        "city": "Krefeld"
+      },
+      "coordinates": {
+        "lat": 51.310253929077604,
+        "lng": 6.549976826103535
+      },
+      "website": "https://www.toefi.de/audi/",
       "type": "other",
       "institutionId": null
     },
@@ -1914,9 +2293,17 @@
         "moenchengladbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Abteistraße",
+        "houseNumber": "41",
+        "postalCode": "41061",
+        "city": "Mönchengladbach-Nord"
+      },
+      "coordinates": {
+        "lat": 51.19252306929665,
+        "lng": 6.431612763727416
+      },
+      "website": "http://www.pfarre-sankt-vitus.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1927,9 +2314,17 @@
         "krefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Luisenpl.",
+        "houseNumber": "1",
+        "postalCode": "47799",
+        "city": "Krefeld"
+      },
+      "coordinates": {
+        "lat": 51.3327099405762,
+        "lng": 6.568820726492448
+      },
+      "website": "https://www.friedenskirche-krefeld.de/",
       "type": "other",
       "institutionId": null
     },
@@ -1940,9 +2335,17 @@
         "krefeld"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Rundweg",
+        "houseNumber": "20",
+        "postalCode": "47829",
+        "city": "Krefeld-Uerdingen"
+      },
+      "coordinates": {
+        "lat": 51.34749516869967,
+        "lng": 6.6382564367344346
+      },
+      "website": "https://www.klaerwerk-krefeld.org/",
       "type": "other",
       "institutionId": null
     },
@@ -1953,9 +2356,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Neubrückenstraße",
+        "houseNumber": "63",
+        "postalCode": "48143",
+        "city": "Münster-Kreuzviertel"
+      },
+      "coordinates": {
+        "lat": 51.9649625646508,
+        "lng": 7.629341036804637
+      },
+      "website": "http://www.theater-muenster.com/",
       "type": "theatre",
       "institutionId": "theater-muenster-institution"
     },
@@ -1966,9 +2377,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Neubrückenstraße",
+        "houseNumber": "63",
+        "postalCode": "48143",
+        "city": "Münster-Kreuzviertel"
+      },
+      "coordinates": {
+        "lat": 51.9649625646508,
+        "lng": 7.629341036804637
+      },
+      "website": "http://www.theater-muenster.com/",
       "type": "theatre",
       "institutionId": "theater-muenster-institution"
     },
@@ -1979,9 +2398,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Salzstraße",
+        "houseNumber": "38",
+        "postalCode": "48143",
+        "city": "Münster"
+      },
+      "coordinates": {
+        "lat": 51.961044010620334,
+        "lng": 7.6321492801541115
+      },
+      "website": "https://www.lwl.org/de/erbdrostenhof/",
       "type": "other",
       "institutionId": null
     },
@@ -1992,9 +2419,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Neubrückenstraße",
+        "houseNumber": "63",
+        "postalCode": "48143",
+        "city": "Münster-Kreuzviertel"
+      },
+      "coordinates": {
+        "lat": 51.9649625646508,
+        "lng": 7.629341036804637
+      },
+      "website": "http://www.theater-muenster.com/",
       "type": "theatre",
       "institutionId": "theater-muenster-institution"
     },
@@ -2005,9 +2440,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Albersloher Weg",
+        "houseNumber": "14",
+        "postalCode": "48155",
+        "city": "Münster"
+      },
+      "coordinates": {
+        "lat": 51.95063836090078,
+        "lng": 7.636717317519828
+      },
+      "website": "https://www.cineplex.de/muenster/cineplex-muenster/infos-und-preise",
       "type": "other",
       "institutionId": null
     },
@@ -2018,9 +2461,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "An d. Meerwiese",
+        "houseNumber": "25",
+        "postalCode": "48157",
+        "city": "Münster-Nord"
+      },
+      "coordinates": {
+        "lat": 51.98846226331526,
+        "lng": 7.651001664162704
+      },
+      "website": "https://www.stadt-muenster.de//meerwiese",
       "type": "other",
       "institutionId": null
     },
@@ -2031,9 +2482,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Neubrückenstraße",
+        "houseNumber": "63",
+        "postalCode": "48143",
+        "city": "Münster-Kreuzviertel"
+      },
+      "coordinates": {
+        "lat": 51.9649625646508,
+        "lng": 7.629341036804637
+      },
+      "website": "http://www.theater-muenster.com/",
       "type": "other",
       "institutionId": "theater-muenster-institution"
     },
@@ -2044,9 +2503,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Gartenstraße",
+        "houseNumber": "123",
+        "postalCode": "48147",
+        "city": "Rumphorst"
+      },
+      "coordinates": {
+        "lat": 51.97428864799606,
+        "lng": 7.63651064715055
+      },
+      "website": "http://www.pumpenhaus.de/",
       "type": "theatre",
       "institutionId": null
     },
@@ -2057,9 +2524,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Annette-Allee",
+        "houseNumber": "7",
+        "postalCode": "48149",
+        "city": "Münster"
+      },
+      "coordinates": {
+        "lat": 51.9572290481672,
+        "lng": 7.6129966566035705
+      },
+      "website": "https://www.stadt-muenster.de/tourismus/sehenswertes/aasee.html",
       "type": "other",
       "institutionId": null
     },
@@ -2070,9 +2545,17 @@
         "wuppertal"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Sternstraße",
+        "houseNumber": "73",
+        "postalCode": "42275",
+        "city": "Wuppertal-Oberbarmen"
+      },
+      "coordinates": {
+        "lat": 51.27601452900449,
+        "lng": 7.216358045868756
+      },
+      "website": "https://www.immanuelskirche.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2083,9 +2566,17 @@
         "wuppertal"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Opphofer Str.",
+        "houseNumber": "60",
+        "postalCode": "42107",
+        "city": "Wuppertal-Elberfeld"
+      },
+      "coordinates": {
+        "lat": 51.26883114828207,
+        "lng": 7.1539367378610565
+      },
+      "website": "http://www.ev-uo.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2096,9 +2587,17 @@
         "wuppertal"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Kirchplatz",
+        "houseNumber": "2",
+        "postalCode": "42103",
+        "city": "Wuppertal-Elberfeld"
+      },
+      "coordinates": {
+        "lat": 51.25683531650607,
+        "lng": 7.1475347093135895
+      },
+      "website": "http://www.citykirche-elberfeld.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2109,9 +2608,17 @@
         "wuppertal"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Dorner Weg",
+        "houseNumber": "6 a",
+        "postalCode": "42119",
+        "city": "Wuppertal-Elberfeld"
+      },
+      "coordinates": {
+        "lat": 51.23678195756326,
+        "lng": 7.162783562252219
+      },
+      "website": "https://vormeichholz.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2122,9 +2629,17 @@
         "wuppertal"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Wiesenstraße",
+        "houseNumber": "6",
+        "postalCode": "42105",
+        "city": "Wuppertal"
+      },
+      "coordinates": {
+        "lat": 51.265207630102644,
+        "lng": 7.146550331898394
+      },
+      "website": "https://insel.news/",
       "type": "other",
       "institutionId": null
     },
@@ -2135,9 +2650,17 @@
         "wuppertal"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Platz d. Republik",
+        "houseNumber": "24",
+        "postalCode": "42107",
+        "city": "Wuppertal"
+      },
+      "coordinates": {
+        "lat": 51.264974069027,
+        "lng": 7.150190006322334
+      },
+      "website": "http://www.nachbarschaftsheim-wuppertal.de/",
       "type": "other",
       "institutionId": null
     }
