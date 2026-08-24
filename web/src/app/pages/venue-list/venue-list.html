@@ -4,7 +4,11 @@
 />
 
 @if (venues().length === 0) {
-  <p class="empty">Keine Spielstätten erfasst.</p>
+  @if (onlyFavorites()) {
+    <p class="empty">Keine Spielstätten mit favorisierten Veranstaltungen.</p>
+  } @else {
+    <p class="empty">Keine Spielstätten erfasst.</p>
+  }
 } @else {
   <div class="card-grid">
     @for (v of venues(); track v.id) {
@@ -14,6 +18,17 @@
         <p class="muted count">
           {{ eventCount(v) }} {{ eventCount(v) === 1 ? 'Veranstaltung' : 'Veranstaltungen' }}
         </p>
+        @if (favoriteEvents(v).length) {
+          <ul class="favorite-events">
+            @for (e of favoriteEvents(v); track e.id) {
+              <li>
+                <span class="favorite-star" aria-hidden="true">★</span>
+                <span class="visually-hidden">Favorit:</span>
+                {{ e.title }}
+              </li>
+            }
+          </ul>
+        }
       </a>
     }
   </div>

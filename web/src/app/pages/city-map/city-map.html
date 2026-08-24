@@ -8,7 +8,29 @@
     <p class="empty">Für keinen Ensemble-Ort liegen Koordinaten vor.</p>
   }
 
-  <div #map class="map" role="application" aria-label="Karte der Ensemble-Orte"></div>
+  <fieldset class="layer-controls">
+    <legend class="visually-hidden">Karten-Layer</legend>
+    <label class="layer-option">
+      <input type="checkbox" [checked]="showEnsembleLayer()" (change)="toggleEnsembleLayer()" />
+      Standorte der Klangkörper
+    </label>
+    <label class="layer-option">
+      <input type="checkbox" [checked]="showVenueLayer()" (change)="toggleVenueLayer()" />
+      Adressen der Spielstätten
+    </label>
+  </fieldset>
+
+  <div class="map-wrap">
+    <div #map class="map" role="application" aria-label="Karte der Ensemble-Orte und Spielstätten"></div>
+    <div class="map-legend" aria-hidden="true">
+      <span class="legend-item">
+        <span class="legend-dot legend-dot-ensemble"></span> Standorte der Klangkörper
+      </span>
+      <span class="legend-item">
+        <span class="legend-dot legend-dot-venue"></span> Adressen der Spielstätten
+      </span>
+    </div>
+  </div>
 
   @if (selectedCity(); as city) {
     <div class="dialog-backdrop" (click)="closeDialog()"></div>

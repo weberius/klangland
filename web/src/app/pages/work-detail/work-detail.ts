@@ -3,6 +3,8 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
 import { toSignal } from '@angular/core/rxjs-interop';
 
 import { DataService } from '../../core/data.service';
+import { FilterService } from '../../core/filter.service';
+import { FavoritesService } from '../../core/favorites.service';
 import { EventList } from '../../shared/event-list';
 import { Composer, Work } from '../../models/models';
 import { GENRE_LABELS, label } from '../../core/labels';
@@ -15,6 +17,8 @@ import { GENRE_LABELS, label } from '../../core/labels';
 })
 export class WorkDetailPage {
   protected readonly data = inject(DataService);
+  private filter = inject(FilterService);
+  private favorites = inject(FavoritesService);
   private route = inject(ActivatedRoute);
   private params = toSignal(this.route.paramMap);
 
@@ -55,6 +59,21 @@ export class WorkDetailPage {
 
   readonly events = computed(() => {
     const w = this.work();
-    return w ? this.data.eventsForWork(w.id) : [];
+    return w
+      ? this.data.eventsForWork(
+          w.id,
+          this.filter.selectedCityIds(),
+          this.filter.selectedProfileIds(),
+          this.favorites.onlyFavorites() ? this.favorites.ids() : null,
+        )
+      : [];
   });
+
+  /** Ob ein globaler Filter aktiv ist (spezifischerer Leer-Hinweis, US-031 AK 5). */
+  readonly filterActive = computed(
+    () =>
+      this.filter.selectedCityIds().size > 0 ||
+      this.filter.selectedProfileIds().size > 0 ||
+      this.favorites.onlyFavorites(),
+  );
 }

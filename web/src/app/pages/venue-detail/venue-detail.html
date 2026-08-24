@@ -10,24 +10,37 @@
       <p class="muted">{{ cityName() }} · {{ typeLabel() }}</p>
     </header>
 
-    <aside class="card profile-facts">
-      <dl>
-        <dt>Ort</dt>
-        <dd>{{ cityName() }}</dd>
-        @if (addressLine(); as address) {
-          <dt>Adresse</dt>
-          <dd>{{ address }}</dd>
-        }
-        @if (institution(); as inst) {
-          <dt>Träger</dt>
-          <dd>{{ inst.name }} <span class="muted">({{ institutionType() }})</span></dd>
-        }
-        @if (venue()!.website) {
-          <dt>Website</dt>
-          <dd><a [href]="venue()!.website" target="_blank" rel="noopener">Offizielle Seite</a></dd>
-        }
-      </dl>
-    </aside>
+    <div class="venue-detail-grid">
+      <aside class="card profile-facts">
+        <dl>
+          <dt>Ort</dt>
+          <dd>{{ cityName() }}</dd>
+          @if (addressLine(); as address) {
+            <dt>Adresse</dt>
+            <dd>{{ address }}</dd>
+          }
+          @if (institution(); as inst) {
+            <dt>Träger</dt>
+            <dd>{{ inst.name }} <span class="muted">({{ institutionType() }})</span></dd>
+          }
+          @if (venue()!.website) {
+            <dt>Website</dt>
+            <dd><a [href]="venue()!.website" target="_blank" rel="noopener">Offizielle Seite</a></dd>
+          }
+        </dl>
+      </aside>
+
+      @if (venue()!.coordinates || addressLine()) {
+        <section class="card venue-map-box">
+          <h2>Karte</h2>
+          <app-venue-location
+            [name]="venue()!.name"
+            [address]="addressLine()"
+            [coordinates]="venue()!.coordinates"
+          />
+        </section>
+      }
+    </div>
 
     <section class="events-section">
       <h2>Veranstaltungen ({{ events().length }})</h2>

@@ -1,0 +1,30 @@
+@if (coordinates()) {
+  <div #map class="venue-location-map"></div>
+}
+@if (canRoute()) {
+  <p class="venue-location-actions">
+    <button type="button" class="btn" (click)="openMapsDialog()">In Karten-App öffnen</button>
+  </p>
+}
+
+@if (mapsDialogOpen()) {
+  <div class="dialog-backdrop" (click)="closeMapsDialog()"></div>
+  <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="maps-dialog-title">
+    <h2 id="maps-dialog-title">Karten-App öffnen</h2>
+    <p>
+      Sie verlassen Klangland und öffnen den gewählten Kartenanbieter in einem neuen
+      Tab/Fenster, um sich den Veranstaltungsort anzeigen zu lassen oder eine Route zu
+      berechnen. Von dort führt keine Zurück-Navigation in diese Anwendung.
+    </p>
+    <ul class="maps-links plain">
+      @for (link of mapsLinks(); track link.label) {
+        <li>
+          <a [href]="link.url" target="_blank" rel="noopener" (click)="closeMapsDialog()">{{ link.label }}</a>
+        </li>
+      }
+    </ul>
+    <div class="dialog-actions">
+      <button type="button" class="btn" (click)="closeMapsDialog()">Abbrechen</button>
+    </div>
+  </div>
+}

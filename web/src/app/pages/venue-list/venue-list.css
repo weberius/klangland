@@ -26,3 +26,23 @@
   margin: 0;
   font-size: 0.85rem;
 }
+/* Favorisierte Events je Spielstätte (US-028, AK 3). */
+.favorite-events {
+  list-style: none;
+  margin: 0.6rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.85rem;
+}
+.favorite-events li {
+  display: flex;
+  gap: 0.35rem;
+  align-items: baseline;
+}
+.favorite-events .favorite-star {
+  color: #c69a2e;
+  flex: none;
+  line-height: 1;
+}

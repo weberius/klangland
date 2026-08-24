@@ -56,9 +56,10 @@
 }
 
 .filter-popover {
-  position: absolute;
-  top: calc(100% + 0.4rem);
-  right: 0;
+  /* Bildschirmzentriert statt button-relativ (US-035, AK 5); `top` wird dynamisch gesetzt. */
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 40;
   width: min(22rem, calc(100vw - 2rem));
   padding: 1rem;

@@ -3,6 +3,7 @@ import { RouterLink } from '@angular/router';
 
 import { DataService } from '../../core/data.service';
 import { FilterService } from '../../core/filter.service';
+import { FavoritesService } from '../../core/favorites.service';
 import { Composer, Work } from '../../models/models';
 import { PageHeader } from '../../shared/page-header/page-header';
 
@@ -23,8 +24,12 @@ interface ComposerCardView {
 export class ComposerListPage {
   private data = inject(DataService);
   private filter = inject(FilterService);
+  private favorites = inject(FavoritesService);
 
   readonly loading = computed(() => this.data.loading());
+
+  /** Ob der Favoriten-Filter aktiv ist (spezifischerer Leer-Hinweis, AK 4). */
+  readonly onlyFavorites = computed(() => this.favorites.onlyFavorites());
 
   /**
    * Kachel-Modell des Komponist:innen-Grids. Ermittelt die programmierten Werke
@@ -40,7 +45,8 @@ export class ComposerListPage {
     // worksForFilter liefert bereits nach Komponist:in-Name und dann Werktitel
     // sortiert – die Gruppierung erhält damit je Komponist:in die Titel-Reihenfolge.
     const byComposer = new Map<string, Work[]>();
-    for (const work of this.data.worksForFilter(cityIds, profileIds)) {
+    const favoriteEventIds = this.favorites.onlyFavorites() ? this.favorites.ids() : null;
+    for (const work of this.data.worksForFilter(cityIds, profileIds, favoriteEventIds)) {
       const list = byComposer.get(work.composerId);
       if (list) list.push(work);
       else byComposer.set(work.composerId, [work]);

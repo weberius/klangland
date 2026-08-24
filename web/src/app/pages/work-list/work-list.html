@@ -4,7 +4,11 @@
 />
 
 @if (works().length === 0) {
-  <p class="empty">Keine Werke erfasst.</p>
+  @if (onlyFavorites()) {
+    <p class="empty">Keine Werke aus favorisierten Veranstaltungen.</p>
+  } @else {
+    <p class="empty">Keine Werke erfasst.</p>
+  }
 } @else {
   <div class="card-grid">
     @for (w of works(); track w.id) {

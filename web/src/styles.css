@@ -17,6 +17,8 @@
   --color-highlight: #b3541e;
   --color-danger: #b3261e;
   --color-danger-soft: #fbe9e7;
+  /* Blau für Spielstätten-Marker (US-033), in Abgrenzung zu den roten Klangkörper-Markern. */
+  --color-info: #1e5fa8;
 
   --radius: 10px;
   --radius-sm: 6px;
@@ -143,13 +145,14 @@ button:focus-visible,
 }
 
 /* Marker der Veranstaltungsort-Karte (US-023). Global, da Leaflet das divIcon-HTML
-   außerhalb der Angular-View-Kapselung von event-detail einfügt. */
+   außerhalb der Angular-View-Kapselung von event-detail einfügt. Blau (US-033), da inhaltlich
+   eine Spielstätte – konsistent mit dem Spielstätten-Layer der Karte auf /cities. */
 .venue-marker {
   display: block;
   width: 16px;
   height: 16px;
   border-radius: 50%;
-  background: var(--color-danger);
+  background: var(--color-info);
   border: 2px solid #fff;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
 }

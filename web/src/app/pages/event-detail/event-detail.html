@@ -20,7 +20,13 @@
         @if (canBuyTickets()) {
           <button type="button" class="btn btn-primary" (click)="openTicketDialog()">Tickets</button>
         }
-        <button type="button" class="btn" (click)="addToCalendar()">In den Kalender eintragen</button>
+        <button
+          type="button"
+          class="btn"
+          title="Lädt eine Kalenderdatei (.ics) herunter, um diesen Termin in den Kalender Ihres Smartphones oder Rechners zu übernehmen."
+          aria-label="Termin in Geräte-Kalender speichern – lädt eine Kalenderdatei (.ics) herunter, um diesen Termin in den Kalender Ihres Smartphones oder Rechners zu übernehmen."
+          (click)="addToCalendar()"
+        >Termin in Geräte-Kalender speichern</button>
         <button
           type="button"
           class="btn btn-favorite"
@@ -108,17 +114,16 @@
         } @else {
           <p class="muted">{{ cityName() }}</p>
         }
-        @if (canRoute()) {
-          <p>
-            <button type="button" class="btn" (click)="openMapsDialog()">Route / Karten-App öffnen</button>
-          </p>
-        }
       </section>
 
-      @if (venue()?.coordinates) {
+      @if (venue()?.coordinates || venueAddress()) {
         <section class="card detail-block">
           <h2>Karte</h2>
-          <div #map class="event-map"></div>
+          <app-venue-location
+            [name]="venue()?.name ?? cityName()"
+            [address]="venueAddress()"
+            [coordinates]="venue()?.coordinates ?? null"
+          />
         </section>
       }
     </div>
@@ -162,25 +167,4 @@
     </div>
   }
 
-  @if (mapsDialogOpen()) {
-    <div class="dialog-backdrop" (click)="closeMapsDialog()"></div>
-    <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="maps-dialog-title">
-      <h2 id="maps-dialog-title">Karten-App öffnen</h2>
-      <p>
-        Sie verlassen Klangland und öffnen den gewählten Kartenanbieter in einem neuen
-        Tab/Fenster, um sich den Veranstaltungsort anzeigen zu lassen oder eine Route zu
-        berechnen. Von dort führt keine Zurück-Navigation in diese Anwendung.
-      </p>
-      <ul class="maps-links plain">
-        @for (link of mapsLinks(); track link.label) {
-          <li>
-            <a [href]="link.url" target="_blank" rel="noopener" (click)="closeMapsDialog()">{{ link.label }}</a>
-          </li>
-        }
-      </ul>
-      <div class="dialog-actions">
-        <button type="button" class="btn" (click)="closeMapsDialog()">Abbrechen</button>
-      </div>
-    </div>
-  }
 }

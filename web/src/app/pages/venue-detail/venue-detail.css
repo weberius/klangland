@@ -3,8 +3,26 @@
 }
 .profile-facts {
   padding: 1.25rem;
+  margin: 0;
+}
+/* Zwei-Spalten-Layout: Stammdaten links, Karte rechts (US-034, Desktop). */
+.venue-detail-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 22rem) 1fr;
+  gap: 1rem;
+  align-items: start;
   margin-bottom: 2rem;
-  max-width: 32rem;
+}
+.venue-map-box {
+  padding: 1.25rem;
+}
+.venue-map-box h2 {
+  margin-top: 0;
+}
+@media (max-width: 720px) {
+  .venue-detail-grid {
+    grid-template-columns: 1fr;
+  }
 }
 .profile-facts dl {
   margin: 0;

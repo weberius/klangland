@@ -86,7 +86,11 @@
 
     <section class="events-section">
       <h2>Veranstaltungen ({{ events().length }})</h2>
-      <app-event-list [events]="events()" />
+      @if (events().length === 0 && filterActive()) {
+        <p class="empty">Keine Veranstaltungen im aktuellen Filter.</p>
+      } @else {
+        <app-event-list [events]="events()" />
+      }
     </section>
   </article>
 }

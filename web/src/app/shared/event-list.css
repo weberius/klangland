@@ -7,11 +7,46 @@
   gap: 0.5rem;
 }
 .event-row {
+  display: flex;
+  align-items: stretch;
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   background: var(--color-surface);
 }
+/* Klickbarer Favoriten-Stern je Zeile (US-027), angelehnt an .btn-favorite/.favorite-marker. */
+.favorite-toggle {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  border: none;
+  border-right: 1px solid var(--color-border);
+  border-radius: var(--radius) 0 0 var(--radius);
+  background: none;
+  cursor: pointer;
+  color: var(--color-text-muted);
+  padding: 0;
+}
+.favorite-toggle .favorite-star {
+  font-size: 1.15rem;
+  line-height: 1;
+}
+.favorite-toggle:hover {
+  background: var(--color-surface-alt);
+  color: var(--color-text);
+}
+.favorite-toggle.is-favorite .favorite-star {
+  color: #c69a2e;
+}
+.favorite-toggle:focus-visible {
+  outline: 2px solid var(--color-highlight);
+  outline-offset: -2px;
+  border-radius: var(--radius) 0 0 var(--radius);
+}
 .event-row-link {
+  flex: 1;
+  min-width: 0;
   display: flex;
   gap: 1rem;
   padding: 0.75rem 1rem;

@@ -33,6 +33,13 @@ export class FilterButton {
   protected readonly cities = computed(() => this.data.filterCities());
   protected readonly profiles = computed(() => this.data.filterProfiles());
 
+  /**
+   * Vertikale Position des (nun bildschirmzentrierten) Popovers, dynamisch aus der Unterkante
+   * des Buttons ermittelt (US-035, AK 5). Da `position: fixed` nicht mehr relativ zu `:host`
+   * rechnet, muss `top` beim Öffnen gesetzt werden – robust gegenüber Kopfzeilenhöhe.
+   */
+  protected readonly popoverTop = signal<number>(0);
+
   /** Auf Abruf erzeugter Teilen-Link (null = noch nicht erzeugt). */
   protected readonly shareUrl = signal<string | null>(null);
   /** Ob der Teilen-Link erfolgreich in die Zwischenablage kopiert wurde. */
@@ -60,8 +67,13 @@ export class FilterButton {
   }
 
   toggle(): void {
-    if (this.open()) this.close();
-    else this.open.set(true);
+    if (this.open()) {
+      this.close();
+    } else {
+      const button = this.toggleButton()?.nativeElement;
+      if (button) this.popoverTop.set(button.getBoundingClientRect().bottom + 8);
+      this.open.set(true);
+    }
   }
 
   private close(): void {

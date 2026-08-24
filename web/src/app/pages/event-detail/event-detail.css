@@ -90,30 +90,6 @@
   font-size: 0.85rem;
 }
 
-/* Kleine Leaflet-/OSM-Karte des Veranstaltungsortes (US-023). */
-.event-map {
-  height: min(40vh, 320px);
-  width: 100%;
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius);
-  overflow: hidden;
-  background: var(--color-surface-alt);
-  /* Eigener Stacking-Context: sperrt Leaflets interne z-indices in die Karte ein. */
-  position: relative;
-  z-index: 0;
-}
-
-/* Anbieter-Links im Routing-Dialog (US-023). */
-.maps-links {
-  margin: 0 0 1.1rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.4rem;
-}
-.maps-links a {
-  font-weight: 500;
-}
-
 .source {
   padding: 0 0.25rem;
 }

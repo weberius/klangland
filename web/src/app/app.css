@@ -32,25 +32,26 @@
   gap: 1rem;
   padding-block: 0.75rem;
 }
+/* Nur noch das Marken-Icon; der „Klangland"-Schriftzug wurde entfernt, der Platz geht
+   an die Suche (US-035). Das aria-label am Link erhält die Zugänglichkeit. */
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-  font-weight: 600;
-  font-size: 1.25rem;
-  color: var(--color-text);
+  flex: none;
   text-decoration: none;
 }
+/* Marken-Icon in Burger-Button-Größe (US-035, AK 6/7). */
 .brand-mark {
-  color: var(--color-accent);
-  font-size: 1.4rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
 }
 
 .global-search {
   position: relative;
   flex: 1 1 14rem;
-  min-width: 8rem;
-  max-width: 28rem;
+  min-width: 7rem;
+  max-width: 32rem;
 }
 
 .search-input {
@@ -65,11 +66,6 @@
 .search-input::placeholder {
   color: var(--color-text-muted);
 }
-.search-input:focus-visible {
-  outline: 2px solid var(--color-highlight);
-  outline-offset: 2px;
-}
-
 .search-icon {
   position: absolute;
   left: 0.8rem;
@@ -176,7 +172,10 @@
   background: var(--color-accent-soft);
   color: var(--color-accent-strong);
 }
-.main-nav a:focus-visible {
+/* Einheitlicher Fokusring für Suchfeld, Navigations-Links und Burger-Button. */
+.search-input:focus-visible,
+.main-nav a:focus-visible,
+.nav-toggle:focus-visible {
   outline: 2px solid var(--color-highlight);
   outline-offset: 2px;
 }
@@ -194,6 +193,7 @@
   justify-content: center;
   margin-inline-start: auto;
   position: relative;
+  flex-shrink: 0;
   width: 2.5rem;
   height: 2.5rem;
   border: 1px solid var(--color-border);
@@ -203,10 +203,6 @@
 }
 .nav-toggle:hover {
   background: var(--color-surface-alt);
-}
-.nav-toggle:focus-visible {
-  outline: 2px solid var(--color-highlight);
-  outline-offset: 2px;
 }
 /* Drei Balken ohne Icon-Bibliothek */
 .nav-toggle-icon,
@@ -257,9 +253,6 @@ main {
 }
 
 @media (max-width: 720px) {
-  .global-search {
-    min-width: 8.5rem;
-  }
   .footer-links {
     gap: 0.4rem 0.85rem;
   }

@@ -358,11 +358,26 @@ export class DataService {
     return this.events.filter((e) => e.venueId === venueId).sort(this.byDateTime);
   }
 
-  /** Chronologische Events, in deren Programm das Werk vorkommt (US-018). */
-  eventsForWork(workId: string): ConcertEvent[] {
-    return this.events
+  /**
+   * Chronologische Events, in deren Programm das Werk vorkommt (US-018). Optional zusätzlich
+   * über den Ort-/Profil-Filter sowie den Favoriten-Filter eingegrenzt (US-031): bei leerer
+   * `cityIds`/`profileIds`-Auswahl und ohne `favoriteEventIds` bleibt das Verhalten identisch
+   * zum Bestand; andernfalls wird die Werk-Ereignisliste mit `eventsForFilter` geschnitten.
+   */
+  eventsForWork(
+    workId: string,
+    cityIds: ReadonlySet<string> = new Set(),
+    profileIds: ReadonlySet<string> = new Set(),
+    favoriteEventIds?: ReadonlySet<string> | null,
+  ): ConcertEvent[] {
+    const base = this.events
       .filter((e) => e.program.some((p) => p.workId === workId))
       .sort(this.byDateTime);
+    if (cityIds.size === 0 && profileIds.size === 0 && !favoriteEventIds) return base;
+    const allowed = new Set(
+      this.eventsForFilter(cityIds, profileIds, favoriteEventIds).map((e) => e.id),
+    );
+    return base.filter((e) => allowed.has(e.id));
   }
 
   /**
@@ -371,10 +386,15 @@ export class DataService {
    * Event-Programm vorkommen; leere Auswahl = alle programmierten Werke (analog zu
    * venuesForFilter). Jedes Werk erscheint genau einmal (Set); sortiert nach Komponist und –
    * bei gleichem Komponisten – nach Werktitel (deutsch). Der filter entfernt unbekannte workIds.
+   * Optionales `favoriteEventIds` schränkt zusätzlich auf favorisierte Events ein (US-028/US-030).
    */
-  worksForFilter(cityIds: ReadonlySet<string>, profileIds: ReadonlySet<string>): Work[] {
+  worksForFilter(
+    cityIds: ReadonlySet<string>,
+    profileIds: ReadonlySet<string>,
+    favoriteEventIds?: ReadonlySet<string> | null,
+  ): Work[] {
     const ids = new Set<string>();
-    for (const e of this.eventsForFilter(cityIds, profileIds)) {
+    for (const e of this.eventsForFilter(cityIds, profileIds, favoriteEventIds)) {
       for (const p of e.program) ids.add(p.workId);
     }
     return [...ids]
@@ -395,34 +415,48 @@ export class DataService {
    * Filter-/Saison-Semantik (leere Auswahl = alle programmierten Komponist:innen). Das Set
    * sichert „jede:r genau einmal"; sortiert nach Name (deutsch).
    */
-  composersForFilter(cityIds: ReadonlySet<string>, profileIds: ReadonlySet<string>): Composer[] {
+  composersForFilter(
+    cityIds: ReadonlySet<string>,
+    profileIds: ReadonlySet<string>,
+    favoriteEventIds?: ReadonlySet<string> | null,
+  ): Composer[] {
     const ids = new Set<string>();
-    for (const w of this.worksForFilter(cityIds, profileIds)) ids.add(w.composerId);
+    for (const w of this.worksForFilter(cityIds, profileIds, favoriteEventIds)) ids.add(w.composerId);
     return [...ids]
       .map((id) => this.composer(id))
       .filter((c): c is Composer => Boolean(c))
       .sort((a, b) => a.name.localeCompare(b.name, 'de'));
   }
 
-  /** Programmierte Werke einer Komponist:in (unter Filter), sortiert nach Titel (US-024). */
+  /**
+   * Programmierte Werke einer Komponist:in (unter Filter), sortiert nach Titel (US-024).
+   * Optionales `favoriteEventIds` schränkt zusätzlich auf favorisierte Events ein (US-032).
+   */
   worksForComposer(
     composerId: string,
     cityIds: ReadonlySet<string>,
     profileIds: ReadonlySet<string>,
+    favoriteEventIds?: ReadonlySet<string> | null,
   ): Work[] {
-    return this.worksForFilter(cityIds, profileIds)
+    return this.worksForFilter(cityIds, profileIds, favoriteEventIds)
       .filter((w) => w.composerId === composerId)
       .sort((a, b) => a.title.localeCompare(b.title, 'de'));
   }
 
-  /** Chronologische Events (unter Filter), in deren Programm ein Werk der Komponist:in vorkommt (US-024). */
+  /**
+   * Chronologische Events (unter Filter), in deren Programm ein Werk der Komponist:in vorkommt
+   * (US-024). Optionales `favoriteEventIds` schränkt zusätzlich auf favorisierte Events ein (US-032).
+   */
   eventsForComposer(
     composerId: string,
     cityIds: ReadonlySet<string>,
     profileIds: ReadonlySet<string>,
+    favoriteEventIds?: ReadonlySet<string> | null,
   ): ConcertEvent[] {
-    const workIds = new Set(this.worksForComposer(composerId, cityIds, profileIds).map((w) => w.id));
-    return this.eventsForFilter(cityIds, profileIds)
+    const workIds = new Set(
+      this.worksForComposer(composerId, cityIds, profileIds, favoriteEventIds).map((w) => w.id),
+    );
+    return this.eventsForFilter(cityIds, profileIds, favoriteEventIds)
       .filter((e) => e.program.some((p) => workIds.has(p.workId)))
       .sort(this.byDateTime);
   }
@@ -505,15 +539,25 @@ export class DataService {
   /**
    * Events, bei denen mindestens ein auftretendes Ensemble die Filterkombination
    * erfüllt (Gastspiele erscheinen also unter dem Sitzort). Leere Auswahl = alle.
+   * Ist `favoriteEventIds` gesetzt, wird das Ergebnis zusätzlich auf diese ID-Menge
+   * eingeschränkt (UND-Kombination mit Ort/Profil, US-028); `null`/`undefined` = keine
+   * Favoriten-Einschränkung (Verhalten identisch zum Bestand).
    */
-  eventsForFilter(cityIds: ReadonlySet<string>, profileIds: ReadonlySet<string>): ConcertEvent[] {
-    if (cityIds.size === 0 && profileIds.size === 0) return this.events;
-    return this.events.filter((e) =>
-      e.ensembleIds.some((id) => {
-        const ensemble = this.ensemble(id);
-        return ensemble ? this.ensembleMatches(ensemble, cityIds, profileIds) : false;
-      }),
-    );
+  eventsForFilter(
+    cityIds: ReadonlySet<string>,
+    profileIds: ReadonlySet<string>,
+    favoriteEventIds?: ReadonlySet<string> | null,
+  ): ConcertEvent[] {
+    const base =
+      cityIds.size === 0 && profileIds.size === 0
+        ? this.events
+        : this.events.filter((e) =>
+            e.ensembleIds.some((id) => {
+              const ensemble = this.ensemble(id);
+              return ensemble ? this.ensembleMatches(ensemble, cityIds, profileIds) : false;
+            }),
+          );
+    return favoriteEventIds ? base.filter((e) => favoriteEventIds.has(e.id)) : base;
   }
 
   /** Ensembles, die die Filterkombination erfüllen. Leere Auswahl = alle. */
@@ -525,12 +569,28 @@ export class DataService {
   /**
    * Spielstätten, in denen Ensembles auftreten, die die Filterkombination erfüllen
    * (über eventsForFilter → venueId), unabhängig vom Standort der Spielstätte.
-   * Leere Auswahl = alle Spielstätten.
+   * Leere Auswahl = alle Spielstätten. Ist `favoriteEventIds` gesetzt, bleiben nur
+   * Spielstätten mit mindestens einem favorisierten Event übrig (US-028).
    */
-  venuesForFilter(cityIds: ReadonlySet<string>, profileIds: ReadonlySet<string>): Venue[] {
-    if (cityIds.size === 0 && profileIds.size === 0) return this.venues;
-    const venueIds = new Set(this.eventsForFilter(cityIds, profileIds).map((e) => e.venueId));
+  venuesForFilter(
+    cityIds: ReadonlySet<string>,
+    profileIds: ReadonlySet<string>,
+    favoriteEventIds?: ReadonlySet<string> | null,
+  ): Venue[] {
+    if (cityIds.size === 0 && profileIds.size === 0 && !favoriteEventIds) return this.venues;
+    const venueIds = new Set(
+      this.eventsForFilter(cityIds, profileIds, favoriteEventIds).map((e) => e.venueId),
+    );
     return this.venues.filter((v) => venueIds.has(v.id));
+  }
+
+  /**
+   * Spielstätten mit hinterlegten Koordinaten – Quelle der blauen Kartenmarker (US-033).
+   * Keine Filterung nach Ort/Profil/Favoriten (Out of Scope). Sortiert nach Name (deutsch),
+   * geerbt aus dem `venues`-Getter.
+   */
+  mapVenues(): Venue[] {
+    return this.venues.filter((v) => v.coordinates);
   }
 
   /**

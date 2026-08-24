@@ -4,6 +4,16 @@
   <ul class="event-list">
     @for (e of events(); track e.id) {
       <li class="event-row">
+        <button
+          type="button"
+          class="favorite-toggle"
+          [class.is-favorite]="isFavorite(e)"
+          [attr.aria-pressed]="isFavorite(e)"
+          [attr.aria-label]="isFavorite(e) ? 'Aus Favoriten entfernen' : 'Zu Favoriten hinzufügen'"
+          (click)="toggleFavorite(e, $event)"
+        >
+          <span class="favorite-star" aria-hidden="true">{{ isFavorite(e) ? '★' : '☆' }}</span>
+        </button>
         <a class="event-row-link" [routerLink]="['/events', e.id]">
           <div class="event-row-date">
             <span class="date">{{ formatLongDate(e.date) }}</span>

@@ -17,7 +17,7 @@
 </button>
 
 @if (open()) {
-  <div id="filter-popover" class="filter-popover" role="dialog" aria-label="Filter">
+  <div id="filter-popover" class="filter-popover" role="dialog" aria-label="Filter" [style.top.px]="popoverTop()">
     <section class="filter-section">
       <h2 class="filter-heading">Ort</h2>
       <div class="chip-row" role="group" aria-label="Nach Ort filtern">

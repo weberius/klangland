@@ -4,13 +4,14 @@ import { toSignal } from '@angular/core/rxjs-interop';
 
 import { DataService } from '../../core/data.service';
 import { EventList } from '../../shared/event-list';
+import { VenueLocation } from '../../shared/venue-location/venue-location';
 import { Institution, Venue } from '../../models/models';
 import { INSTITUTION_TYPE_LABELS, VENUE_TYPE_LABELS, label } from '../../core/labels';
 import { formatAddress } from '../../core/address';
 
 @Component({
   selector: 'app-venue-detail',
-  imports: [RouterLink, EventList],
+  imports: [RouterLink, EventList, VenueLocation],
   templateUrl: './venue-detail.html',
   styleUrl: './venue-detail.css',
 })

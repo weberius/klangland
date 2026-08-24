@@ -18,7 +18,11 @@
     }
   </div>
 } @else if (cards().length === 0) {
-  <p class="empty">Keine Komponist:innen erfasst.</p>
+  @if (onlyFavorites()) {
+    <p class="empty">Keine Komponist:innen mit favorisierten Veranstaltungen.</p>
+  } @else {
+    <p class="empty">Keine Komponist:innen erfasst.</p>
+  }
 } @else {
   <div class="card-grid">
     @for (card of cards(); track card.composer.id) {
