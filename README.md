@@ -216,3 +216,14 @@ Der vollständige Anforderungskatalog steht in [`docs/product/prd.md`](docs/prod
 Das umgesetzte Verhalten ist zusätzlich als Gherkin-Contracts ([`docs/product/contracts/`](docs/product/contracts/)) und als EARS-Anforderungen ([`docs/product/ears/`](docs/product/ears/)) spezifiziert; die zentralen Architekturentscheidungen stehen als ADRs unter [`docs/architecture/`](docs/architecture/).
 
 Das vollständige Datenmodell mit allen Datenobjekten, gemeinsamen Konventionen und Beziehungen ist in [`docs/data-model.md`](docs/data-model.md) dokumentiert. Je Entität gibt es eine Detaildoku unter [`docs/entities/`](docs/entities/); die Event-spezifischen Regeln stehen in [`docs/events-and-relations.md`](docs/events-and-relations.md).
+
+---
+
+**Dokumentationsstatus (Stand 2026-08-24)**
+
+- **Version:** 1.0 (Spielzeit 2026/27)
+- **ADRs:** 8 akzeptiert (ADR-001 bis ADR-008)
+- **Gherkin-Contracts:** 11 Szenarien-Dateien
+- **EARS-Anforderungen:** 11 Spezifikations-Dateien mit 171+ Anforderungen
+- **PRD:** Vollständig für MVP-Spielzeit 2026/27
+- **Letztes Update:** 2026-08-24 (Dateinamensharmonisierung, fehlende Gherkin-Szenarien ergänzt)

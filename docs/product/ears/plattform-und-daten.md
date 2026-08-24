@@ -4,7 +4,7 @@
 
 Übergreifende Anforderungen an die statische Webapp: Datenladen, Fehlerbehandlung,
 Navigation, Deep-Links, Konfiguration, Sprache und Barrierefreiheit. Siehe auch
-[Contract](../contracts/datenladen-und-navigation.feature) sowie die
+[Contract](../contracts/plattform-und-daten.feature) sowie die
 [ADRs](../../architecture/).
 
 ## Statik und Datenladen

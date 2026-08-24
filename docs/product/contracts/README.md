@@ -18,11 +18,12 @@ passend zur Domänensprache des Projekts (Schlüsselwörter: `Funktionalität`, 
 | [`ensembles.feature`](ensembles.feature) | Ensembleübersicht und -profil inkl. zugehöriger Veranstaltungen |
 | [`spielstaetten.feature`](spielstaetten.feature) | Spielstättenübersicht und -profil inkl. Veranstaltungen |
 | [`karte.feature`](karte.feature) | Karte der Ensemble-Orte: rote Marker, Ensemble-Dialog, Ort-Filter setzen/entfernen, seitenübergreifende Wirkung |
-| [`datenladen-und-navigation.feature`](datenladen-und-navigation.feature) | Einmaliges Laden, Fehlerbehandlung, Hauptnavigation, 404, Referenzdatum |
+| [`plattform-und-daten.feature`](plattform-und-daten.feature) | Einmaliges Laden, Fehlerbehandlung, Hauptnavigation, 404, Referenzdatum |
 | [`suche.feature`](suche.feature) | Globale Suche im Header mit Mindestlänge und Fuzzy-Treffern |
 | [`filter.feature`](filter.feature) | Ort-Filter über Bubbles (Sitzort), Kennzeichen, Auswahl je Liste, Persistenz, Info-Toggle, Burger-Nav |
 | [`kalender-eintrag.feature`](kalender-eintrag.feature) | „In den Kalender eintragen": clientseitige `.ics`-Erzeugung, Pflichtfelder, Zeitzone, ganztägig-Fallback, Absage, stabile UID |
 | [`favoriten.feature`](favoriten.feature) | Favoriten für Events: Markieren, Übersichts-Kennzeichnung, „Nur Favoriten"-Filter (UND-kombiniert), Zurücksetzen, Teilen per Link, Wiederherstellung |
+| [`datenpflege.feature`](datenpflege.feature) | Ingest-Skripte, Idempotenz, Datenvalidierung, referenzielle Integrität, ID-Eindeutigkeit |
 
 ## Bezug zu anderen Dokumenten
 
