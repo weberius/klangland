@@ -1,151 +1,52 @@
-# US-026 Tasks - Projekt-Seite
+# US-026 – Umsetzungs-Tasks
 
-## Task-Übersicht
+Umsetzung von [US-026](./US-026-kalender-button-klarheit.md): Der Button auf der
+Event-Detailseite muss unmissverständlich klarstellen, dass er einen Termin in den
+**nativen Gerätekalender** exportiert (nicht den Klangland-eigenen Kalender). Rein
+inhaltliche/textliche Änderung – die bestehende `.ics`-Export-Funktion
+([ics.ts](../../../../web/src/app/core/ics.ts)) bleibt unverändert.
 
-### 1. Seite im bestehenden Pattern erstellen
-**ID:** us026-page-structure  
-**Status:** Pending  
-**Abhängigkeiten:** Keine  
-**Beschreibung:**  
-Neue statische Inhaltsseite nach bestehendem Routing-/Seitenmuster anlegen:
-- Route: `/projekt`
-- Seitentitel: "Projekt"
-- Grundstruktur mit allen 4 Inhaltsbereichen vorbereiten:
-  1. Einleitung/OK Lab Kontext
-  2. Projektzusammenfassung
-  3. Portraitbild (rechteckig)
-  4. PayPal-Unterstützungsbereich
-- CSS/Styling für die Seite vorbereiten
+## Architektur-Entscheidung (verbindlich)
 
----
+- Keine funktionale Änderung, nur Label/Hinweistext auf der Event-Detailseite.
+- Neue Beschriftung: **„Termin in Geräte-Kalender speichern"** (ersetzt „In den Kalender
+  eintragen").
+- Ergänzendes `title`-Attribut (Tooltip) sowie `aria-label` am Button erläutern die
+  Wirkung genauer, z. B.: „Lädt eine Kalenderdatei (.ics) herunter, um diesen Termin in
+  den Kalender Ihres Smartphones oder Rechners zu übernehmen."
+- Der Klangland-eigene Kalender (Route `/calendar`) und dessen Navigation/Wortlaut bleiben
+  unangetastet.
 
-### 2. OK Lab Köln Kontext implementieren
-**ID:** us026-oklab-context  
-**Status:** Pending  
-**Abhängigkeiten:** us026-page-structure  
-**Beschreibung:**  
-Einleitungsbereich mit explizitem Hinweis auf OK Lab Köln umsetzen:
-- Klarer Text, dass Klangland im Rahmen des OK Lab entstanden ist
-- Link zu https://codefor.de/koeln/ einbinden
-- Prominent am Anfang der Seite platzieren (AC-2)
+Betroffene Dateien:
+
+- [web/src/app/pages/event-detail/event-detail.html](../../../../web/src/app/pages/event-detail/event-detail.html#L23) (Button-Text, Zeile 23)
+- [web/src/app/pages/event-detail/event-detail.css](../../../../web/src/app/pages/event-detail/event-detail.css) (nur falls Zeilenumbruch/Breite angepasst werden muss)
 
 ---
 
-### 3. Projektzusammenfassung einbinden
-**ID:** us026-project-summary  
-**Status:** Pending  
-**Abhängigkeiten:** us026-page-structure  
-**Beschreibung:**  
-Die bereitgestellte Projektzusammenfassung einbinden:
-> Klangland zeigt dir, welche Konzerte in Nordrhein-Westfalen stattfinden – an einem Ort, aktuell und kostenlos. Das Projekt sammelt den Spielplan der professionellen Musikszene der Region: Sinfoniekonzerte, Oper, Kammermusik und perspektivisch auch Jazz. Im Kalender findest du Termine nach Datum, Ort und Ensemble. Du kannst Spielstätten auf einer Karte entdecken, durch Komponist:innen und Werke der Saison stöbern und mit der Suche schnell finden, was dich interessiert. Konzerte, die dich reizen, kannst du als Favoriten merken. Klangland läuft im Browser – am Rechner genauso wie auf dem Smartphone. Schau rein und finde dein nächstes Konzert.
+## Task 1 – Button-Beschriftung und Hinweistext anpassen
 
-Anforderungen:
-- Text sollte Projektziel und Funktionen verständlich darstellen (AC-3)
+- In [event-detail.html:23](../../../../web/src/app/pages/event-detail/event-detail.html#L23)
+  den Button-Text von „In den Kalender eintragen" auf „Termin in Geräte-Kalender
+  speichern" ändern.
+- `title`- und `aria-label`-Attribut mit dem oben festgelegten Erläuterungstext ergänzen.
+- Prüfen, ob der längere Text im `event-actions`-Zeilenlayout (Desktop und Mobile) noch
+  sauber umbricht; bei Bedarf `event-detail.css` anpassen (z. B. `white-space`/`flex-wrap`).
+- **Deckt ab:** AK 1, AK 2, AK 3.
 
----
+## Task 2 – Manuelle Verifikation
 
-### 4. Portraitbild einbinden
-**ID:** us026-portrait-integration  
-**Status:** Pending  
-**Abhängigkeiten:** us026-page-structure  
-**Beschreibung:**  
-Portraitbild des Betreibers einbinden und **rechteckig** darstellen:
-- Bildquelle: https://github.com/weberius/fotopfade/blob/main/images/koeln-muelheim/wolfram.jpg
-- Darstellung: **Rechteckig** (nicht rund, nicht original)
-- Angemessene Auflösung und Performance optimieren (responsive Bilder)
-- Bild sollte auf der Seite sichtbar sein (AC-4)
+- `cd web && npm run build` – Build ohne Fehler.
+- `cd web && npm start` und im Browser prüfen:
+  - Auf einer beliebigen `events/:id`-Seite ist der neue Button-Text lesbar und
+    verständlich, ohne den Klangland-Kalender zu erwähnen (AK 1).
+  - Tooltip (Hover) bzw. Screenreader-Ansage (`aria-label`) erläutert den Export in den
+    Gerätekalender (AK 2).
+  - Der `.ics`-Download funktioniert unverändert wie vor der Änderung (AK 3).
+  - Die Kalenderseite (`/calendar`) und ihre Beschriftungen sind unverändert (AK 4).
 
----
+## Definition of Done
 
-### 5. PayPal-Unterstützungsbereich implementieren
-**ID:** us026-paypal-support  
-**Status:** Pending  
-**Abhängigkeiten:** us026-page-structure  
-**Beschreibung:**  
-Unterstützungsbereich mit PayPal-Link umsetzen:
-- Basierend auf Vorlage: https://github.com/weberius/fotopfade/blob/main/locales/koeln-muelheim/de/bymecoffeeModalLi.md
-- PayPal-Donate-URL wie in der Vorlage verwenden
-- Bereich sollte gut sichtbar und prominent platziert sein
-- Funktionsfähiger PayPal-Link (AC-5)
-
----
-
-### 6. Navigation aktualisieren
-**ID:** us026-navigation-update  
-**Status:** Pending  
-**Abhängigkeiten:** us026-page-structure  
-**Beschreibung:**  
-Hauptnavigation mit neuem Menüpunkt aktualisieren:
-- Neuen Menüeintrag "Projekt" hinzufügen
-- Als **letzter Menüpunkt** positionieren (AC-6)
-- **Visuellen Trennstrich** vor dem neuen Menüpunkt implementieren (CSS/Styling) (AC-7)
-- Link zur Route `/projekt` setzen
-
----
-
-### 7. Accessibility prüfen und implementieren
-**ID:** us026-accessibility  
-**Status:** Pending  
-**Abhängigkeiten:** us026-oklab-context, us026-project-summary, us026-portrait-integration, us026-paypal-support, us026-navigation-update  
-**Beschreibung:**  
-Keyboard-Navigation und Fokus-Styling sicherstellen:
-- Neuer Menüpunkt "Projekt" per Tastatur erreichbar (AC-8)
-- Sichtbarer Fokuszustand auf dem Menüpunkt vorhanden
-- Alle Links auf der Seite keyboard-accessible
-- Tab-Reihenfolge logisch
-- Kontrast und Lesbarkeit prüfen
-
----
-
-### 8. Review und Testen
-**ID:** us026-review-testing  
-**Status:** Pending  
-**Abhängigkeiten:** us026-accessibility  
-**Beschreibung:**  
-Vollständiger Test gegen alle 8 Akzeptanzkriterien:
-- **Visueller Review**: Layout, Styling, Responsive Design (Desktop & Mobile)
-- **Funktionalitätscheck**: Alle Links funktionieren, Bilder laden, PayPal-Link funktioniert
-- **Browser-Kompatibilität**: Chrome, Firefox, Safari, Edge
-- **Accessibility-Test**: Keyboard-Navigation, Screen-Reader Kompatibilität
-- **Performance**: Seitenladezeit, Bildoptimierung
-
-Test-Checklist gegen AC:
-- [ ] AC-1: Route `/projekt` ist aufrufbar
-- [ ] AC-2: OK Lab Köln Hinweis mit Link vorhanden
-- [ ] AC-3: Projektzusammenfassung verständlich
-- [ ] AC-4: Portraitbild rechteckig dargestellt
-- [ ] AC-5: PayPal-Link gut sichtbar und funktioniert
-- [ ] AC-6: Neuer Menüpunkt "Projekt" ist letzter Eintrag
-- [ ] AC-7: Trennstrich vor Menüpunkt sichtbar
-- [ ] AC-8: Menüpunkt per Tastatur erreichbar mit sichtbarem Fokus
-
----
-
-## Task-Abhängigkeiten (DAG)
-
-```
-us026-page-structure
-  ├─ us026-oklab-context
-  ├─ us026-project-summary
-  ├─ us026-portrait-integration
-  ├─ us026-paypal-support
-  └─ us026-navigation-update
-      └─ us026-accessibility
-          └─ us026-review-testing
-```
-
----
-
-## Geschätzter Aufwand
-
-| Task | Aufwand (h) |
-|------|------------|
-| Page Structure | 2-3 |
-| OK Lab Context | 1 |
-| Project Summary | 0.5 |
-| Portrait Integration | 1-2 |
-| PayPal Support | 1-2 |
-| Navigation Update | 1-2 |
-| Accessibility | 1-2 |
-| Review & Testing | 2-3 |
-| **Gesamt** | **9-17** |
+- Akzeptanzkriterien 1–4 aus [US-026](./US-026-kalender-button-klarheit.md) erfüllt.
+- Keine Änderung an der `.ics`-Exportlogik oder am Klangland-eigenen Kalender.
+- Build erfolgreich; Wortlaut manuell im Browser geprüft.
