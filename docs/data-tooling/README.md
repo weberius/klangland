@@ -8,6 +8,10 @@ Quelle, die Mapping-Regeln und die Kuratierungsentscheidungen festhält.
 Die Skripte sind **idempotent**: Sie entfernen zuvor eingespielte Events der jeweiligen
 Quelle (erkannt am Quell-Host) und legen Stammdaten anhand ihrer IDs dublettenfrei an.
 
+Ein laufender Diskussionsstand zur Weiterentwicklung (Coverage-Audit bestehender Quellen,
+Ausbau um WDR-Ensembles/Oper NRW-weit, geplante Registry + gemeinsames Tooling) steht in
+[`strategie-datenaktualisierung.md`](strategie-datenaktualisierung.md).
+
 ## Übersicht
 
 | Ensemble | Quelle | Skript | Doku |
