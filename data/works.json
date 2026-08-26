@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.1",
-    "lastUpdated": "2026-08-21",
+    "lastUpdated": "2026-08-26",
     "language": "de",
     "notes": "Werkstammdaten für die ersten Event-Beispiele. Aufführungsdaten stehen ausschließlich in events.json. Angereichert mit strukturierten Metadaten aus Open Opus (openOpusId, popular/recommended, teils Werkverzeichnis; CC0, https://openopus.org). Siehe docs/data-tooling/import_openopus.py und docs/data-tooling/README.md."
   },
@@ -12685,6 +12685,867 @@
       "catalogue": [],
       "yearComposed": null,
       "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-vorspiel-tristan-und-isolde",
+      "composerId": "richard-wagner",
+      "title": "Vorspiel zu »Tristan und Isolde«",
+      "catalogue": [
+        {
+          "system": "WWV",
+          "number": "90"
+        }
+      ],
+      "yearComposed": {
+        "from": 1857,
+        "to": 1857
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "wagner-meistersinger-vorspiel-3-akt",
+      "composerId": "richard-wagner",
+      "title": "Vorspiel zum dritten Akt aus »Die Meistersinger von Nürnberg«",
+      "catalogue": [
+        {
+          "system": "WWV",
+          "number": "96"
+        }
+      ],
+      "yearComposed": {
+        "from": 1862,
+        "to": 1862
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-ouvertuere-don-giovanni",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Ouvertüre zu »Don Giovanni«",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "527"
+        }
+      ],
+      "yearComposed": {
+        "from": 1787,
+        "to": 1787
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-violinkonzert-d-dur-kv218",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Violinkonzert D-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "218"
+        }
+      ],
+      "yearComposed": {
+        "from": 1775,
+        "to": 1775
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kraus-ouvertuere-olympie",
+      "composerId": "joseph-martin-kraus",
+      "title": "Ouvertüre zur Oper »Olympie«",
+      "catalogue": [
+        {
+          "system": "VB",
+          "number": "33"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mendelssohn-sinfonie-3-schottische",
+      "composerId": "felix-mendelssohn-bartholdy",
+      "title": "Sinfonie Nr. 3 a-Moll »Schottische Sinfonie«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "56"
+        }
+      ],
+      "yearComposed": {
+        "from": 1829,
+        "to": 1831
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mayer-ouvertuere-nr-2-d-dur",
+      "composerId": "emilie-mayer",
+      "title": "Ouvertüre Nr. 2 D-Dur",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1850,
+        "to": 1850
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mayer-sinfonie-nr-7-f-moll",
+      "composerId": "emilie-mayer",
+      "title": "Sinfonie Nr. 7 f-Moll",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1856,
+        "to": 1856
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "puts-virelai",
+      "composerId": "kevin-puts",
+      "title": "Virelai after Guillaume de Machaut",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 2019,
+        "to": 2019
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bruch-kol-nidrei",
+      "composerId": "max-bruch",
+      "title": "»Kol Nidrei« für Violoncello und Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "47"
+        }
+      ],
+      "yearComposed": {
+        "from": 1880,
+        "to": 1880
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "stravinsky-monumentum-pro-gesualdo",
+      "composerId": "igor-stravinsky",
+      "title": "»Monumentum pro Gesualdo«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1960,
+        "to": 1960
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-brandenburgisches-konzert-3",
+      "composerId": "johann-sebastian-bach",
+      "title": "Brandenburgisches Konzert Nr. 3 G-Dur",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "1048"
+        }
+      ],
+      "yearComposed": {
+        "from": 1718,
+        "to": 1718
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-schafe-koennen-sicher-weiden",
+      "composerId": "johann-sebastian-bach",
+      "title": "»Schafe können sicher weiden« aus der Kantate",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "208"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "telemann-sinfonia-spirituosa",
+      "composerId": "georg-philipp-telemann",
+      "title": "»Sinfonia spirituosa« D-Dur",
+      "catalogue": [
+        {
+          "system": "TWV",
+          "number": "44:1"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "corelli-concerto-8-notte-di-natale",
+      "composerId": "arcangelo-corelli",
+      "title": "Concerto Nr. 8 g-Moll »Fatto per la notte di natale«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "6/8"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bach-wir-eilen-bwv78",
+      "composerId": "johann-sebastian-bach",
+      "title": "»Wir eilen« aus Kantate »Jesu, der du meine Seele«",
+      "catalogue": [
+        {
+          "system": "BWV",
+          "number": "78"
+        }
+      ],
+      "yearComposed": {
+        "from": 1724,
+        "to": 1724
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sinfonie-29-a-dur",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Sinfonie Nr. 29 A-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "201"
+        }
+      ],
+      "yearComposed": {
+        "from": 1774,
+        "to": 1774
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bizet-sinfonie-1-c-dur",
+      "composerId": "georges-bizet",
+      "title": "Sinfonie Nr. 1 C-Dur",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1855,
+        "to": 1855
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-ouvertuere-cosi-fan-tutte",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Ouvertüre zu »Così fan tutte«",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "588"
+        }
+      ],
+      "yearComposed": {
+        "from": 1790,
+        "to": 1790
+      },
+      "genre": "overture",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-klavierkonzert-c-dur-kv503",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Klavierkonzert C-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "503"
+        }
+      ],
+      "yearComposed": {
+        "from": 1786,
+        "to": 1786
+      },
+      "genre": "concerto",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sinfonie-38-prager",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Sinfonie Nr. 38 D-Dur »Prager«",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "504"
+        }
+      ],
+      "yearComposed": {
+        "from": 1786,
+        "to": 1786
+      },
+      "genre": "symphony",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-londoner-trio-3-spiritoso",
+      "composerId": "joseph-haydn",
+      "title": "Spiritoso aus Londoner Trio Nr. 3",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-sechs-laendlerische-taenze",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Sechs Ländlerische Tänze",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "salieri-trio-in-g",
+      "composerId": "antonio-salieri",
+      "title": "Trio in G",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "strauss-vater-trompeten-walzer",
+      "composerId": "johann-strauss-vater",
+      "title": "Trompeten-Walzer",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "dittersdorf-divertimento-in-e",
+      "composerId": "carl-ditters-von-dittersdorf",
+      "title": "Divertimento in E",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "brahms-hymne-grosser-joachim",
+      "composerId": "johannes-brahms",
+      "title": "Hymne zur Verherrlichung des großen Joachim",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "kreisler-schoen-rosmarin",
+      "composerId": "fritz-kreisler",
+      "title": "»Schön Rosmarin«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "massenet-meditation-thais",
+      "composerId": "jules-massenet",
+      "title": "»Méditation« aus »Thaïs«",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "haydn-divertimento-d-allegro",
+      "composerId": "joseph-haydn",
+      "title": "Allegro aus Divertimento in D",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-sechs-gesellschafts-menuette",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Sechs Gesellschafts-Menuette",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "debussy-childrens-corner-orch-caplet",
+      "composerId": "claude-debussy",
+      "title": "»Children's Corner« (orch. Caplet)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1908,
+        "to": 1908
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "hahn-suite-le-bal-de-beatrice-deste",
+      "composerId": "reynaldo-hahn",
+      "title": "Suite »Le Bal de Béatrice d'Este«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1905,
+        "to": 1905
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "holmes-ludus-pro-patria-interlude",
+      "composerId": "augusta-holmes",
+      "title": "»Ludus pro Patria«: Interlude",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1888,
+        "to": 1888
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "franck-le-chasseur-maudit",
+      "composerId": "cesar-franck",
+      "title": "»Le Chasseur maudit«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1882,
+        "to": 1882
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "respighi-ancient-airs-and-dances-3",
+      "composerId": "ottorino-respighi",
+      "title": "Ancient Airs and Dances, Suite No. 3",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "humperdinck-quintett-g-dur",
+      "composerId": "engelbert-humperdinck",
+      "title": "Quintett G-Dur",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sibelius-en-saga",
+      "composerId": "jean-sibelius",
+      "title": "»En Saga«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "9"
+        }
+      ],
+      "yearComposed": {
+        "from": 1892,
+        "to": 1892
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "sibelius-valse-triste",
+      "composerId": "jean-sibelius",
+      "title": "»Valse triste«",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "44"
+        }
+      ],
+      "yearComposed": {
+        "from": 1903,
+        "to": 1903
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "halvorsen-norwegische-rhapsodie-1",
+      "composerId": "johan-halvorsen",
+      "title": "»Norwegische Rhapsodie« Nr. 1 A-Dur",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1919,
+        "to": 1920
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "grieg-sinfonische-taenze",
+      "composerId": "edvard-grieg",
+      "title": "Sinfonische Tänze",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "64"
+        }
+      ],
+      "yearComposed": {
+        "from": 1898,
+        "to": 1898
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "bernstein-candide-auswahl",
+      "composerId": "leonard-bernstein",
+      "title": "»Candide« (Auswahl)",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1956,
+        "to": 1974
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "clyne-restless-oceans",
+      "composerId": "anna-clyne",
+      "title": "»Restless Oceans«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 2018,
+        "to": 2018
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "gal-quintett-op107",
+      "composerId": "hans-gal",
+      "title": "Quintett für Klarinette und Streichquartett",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "107"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "busch-serenade-a-dur-op53b",
+      "composerId": "adolf-busch",
+      "title": "Serenade A-Dur für Klarinette, Violine und Viola",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "53b"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "busoni-suite-g-moll-klarinette",
+      "composerId": "ferruccio-busoni",
+      "title": "Suite g-Moll für Klarinette und Streichquartett",
+      "catalogue": [],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "danzi-fagottquartett-3-op40",
+      "composerId": "franz-ignaz-danzi",
+      "title": "Fagottquartett Nr. 3",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "40"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "mozart-divertimento-es-dur-kv573",
+      "composerId": "wolfgang-amadeus-mozart",
+      "title": "Divertimento Es-Dur",
+      "catalogue": [
+        {
+          "system": "KV",
+          "number": "573"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "britten-welcome-ode",
+      "composerId": "benjamin-britten",
+      "title": "»Welcome Ode« für Chor und Orchester",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "95"
+        }
+      ],
+      "yearComposed": {
+        "from": 1976,
+        "to": 1976
+      },
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "beethoven-chorfantasie",
+      "composerId": "ludwig-van-beethoven",
+      "title": "Fantasie c-Moll für Klavier, Chor und Orchester (»Chorfantasie«)",
+      "catalogue": [
+        {
+          "system": "Opus",
+          "number": "80"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "other",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "puccini-messa-di-gloria",
+      "composerId": "giacomo-puccini",
+      "title": "Messa (»Messa di Gloria«)",
+      "catalogue": [
+        {
+          "system": "SC",
+          "number": "6"
+        }
+      ],
+      "yearComposed": {
+        "from": 1878,
+        "to": 1880
+      },
+      "genre": "oratorio",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "schubert-streichquartett-14-der-tod-und-das-maedchen",
+      "composerId": "franz-schubert",
+      "title": "Streichquartett Nr. 14 d-Moll »Der Tod und das Mädchen«",
+      "catalogue": [
+        {
+          "system": "D",
+          "number": "810"
+        }
+      ],
+      "yearComposed": null,
+      "genre": "chamber_music",
+      "durationMinutes": null,
+      "version": null,
+      "scoring": null,
+      "description": null
+    },
+    {
+      "id": "spohr-die-letzten-dinge",
+      "composerId": "louis-spohr",
+      "title": "»Die letzten Dinge«",
+      "catalogue": [],
+      "yearComposed": {
+        "from": 1825,
+        "to": 1826
+      },
+      "genre": "oratorio",
       "durationMinutes": null,
       "version": null,
       "scoring": null,

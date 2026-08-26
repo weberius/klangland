@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.2",
-    "lastUpdated": "2026-08-22",
+    "lastUpdated": "2026-08-26",
     "language": "de",
     "notes": "Adressen (strukturiert) und Koordinaten werden aus OpenStreetMap recherchiert (Overpass für Zuordnung/Koordinaten, Nominatim für die Postadresse; siehe docs/data-tooling/fetch_venue_addresses.py, US-022). Nicht eindeutig auflösbare Spielstätten bleiben null; das idempotente Skript kann jederzeit erneut ausgeführt werden, um offene Felder nachzutragen."
   },
@@ -2661,6 +2661,459 @@
         "lng": 7.150190006322334
       },
       "website": "http://www.nachbarschaftsheim-wuppertal.de/",
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "schlossplatz-muenster",
+      "name": "Schlossplatz Münster",
+      "cityIds": [
+        "muenster"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "schuetzenhalle-grevenbrueck",
+      "name": "Schützenhalle Grevenbrück",
+      "cityIds": [
+        "lennestadt"
+      ],
+      "region": null,
+      "address": {
+        "street": "Kölner Straße",
+        "houseNumber": "60",
+        "postalCode": "57368",
+        "city": "Lennestadt"
+      },
+      "coordinates": {
+        "lat": 51.13609,
+        "lng": 8.01505
+      },
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "kultureller-marktplatz-hilchenbach",
+      "name": "Kultureller Marktplatz Hilchenbach-Dahlbruch",
+      "cityIds": [
+        "hilchenbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "kirche-am-roemer-burbach",
+      "name": "Kirche am Römer Burbach",
+      "cityIds": [
+        "burbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "apollo-theater-siegen",
+      "name": "Apollo-Theater Siegen",
+      "cityIds": [
+        "siegen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "theater-lippstadt",
+      "name": "Theater Lippstadt",
+      "cityIds": [
+        "lippstadt"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "st-johannes-kirche-arnsberg-neheim",
+      "name": "St. Johannes Kirche Arnsberg-Neheim",
+      "cityIds": [
+        "arnsberg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "haus-der-musik-siegen",
+      "name": "Haus der Musik Siegen",
+      "cityIds": [
+        "siegen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "concert_hall",
+      "institutionId": null
+    },
+    {
+      "id": "aula-gymnasium-bad-laasphe",
+      "name": "Aula des Gymnasiums Bad Laasphe",
+      "cityIds": [
+        "bad-laasphe"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "stift-keppel-konventssaal-hilchenbach",
+      "name": "Stift Keppel Konventssaal",
+      "cityIds": [
+        "hilchenbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "otto-flick-halle-kreuztal",
+      "name": "Otto-Flick-Halle Kreuztal",
+      "cityIds": [
+        "kreuztal"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "kulturhaus-luedenscheid",
+      "name": "Kulturhaus Lüdenscheid",
+      "cityIds": [
+        "luedenscheid"
+      ],
+      "region": null,
+      "address": {
+        "street": "Freiherr-vom-Stein-Straße",
+        "houseNumber": "9",
+        "postalCode": "58511",
+        "city": "Lüdenscheid"
+      },
+      "coordinates": {
+        "lat": 51.21432,
+        "lng": 7.6324
+      },
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "stadthalle-schmallenberg",
+      "name": "Stadthalle Schmallenberg",
+      "cityIds": [
+        "schmallenberg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "kath-kirche-st-alexander-schmallenberg",
+      "name": "Kath. Kirche St. Alexander Schmallenberg",
+      "cityIds": [
+        "schmallenberg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "kath-kirche-st-martin-olsberg-bigge",
+      "name": "Kath. Kirche St. Martin Olsberg-Bigge",
+      "cityIds": [
+        "olsberg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "pfarrkirche-st-johannes-baptist-attendorn",
+      "name": "Pfarrkirche St. Johannes Baptist Attendorn",
+      "cityIds": [
+        "attendorn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "parktheater-iserlohn",
+      "name": "Parktheater Iserlohn",
+      "cityIds": [
+        "iserlohn"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "metronom-theater-oberhausen",
+      "name": "Metronom-Theater Oberhausen",
+      "cityIds": [
+        "oberhausen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "theatre",
+      "institutionId": null
+    },
+    {
+      "id": "ev-kirche-hilchenbach",
+      "name": "Ev. Kirche Hilchenbach",
+      "cityIds": [
+        "hilchenbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "paedagogisches-zentrum-lennestadt",
+      "name": "Pädagogisches Zentrum Lennestadt",
+      "cityIds": [
+        "lennestadt"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "festhalle-wilnsdorf",
+      "name": "Festhalle Wilnsdorf",
+      "cityIds": [
+        "wilnsdorf"
+      ],
+      "region": null,
+      "address": {
+        "street": "Rathausstraße",
+        "houseNumber": null,
+        "postalCode": "57234",
+        "city": "Wilnsdorf"
+      },
+      "coordinates": {
+        "lat": 50.81704,
+        "lng": 8.1106
+      },
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "paedagogisches-zentrum-gesamtschule-kierspe",
+      "name": "Pädagogisches Zentrum der Gesamtschule Kierspe",
+      "cityIds": [
+        "kierspe"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "erloeserkirche-neunkirchen-siegerland",
+      "name": "Erlöserkirche Neunkirchen",
+      "cityIds": [
+        "neunkirchen-siegerland"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "neue-aula-warstein",
+      "name": "Neue Aula Warstein",
+      "cityIds": [
+        "warstein"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "museum-oberes-schloss-siegen",
+      "name": "Museum Oberes Schloss Siegen",
+      "cityIds": [
+        "siegen"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "sauerlandhalle-lennestadt",
+      "name": "Sauerlandhalle Lennestadt",
+      "cityIds": [
+        "lennestadt"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "buergerhaus-bad-berleburg",
+      "name": "Bürgerhaus Bad Berleburg",
+      "cityIds": [
+        "bad-berleburg"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "ev-kirche-bad-lippspringe",
+      "name": "Ev. Kirche Bad Lippspringe",
+      "cityIds": [
+        "bad-lippspringe"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "kurhaus-hamm",
+      "name": "Kurhaus Hamm",
+      "cityIds": [
+        "hamm"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "ginsburg-turmzimmer-hilchenbach",
+      "name": "Ginsburg Turmzimmer Hilchenbach-Lützel",
+      "cityIds": [
+        "hilchenbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "aula-gymnasium-wilnsdorf",
+      "name": "Aula des Gymnasiums Wilnsdorf",
+      "cityIds": [
+        "wilnsdorf"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "marktplatz-hilchenbach",
+      "name": "Marktplatz Hilchenbach",
+      "cityIds": [
+        "hilchenbach"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
+      "type": "other",
+      "institutionId": null
+    },
+    {
+      "id": "dreslers-park-kreuztal",
+      "name": "Dreslers Park Kreuztal",
+      "cityIds": [
+        "kreuztal"
+      ],
+      "region": null,
+      "address": null,
+      "coordinates": null,
+      "website": null,
       "type": "other",
       "institutionId": null
     }

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.3",
-    "lastUpdated": "2026-08-21",
+    "lastUpdated": "2026-08-26",
     "language": "de",
     "notes": "Normalisierte Ortsreferenzen. Enthält alle Sitzorte der erfassten Institutionen, Ensembles und Spielstätten sowie die von Events referenzierten Orte. Städte mit ansässigem Ensemble tragen ihr Kfz-Kennzeichen (plate) als Grundlage der Ort-Filter-Bubbles sowie Geokoordinaten (coordinates) als Grundlage der Kartenmarker (US-013, per Overpass-API recherchiert)."
   },
@@ -264,6 +264,101 @@
     {
       "id": "ahlen",
       "name": "Ahlen",
+      "country": "Deutschland"
+    },
+    {
+      "id": "lennestadt",
+      "name": "Lennestadt",
+      "country": "Deutschland"
+    },
+    {
+      "id": "hilchenbach",
+      "name": "Hilchenbach",
+      "country": "Deutschland"
+    },
+    {
+      "id": "burbach",
+      "name": "Burbach",
+      "country": "Deutschland"
+    },
+    {
+      "id": "arnsberg",
+      "name": "Arnsberg",
+      "country": "Deutschland"
+    },
+    {
+      "id": "bad-laasphe",
+      "name": "Bad Laasphe",
+      "country": "Deutschland"
+    },
+    {
+      "id": "kreuztal",
+      "name": "Kreuztal",
+      "country": "Deutschland"
+    },
+    {
+      "id": "luedenscheid",
+      "name": "Lüdenscheid",
+      "country": "Deutschland"
+    },
+    {
+      "id": "schmallenberg",
+      "name": "Schmallenberg",
+      "country": "Deutschland"
+    },
+    {
+      "id": "olsberg",
+      "name": "Olsberg",
+      "country": "Deutschland"
+    },
+    {
+      "id": "attendorn",
+      "name": "Attendorn",
+      "country": "Deutschland"
+    },
+    {
+      "id": "iserlohn",
+      "name": "Iserlohn",
+      "country": "Deutschland"
+    },
+    {
+      "id": "oberhausen",
+      "name": "Oberhausen",
+      "country": "Deutschland"
+    },
+    {
+      "id": "bad-berleburg",
+      "name": "Bad Berleburg",
+      "country": "Deutschland"
+    },
+    {
+      "id": "wilnsdorf",
+      "name": "Wilnsdorf",
+      "country": "Deutschland"
+    },
+    {
+      "id": "kierspe",
+      "name": "Kierspe",
+      "country": "Deutschland"
+    },
+    {
+      "id": "neunkirchen-siegerland",
+      "name": "Neunkirchen (Siegerland)",
+      "country": "Deutschland"
+    },
+    {
+      "id": "warstein",
+      "name": "Warstein",
+      "country": "Deutschland"
+    },
+    {
+      "id": "bad-lippspringe",
+      "name": "Bad Lippspringe",
+      "country": "Deutschland"
+    },
+    {
+      "id": "hamm",
+      "name": "Hamm",
       "country": "Deutschland"
     }
   ]

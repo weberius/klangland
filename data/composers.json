@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.3",
-    "lastUpdated": "2026-08-21",
+    "lastUpdated": "2026-08-26",
     "language": "de",
     "notes": "Komponist:innen der in events.json erfassten Aufführungen. Angereichert mit strukturierten Metadaten aus Open Opus (openOpusId, epoch; CC0, https://openopus.org) und kuratierten Wikipedia-Kurzfassungen (wikipedia.summary/url; eigenständig formuliert). Portraits (portrait.file/source/credit) aus Wikipedia/Wikimedia Commons, lokal persistiert unter data/portraits/, Attribution über portrait.source; siehe docs/data-tooling/fetch_composer_portraits.py. Siehe docs/data-tooling/import_openopus.py und docs/data-tooling/README.md."
   },
@@ -4561,6 +4561,118 @@
         "file": "ennio-morricone.jpg",
         "source": "https://commons.wikimedia.org/wiki/File:Ennio_Morricone_Cannes_2007.jpg",
         "credit": "Olivier Strecker – CC BY-SA 3.0"
+      }
+    },
+    {
+      "id": "joseph-martin-kraus",
+      "name": "Joseph Martin Kraus",
+      "life": {
+        "from": 1756,
+        "to": 1792
+      }
+    },
+    {
+      "id": "kevin-puts",
+      "name": "Kevin Puts",
+      "life": {
+        "from": 1972,
+        "to": null
+      }
+    },
+    {
+      "id": "igor-stravinsky",
+      "name": "Igor Stravinsky",
+      "life": {
+        "from": 1882,
+        "to": 1971
+      }
+    },
+    {
+      "id": "georg-philipp-telemann",
+      "name": "Georg Philipp Telemann",
+      "life": {
+        "from": 1681,
+        "to": 1767
+      }
+    },
+    {
+      "id": "antonio-salieri",
+      "name": "Antonio Salieri",
+      "life": {
+        "from": 1750,
+        "to": 1825
+      }
+    },
+    {
+      "id": "johann-strauss-vater",
+      "name": "Johann Strauß (Vater)",
+      "life": {
+        "from": 1804,
+        "to": 1848
+      }
+    },
+    {
+      "id": "carl-ditters-von-dittersdorf",
+      "name": "Carl Ditters von Dittersdorf",
+      "life": {
+        "from": 1739,
+        "to": 1799
+      }
+    },
+    {
+      "id": "fritz-kreisler",
+      "name": "Fritz Kreisler",
+      "life": {
+        "from": 1875,
+        "to": 1962
+      }
+    },
+    {
+      "id": "jules-massenet",
+      "name": "Jules Massenet",
+      "life": {
+        "from": 1842,
+        "to": 1912
+      }
+    },
+    {
+      "id": "reynaldo-hahn",
+      "name": "Reynaldo Hahn",
+      "life": {
+        "from": 1874,
+        "to": 1947
+      }
+    },
+    {
+      "id": "hans-gal",
+      "name": "Hans Gál",
+      "life": {
+        "from": 1890,
+        "to": 1987
+      }
+    },
+    {
+      "id": "adolf-busch",
+      "name": "Adolf Busch",
+      "life": {
+        "from": 1891,
+        "to": 1952
+      }
+    },
+    {
+      "id": "ferruccio-busoni",
+      "name": "Ferruccio Busoni",
+      "life": {
+        "from": 1866,
+        "to": 1924
+      }
+    },
+    {
+      "id": "franz-ignaz-danzi",
+      "name": "Franz Ignaz Danzi",
+      "life": {
+        "from": 1763,
+        "to": 1826
       }
     }
   ]

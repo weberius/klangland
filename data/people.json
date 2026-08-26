@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.2",
-    "lastUpdated": "2026-08-19",
+    "lastUpdated": "2026-08-26",
     "language": "de",
     "notes": "Personen sind reine Identitätsdatensätze. Die Funktion einer Person ergibt sich aus der referenzierenden Entität: Ensemble (Chefdirigent:in) bzw. Event (conductorPersonIds/soloistPersonIds)."
   },
@@ -3289,6 +3289,194 @@
     {
       "id": "lea-maria-terziyska",
       "name": "Lea Maria Terziyska"
+    },
+    {
+      "id": "johannes-klumpp",
+      "name": "Johannes Klumpp"
+    },
+    {
+      "id": "russell-harris",
+      "name": "Russell Harris"
+    },
+    {
+      "id": "mirjam-theil",
+      "name": "Mirjam Theil"
+    },
+    {
+      "id": "thomas-reif",
+      "name": "Thomas Reif"
+    },
+    {
+      "id": "josephine-korda",
+      "name": "Josephine Korda"
+    },
+    {
+      "id": "richard-morrison",
+      "name": "Richard Morrison"
+    },
+    {
+      "id": "sueda-seifert",
+      "name": "Sueda Seifert"
+    },
+    {
+      "id": "johanna-lorbach",
+      "name": "Johanna Lorbach"
+    },
+    {
+      "id": "daniel-rivas-lopez",
+      "name": "Daniel Rivas Lopez"
+    },
+    {
+      "id": "german-prentki",
+      "name": "Germán Prentki"
+    },
+    {
+      "id": "alexandra-lubchansky",
+      "name": "Alexandra Lubchansky"
+    },
+    {
+      "id": "erik-asgeirsson",
+      "name": "Erik Ásgeirsson"
+    },
+    {
+      "id": "sigiswald-kuijken",
+      "name": "Sigiswald Kuijken"
+    },
+    {
+      "id": "juheon-han",
+      "name": "Juheon Han"
+    },
+    {
+      "id": "marie-sophie-pollak",
+      "name": "Marie-Sophie Pollak"
+    },
+    {
+      "id": "markus-huber",
+      "name": "Markus Huber"
+    },
+    {
+      "id": "anna-morgoulets",
+      "name": "Anna Morgoulets"
+    },
+    {
+      "id": "maria-benyumova",
+      "name": "Maria Benyumova"
+    },
+    {
+      "id": "christoph-soldan",
+      "name": "Christoph Soldan"
+    },
+    {
+      "id": "yoshie-saito",
+      "name": "Yoshie Saito"
+    },
+    {
+      "id": "ksenia-ivakina",
+      "name": "Ksenia Ivakina"
+    },
+    {
+      "id": "daniel-ibanez-garcia",
+      "name": "Daniel Ibáñez-García"
+    },
+    {
+      "id": "werner-stephan",
+      "name": "Werner Stephan"
+    },
+    {
+      "id": "avery-gagliano",
+      "name": "Avery Gagliano"
+    },
+    {
+      "id": "sangmin-park",
+      "name": "Sangmin Park"
+    },
+    {
+      "id": "liliane-hazin-dorus",
+      "name": "Liliane Hazin-Dorus"
+    },
+    {
+      "id": "eric-steffens",
+      "name": "Eric Steffens"
+    },
+    {
+      "id": "claire-gibault",
+      "name": "Claire Gibault"
+    },
+    {
+      "id": "anar-ibrahimov",
+      "name": "Anar Ibrahimov"
+    },
+    {
+      "id": "anastasia-avdejeva",
+      "name": "Anastasia Avdejeva"
+    },
+    {
+      "id": "kolja-berning",
+      "name": "Kolja Berning"
+    },
+    {
+      "id": "anna-maria-kossbau",
+      "name": "Anna-Maria Koßbau"
+    },
+    {
+      "id": "julia-brodbeck",
+      "name": "Julia Brodbeck"
+    },
+    {
+      "id": "elena-santana-de-la-rosa",
+      "name": "Elena Santana de la Rosa"
+    },
+    {
+      "id": "renate-aperloo",
+      "name": "Renate Aperloo"
+    },
+    {
+      "id": "leonard-evers",
+      "name": "Leonard Evers"
+    },
+    {
+      "id": "simon-gaudenz",
+      "name": "Simon Gaudenz"
+    },
+    {
+      "id": "lothar-r-mayer",
+      "name": "Lothar R. Mayer"
+    },
+    {
+      "id": "burkhard-schmitt",
+      "name": "Burkhard Schmitt"
+    },
+    {
+      "id": "cordelia-katharina-weil",
+      "name": "Cordelia Katharina Weil"
+    },
+    {
+      "id": "susumu-takahashi",
+      "name": "Susumu Takahashi"
+    },
+    {
+      "id": "paulina-gude",
+      "name": "Paulina Gude"
+    },
+    {
+      "id": "bernhard-steiner",
+      "name": "Bernhard Steiner"
+    },
+    {
+      "id": "joachim-geibel",
+      "name": "Joachim Geibel"
+    },
+    {
+      "id": "lukas-schmidt",
+      "name": "Lukas Schmidt"
+    },
+    {
+      "id": "thomas-laske",
+      "name": "Thomas Laske"
+    },
+    {
+      "id": "christoph-schnackertz",
+      "name": "Christoph Schnackertz"
     }
   ]
 }

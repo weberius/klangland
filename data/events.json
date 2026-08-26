@@ -1,9 +1,10 @@
 {
   "metadata": {
     "version": "1.2",
-    "lastUpdated": "2026-08-19",
+    "lastUpdated": "2026-08-26",
     "season": "2026/27",
-    "language": "de"
+    "language": "de",
+    "notes": " Enthält recherchierte Konzerte der Philharmonie Südwestfalen (Spielzeitbuch 2026/27, Quelle: philsw.de/wp-content/uploads); nur Aufführungen in Nordrhein-Westfalen wurden übernommen. Enthält recherchierte Konzerte der Philharmonie Südwestfalen (Spielzeitbuch 2026/27, Quelle: philsw.de/wp-content/uploads); nur Aufführungen in Nordrhein-Westfalen wurden übernommen."
   },
   "events": [
     {
@@ -44675,6 +44676,3244 @@
       },
       "ticketUrl": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2537000",
       "lastVerified": "2026-08-19"
+    },
+    {
+      "id": "event-2026-08-29-muenster-sommerkonzert-der-landesregierung-nrw",
+      "title": "Sommerkonzert der Landesregierung NRW",
+      "eventType": "concert",
+      "date": "2026-08-29",
+      "startTime": "20:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "schlossplatz-muenster",
+      "cityId": "muenster",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-TV-Übertragung; Antrittskonzert von Chefdirigent Ingmar Beck. Programm im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-09-06-lennestadt-sinfoniekonzert-zum-abschluss-des-dirigierkurses-der-musikhochschule-detmold",
+      "title": "Sinfoniekonzert zum Abschluss des Dirigierkurses der Musikhochschule Detmold",
+      "eventType": "concert",
+      "date": "2026-09-06",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "schuetzenhalle-grevenbrueck",
+      "cityId": "lennestadt",
+      "conductorPersonIds": [
+        "johannes-klumpp"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "wagner-vorspiel-tristan-und-isolde",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "wagner-meistersinger-vorspiel-3-akt",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "tschaikowski-fantasie-ouvertuere-romeo-und-julia",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Abschlusskonzert des Dirigierkurses der Musikhochschule Detmold; Solist:innen laut Spielzeitbuch noch nicht benannt (N.N.). Zusätzlich zu den gelisteten Orchesterwerken erklingen Opernszenen aus Nicolais »Die lustigen Weiber von Windsor«, Tschaikowskis »Eugen Onegin« und »Iolanta«, Moniuszkos »Halka« sowie Wagners »Meistersinger« und Richard Strauss’ »Rosenkavalier« mit noch nicht benannten Solist:innen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-09-10-hilchenbach-last-night-of-the-proms",
+      "title": "Last Night of the Proms",
+      "eventType": "concert",
+      "date": "2026-09-10",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "kultureller-marktplatz-hilchenbach",
+      "cityId": "hilchenbach",
+      "conductorPersonIds": [
+        "russell-harris"
+      ],
+      "soloistPersonIds": [
+        "mirjam-theil",
+        "sandro-hirsch"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Konzert im Stil der Londoner »Last Night of the Proms« mit britischen Konzertklassikern; Einzeltitel im Spielzeitbuch nicht ausgewiesen. In Hilchenbach-Dahlbruch Verleihung des Brüder-Busch-Preis 2025 an Sandro Hirsch; die Aufführung in Burbach firmiert zusätzlich als »Römerkonzert«.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-09-12-burbach-last-night-of-the-proms",
+      "title": "Last Night of the Proms",
+      "eventType": "concert",
+      "date": "2026-09-12",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "kirche-am-roemer-burbach",
+      "cityId": "burbach",
+      "conductorPersonIds": [
+        "russell-harris"
+      ],
+      "soloistPersonIds": [
+        "mirjam-theil",
+        "sandro-hirsch"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Konzert im Stil der Londoner »Last Night of the Proms« mit britischen Konzertklassikern; Einzeltitel im Spielzeitbuch nicht ausgewiesen. In Hilchenbach-Dahlbruch Verleihung des Brüder-Busch-Preis 2025 an Sandro Hirsch; die Aufführung in Burbach firmiert zusätzlich als »Römerkonzert«.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-09-13-lippstadt-last-night-of-the-proms",
+      "title": "Last Night of the Proms",
+      "eventType": "concert",
+      "date": "2026-09-13",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "theater-lippstadt",
+      "cityId": "lippstadt",
+      "conductorPersonIds": [
+        "russell-harris"
+      ],
+      "soloistPersonIds": [
+        "mirjam-theil",
+        "sandro-hirsch"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Konzert im Stil der Londoner »Last Night of the Proms« mit britischen Konzertklassikern; Einzeltitel im Spielzeitbuch nicht ausgewiesen. In Hilchenbach-Dahlbruch Verleihung des Brüder-Busch-Preis 2025 an Sandro Hirsch; die Aufführung in Burbach firmiert zusätzlich als »Römerkonzert«.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-09-18-siegen-re-sonanz",
+      "title": "Re:Sonanz",
+      "eventType": "concert",
+      "date": "2026-09-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "thomas-reif"
+      ],
+      "program": [
+        {
+          "workId": "mozart-ouvertuere-don-giovanni",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-violinkonzert-d-dur-kv218",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "higdon-blue-cathedral",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "strauss-rosenkavalier-suite",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Antrittskonzert von Chefdirigent Ingmar Beck. Einführungsvortrag am 15. September 2026 mit Veronika Jefremowa.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-09-19-siegen-re-sonanz",
+      "title": "Re:Sonanz",
+      "eventType": "concert",
+      "date": "2026-09-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "thomas-reif"
+      ],
+      "program": [
+        {
+          "workId": "mozart-ouvertuere-don-giovanni",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-violinkonzert-d-dur-kv218",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "higdon-blue-cathedral",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "strauss-rosenkavalier-suite",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Antrittskonzert von Chefdirigent Ingmar Beck. Einführungsvortrag am 15. September 2026 mit Veronika Jefremowa.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-09-25-arnsberg-sinfoniekonzert",
+      "title": "Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2026-09-25",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "st-johannes-kirche-arnsberg-neheim",
+      "cityId": "arnsberg",
+      "conductorPersonIds": [
+        "josephine-korda"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "kraus-ouvertuere-olympie",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "haydn-sinfonie-103",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mendelssohn-sinfonie-3-schottische",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-10-02-siegen-baby-konzerte",
+      "title": "Baby-Konzerte",
+      "eventType": "concert",
+      "date": "2026-10-02",
+      "startTime": "09:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "russell-harris"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Konzertformat für die Allerkleinsten und ihre Familien.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-10-02-siegen-baby-konzerte-1045",
+      "title": "Baby-Konzerte",
+      "eventType": "concert",
+      "date": "2026-10-02",
+      "startTime": "10:45",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "russell-harris"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Konzertformat für die Allerkleinsten und ihre Familien.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-10-03-bad-laasphe-last-night-of-the-proms",
+      "title": "Last Night of the Proms",
+      "eventType": "concert",
+      "date": "2026-10-03",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "aula-gymnasium-bad-laasphe",
+      "cityId": "bad-laasphe",
+      "conductorPersonIds": [
+        "russell-harris"
+      ],
+      "soloistPersonIds": [
+        "richard-morrison"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Konzert im Stil der Londoner »Last Night of the Proms«; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-10-04-hilchenbach-der-tod-und-das-maedchen",
+      "title": "Der Tod und das Mädchen",
+      "eventType": "concert",
+      "date": "2026-10-04",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "stift-keppel-konventssaal-hilchenbach",
+      "cityId": "hilchenbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "sueda-seifert",
+        "johanna-lorbach",
+        "daniel-rivas-lopez",
+        "german-prentki"
+      ],
+      "program": [
+        {
+          "workId": "schubert-streichquartett-14-der-tod-und-das-maedchen",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Mit der Erzählung »Der Tod und das Mädchen« von Mika Seifert, gelesen von N.N.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-10-09-siegen-philvibes-1",
+      "title": "PhilVibes #1",
+      "eventType": "concert",
+      "date": "2026-10-09",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Experimentelle Konzertreihe der Philharmonie Südwestfalen im Haus der Musik; Besetzung und Programm im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-10-11-kreuztal-berta-brixen-beethoven-und-die-tanzende-maus",
+      "title": "Berta Brixen: Beethoven und die tanzende Maus",
+      "eventType": "concert",
+      "date": "2026-10-11",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "otto-flick-halle-kreuztal",
+      "cityId": "kreuztal",
+      "conductorPersonIds": [
+        "alexandra-lubchansky"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Konzept und Moderation: Andrea Hoever. Beethoven-Programm für Kinder; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-10-16-siegen-re-form",
+      "title": "Re:Form",
+      "eventType": "concert",
+      "date": "2026-10-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "erik-asgeirsson"
+      ],
+      "program": [
+        {
+          "workId": "puts-virelai",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bruch-kol-nidrei",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "stravinsky-monumentum-pro-gesualdo",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "brahms-variationen-ueber-ein-thema-von-haydn",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mendelssohn-sinfonie-5-reformation",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 13. Oktober 2026 mit Bettina Landgraf.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-11-06-siegen-re-discover",
+      "title": "Re:Discover",
+      "eventType": "concert",
+      "date": "2026-11-06",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "sigiswald-kuijken"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mayer-ouvertuere-nr-2-d-dur",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-8-f-dur",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mayer-sinfonie-nr-7-f-moll",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 4. November 2026 mit Katrin Mainz.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-11-08-luedenscheid-re-discover",
+      "title": "Re:Discover",
+      "eventType": "concert",
+      "date": "2026-11-08",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "kulturhaus-luedenscheid",
+      "cityId": "luedenscheid",
+      "conductorPersonIds": [
+        "sigiswald-kuijken"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "mayer-ouvertuere-nr-2-d-dur",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "beethoven-sinfonie-nr-8-f-dur",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mayer-sinfonie-nr-7-f-moll",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 4. November 2026 mit Katrin Mainz.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-11-14-schmallenberg-crossover-konzertgala-der-volksbank",
+      "title": "Crossover-Konzertgala der Volksbank",
+      "eventType": "concert",
+      "date": "2026-11-14",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "stadthalle-schmallenberg",
+      "cityId": "schmallenberg",
+      "conductorPersonIds": [
+        "juheon-han"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Chor: Fleckenberger Sound Projekt. Crossover-Programm; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-03-siegen-baby-konzerte",
+      "title": "Baby-Konzerte",
+      "eventType": "concert",
+      "date": "2026-12-03",
+      "startTime": "09:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-03-siegen-baby-konzerte-1045",
+      "title": "Baby-Konzerte",
+      "eventType": "concert",
+      "date": "2026-12-03",
+      "startTime": "10:45",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-03-schmallenberg-festliche-barockmusik-zur-adventszeit",
+      "title": "Festliche Barockmusik zur Adventszeit",
+      "eventType": "concert",
+      "date": "2026-12-03",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "kath-kirche-st-alexander-schmallenberg",
+      "cityId": "schmallenberg",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bach-brandenburgisches-konzert-3",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bach-schafe-koennen-sicher-weiden",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "telemann-sinfonia-spirituosa",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "corelli-concerto-8-notte-di-natale",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bach-wir-eilen-bwv78",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bach-orchestersuite-nr-3-d-dur",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-04-olsberg-festliche-barockmusik-zur-adventszeit",
+      "title": "Festliche Barockmusik zur Adventszeit",
+      "eventType": "concert",
+      "date": "2026-12-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "kath-kirche-st-martin-olsberg-bigge",
+      "cityId": "olsberg",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bach-brandenburgisches-konzert-3",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bach-schafe-koennen-sicher-weiden",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "telemann-sinfonia-spirituosa",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "corelli-concerto-8-notte-di-natale",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bach-wir-eilen-bwv78",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bach-orchestersuite-nr-3-d-dur",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-06-attendorn-festliche-barockmusik-zur-adventszeit",
+      "title": "Festliche Barockmusik zur Adventszeit",
+      "eventType": "concert",
+      "date": "2026-12-06",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "pfarrkirche-st-johannes-baptist-attendorn",
+      "cityId": "attendorn",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bach-brandenburgisches-konzert-3",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bach-schafe-koennen-sicher-weiden",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "telemann-sinfonia-spirituosa",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "corelli-concerto-8-notte-di-natale",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bach-wir-eilen-bwv78",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bach-orchestersuite-nr-3-d-dur",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-12-siegen-christmas-classics-at-the-movies",
+      "title": "Christmas Classics at the Movies",
+      "eventType": "concert",
+      "date": "2026-12-12",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "marie-sophie-pollak"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen. Einführungsvortrag am 8. Dezember 2026 mit Bruce Whitson.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-13-siegen-christmas-classics-at-the-movies",
+      "title": "Christmas Classics at the Movies",
+      "eventType": "concert",
+      "date": "2026-12-13",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "marie-sophie-pollak"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen. Einführungsvortrag am 8. Dezember 2026 mit Bruce Whitson.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-17-iserlohn-christmas-classics-at-the-movies",
+      "title": "Christmas Classics at the Movies",
+      "eventType": "concert",
+      "date": "2026-12-17",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "parktheater-iserlohn",
+      "cityId": "iserlohn",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "marie-sophie-pollak"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen. Einführungsvortrag am 8. Dezember 2026 mit Bruce Whitson.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-20-bonn-drei-haselnuesse-fuer-aschenbroedel",
+      "title": "Drei Haselnüsse für Aschenbrödel",
+      "eventType": "concert",
+      "date": "2026-12-20",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Orchesterbegleitung zum tschechischen Filmklassiker »Tři oříšky pro Popelku« (»Drei Haselnüsse für Aschenbrödel«, 1973).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-20-bonn-drei-haselnuesse-fuer-aschenbroedel-1830",
+      "title": "Drei Haselnüsse für Aschenbrödel",
+      "eventType": "concert",
+      "date": "2026-12-20",
+      "startTime": "18:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "beethovenhalle-bonn",
+      "cityId": "bonn",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Orchesterbegleitung zum tschechischen Filmklassiker »Tři oříšky pro Popelku« (»Drei Haselnüsse für Aschenbrödel«, 1973).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-22-bielefeld-drei-haselnuesse-fuer-aschenbroedel",
+      "title": "Drei Haselnüsse für Aschenbrödel",
+      "eventType": "concert",
+      "date": "2026-12-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "stadthalle-bielefeld",
+      "cityId": "bielefeld",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Orchesterbegleitung zum tschechischen Filmklassiker »Tři oříšky pro Popelku« (»Drei Haselnüsse für Aschenbrödel«, 1973).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-23-aachen-drei-haselnuesse-fuer-aschenbroedel",
+      "title": "Drei Haselnüsse für Aschenbrödel",
+      "eventType": "concert",
+      "date": "2026-12-23",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Orchesterbegleitung zum tschechischen Filmklassiker »Tři oříšky pro Popelku« (»Drei Haselnüsse für Aschenbrödel«, 1973).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-23-aachen-drei-haselnuesse-fuer-aschenbroedel-1930",
+      "title": "Drei Haselnüsse für Aschenbrödel",
+      "eventType": "concert",
+      "date": "2026-12-23",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "eurogress-aachen",
+      "cityId": "aachen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Orchesterbegleitung zum tschechischen Filmklassiker »Tři oříšky pro Popelku« (»Drei Haselnüsse für Aschenbrödel«, 1973).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-27-koeln-drei-haselnuesse-fuer-aschenbroedel",
+      "title": "Drei Haselnüsse für Aschenbrödel",
+      "eventType": "concert",
+      "date": "2026-12-27",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Orchesterbegleitung zum tschechischen Filmklassiker »Tři oříšky pro Popelku« (»Drei Haselnüsse für Aschenbrödel«, 1973).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-27-koeln-drei-haselnuesse-fuer-aschenbroedel-1900",
+      "title": "Drei Haselnüsse für Aschenbrödel",
+      "eventType": "concert",
+      "date": "2026-12-27",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Orchesterbegleitung zum tschechischen Filmklassiker »Tři oříšky pro Popelku« (»Drei Haselnüsse für Aschenbrödel«, 1973).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-28-oberhausen-drei-haselnuesse-fuer-aschenbroedel",
+      "title": "Drei Haselnüsse für Aschenbrödel",
+      "eventType": "concert",
+      "date": "2026-12-28",
+      "startTime": "16:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "metronom-theater-oberhausen",
+      "cityId": "oberhausen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Orchesterbegleitung zum tschechischen Filmklassiker »Tři oříšky pro Popelku« (»Drei Haselnüsse für Aschenbrödel«, 1973).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-28-oberhausen-drei-haselnuesse-fuer-aschenbroedel-1930",
+      "title": "Drei Haselnüsse für Aschenbrödel",
+      "eventType": "concert",
+      "date": "2026-12-28",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "metronom-theater-oberhausen",
+      "cityId": "oberhausen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Orchesterbegleitung zum tschechischen Filmklassiker »Tři oříšky pro Popelku« (»Drei Haselnüsse für Aschenbrödel«, 1973).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2026-12-31-hilchenbach-philsw-barock",
+      "title": "PhilSW Barock",
+      "eventType": "concert",
+      "date": "2026-12-31",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "ev-kirche-hilchenbach",
+      "cityId": "hilchenbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Silvester-Kammerkonzert; Besetzung und Programm im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-01-siegen-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-01",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-03-kreuztal-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-03",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "otto-flick-halle-kreuztal",
+      "cityId": "kreuztal",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-04-bad-berleburg-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "buergerhaus-bad-berleburg",
+      "cityId": "bad-berleburg",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-06-luedenscheid-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-06",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "kulturhaus-luedenscheid",
+      "cityId": "luedenscheid",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-07-lennestadt-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-07",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "paedagogisches-zentrum-lennestadt",
+      "cityId": "lennestadt",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-08-wilnsdorf-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-08",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "festhalle-wilnsdorf",
+      "cityId": "wilnsdorf",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-09-siegen-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-09",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-10-siegen-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-10",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-11-bad-laasphe-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-11",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "aula-gymnasium-bad-laasphe",
+      "cityId": "bad-laasphe",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-12-kierspe-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-12",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "paedagogisches-zentrum-gesamtschule-kierspe",
+      "cityId": "kierspe",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-13-neunkirchen-siegerland-neujahrskonzerte",
+      "title": "Neujahrskonzerte",
+      "eventType": "concert",
+      "date": "2027-01-13",
+      "startTime": "19:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "erloeserkirche-neunkirchen-siegerland",
+      "cityId": "neunkirchen-siegerland",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "anna-morgoulets"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von E. Kálmán, J. Brahms, V. Monti, P. de Sarasate u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-17-luedenscheid-sinfoniekonzert",
+      "title": "Sinfoniekonzert",
+      "eventType": "concert",
+      "date": "2027-01-17",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "kulturhaus-luedenscheid",
+      "cityId": "luedenscheid",
+      "conductorPersonIds": [
+        "daniel-huppert"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ravel-pavane-pour-une-infante-defunte",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-sinfonie-29-a-dur",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "bizet-sinfonie-1-c-dur",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-24-warstein-neujahrskonzert",
+      "title": "Neujahrskonzert",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "neue-aula-warstein",
+      "cityId": "warstein",
+      "conductorPersonIds": [
+        "maria-benyumova"
+      ],
+      "soloistPersonIds": [
+        "christoph-soldan"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-24-siegen-kammerkonzert-im-oberen-schloss",
+      "title": "Kammerkonzert im Oberen Schloss",
+      "eventType": "concert",
+      "date": "2027-01-24",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "museum-oberes-schloss-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "marie-sophie-pollak",
+        "yoshie-saito",
+        "ksenia-ivakina",
+        "daniel-ibanez-garcia",
+        "werner-stephan"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Mit dem Quarteto Neux; Programm laut Spielzeitbuch noch offen (N.N.).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-28-herne-re-vienna",
+      "title": "Re:Vienna",
+      "eventType": "concert",
+      "date": "2027-01-28",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "kulturzentrum-herne",
+      "cityId": "herne",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "avery-gagliano"
+      ],
+      "program": [
+        {
+          "workId": "mozart-ouvertuere-cosi-fan-tutte",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-klavierkonzert-c-dur-kv503",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-sinfonie-38-prager",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 26. Januar 2027 mit Hans André Stamm.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-29-siegen-re-vienna",
+      "title": "Re:Vienna",
+      "eventType": "concert",
+      "date": "2027-01-29",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "avery-gagliano"
+      ],
+      "program": [
+        {
+          "workId": "mozart-ouvertuere-cosi-fan-tutte",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-klavierkonzert-c-dur-kv503",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-sinfonie-38-prager",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 26. Januar 2027 mit Hans André Stamm.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-01-30-siegen-re-vienna",
+      "title": "Re:Vienna",
+      "eventType": "concert",
+      "date": "2027-01-30",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "avery-gagliano"
+      ],
+      "program": [
+        {
+          "workId": "mozart-ouvertuere-cosi-fan-tutte",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-klavierkonzert-c-dur-kv503",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-sinfonie-38-prager",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 26. Januar 2027 mit Hans André Stamm.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-04-siegen-gala-der-filmmusik",
+      "title": "Gala der Filmmusik",
+      "eventType": "concert",
+      "date": "2027-02-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-05-siegen-gala-der-filmmusik",
+      "title": "Gala der Filmmusik",
+      "eventType": "concert",
+      "date": "2027-02-05",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-06-siegen-gala-der-filmmusik",
+      "title": "Gala der Filmmusik",
+      "eventType": "concert",
+      "date": "2027-02-06",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-08-siegen-gala-der-filmmusik",
+      "title": "Gala der Filmmusik",
+      "eventType": "concert",
+      "date": "2027-02-08",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-09-siegen-gala-der-filmmusik",
+      "title": "Gala der Filmmusik",
+      "eventType": "concert",
+      "date": "2027-02-09",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-12-siegen-gala-der-filmmusik",
+      "title": "Gala der Filmmusik",
+      "eventType": "concert",
+      "date": "2027-02-12",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-13-siegen-gala-der-filmmusik",
+      "title": "Gala der Filmmusik",
+      "eventType": "concert",
+      "date": "2027-02-13",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-14-siegen-aus-dem-wienerwald",
+      "title": "Aus dem Wienerwald",
+      "eventType": "concert",
+      "date": "2027-02-14",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "museum-oberes-schloss-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "sangmin-park",
+        "liliane-hazin-dorus",
+        "eric-steffens"
+      ],
+      "program": [
+        {
+          "workId": "haydn-londoner-trio-3-spiritoso",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-sechs-laendlerische-taenze",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "salieri-trio-in-g",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "strauss-vater-trompeten-walzer",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "dittersdorf-divertimento-in-e",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "brahms-hymne-grosser-joachim",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "kreisler-schoen-rosmarin",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "massenet-meditation-thais",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "haydn-divertimento-d-allegro",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "beethoven-sechs-gesellschafts-menuette",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Trio SaLiEri.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-19-lennestadt-gala-der-filmmusik",
+      "title": "Gala der Filmmusik",
+      "eventType": "concert",
+      "date": "2027-02-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "sauerlandhalle-lennestadt",
+      "cityId": "lennestadt",
+      "conductorPersonIds": [
+        "markus-huber"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Filmmusik-Gala; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-21-kreuztal-peter-und-der-wolf",
+      "title": "Peter und der Wolf",
+      "eventType": "concert",
+      "date": "2027-02-21",
+      "startTime": "15:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "otto-flick-halle-kreuztal",
+      "cityId": "kreuztal",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "prokofjew-peter-und-der-wolf",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Moderation: N.N.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-02-26-siegen-re-impression",
+      "title": "Re:Impression",
+      "eventType": "concert",
+      "date": "2027-02-26",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "claire-gibault"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "ravel-le-tombeau-de-couperin",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "debussy-childrens-corner-orch-caplet",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "boulanger-dun-matin-de-printemps",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "hahn-suite-le-bal-de-beatrice-deste",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "holmes-ludus-pro-patria-interlude",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "franck-le-chasseur-maudit",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 22. Februar 2027 mit Bettina Landgraf.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-03-07-siegen-kammerkonzert-im-oberen-schloss",
+      "title": "Kammerkonzert im Oberen Schloss",
+      "eventType": "concert",
+      "date": "2027-03-07",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "museum-oberes-schloss-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "anar-ibrahimov",
+        "liliane-hazin-dorus",
+        "daniel-ibanez-garcia",
+        "erik-asgeirsson",
+        "eric-steffens",
+        "anastasia-avdejeva"
+      ],
+      "program": [
+        {
+          "workId": "respighi-ancient-airs-and-dances-3",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "humperdinck-quintett-g-dur",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "schubert-klavierquintett-a-dur-forellenquintett",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Sieg Ensemble.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-03-14-bad-lippspringe-chorkonzert",
+      "title": "Chorkonzert",
+      "eventType": "concert",
+      "date": "2027-03-14",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "ev-kirche-bad-lippspringe",
+      "cityId": "bad-lippspringe",
+      "conductorPersonIds": [
+        "kolja-berning"
+      ],
+      "soloistPersonIds": [
+        "anna-maria-kossbau",
+        "andreas-elias-post"
+      ],
+      "program": [
+        {
+          "workId": "mendelssohn-sinfonie-5-reformation",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "spohr-die-letzten-dinge",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Sopran und Tenor laut Spielzeitbuch noch nicht benannt (N.N.). Chor: Ev. Kantorei Bad Lippspringe.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-03-17-siegen-baby-konzerte",
+      "title": "Baby-Konzerte",
+      "eventType": "concert",
+      "date": "2027-03-17",
+      "startTime": "09:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-03-17-siegen-baby-konzerte-1045",
+      "title": "Baby-Konzerte",
+      "eventType": "concert",
+      "date": "2027-03-17",
+      "startTime": "10:45",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-03-19-siegen-re-barock",
+      "title": "Re:Barock",
+      "eventType": "concert",
+      "date": "2027-03-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "marie-sophie-pollak"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Programm: Werke von A. Vivaldi, J. Haydn, G. B. Sammartini u. a. – keine Einzeltitel im Spielzeitbuch ausgewiesen. Einführungsvortrag am 16. März 2027 mit Veronika Jefremowa.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-04-04-siegen-kammerkonzert-im-oberen-schloss",
+      "title": "Kammerkonzert im Oberen Schloss",
+      "eventType": "concert",
+      "date": "2027-04-04",
+      "startTime": "17:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "museum-oberes-schloss-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "julia-brodbeck",
+        "yoshie-saito",
+        "ksenia-ivakina",
+        "elena-santana-de-la-rosa",
+        "renate-aperloo"
+      ],
+      "program": [
+        {
+          "workId": "gal-quintett-op107",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "busch-serenade-a-dur-op53b",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "busoni-suite-g-moll-klarinette",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "brahms-klarinettenquintett",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-04-10-siegen-si-wi-von-oben-philharmonisch",
+      "title": "SI-WI von oben. Philharmonisch.",
+      "eventType": "concert",
+      "date": "2027-04-10",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "leonard-evers"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Musik von Alexander Reuber zu einem Luftbildfilm von Alexander Fischbach über Siegen-Wittgenstein; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-04-11-siegen-si-wi-von-oben-philharmonisch",
+      "title": "SI-WI von oben. Philharmonisch.",
+      "eventType": "concert",
+      "date": "2027-04-11",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "leonard-evers"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Live-Musik von Alexander Reuber zu einem Luftbildfilm von Alexander Fischbach über Siegen-Wittgenstein; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-04-16-siegen-re-landscape",
+      "title": "Re:Landscape",
+      "eventType": "concert",
+      "date": "2027-04-16",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "simon-gaudenz"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "sibelius-en-saga",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "sibelius-valse-triste",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "halvorsen-norwegische-rhapsodie-1",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "grieg-sinfonische-taenze",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 13. April 2027 mit Katrin Mainz.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-04-18-luedenscheid-re-landscape",
+      "title": "Re:Landscape",
+      "eventType": "concert",
+      "date": "2027-04-18",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "kulturhaus-luedenscheid",
+      "cityId": "luedenscheid",
+      "conductorPersonIds": [
+        "simon-gaudenz"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "sibelius-en-saga",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "sibelius-valse-triste",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "halvorsen-norwegische-rhapsodie-1",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "grieg-sinfonische-taenze",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 13. April 2027 mit Katrin Mainz.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-04-25-hamm-chorkonzert",
+      "title": "Chorkonzert",
+      "eventType": "concert",
+      "date": "2027-04-25",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "kurhaus-hamm",
+      "cityId": "hamm",
+      "conductorPersonIds": [
+        "lothar-r-mayer",
+        "burkhard-schmitt"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bernstein-candide-auswahl",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Dirigent: Lothar R. Mayer (25. April, Hamm), Burkhard Schmitt (2. Mai, Lippstadt). Solist:innen laut Spielzeitbuch noch nicht benannt (N.N.). Chöre: Städtischer Musikverein Hamm, Konzertchor Musikverein Lippstadt.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-05-02-lippstadt-chorkonzert",
+      "title": "Chorkonzert",
+      "eventType": "concert",
+      "date": "2027-05-02",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "theater-lippstadt",
+      "cityId": "lippstadt",
+      "conductorPersonIds": [
+        "lothar-r-mayer",
+        "burkhard-schmitt"
+      ],
+      "soloistPersonIds": [],
+      "program": [
+        {
+          "workId": "bernstein-candide-auswahl",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Dirigent: Lothar R. Mayer (25. April, Hamm), Burkhard Schmitt (2. Mai, Lippstadt). Solist:innen laut Spielzeitbuch noch nicht benannt (N.N.). Chöre: Städtischer Musikverein Hamm, Konzertchor Musikverein Lippstadt.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-05-05-siegen-last-night-of-the-proms",
+      "title": "Last Night of the Proms",
+      "eventType": "concert",
+      "date": "2027-05-05",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "russell-harris"
+      ],
+      "soloistPersonIds": [
+        "cordelia-katharina-weil"
+      ],
+      "program": [],
+      "seriesId": null,
+      "description": "Konzert im Stil der Londoner »Last Night of the Proms«; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-05-08-siegen-philvibes-2",
+      "title": "PhilVibes #2",
+      "eventType": "concert",
+      "date": "2027-05-08",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Experimentelle Konzertreihe der Philharmonie Südwestfalen im Haus der Musik; Besetzung und Programm im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-05-22-siegen-re-currents",
+      "title": "Re:Currents",
+      "eventType": "concert",
+      "date": "2027-05-22",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "fabian-mueller"
+      ],
+      "program": [
+        {
+          "workId": "clyne-restless-oceans",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "schumann-sinfonie-1-fruehling",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "brahms-klavierkonzert-nr-2-b-dur",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 18. Mai 2027 mit Hans André Stamm.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-05-23-coesfeld-re-currents",
+      "title": "Re:Currents",
+      "eventType": "concert",
+      "date": "2027-05-23",
+      "startTime": "18:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "konzert-theater-coesfeld",
+      "cityId": "coesfeld",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [
+        "fabian-mueller"
+      ],
+      "program": [
+        {
+          "workId": "clyne-restless-oceans",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "schumann-sinfonie-1-fruehling",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "brahms-klavierkonzert-nr-2-b-dur",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Einführungsvortrag am 18. Mai 2027 mit Hans André Stamm.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-05-29-siegen-wunderschoen",
+      "title": "Wunderschön!",
+      "eventType": "concert",
+      "date": "2027-05-29",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "apollo-theater-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Moderation: Tamina Kallert. Live-Musik von Andy Miles zum Reisefilm; Einzeltitel im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-06-06-hilchenbach-kammermusik-im-turmzimmer-der-ginsburg",
+      "title": "Kammermusik im Turmzimmer der Ginsburg",
+      "eventType": "concert",
+      "date": "2027-06-06",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "ginsburg-turmzimmer-hilchenbach",
+      "cityId": "hilchenbach",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [
+        "susumu-takahashi",
+        "yoshie-saito",
+        "elena-santana-de-la-rosa",
+        "paulina-gude"
+      ],
+      "program": [
+        {
+          "workId": "schubert-streichtrio-d581",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "danzi-fagottquartett-3-op40",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "mozart-divertimento-es-dur-kv573",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-06-17-siegen-baby-konzerte",
+      "title": "Baby-Konzerte",
+      "eventType": "concert",
+      "date": "2027-06-17",
+      "startTime": "09:15",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "bernhard-steiner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-06-17-siegen-baby-konzerte-1045",
+      "title": "Baby-Konzerte",
+      "eventType": "concert",
+      "date": "2027-06-17",
+      "startTime": "10:45",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [
+        "bernhard-steiner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": null,
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-06-18-wilnsdorf-sommerkonzerte",
+      "title": "Sommerkonzerte",
+      "eventType": "concert",
+      "date": "2027-06-18",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "aula-gymnasium-wilnsdorf",
+      "cityId": "wilnsdorf",
+      "conductorPersonIds": [
+        "bernhard-steiner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Open-Air-Konzert in Hilchenbach (Marktplatz). Programm im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-06-19-hilchenbach-sommerkonzerte",
+      "title": "Sommerkonzerte",
+      "eventType": "concert",
+      "date": "2027-06-19",
+      "startTime": "19:30",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "marktplatz-hilchenbach",
+      "cityId": "hilchenbach",
+      "conductorPersonIds": [
+        "bernhard-steiner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Open-Air-Konzert in Hilchenbach (Marktplatz). Programm im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-06-20-bad-berleburg-sommerkonzerte",
+      "title": "Sommerkonzerte",
+      "eventType": "concert",
+      "date": "2027-06-20",
+      "startTime": "17:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "buergerhaus-bad-berleburg",
+      "cityId": "bad-berleburg",
+      "conductorPersonIds": [
+        "bernhard-steiner"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Open-Air-Konzert in Hilchenbach (Marktplatz). Programm im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-06-27-koeln-chorkonzert",
+      "title": "Chorkonzert",
+      "eventType": "concert",
+      "date": "2027-06-27",
+      "startTime": "11:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "koelner-philharmonie",
+      "cityId": "koeln",
+      "conductorPersonIds": [
+        "joachim-geibel"
+      ],
+      "soloistPersonIds": [
+        "lukas-schmidt",
+        "thomas-laske",
+        "christoph-schnackertz"
+      ],
+      "program": [
+        {
+          "workId": "britten-welcome-ode",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "beethoven-chorfantasie",
+          "movement": null,
+          "version": null
+        },
+        {
+          "workId": "puccini-messa-di-gloria",
+          "movement": null,
+          "version": null
+        }
+      ],
+      "seriesId": null,
+      "description": "Chor: Oratorienchor Köln.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-07-03-siegen-sommerfest-im-haus-der-musik",
+      "title": "Sommerfest im Haus der Musik",
+      "eventType": "concert",
+      "date": "2027-07-03",
+      "startTime": null,
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "haus-der-musik-siegen",
+      "cityId": "siegen",
+      "conductorPersonIds": [],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Uhrzeit laut Spielzeitbuch noch nicht bekannt (N.N.).",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
+    },
+    {
+      "id": "event-2027-07-10-kreuztal-kreuztal-open-air",
+      "title": "Kreuztal Open-Air",
+      "eventType": "concert",
+      "date": "2027-07-10",
+      "startTime": "20:00",
+      "endTime": null,
+      "status": "scheduled",
+      "ensembleIds": [
+        "philharmonie-suedwestfalen"
+      ],
+      "venueId": "dreslers-park-kreuztal",
+      "cityId": "kreuztal",
+      "conductorPersonIds": [
+        "ingmar-beck"
+      ],
+      "soloistPersonIds": [],
+      "program": [],
+      "seriesId": null,
+      "description": "Open-Air-Konzert; Programm im Spielzeitbuch nicht ausgewiesen.",
+      "source": {
+        "url": "https://www.philsw.de/wp-content/uploads/2026/07/PhilSW-Spielzeitbuch-2026-27.pdf",
+        "calendarUrl": "https://www.philsw.de/",
+        "name": "Philharmonie Südwestfalen",
+        "retrievedAt": "2026-08-26"
+      },
+      "ticketUrl": null,
+      "lastVerified": "2026-08-26"
     }
   ]
 }

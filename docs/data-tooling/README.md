@@ -26,6 +26,7 @@ Ausbau um WDR-Ensembles/Oper NRW-weit, geplante Registry + gemeinsames Tooling) 
 | Philharmonisches Orchester Hagen | `theaterhagen.de` (Kalender monatsweise + Detailseiten) | [`ingest_hagen.py`](ingest_hagen.py) | [philharmonisches-orchester-hagen.md](philharmonisches-orchester-hagen.md) |
 | Essener Philharmoniker | `theater-essen.de/programm/spielzeit-26-27` (HTML) | [`ingest_essener.py`](ingest_essener.py) | [essener-philharmoniker.md](essener-philharmoniker.md) |
 | Gürzenich-Orchester Köln | `guerzenich-orchester.de` (Sitemap + Detailseiten) | [`ingest_guerzenich.py`](ingest_guerzenich.py) | [guerzenich-orchester-koeln.md](guerzenich-orchester-koeln.md) |
+| Philharmonie Südwestfalen | PhilSW-Spielzeitbuch 2026/27 (PDF, philsw.de) | [`ingest_philsw.py`](ingest_philsw.py) | [philharmonie-suedwestfalen.md](philharmonie-suedwestfalen.md) |
 
 ## Stammdaten-Anreicherung
 
