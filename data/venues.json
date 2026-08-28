@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.2",
-    "lastUpdated": "2026-08-26",
+    "lastUpdated": "2026-08-28",
     "language": "de",
     "notes": "Adressen (strukturiert) und Koordinaten werden aus OpenStreetMap recherchiert (Overpass für Zuordnung/Koordinaten, Nominatim für die Postadresse; siehe docs/data-tooling/fetch_venue_addresses.py, US-022). Nicht eindeutig auflösbare Spielstätten bleiben null; das idempotente Skript kann jederzeit erneut ausgeführt werden, um offene Felder nachzutragen."
   },
@@ -2671,9 +2671,17 @@
         "muenster"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": null,
+        "houseNumber": null,
+        "postalCode": "48143",
+        "city": "Münster"
+      },
+      "coordinates": {
+        "lat": 51.964573862105645,
+        "lng": 7.617800884279643
+      },
+      "website": "https://de.wikipedia.org/wiki/Schlossplatz_(M%C3%BCnster)",
       "type": "other",
       "institutionId": null
     },
@@ -2705,9 +2713,17 @@
         "hilchenbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Markt",
+        "houseNumber": "7",
+        "postalCode": "57271",
+        "city": "Hilchenbach"
+      },
+      "coordinates": {
+        "lat": 50.997584607977196,
+        "lng": 8.1086045035917
+      },
+      "website": "https://www.mein-kmd.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2718,8 +2734,16 @@
         "burbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
+      "address": {
+        "street": "Römer",
+        "houseNumber": "14",
+        "postalCode": "57299",
+        "city": "Burbach"
+      },
+      "coordinates": {
+        "lat": 50.74760309416278,
+        "lng": 8.079329513627739
+      },
       "website": null,
       "type": "other",
       "institutionId": null
@@ -2731,9 +2755,17 @@
         "siegen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Morleystraße",
+        "houseNumber": "1",
+        "postalCode": "57072",
+        "city": "Siegen"
+      },
+      "coordinates": {
+        "lat": 50.8741779262065,
+        "lng": 8.017600167042936
+      },
+      "website": "https://www.apollosiegen.de/",
       "type": "theatre",
       "institutionId": null
     },
@@ -2744,9 +2776,17 @@
         "lippstadt"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Cappeltor",
+        "houseNumber": "3",
+        "postalCode": "59555",
+        "city": "Lippstadt"
+      },
+      "coordinates": {
+        "lat": 51.6773462102379,
+        "lng": 8.341525099607594
+      },
+      "website": "https://www.lippstadt-stadttheater.de/",
       "type": "theatre",
       "institutionId": null
     },
@@ -2757,9 +2797,17 @@
         "arnsberg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Hauptstraße",
+        "houseNumber": "11",
+        "postalCode": "59755",
+        "city": "Arnsberg-Neheim"
+      },
+      "coordinates": {
+        "lat": 51.45422048240388,
+        "lng": 7.961810723073318
+      },
+      "website": "https://www.kirche-neheim.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2770,9 +2818,17 @@
         "siegen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Oranienstraße",
+        "houseNumber": "19",
+        "postalCode": "57072",
+        "city": "Siegen"
+      },
+      "coordinates": {
+        "lat": 50.87226384337561,
+        "lng": 8.019970172646811
+      },
+      "website": "https://www.philsw.de/",
       "type": "concert_hall",
       "institutionId": null
     },
@@ -2783,9 +2839,17 @@
         "bad-laasphe"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Steinackerstraße",
+        "houseNumber": "10",
+        "postalCode": "57334",
+        "city": "Bad Laasphe"
+      },
+      "coordinates": {
+        "lat": 50.928471943688486,
+        "lng": 8.410874813068212
+      },
+      "website": "https://www.gymbala.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2796,9 +2860,17 @@
         "hilchenbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Stift-Keppel-Weg",
+        "houseNumber": "37",
+        "postalCode": "57271",
+        "city": "Hilchenbach-Allenbach"
+      },
+      "coordinates": {
+        "lat": 50.976584422235085,
+        "lng": 8.085079240058956
+      },
+      "website": "https://www.stiftkeppel.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2809,9 +2881,17 @@
         "kreuztal"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Moltkestraße",
+        "houseNumber": "12",
+        "postalCode": "57223",
+        "city": "Kreuztal"
+      },
+      "coordinates": {
+        "lat": 50.9597386420462,
+        "lng": 7.994633641904846
+      },
+      "website": "https://www.kreuztal-kultur.de/service/anfahrt/otto-flick-halle/",
       "type": "other",
       "institutionId": null
     },
@@ -2843,9 +2923,17 @@
         "schmallenberg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Paul-Falke-Platz",
+        "houseNumber": "6",
+        "postalCode": "57392",
+        "city": "Schmallenberg"
+      },
+      "coordinates": {
+        "lat": 51.15134155803629,
+        "lng": 8.280919326572459
+      },
+      "website": "https://www.schmallenberg.de/freizeit-kultur/veranstaltungsorte/stadthalle-schmallenberg",
       "type": "other",
       "institutionId": null
     },
@@ -2856,9 +2944,17 @@
         "schmallenberg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Alter Kirchpl.",
+        "houseNumber": "7",
+        "postalCode": "57392",
+        "city": "Schmallenberg"
+      },
+      "coordinates": {
+        "lat": 51.14782141278448,
+        "lng": 8.284825641913256
+      },
+      "website": "http://www.pv-se.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2869,9 +2965,17 @@
         "olsberg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": null,
+        "houseNumber": null,
+        "postalCode": "59939",
+        "city": "Olsberg-Bigge"
+      },
+      "coordinates": {
+        "lat": 51.35864856516277,
+        "lng": 8.471170755417058
+      },
+      "website": "https://pastoralverbund-bigge-olsberg.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2882,9 +2986,17 @@
         "attendorn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Niederste Str.",
+        "houseNumber": "1",
+        "postalCode": "57439",
+        "city": "Attendorn"
+      },
+      "coordinates": {
+        "lat": 51.12649779512751,
+        "lng": 7.9031529373132905
+      },
+      "website": "http://www.attendorn-katholisch.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2895,9 +3007,17 @@
         "iserlohn"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Alexanderhöhe",
+        "houseNumber": "3",
+        "postalCode": "58644",
+        "city": "Iserlohn"
+      },
+      "coordinates": {
+        "lat": 51.37246690057275,
+        "lng": 7.687700884252886
+      },
+      "website": "http://www.parktheater-iserlohn.de/",
       "type": "theatre",
       "institutionId": null
     },
@@ -2908,9 +3028,17 @@
         "oberhausen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Musikweg",
+        "houseNumber": "1",
+        "postalCode": "46047",
+        "city": "Oberhausen"
+      },
+      "coordinates": {
+        "lat": 51.49140017368304,
+        "lng": 6.8856196419287015
+      },
+      "website": "https://www.metronom-theater.de/",
       "type": "theatre",
       "institutionId": null
     },
@@ -2921,9 +3049,17 @@
         "hilchenbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Kirchpl.",
+        "houseNumber": "1",
+        "postalCode": "57271",
+        "city": "Hilchenbach"
+      },
+      "coordinates": {
+        "lat": 50.996398225779856,
+        "lng": 8.106857797446441
+      },
+      "website": "http://hilchenbach.kirchenkreis-siegen.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2934,9 +3070,17 @@
         "lennestadt"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Auf'm Ohl",
+        "houseNumber": "12",
+        "postalCode": "57368",
+        "city": "Lennestadt"
+      },
+      "coordinates": {
+        "lat": 51.114356782049796,
+        "lng": 8.0644825400651
+      },
+      "website": "http://www.kulturgemeinde-hundem-lenne.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2968,9 +3112,17 @@
         "kierspe"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Otto-Ruhe-Straße",
+        "houseNumber": "2",
+        "postalCode": "58566",
+        "city": "Kierspe"
+      },
+      "coordinates": {
+        "lat": 51.129084965768875,
+        "lng": 7.593669941912465
+      },
+      "website": "http://www.gski.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2981,9 +3133,17 @@
         "neunkirchen-siegerland"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Kölner Str.",
+        "houseNumber": "323",
+        "postalCode": "57290",
+        "city": "Neunkirchen"
+      },
+      "coordinates": {
+        "lat": 50.79617037236638,
+        "lng": 8.013013597721347
+      },
+      "website": "http://neunkirchen.kirchenkreis-siegen.de/",
       "type": "other",
       "institutionId": null
     },
@@ -2994,9 +3154,17 @@
         "warstein"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Pietrapaola-Platz",
+        "houseNumber": "4",
+        "postalCode": "59581",
+        "city": "Warstein-Belecke"
+      },
+      "coordinates": {
+        "lat": 51.487205886646684,
+        "lng": 8.337997299598976
+      },
+      "website": "https://www.sauerland.com/de/neusta-pois/neue-aula-belecke",
       "type": "other",
       "institutionId": null
     },
@@ -3007,9 +3175,17 @@
         "siegen"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Burgstraße",
+        "houseNumber": "5",
+        "postalCode": "57072",
+        "city": "Siegen"
+      },
+      "coordinates": {
+        "lat": 50.87572406068959,
+        "lng": 8.029498247724915
+      },
+      "website": "https://siegerlandmuseum.de/",
       "type": "other",
       "institutionId": null
     },
@@ -3020,9 +3196,17 @@
         "lennestadt"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Helmut-Kumpf-Straße",
+        "houseNumber": "42",
+        "postalCode": "57368",
+        "city": "Lennestadt-Altenhundem"
+      },
+      "coordinates": {
+        "lat": 51.10536822942787,
+        "lng": 8.079854540064689
+      },
+      "website": "http://www.sauerlandhalle.de/",
       "type": "other",
       "institutionId": null
     },
@@ -3033,9 +3217,17 @@
         "bad-berleburg"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Marktplatz",
+        "houseNumber": "1a",
+        "postalCode": "57319",
+        "city": "Bad Berleburg"
+      },
+      "coordinates": {
+        "lat": 51.048411892712274,
+        "lng": 8.39181006889743
+      },
+      "website": "https://www.bad-berleburg.de/B%C3%BCrgerhaus-am-Markt/",
       "type": "other",
       "institutionId": null
     },
@@ -3046,9 +3238,17 @@
         "bad-lippspringe"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Detmolder Str.",
+        "houseNumber": "173",
+        "postalCode": "33175",
+        "city": "Bad Lippspringe"
+      },
+      "coordinates": {
+        "lat": 51.783960652498216,
+        "lng": 8.820771455436207
+      },
+      "website": "http://www.evkbali.de/",
       "type": "other",
       "institutionId": null
     },
@@ -3059,9 +3259,17 @@
         "hamm"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Ostenallee",
+        "houseNumber": "87",
+        "postalCode": "59071",
+        "city": "Hamm"
+      },
+      "coordinates": {
+        "lat": 51.69034109628252,
+        "lng": 7.844973599324364
+      },
+      "website": "https://www.kurhaus-bad-hamm.de/",
       "type": "other",
       "institutionId": null
     },
@@ -3072,9 +3280,17 @@
         "hilchenbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Schlossberg",
+        "houseNumber": "1",
+        "postalCode": "57271",
+        "city": "Hilchenbach"
+      },
+      "coordinates": {
+        "lat": 50.975465981602575,
+        "lng": 8.145374184304702
+      },
+      "website": "http://www.ginsburgcafe.de/",
       "type": "other",
       "institutionId": null
     },
@@ -3085,9 +3301,17 @@
         "wilnsdorf"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Hoheroth",
+        "houseNumber": "94",
+        "postalCode": "57234",
+        "city": "Wilnsdorf"
+      },
+      "coordinates": {
+        "lat": 50.82296628973965,
+        "lng": 8.117425951699689
+      },
+      "website": "https://www.gywi.de/",
       "type": "other",
       "institutionId": null
     },
@@ -3098,9 +3322,17 @@
         "hilchenbach"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Markt",
+        "houseNumber": "7",
+        "postalCode": "57271",
+        "city": "Hilchenbach"
+      },
+      "coordinates": {
+        "lat": 50.997584607977196,
+        "lng": 8.1086045035917
+      },
+      "website": "https://marktplatz-hilchenbach.de/",
       "type": "other",
       "institutionId": null
     },
@@ -3111,9 +3343,17 @@
         "kreuztal"
       ],
       "region": null,
-      "address": null,
-      "coordinates": null,
-      "website": null,
+      "address": {
+        "street": "Hagener Str.",
+        "houseNumber": "24",
+        "postalCode": "57223",
+        "city": "Kreuztal"
+      },
+      "coordinates": {
+        "lat": 50.96285343208016,
+        "lng": 7.990302184234533
+      },
+      "website": "http://www.kreuztal-kultur.de/dreslers-park/tagen-feiern-entspannen/",
       "type": "other",
       "institutionId": null
     }

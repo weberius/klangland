@@ -140,3 +140,5 @@ Diese 47 Venues existierten bereits vor dem PhilSW-Ingest und haben Adresse/Koor
 - Ein erneuter oder erweiterter automatisierter Lauf von [fetch_venue_addresses.py](../../../../docs/data-tooling/fetch_venue_addresses.py) (z. B. mit anderen Suchstrategien für die nicht aufgelösten Venues).
 - Ergänzung von `website` als recherchiertes Pflichtfeld im Datenmodell/Tooling (bleibt weiterhin optional, vgl. US-022).
 - Darstellung der Adress-/Karten-Vollständigkeit in der Webanwendung.
+
+## Table of 
